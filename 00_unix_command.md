@@ -10,4 +10,4 @@
 
 # sed
 
-[sed : remove ^M in text file](sed/01_remove_^M_with_sed.md)
+[sed : remove \^M in text file](sed/01_remove_^M_with_sed.md)
