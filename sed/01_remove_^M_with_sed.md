@@ -1,4 +1,4 @@
-# remove ^M in text file
+# remove \^M in text file
 ```bash
 vi -b read.txt 
 a^M
