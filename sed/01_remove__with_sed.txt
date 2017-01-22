@@ -1,0 +1,11 @@
+vi -b read.txt 
+a
+b
+c
+
+sed -i 's/^M//' read.txt
+
+vi -b read.txt 
+a
+b
+c
