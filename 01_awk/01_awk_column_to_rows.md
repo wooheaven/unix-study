@@ -1,5 +1,5 @@
 # specific column to rows 
-```
+```{bash}
 cat tmp.txt
 1,a|b|c
 2,d|e|f

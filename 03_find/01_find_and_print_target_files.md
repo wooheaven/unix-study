@@ -1,5 +1,5 @@
 # find and print target files
-```bash
+```{bash}
 ls -als | grep txt
 0 -rw-r--r--  1 rwoo  staff    0  1  9 23:10 a.txt
 0 -rw-r--r--  1 rwoo  staff    0  1  9 23:10 b.txt

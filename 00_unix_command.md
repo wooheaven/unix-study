@@ -6,10 +6,14 @@
 
 [awk : remove blank line](01_awk/03_awk_remove_blank_line.md)
 
+# bashSell script
+
+[bashShell script : argument existence check](02_bashShell_script/01_if_statement.md)
+
 # find
 
-[find : find and print target files](02_find/01_find_and_print_target_files.md)
+[find : find and print target files](03_find/01_find_and_print_target_files.md)
 
 # sed
 
-[sed : remove \^M in text file](03_sed/01_remove_^M_with_sed.md)
+[sed : remove \^M in text file](04_sed/01_remove_^M_with_sed.md)
