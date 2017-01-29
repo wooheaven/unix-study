@@ -1,5 +1,5 @@
 # pivot rows to column
-```
+```{bash}
 cat tmp.txt
 1,b
 1,c
