@@ -1,5 +1,5 @@
 # remove \^M in text file
-```bash
+```{bash}
 vi -b read.txt 
 a^M
 b^M
