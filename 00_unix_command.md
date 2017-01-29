@@ -8,7 +8,7 @@
 
 # bashSell script
 
-[bashShell script : argument existence check](02_bashShell_script/01_if_statement.md]
+[bashShell script : argument existence check](02_bashShell_script/01_if_statement.md)
 
 # find
 
