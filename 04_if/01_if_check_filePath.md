@@ -1,16 +1,16 @@
-# awk remove blank line 
+# if check filePath 
 ```{bash}
 $ vi do.sh
 #!/bin/bash
-if [ $1 ]; then
+if [ -f $1 ]; then
 	echo "exists"
 else
 	echo "no"
 fi
 
-$ ./do.sh 1
+$ ./do.sh do.sh
 exists
 
-$ ./do.sh
+$ ./do.sh doo.sh
 no
 ```
