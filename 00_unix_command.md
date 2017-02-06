@@ -14,6 +14,10 @@
 
 [find : find and print target files](03_find/01_find_and_print_target_files.md)
 
+# if
+
+[if : check filePath ](04_if/01_if_check_filePath.md)
+
 # sed
 
-[sed : remove \^M in text file](04_sed/01_remove_^M_with_sed.md)
+[sed : remove \^M in text file](05_sed/01_remove_^M_with_sed.md)
