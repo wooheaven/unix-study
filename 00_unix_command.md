@@ -20,4 +20,4 @@
 
 # sed
 
-[sed : remove \^M in text file](05_sed/01_remove_^M_with_sed.md)
+[sed : remove \^M in text file](06_sed/01_remove_^M_with_sed.md)
