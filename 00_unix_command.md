@@ -4,7 +4,7 @@
 
 [awk : rows to column](01_awk/02_awk_rows_to_column.md)
 
-[awk : remove blank line](01_awk/03_awk_remove_blank_line.md)
+[awk : remove blank line](01_awk/04_awk_remove_blank_line.md)
 
 # bashSell script
 
@@ -12,7 +12,7 @@
 
 # find
 
-[find : find and print target files](03_find/01_find_and_print_target_files.md)
+[find : find and print target files](04_find/01_find_and_print_target_files.md)
 
 # if
 
