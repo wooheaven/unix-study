@@ -4,20 +4,24 @@
 
 [awk : rows to column](01_awk/02_awk_rows_to_column.md)
 
-[awk : remove blank line](01_awk/03_awk_remove_blank_line.md)
+[awk : remove blank line](01_awk/04_awk_remove_blank_line.md)
 
 # bashSell script
 
 [bashShell script : argument existence check](02_bashShell_script/01_if_statement.md)
 
+# date
+
+[date with format : 24:59:59.999](03_date/01_date_with_hour_min_sec_nano.md)
+
 # find
 
-[find : find and print target files](03_find/01_find_and_print_target_files.md)
+[find : find and print target files](04_find/01_find_and_print_target_files.md)
 
 # if
 
-[if : check filePath ](04_if/01_if_check_filePath.md)
+[if : check filePath ](05_if/01_if_check_filePath.md)
 
 # sed
 
-[sed : remove \^M in text file](05_sed/01_remove_^M_with_sed.md)
+[sed : remove \^M in text file](06_sed/01_remove_^M_with_sed.md)
