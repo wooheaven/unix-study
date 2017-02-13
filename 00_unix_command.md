@@ -20,8 +20,12 @@
 
 # if
 
-[if : check filePath ](05_if/01_if_check_filePath.md)
+[if : check filePath](05_if/01_if_check_filePath.md)
+
+# nmap
+
+[nmap : check localhost port](06_nmap/01_install_use_nmap.md)
 
 # sed
 
-[sed : remove \^M in text file](06_sed/01_remove_^M_with_sed.md)
+[sed : remove \^M in text file](07_sed/01_remove_^M_with_sed.md)
