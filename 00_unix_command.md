@@ -8,7 +8,9 @@
 
 # bashSell script
 
-[bashShell script : argument existence check](02_bashShell_script/01_if_statement.md)
+[bashShell script : 1st argument existence check](02_bashShell_script/01_if_condition_1st_argument_existence_check.md)
+
+[bashShell script : count of arguments check](02_bashShell_script/02_if_condition_count_of_arguments_check.md)
 
 # date
 
