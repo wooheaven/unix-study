@@ -1,4 +1,4 @@
-# argument existence check 
+# 1st argument existence check 
 ```{bash}
 $ vi run.sh
 #!/bin/bash
@@ -7,6 +7,8 @@ if [ $1 ] ; then
 else
     echo "no"
 fi
+
+$ chmod 755 run.sh
 
 $ ./run.sh arg1
 yes
