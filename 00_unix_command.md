@@ -6,7 +6,7 @@
 
 [awk : remove blank line](01_awk/03_awk_remove_blank_line.md)
 
-[awk : use external argument](01_awk/05_awk_use_external_argument.md)
+[awk : use external argument](01_awk/06_awk_use_external_argument.md)
 
 # bashSell script
 
@@ -18,22 +18,26 @@
 
 [date with format : 24:59:59.999](03_date/01_date_with_hour_min_sec_nano.md)
 
+# df
+
+[df -h : display file system with human readable](04_df/01_df_with_human_readerble.md)
+
 # fdisk
 
-[fdisk : partioning and format disk](04_fdisk/01_fdisk_partioning_and_format_disk.md)
+[fdisk : partioning and format disk](05_fdisk/01_fdisk_partioning_and_format_disk.md)
 
 # find
 
-[find : find and print target files](05_find/01_find_and_print_target_files.md)
+[find : find and print target files](06_find/01_find_and_print_target_files.md)
 
 # if
 
-[if : check filePath](06_if/01_if_check_filePath.md)
+[if : check filePath](07_if/01_if_check_filePath.md)
 
 # nmap
 
-[nmap : check localhost port](07_nmap/01_install_use_nmap.md)
+[nmap : check localhost port](08_nmap/01_install_use_nmap.md)
 
 # sed
 
-[sed : remove \^M in text file](08_sed/01_remove_^M_with_sed.md)
+[sed : remove \^M in text file](09_sed/01_remove_^M_with_sed.md)
