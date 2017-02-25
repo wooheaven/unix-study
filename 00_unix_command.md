@@ -42,6 +42,10 @@
 
 [nmap : check localhost port](09_nmap/01_install_use_nmap.md)
 
+# rsync
+	
+[rsync : folder to folder](10_rsync/01_rsync_folder_to_folder.md)
+
 # sed
 
-[sed : remove \^M in text file](10_sed/01_remove_^M_with_sed.md)
+[sed : remove \^M in text file](11_sed/01_remove_^M_with_sed.md)
