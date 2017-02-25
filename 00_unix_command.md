@@ -34,6 +34,10 @@
 
 [if : check filePath](07_if/01_if_check_filePath.md)
 
+# LVM
+
+[LVM : format and mount attached device](08_LVM/01_LVM_on_attached_device.md)
+
 # mkfs.ext4
 
 [mkfs.ext4 : format device](09_mkfs.ext4/01_mkfs.ext4_device.md)
