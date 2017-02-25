@@ -34,10 +34,14 @@
 
 [if : check filePath](07_if/01_if_check_filePath.md)
 
+# mkfs.ext4
+
+[mkfs.ext4 : format device](08_mkfs.ext4/01_mkfs.ext4_device.md)
+
 # nmap
 
-[nmap : check localhost port](08_nmap/01_install_use_nmap.md)
+[nmap : check localhost port](09_nmap/01_install_use_nmap.md)
 
 # sed
 
-[sed : remove \^M in text file](09_sed/01_remove_^M_with_sed.md)
+[sed : remove \^M in text file](10_sed/01_remove_^M_with_sed.md)
