@@ -1,4 +1,4 @@
-# remove \^M in text file
+# rsync folder to folder
 ```{bash}
 $ rsync -arv /home/hadoop/hadoop_old/ /home/hadoop/hadoop
 ```
