@@ -69,3 +69,7 @@
 [sed : remove \^M in text file](15_sed/01_remove_^M_with_sed.md)
 
 [sed : replace every 3rd comma to semicolon](15_sed/02_replace_every_3rd_comma_to_semicolon.md)
+
+# zip
+
+[zip : compress and uncompress directory](16_zip/01_zip_directory.md)
