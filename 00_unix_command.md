@@ -22,7 +22,7 @@
 
 [bashShell script : count of arguments check](04_bashShell_script/02_if_condition_count_of_arguments_check.md)
 
-[bashShell scropt : check current shell](04_bashShell_script/03_check_current_shell.md)
+[bashShell script : check current shell](04_bashShell_script/03_check_current_shell.md)
 
 # date
 
@@ -52,16 +52,20 @@
 
 [mkfs.ext4 : format device](11_mkfs.ext4/01_mkfs.ext4_device.md)
 
+# mkfs.xfs
+
+[mkfs.xfs : format device](12_mkfs.xfs/01_mkfs.xfs_device.md)
+
 # nmap
 
-[nmap : check localhost port](12_nmap/01_install_use_nmap.md)
+[nmap : check localhost port](13_nmap/01_install_use_nmap.md)
 
 # rsync
 	
-[rsync : folder to folder](13_rsync/01_rsync_folder_to_folder.md)
+[rsync : folder to folder](14_rsync/01_rsync_folder_to_folder.md)
 
 # sed
 
-[sed : remove \^M in text file](14_sed/01_remove_^M_with_sed.md)
+[sed : remove \^M in text file](15_sed/01_remove_^M_with_sed.md)
 
-[sed : replace every 3rd comma to semicolon](14_sed/02_replace_every_3rd_comma_to_semicolon.md)
+[sed : replace every 3rd comma to semicolon](15_sed/02_replace_every_3rd_comma_to_semicolon.md)
