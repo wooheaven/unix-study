@@ -22,6 +22,8 @@
 
 [bashShell script : count of arguments check](04_bashShell_script/02_if_condition_count_of_arguments_check.md)
 
+[bashShell scropt : check current shell](04_bashShell_script/03_check_current_shell.md)
+
 # date
 
 [date with format : 24:59:59.999](05_date/01_date_with_hour_min_sec_nano.md)
