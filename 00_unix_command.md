@@ -70,6 +70,10 @@
 
 [sed : replace every 3rd comma to semicolon](15_sed/02_replace_every_3rd_comma_to_semicolon.md)
 
+# substring
+
+[substring : substring remove from beginning or back](16_substring/01_substring_remove.md)
+		
 # zip
 
-[zip : compress and uncompress directory](16_zip/01_zip_directory.md)
+[zip : compress and uncompress directory](17_zip/01_zip_directory.md)
