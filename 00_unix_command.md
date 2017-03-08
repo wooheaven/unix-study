@@ -72,4 +72,4 @@
 
 # zip
 
-[zip : compress and uncompress directory](16_zip/01_zip_directory.md)
+[zip : compress and uncompress directory](17_zip/01_zip_directory.md)
