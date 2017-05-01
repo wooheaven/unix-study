@@ -40,6 +40,10 @@
 
 [find : find and print target files](08_find/01_find_and_print_target_files.md)
 
+# for
+
+[for statement](09_for_statement/01_for_statement.md)
+
 # if
 
 [if : check filePath](09_if/01_if_check_filePath.md)
