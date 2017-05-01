@@ -1,9 +1,9 @@
 # for statement
 ```{bash}
-# 1st for statement
 $ echo $0
 -bash
 
+# 1st for statement
 $ for ((num=1; num<=5; num++)) do
 > printf "%d\n" ${num} ; 
 > done
