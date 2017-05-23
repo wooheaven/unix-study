@@ -1,10 +1,12 @@
 # apt-get
 
-[apt-get : install package](01_apt-get/01_apt-get_install.md)
+[apt-get : install package](01_Ubuntu/01_14.04/01_apt-get/01_apt-get_install.md)
+
+[apt-get : update hash sum error](01_Ubuntu/01_14.04/01_apt-get/02_apt-get_update_hash_sum_error.md)
 
 # aptitude
 
-[aptitude : install package](02_aptitude/01_aptitude_install.md)
+[aptitude : install package](01_Ubuntu/01_14.04/02_aptitude/01_aptitude_install.md)
 
 # awk
 
