@@ -89,3 +89,9 @@
 ## zip
 
 [zip : compress and uncompress directory](17_zip/01_zip_directory.md)
+
+# CentOS 6.9
+
+## sed
+
+[sed : replace string /t to tab character](02_CentOS/01_6.9/01_sed/01_sed_string_replace.md)
