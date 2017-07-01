@@ -90,6 +90,12 @@
 
 [zip : compress and uncompress directory](17_zip/01_zip_directory.md)
 
+# Ubuntu 16
+
+## du
+
+[du -sh : fileSize of folder](01_Ubuntu/02_16/01_du/01_du_file_size_of_folder.md)
+
 # CentOS 6.9
 
 ## sed
