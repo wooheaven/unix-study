@@ -102,7 +102,7 @@
 
 ## tac
 
-[tac : read from bottom to top](01_Ubuntu/02_16/02_bash/02_tac.md)
+[tac : read from bottom to top](01_Ubuntu/02_16/04_tac/01_tac.md)
 
 ## du
 
