@@ -96,6 +96,10 @@
 
 [du -sh : fileSize of folder](01_Ubuntu/02_16/01_du/01_du_file_size_of_folder.md)
 
+## while statement
+
+[while : while statement](01_Ubuntu/02_16/02_bash/01_While_Statement.md)
+
 # CentOS 6.9
 
 ## sed
