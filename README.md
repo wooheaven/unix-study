@@ -14,16 +14,6 @@
 
 [vimrc : config vim](01_Ubuntu/01_14.04/03_vim/01_vimrc_encoding_korean.md)
 
-## awk
-
-[awk : column to rows](03_awk/01_awk_column_to_rows.md)
-
-[awk : rows to column](03_awk/02_awk_rows_to_column.md)
-
-[awk : remove blank line](03_awk/03_awk_remove_blank_line.md)
-
-[awk : use external argument](03_awk/04_awk_use_external_argument.md)
-
 ## bashSell script
 
 [bashShell script : 1st argument existence check](04_bashShell_script/01_if_condition_1st_argument_existence_check.md)
@@ -92,17 +82,29 @@
 
 # Ubuntu 16
 
-## du
+## awk
 
-[du -sh : fileSize of folder](01_Ubuntu/02_16/01_du/01_du_file_size_of_folder.md)
+[awk : column to rows](01_Ubuntu/02_16/01_awk/01_awk_column_to_rows.md)
 
-## while statement
+[awk : rows to column](01_Ubuntu/02_16/01_awk/02_awk_rows_to_column.md)
+
+[awk : remove blank line](01_Ubuntu/02_16/01_awk/03_awk_remove_blank_line.md)
+
+[awk : use external argument](01_Ubuntu/02_16/01_awk/04_awk_use_external_argument.md)
+
+[awk : use variable in awk](01_Ubuntu/02_16/01_awk/05_awk_use_variable.md)
+
+## bash
 
 [while : while statement](01_Ubuntu/02_16/02_bash/01_While_Statement.md)
 
+## du
+
+[du -sh : fileSize of folder](01_Ubuntu/02_16/03_du/01_du_file_size_of_folder.md)
+
 ## tac
 
-[tac : read from bottom to top](01_Ubuntu/02_16/02_bash/02_tac.md)
+[tac : read from bottom to top](01_Ubuntu/02_16/04_tac/01_tac.md)
 
 # CentOS 6.9
 
