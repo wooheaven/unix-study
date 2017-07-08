@@ -94,7 +94,7 @@
 
 [awk : use variable in awk](01_Ubuntu/02_16/01_awk/05_awk_use_variable.md)
 
-## while statement
+## bash
 
 [while : while statement](01_Ubuntu/02_16/02_bash/01_While_Statement.md)
 
