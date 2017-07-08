@@ -104,6 +104,10 @@
 
 [tac : read from bottom to top](01_Ubuntu/02_16/02_bash/02_tac.md)
 
+## awk
+
+[awk variable : use variable in awk](01_Ubuntu/02_16/01_awk/01_awk_use_variable.md)
+
 # CentOS 6.9
 
 ## sed
