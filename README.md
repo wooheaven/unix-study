@@ -106,7 +106,7 @@
 
 ## awk
 
-[awk variable : use variable in awk](01_Ubuntu/02_16/01_awk/01_awk_use_variable.md)
+[awk variable : use variable in awk](01_Ubuntu/02_16/01_awk/05_awk_use_variable.md)
 
 # CentOS 6.9
 
