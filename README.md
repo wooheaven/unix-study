@@ -100,13 +100,13 @@
 
 [while : while statement](01_Ubuntu/02_16/02_bash/01_While_Statement.md)
 
-## tac
-
-[tac : read from bottom to top](01_Ubuntu/02_16/04_tac/01_tac.md)
-
 ## du
 
 [du -sh : fileSize of folder](01_Ubuntu/02_16/03_du/01_du_file_size_of_folder.md)
+
+## tac
+
+[tac : read from bottom to top](01_Ubuntu/02_16/04_tac/01_tac.md)
 
 # CentOS 6.9
 
