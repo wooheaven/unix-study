@@ -92,9 +92,9 @@
 
 # Ubuntu 16
 
-## du
+## awk
 
-[du -sh : fileSize of folder](01_Ubuntu/02_16/01_du/01_du_file_size_of_folder.md)
+[awk variable : use variable in awk](01_Ubuntu/02_16/01_awk/05_awk_use_variable.md)
 
 ## while statement
 
@@ -104,9 +104,9 @@
 
 [tac : read from bottom to top](01_Ubuntu/02_16/02_bash/02_tac.md)
 
-## awk
+## du
 
-[awk variable : use variable in awk](01_Ubuntu/02_16/01_awk/05_awk_use_variable.md)
+[du -sh : fileSize of folder](01_Ubuntu/02_16/03_du/01_du_file_size_of_folder.md)
 
 # CentOS 6.9
 
