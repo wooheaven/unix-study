@@ -100,6 +100,10 @@
 
 [while : while statement](01_Ubuntu/02_16/02_bash/01_While_Statement.md)
 
+## tac
+
+[tac : read from bottom to top](01_Ubuntu/02_16/02_bash/02_tac.md)
+
 # CentOS 6.9
 
 ## sed
