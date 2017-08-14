@@ -10,10 +10,6 @@
 
 [aptitude : install package](01_Ubuntu/01_14.04/02_aptitude/01_aptitude_install.md)
 
-## vim
-
-[vimrc : config vim](01_Ubuntu/01_14.04/03_vim/01_vimrc_encoding_korean.md)
-
 ## bashSell script
 
 [bashShell script : 1st argument existence check](04_bashShell_script/01_if_condition_1st_argument_existence_check.md)
@@ -105,6 +101,12 @@
 ## tac
 
 [tac : read from bottom to top](01_Ubuntu/02_16/04_tac/01_tac.md)
+
+## vim
+
+[vimrc : encoding UTF8 (Korean)](01_Ubuntu/02_16/05_vim/01_vimrc_encoding_korean.md)
+
+[vimrc : macro](01_Ubuntu/02_16/05_vim/02_vimrc_append_save_macro.md)
 
 # CentOS 6.9
 
