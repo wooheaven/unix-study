@@ -106,7 +106,9 @@
 
 [vimrc : encoding UTF8 (Korean)](01_Ubuntu/02_16/05_vim/01_vimrc_encoding_korean.md)
 
-[vimrc : macro](01_Ubuntu/02_16/05_vim/02_vimrc_append_save_macro.md)
+[vimrc : append and save macro](01_Ubuntu/02_16/05_vim/02_vimrc_append_save_macro.md)
+
+[vim -d : vim diff](01_Ubuntu/02_16/05_vim/03_vimdiff.md)
 
 # CentOS 6.9
 
