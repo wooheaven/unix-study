@@ -76,28 +76,16 @@
 
 [zip : compress and uncompress directory](17_zip/01_zip_directory.md)
 
-# Ubuntu 16
-
-## awk
-
-[awk : column to rows](01_Ubuntu/02_16/01_awk/01_awk_column_to_rows.md)
-
-[awk : rows to column](01_Ubuntu/02_16/01_awk/02_awk_rows_to_column.md)
-
-[awk : remove blank line](01_Ubuntu/02_16/01_awk/03_awk_remove_blank_line.md)
-
-[awk : use external argument](01_Ubuntu/02_16/01_awk/04_awk_use_external_argument.md)
-
-[awk : use variable in awk](01_Ubuntu/02_16/01_awk/05_awk_use_variable.md)
-
-## bash
-
-[while : while statement](01_Ubuntu/02_16/02_bash/01_While_Statement.md)
-
-| OS  | Contents  | Detail  |
+| OS | Contents | Detail |
 |---|---|---|
-| Ubuntu16 | du | [du -sh : fileSize of folder](01_Ubuntu/02_16/03_du/01_du_file_size_of_folder.md) |
-| | tac | [tac : read from bottom to top](01_Ubuntu/02_16/04_tac/01_tac.md) |
+| Ubuntu16 | awk | [column to rows](01_Ubuntu/02_16/01_awk/01_awk_column_to_rows.md)
+| | | [rows to column](01_Ubuntu/02_16/01_awk/02_awk_rows_to_column.md) |
+| | | [remove blank line](01_Ubuntu/02_16/01_awk/03_awk_remove_blank_line.md) |
+| | | [use external argument](01_Ubuntu/02_16/01_awk/04_awk_use_external_argument.md) |
+| | | [use variable in awk](01_Ubuntu/02_16/01_awk/05_awk_use_variable.md) |
+| | bash | [while statement](01_Ubuntu/02_16/02_bash/01_While_Statement.md) |
+| | du | [fileSize of folder](01_Ubuntu/02_16/03_du/01_du_file_size_of_folder.md) |
+| | tac | [read from bottom to top](01_Ubuntu/02_16/04_tac/01_tac.md) |
 | | vim | [vimrc : encoding UTF8 (Korean)](01_Ubuntu/02_16/05_vim/01_vimrc_encoding_korean.md) |
 | | | [vimrc : append and save macro](01_Ubuntu/02_16/05_vim/02_vimrc_append_save_macro.md) |
 | | | [vim -d : vim diff](01_Ubuntu/02_16/05_vim/03_vimdiff.md) |
