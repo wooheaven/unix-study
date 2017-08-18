@@ -71,14 +71,11 @@
 ## substring
 
 [substring : substring remove from beginning or back](16_substring/01_substring_remove.md)
-		
-## zip
-
-[zip : compress and uncompress directory](17_zip/01_zip_directory.md)
 
 | OS | Contents | Detail |
 |---|---|---|
-| Ubuntu16 | awk | [column to rows](01_Ubuntu/02_16/01_awk/01_awk_column_to_rows.md)
+| Ubuntu16 | zip | [compress and uncompress directory](01_Ubuntu/02_16/18_zip/01_zip_directory.md)
+| | awk | [column to rows](01_Ubuntu/02_16/01_awk/01_awk_column_to_rows.md)
 | | | [rows to column](01_Ubuntu/02_16/01_awk/02_awk_rows_to_column.md) |
 | | | [remove blank line](01_Ubuntu/02_16/01_awk/03_awk_remove_blank_line.md) |
 | | | [use external argument](01_Ubuntu/02_16/01_awk/04_awk_use_external_argument.md) |
@@ -92,3 +89,4 @@
 | CentOS6.9 | sed | [replace string /t to tab character](02_CentOS/01_6.9/01_sed/01_sed_string_replace.md) |
 | macOS | IntelliJ | [Shortcut](03_macOS/02_IntelliJ/01_Shortcuts.md) |
 | | vim | [colors](03_macOS/01_vim/01_vimrc_configure.md) |
+| | battery | [Charge Status](03_macOS/03_Battery/01_Charge_Status.md) |
