@@ -66,11 +66,10 @@
 
 [sed : remove \^M in text file](15_sed/01_remove_^M_with_sed.md)
 
-[sed : replace every 3rd comma to semicolon](15_sed/02_replace_every_3rd_comma_to_semicolon.md)
-
 | OS | Contents | Detail |
 |---|---|---|
-| Ubuntu16 | substring | [substring remove from beginning or back + long or short](01_Ubuntu/02_16/17_substring/01_substring_remove.md) |
+| Ubuntu16 | sed | [sed : replace every 3rd comma to semicolon](01_Ubuntu/02_16/16_sed/02_replace_every_3rd_comma_to_semicolon.md) | 
+| | substring | [substring remove from beginning or back + long or short](01_Ubuntu/02_16/17_substring/01_substring_remove.md) |
 | | zip | [compress and uncompress directory](01_Ubuntu/02_16/18_zip/01_zip_directory.md) | 
 | | awk | [column to rows](01_Ubuntu/02_16/01_awk/01_awk_column_to_rows.md) | 
 | | | [rows to column](01_Ubuntu/02_16/01_awk/02_awk_rows_to_column.md) |
@@ -87,3 +86,4 @@
 | macOS | IntelliJ | [Shortcut](03_macOS/02_IntelliJ/01_Shortcuts.md) |
 | | vim | [colors](03_macOS/01_vim/01_vimrc_configure.md) |
 | | battery | [Charge Status](03_macOS/03_Battery/01_Charge_Status.md) |
+| | zip | [compress folder, partially by size](03_macOS/04_zip/01_use_zip.md) |
