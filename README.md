@@ -58,13 +58,11 @@
 
 [nmap : check localhost port](13_nmap/01_install_use_nmap.md)
 
-## rsync
-	
-[rsync : folder to folder](14_rsync/01_rsync_folder_to_folder.md)
-
 | OS | Contents | Detail |
 |---|---|---|
-| Ubuntu16 | sed | [remove \^M in text file](01_Ubuntu/02_16/16_sed/01_remove_^M_with_sed.md) | 
+| Ubuntu16 | window | [resize shortcut](01_Ubuntu/02_16/06_window/01_resize_window.md) |
+| | rsync | [rsync : folder to folder](01_Ubuntu/02_16/15_rsync/01_rsync_folder_to_folder.md) |
+| | sed | [remove \^M in text file](01_Ubuntu/02_16/16_sed/01_remove_^M_with_sed.md) | 
 | | | [replace every 3rd comma to semicolon](01_Ubuntu/02_16/16_sed/02_replace_every_3rd_comma_to_semicolon.md) | 
 | | substring | [substring remove from beginning or back + long or short](01_Ubuntu/02_16/17_substring/01_substring_remove.md) |
 | | zip | [compress and uncompress directory](01_Ubuntu/02_16/18_zip/01_zip_directory.md) | 
