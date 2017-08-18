@@ -11,7 +11,7 @@ $ echo ${test%.*}
 A.of
 
 $ # Delete the longest matching substring from the beginning.
-$ echo ${test##*.} # remove log
+$ echo ${test##*.} 
 B
 
 $ # Delete the longest matching substring from the back.

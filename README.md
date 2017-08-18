@@ -68,14 +68,11 @@
 
 [sed : replace every 3rd comma to semicolon](15_sed/02_replace_every_3rd_comma_to_semicolon.md)
 
-## substring
-
-[substring : substring remove from beginning or back](16_substring/01_substring_remove.md)
-
 | OS | Contents | Detail |
 |---|---|---|
-| Ubuntu16 | zip | [compress and uncompress directory](01_Ubuntu/02_16/18_zip/01_zip_directory.md)
-| | awk | [column to rows](01_Ubuntu/02_16/01_awk/01_awk_column_to_rows.md)
+| Ubuntu16 | substring | [substring remove from beginning or back + long or short](01_Ubuntu/02_16/17_substring/01_substring_remove.md) |
+| | zip | [compress and uncompress directory](01_Ubuntu/02_16/18_zip/01_zip_directory.md) | 
+| | awk | [column to rows](01_Ubuntu/02_16/01_awk/01_awk_column_to_rows.md) | 
 | | | [rows to column](01_Ubuntu/02_16/01_awk/02_awk_rows_to_column.md) |
 | | | [remove blank line](01_Ubuntu/02_16/01_awk/03_awk_remove_blank_line.md) |
 | | | [use external argument](01_Ubuntu/02_16/01_awk/04_awk_use_external_argument.md) |
