@@ -110,15 +110,8 @@
 
 [vim -d : vim diff](01_Ubuntu/02_16/05_vim/03_vimdiff.md)
 
-# CentOS 6.9
-
-## sed
-
-[sed : replace string /t to tab character](02_CentOS/01_6.9/01_sed/01_sed_string_replace.md)
-
-# macOS
-
-## vim
-
-[vimrc : colors](03_macOS/01_vim/01_vimrc_configure.md)
-
+| OS  | Contents  | Detail  |
+|---|---|---|
+| CentOS6.9 | sed | [replace string /t to tab character](02_CentOS/01_6.9/01_sed/01_sed_string_replace.md) |
+| macOS | IntelliJ | [Shortcut](03_macOS/02_IntelliJ/01_Shortcuts.md) |
+| | vim | [colors](03_macOS/01_vim/01_vimrc_configure.md) |
