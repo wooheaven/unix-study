@@ -94,17 +94,11 @@
 
 [while : while statement](01_Ubuntu/02_16/02_bash/01_While_Statement.md)
 
-## du
-
-[du -sh : fileSize of folder](01_Ubuntu/02_16/03_du/01_du_file_size_of_folder.md)
-
-## tac
-
-[tac : read from bottom to top](01_Ubuntu/02_16/04_tac/01_tac.md)
-
 | OS  | Contents  | Detail  |
 |---|---|---|
-| Ubuntu16 | vim | [vimrc : encoding UTF8 (Korean)](01_Ubuntu/02_16/05_vim/01_vimrc_encoding_korean.md)
+| Ubuntu16 | du | [du -sh : fileSize of folder](01_Ubuntu/02_16/03_du/01_du_file_size_of_folder.md) |
+| | tac | [tac : read from bottom to top](01_Ubuntu/02_16/04_tac/01_tac.md) |
+| | vim | [vimrc : encoding UTF8 (Korean)](01_Ubuntu/02_16/05_vim/01_vimrc_encoding_korean.md) |
 | | | [vimrc : append and save macro](01_Ubuntu/02_16/05_vim/02_vimrc_append_save_macro.md) |
 | | | [vim -d : vim diff](01_Ubuntu/02_16/05_vim/03_vimdiff.md) |
 | CentOS6.9 | sed | [replace string /t to tab character](02_CentOS/01_6.9/01_sed/01_sed_string_replace.md) |
