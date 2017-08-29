@@ -42,13 +42,10 @@
 
 [if : check filePath](09_if/01_if_check_filePath.md)
 
-## LVM
-
-[LVM : format and mount attached device](10_LVM/01_LVM_on_attached_device.md)
-
 | OS | Contents | Detail |
 |---|---|---|
-| Ubuntu16 | mkfs.ext4 | [make filesystem ext4](01_Ubuntu/02_16/12_mkfs.ext4/01_mkfs.ext4_device.md) |
+| Ubuntu16 | LVM | [LVM : format and mount attached device](01_Ubuntu/02_16/11_LVM/01_LVM_on_attached_device.md) |
+| | mkfs.ext4 | [make filesystem ext4](01_Ubuntu/02_16/12_mkfs.ext4/01_mkfs.ext4_device.md) |
 | | mkfs.xfs | [make filesystem xfs](01_Ubuntu/02_16/13_mkfs.xfs/01_mkfs.xfs_device.md) |
 | | nmap | [port check](01_Ubuntu/02_16/14_nmap/01_install_use_nmap.md) |
 | | window | [resize shortcut](01_Ubuntu/02_16/06_window/01_resize_window.md) |
@@ -73,3 +70,4 @@
 | | vim | [colors](03_macOS/01_vim/01_vimrc_configure.md) |
 | | battery | [Charge Status](03_macOS/03_Battery/01_Charge_Status.md) |
 | | zip | [compress folder, partially by size](03_macOS/04_zip/01_use_zip.md) |
+| | sed | [move CRLF to LF](03_macOS/05_sed/01_sed_remove_CRLF_to_LF.md) |
