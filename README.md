@@ -42,29 +42,15 @@
 
 [if : check filePath](09_if/01_if_check_filePath.md)
 
-## LVM
-
-[LVM : format and mount attached device](10_LVM/01_LVM_on_attached_device.md)
-
-## mkfs.ext4
-
-[mkfs.ext4 : format device](11_mkfs.ext4/01_mkfs.ext4_device.md)
-
-## mkfs.xfs
-
-[mkfs.xfs : format device](12_mkfs.xfs/01_mkfs.xfs_device.md)
-
-## nmap
-
-[nmap : check localhost port](13_nmap/01_install_use_nmap.md)
-
-## rsync
-	
-[rsync : folder to folder](14_rsync/01_rsync_folder_to_folder.md)
-
 | OS | Contents | Detail |
 |---|---|---|
-| Ubuntu16 | sed | [remove \^M in text file](01_Ubuntu/02_16/16_sed/01_remove_^M_with_sed.md) | 
+| Ubuntu16 | LVM | [LVM : format and mount attached device](01_Ubuntu/02_16/11_LVM/01_LVM_on_attached_device.md) |
+| | mkfs.ext4 | [make filesystem ext4](01_Ubuntu/02_16/12_mkfs.ext4/01_mkfs.ext4_device.md) |
+| | mkfs.xfs | [make filesystem xfs](01_Ubuntu/02_16/13_mkfs.xfs/01_mkfs.xfs_device.md) |
+| | nmap | [port check](01_Ubuntu/02_16/14_nmap/01_install_use_nmap.md) |
+| | window | [resize shortcut](01_Ubuntu/02_16/06_window/01_resize_window.md) |
+| | rsync | [rsync : folder to folder](01_Ubuntu/02_16/15_rsync/01_rsync_folder_to_folder.md) |
+| | sed | [remove \^M in text file](01_Ubuntu/02_16/16_sed/01_remove_^M_with_sed.md) | 
 | | | [replace every 3rd comma to semicolon](01_Ubuntu/02_16/16_sed/02_replace_every_3rd_comma_to_semicolon.md) | 
 | | substring | [substring remove from beginning or back + long or short](01_Ubuntu/02_16/17_substring/01_substring_remove.md) |
 | | zip | [compress and uncompress directory](01_Ubuntu/02_16/18_zip/01_zip_directory.md) | 
@@ -84,3 +70,4 @@
 | | vim | [colors](03_macOS/01_vim/01_vimrc_configure.md) |
 | | battery | [Charge Status](03_macOS/03_Battery/01_Charge_Status.md) |
 | | zip | [compress folder, partially by size](03_macOS/04_zip/01_use_zip.md) |
+| | sed | [move CRLF to LF](03_macOS/05_sed/01_sed_remove_CRLF_to_LF.md) |
