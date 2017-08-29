@@ -30,13 +30,13 @@
 
 [fdisk : partioning and format disk](07_fdisk/01_fdisk_partioning_and_format_disk.md)
 
-## find
-
-[find : find and print target files](08_find/01_find_and_print_target_files.md)
-
 | OS | Contents | Detail |
 |---|---|---|
-| Ubuntu16 | for | [for : num++](01_Ubuntu/02_16/09_for_statement/01_for_num++.md) |
+| Ubuntu16 | find | [find : find with basename](01_Ubuntu/02_16/08_find/01_find_with_basename.md) |
+| | | [find : find with maxdepth](01_Ubuntu/02_16/08_find/02_find_with_maxdepth.md) |
+| | | [find : find file and sed CRLF to LF](01_Ubuntu/02_16/08_find/03_find_and_sed_move_CRLF_to_LF.md) |
+| | | [find : find file and sed TAB to 4SPACES](01_Ubuntu/02_16/08_find/04_find_and_sed_move_TAB_to_4SPACES.md) |
+| | for | [for : num++](01_Ubuntu/02_16/09_for_statement/01_for_num++.md) |
 | | | [for : in list](01_Ubuntu/02_16/09_for_statement/02_for_in_list.md) |
 | | | [for : read file](01_Ubuntu/02_16/09_for_statement/03_for_read_file.md) |
 | | if | [if : check filePath](01_Ubuntu/02_16/10_if/01_if_check_filePath.md) |
