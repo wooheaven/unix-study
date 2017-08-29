@@ -34,17 +34,13 @@
 
 [find : find and print target files](08_find/01_find_and_print_target_files.md)
 
-## for
-
-[for statement](09_for_statement/01_for_statement.md)
-
-## if
-
-[if : check filePath](09_if/01_if_check_filePath.md)
-
 | OS | Contents | Detail |
 |---|---|---|
-| Ubuntu16 | LVM | [LVM : format and mount attached device](01_Ubuntu/02_16/11_LVM/01_LVM_on_attached_device.md) |
+| Ubuntu16 | for | [for : num++](01_Ubuntu/02_16/09_for_statement/01_for_num++.md) |
+| | | [for : in list](01_Ubuntu/02_16/09_for_statement/02_for_in_list.md) |
+| | | [for : read file](01_Ubuntu/02_16/09_for_statement/03_for_read_file.md) |
+| | if | [if : check filePath](01_Ubuntu/02_16/10_if/01_if_check_filePath.md) |
+| | LVM | [LVM : format and mount attached device](01_Ubuntu/02_16/11_LVM/01_LVM_on_attached_device.md) |
 | | mkfs.ext4 | [make filesystem ext4](01_Ubuntu/02_16/12_mkfs.ext4/01_mkfs.ext4_device.md) |
 | | mkfs.xfs | [make filesystem xfs](01_Ubuntu/02_16/13_mkfs.xfs/01_mkfs.xfs_device.md) |
 | | nmap | [port check](01_Ubuntu/02_16/14_nmap/01_install_use_nmap.md) |
@@ -71,3 +67,7 @@
 | | battery | [Charge Status](03_macOS/03_Battery/01_Charge_Status.md) |
 | | zip | [compress folder, partially by size](03_macOS/04_zip/01_use_zip.md) |
 | | sed | [move CRLF to LF](03_macOS/05_sed/01_sed_remove_CRLF_to_LF.md) |
+| | find | [find : print basename](03_macOS/06_find/01_find_with_basename.md) |
+| | | [find : maxdepth](03_macOS/06_find/02_find_with_maxdepth.md) |
+| | | [find : sed CRLF to LF](03_macOS/06_find/03_find_and_sed_move_CRLF_to_LF.md) |
+| | | [find : sed TAB to 4SPACES](03_macOS/06_find/04_find_and_sed_move_TAB_to_4SPACES.md) |
