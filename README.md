@@ -22,13 +22,10 @@
 
 [date with format : 24:59:59.999](05_date/01_date_with_hour_min_sec_nano.md)
 
-## df
-
-[df -h : display file system with human readable](06_df/01_df_with_human_readerble.md)
-
 | OS | Contents | Detail |
 |---|---|---|
-| Ubuntu16 | fdisk | [fdisk : partioning and format disk](01_Ubuntu/02_16/07_fdisk/01_fdisk_partioning_and_format_disk.md) |
+| Ubuntu16 | df | [df -h : display file system with human readable](01_Ubuntu/02_16/06_df/01_df_with_human_readerble.md) |
+| | fdisk | [fdisk : partioning and format disk](01_Ubuntu/02_16/07_fdisk/01_fdisk_partioning_and_format_disk.md) |
 | | find | [find : find with basename](01_Ubuntu/02_16/08_find/01_find_with_basename.md) |
 | | | [find : find with maxdepth](01_Ubuntu/02_16/08_find/02_find_with_maxdepth.md) |
 | | | [find : find file and sed CRLF to LF](01_Ubuntu/02_16/08_find/03_find_and_sed_move_CRLF_to_LF.md) |
@@ -59,6 +56,7 @@
 | | | [vimrc : append and save macro](01_Ubuntu/02_16/05_vim/02_vimrc_append_save_macro.md) |
 | | | [vim diff](01_Ubuntu/02_16/05_vim/03_vim_diff.md) |
 | CentOS6.9 | sed | [replace string /t to tab character](02_CentOS/01_6.9/01_sed/01_sed_string_replace.md) |
+| | git | [yum install git : version 2.x](02_CentOS/01_6.9/02_git/01_yum_install_git.md) |
 | macOS | IntelliJ | [Shortcut](03_macOS/02_IntelliJ/01_Shortcuts.md) |
 | | vim | [colors](03_macOS/01_vim/01_vimrc_configure.md) |
 | | | [vim diff](03_macOS/01_vim/02_vim_diff.md) |
