@@ -26,13 +26,10 @@
 
 [df -h : display file system with human readable](06_df/01_df_with_human_readerble.md)
 
-## fdisk
-
-[fdisk : partioning and format disk](07_fdisk/01_fdisk_partioning_and_format_disk.md)
-
 | OS | Contents | Detail |
 |---|---|---|
-| Ubuntu16 | find | [find : find with basename](01_Ubuntu/02_16/08_find/01_find_with_basename.md) |
+| Ubuntu16 | fdisk | [fdisk : partioning and format disk](01_Ubuntu/02_16/07_fdisk/01_fdisk_partioning_and_format_disk.md) |
+| | find | [find : find with basename](01_Ubuntu/02_16/08_find/01_find_with_basename.md) |
 | | | [find : find with maxdepth](01_Ubuntu/02_16/08_find/02_find_with_maxdepth.md) |
 | | | [find : find file and sed CRLF to LF](01_Ubuntu/02_16/08_find/03_find_and_sed_move_CRLF_to_LF.md) |
 | | | [find : find file and sed TAB to 4SPACES](01_Ubuntu/02_16/08_find/04_find_and_sed_move_TAB_to_4SPACES.md) |
@@ -60,10 +57,12 @@
 | | tac | [read from bottom to top](01_Ubuntu/02_16/04_tac/01_tac.md) |
 | | vim | [vimrc : encoding UTF8 (Korean)](01_Ubuntu/02_16/05_vim/01_vimrc_encoding_korean.md) |
 | | | [vimrc : append and save macro](01_Ubuntu/02_16/05_vim/02_vimrc_append_save_macro.md) |
-| | | [vim -d : vim diff](01_Ubuntu/02_16/05_vim/03_vimdiff.md) |
+| | | [vim diff](01_Ubuntu/02_16/05_vim/03_vim_diff.md) |
 | CentOS6.9 | sed | [replace string /t to tab character](02_CentOS/01_6.9/01_sed/01_sed_string_replace.md) |
 | macOS | IntelliJ | [Shortcut](03_macOS/02_IntelliJ/01_Shortcuts.md) |
 | | vim | [colors](03_macOS/01_vim/01_vimrc_configure.md) |
+| | | [vim diff](03_macOS/01_vim/02_vim_diff.md) |
+| | | [vim diff refresh](03_macOS/01_vim/03_vim_diff_refresh.md) |
 | | battery | [Charge Status](03_macOS/03_Battery/01_Charge_Status.md) |
 | | zip | [compress folder, partially by size](03_macOS/04_zip/01_use_zip.md) |
 | | sed | [move CRLF to LF](03_macOS/05_sed/01_sed_remove_CRLF_to_LF.md) |
