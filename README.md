@@ -18,13 +18,10 @@
 
 [bashShell script : check current shell](04_bashShell_script/03_check_current_shell.md)
 
-## date
-
-[date with format : 24:59:59.999](05_date/01_date_with_hour_min_sec_nano.md)
-
 | OS | Contents | Detail |
 |---|---|---|
-| Ubuntu16 | df | [df -h : display file system with human readable](01_Ubuntu/02_16/06_df/01_df_with_human_readerble.md) |
+| Ubuntu16 | date | [date with format : 24:59:59.999](01_Ubuntu/02_16/19_date/01_date_with_hour_min_sec_nano.md) |
+| | df | [df -h : display file system with human readable](01_Ubuntu/02_16/06_df/01_df_with_human_readerble.md) |
 | | fdisk | [fdisk : partioning and format disk](01_Ubuntu/02_16/07_fdisk/01_fdisk_partioning_and_format_disk.md) |
 | | find | [find : find with basename](01_Ubuntu/02_16/08_find/01_find_with_basename.md) |
 | | | [find : find with maxdepth](01_Ubuntu/02_16/08_find/02_find_with_maxdepth.md) |
@@ -69,3 +66,4 @@
 | | | [find : sed CRLF to LF](03_macOS/06_find/03_find_and_sed_move_CRLF_to_LF.md) |
 | | | [find : sed TAB to 4SPACES](03_macOS/06_find/04_find_and_sed_move_TAB_to_4SPACES.md) |
 | | Python | [Python3.5 on conda : Matplotlib Backends RuntimeError](03_macOS/07_Python/01_with_Conda/01_Matplotlib_backends_RuntimeError.md) |
+| | Zsh | [~/.bash_profile ~/.bashrc ~/.zshrc : Configure with non-login/login](03_macOS/08_zsh/01_bash_profile_bashrc_zshrc.md) |
