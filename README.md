@@ -10,17 +10,12 @@
 
 [aptitude : install package](01_Ubuntu/01_14.04/02_aptitude/01_aptitude_install.md)
 
-## bashSell script
-
-[bashShell script : 1st argument existence check](04_bashShell_script/01_if_condition_1st_argument_existence_check.md)
-
-[bashShell script : count of arguments check](04_bashShell_script/02_if_condition_count_of_arguments_check.md)
-
-[bashShell script : check current shell](04_bashShell_script/03_check_current_shell.md)
-
 | OS | Contents | Detail |
 |---|---|---|
-| Ubuntu16 | date | [date with format : 24:59:59.999](01_Ubuntu/02_16/19_date/01_date_with_hour_min_sec_nano.md) |
+| Ubuntu16 | bashShell | [1st argument existence check](01_Ubuntu/02_16/04_bashShell_script/01_if_condition_1st_argument_existence_check.md) |
+| | | [count of arguments check](01_Ubuntu/02_16/04_bashShell_script/02_if_condition_count_of_arguments_check.md) |
+| | | [check current shell](01_Ubuntu/02_16/04_bashShell_script/03_check_current_shell.md) |
+| | date | [date with format : 24:59:59.999](01_Ubuntu/02_16/19_date/01_date_with_hour_min_sec_nano.md) |
 | | df | [df -h : display file system with human readable](01_Ubuntu/02_16/06_df/01_df_with_human_readerble.md) |
 | | fdisk | [fdisk : partioning and format disk](01_Ubuntu/02_16/07_fdisk/01_fdisk_partioning_and_format_disk.md) |
 | | find | [find : find with basename](01_Ubuntu/02_16/08_find/01_find_with_basename.md) |
