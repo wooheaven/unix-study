@@ -1,14 +1,8 @@
-# Ubuntu 14.04
-
-## apt-get
-
-[apt-get : install package](01_Ubuntu/01_14.04/01_apt-get/01_apt-get_install.md)
-
-[apt-get : update hash sum error](01_Ubuntu/01_14.04/01_apt-get/02_apt-get_update_hash_sum_error.md)
-
 | OS | Contents | Detail |
 |---|---|---|
-| Ubuntu16 | bashShell | [1st argument existence check](01_Ubuntu/02_16/04_bashShell_script/01_if_condition_1st_argument_existence_check.md) |
+| Ubuntu16 | apt-get | [apt-get : install package](01_Ubuntu/01_14.04/01_apt-get/01_apt-get_install.md) |
+| | | [apt-get : update hash sum error](01_Ubuntu/01_14.04/01_apt-get/02_apt-get_update_hash_sum_error.md)
+| | bashShell | [1st argument existence check](01_Ubuntu/02_16/04_bashShell_script/01_if_condition_1st_argument_existence_check.md) |
 | | | [count of arguments check](01_Ubuntu/02_16/04_bashShell_script/02_if_condition_count_of_arguments_check.md) |
 | | | [check current shell](01_Ubuntu/02_16/04_bashShell_script/03_check_current_shell.md) |
 | | date | [date with format : 24:59:59.999](01_Ubuntu/02_16/19_date/01_date_with_hour_min_sec_nano.md) |
@@ -47,11 +41,12 @@
 | | zip | [compress and uncompress directory](01_Ubuntu/02_16/18_zip/01_zip_directory.md) | 
 | CentOS6.9 | sed | [replace string /t to tab character](02_CentOS/01_6.9/01_sed/01_sed_string_replace.md) |
 | | git | [yum install git : version 2.x](02_CentOS/01_6.9/02_git/01_yum_install_git.md) |
-| macOS | IntelliJ | [Shortcut](03_macOS/02_IntelliJ/01_Shortcuts.md) |
+| macOS | battery | [Charge Status](03_macOS/03_Battery/01_Charge_Status.md) |
+| | IntelliJ | [Shortcut](03_macOS/02_IntelliJ/01_Shortcuts.md) |
 | | vim | [colors](03_macOS/01_vim/01_vimrc_configure.md) |
 | | | [vim diff](03_macOS/01_vim/02_vim_diff.md) |
 | | | [vim diff refresh](03_macOS/01_vim/03_vim_diff_refresh.md) |
-| | battery | [Charge Status](03_macOS/03_Battery/01_Charge_Status.md) |
+| | vnc | [vnc client : Connect to vnc server](03_macOS/09_vnc_client/01_use_vnc_client.md) |
 | | zip | [compress folder, partially by size](03_macOS/04_zip/01_use_zip.md) |
 | | sed | [move CRLF to LF](03_macOS/05_sed/01_sed_remove_CRLF_to_LF.md) |
 | | find | [find : print basename](03_macOS/06_find/01_find_with_basename.md) |
