@@ -1,8 +1,8 @@
 | OS | Contents | Detail |
 |---|---|---|
-| Ubuntu16 | apt-get | [apt-get : install package](01_Ubuntu/01_14.04/01_apt-get/01_apt-get_install.md) |
-| | | [apt-get : update hash sum error](01_Ubuntu/01_14.04/01_apt-get/02_apt-get_update_hash_sum_error.md)
-| | bashShell | [1st argument existence check](01_Ubuntu/02_16/04_bashShell_script/01_if_condition_1st_argument_existence_check.md) |
+| Ubuntu14 | vnc4server | [vnc4server : install configure](01_Ubuntu/01_14.04/02_vnc4server/01_install_config_vnc4server.md) |
+| | apt-get | [apt-get : install package](01_Ubuntu/01_14.04/01_apt-get/01_apt-get_install.md) |
+| Ubuntu16 | bashShell | [1st argument existence check](01_Ubuntu/02_16/04_bashShell_script/01_if_condition_1st_argument_existence_check.md) |
 | | | [count of arguments check](01_Ubuntu/02_16/04_bashShell_script/02_if_condition_count_of_arguments_check.md) |
 | | | [check current shell](01_Ubuntu/02_16/04_bashShell_script/03_check_current_shell.md) |
 | | date | [date with format : 24:59:59.999](01_Ubuntu/02_16/19_date/01_date_with_hour_min_sec_nano.md) |
