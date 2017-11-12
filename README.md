@@ -46,13 +46,13 @@
 | | vim | [colors](03_macOS/01_vim/01_vimrc_configure.md) |
 | | | [vim diff](03_macOS/01_vim/02_vim_diff.md) |
 | | | [vim diff refresh](03_macOS/01_vim/03_vim_diff_refresh.md) |
-| | vnc | [vnc client : Connect to vnc server](03_macOS/09_vnc_client/01_use_vnc_client.md) |
-| | zip | [compress folder, partially by size](03_macOS/04_zip/01_use_zip.md) |
 | | sed | [move CRLF to LF](03_macOS/05_sed/01_sed_remove_CRLF_to_LF.md) |
 | | find | [find : print basename](03_macOS/06_find/01_find_with_basename.md) |
 | | | [find : maxdepth](03_macOS/06_find/02_find_with_maxdepth.md) |
 | | | [find : sed CRLF to LF](03_macOS/06_find/03_find_and_sed_move_CRLF_to_LF.md) |
 | | | [find : sed TAB to 4SPACES](03_macOS/06_find/04_find_and_sed_move_TAB_to_4SPACES.md) |
 | | Python | [Python3.5 on conda : Matplotlib Backends RuntimeError](03_macOS/07_Python/01_with_Conda/01_Matplotlib_backends_RuntimeError.md) |
-| | Zsh | [~/.bash_profile ~/.bashrc ~/.zshrc : Configure with non-login/login](03_macOS/08_zsh/01_explain_of_bash_profile_bashrc_zshrc.md) |
-| | | [~/.zshrc : example of .zshrc](03_macOS/08_zsh/02_example_of_zshrc.md) |
+| | vnc | [vnc client : Connect to vnc server](03_macOS/08_vnc_client/01_use_vnc_client.md) |
+| | zip | [compress folder, partially by size](03_macOS/04_zip/01_use_zip.md) |
+| | Zsh | [~/.bash_profile ~/.bashrc ~/.zshrc : Configure with non-login/login](03_macOS/09_zsh/01_explain_of_bash_profile_bashrc_zshrc.md) |
+| | | [~/.zshrc : example of .zshrc](03_macOS/09_zsh/02_example_of_zshrc.md) |
