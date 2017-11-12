@@ -54,4 +54,5 @@
 | | | [find : sed CRLF to LF](03_macOS/06_find/03_find_and_sed_move_CRLF_to_LF.md) |
 | | | [find : sed TAB to 4SPACES](03_macOS/06_find/04_find_and_sed_move_TAB_to_4SPACES.md) |
 | | Python | [Python3.5 on conda : Matplotlib Backends RuntimeError](03_macOS/07_Python/01_with_Conda/01_Matplotlib_backends_RuntimeError.md) |
-| | Zsh | [~/.bash_profile ~/.bashrc ~/.zshrc : Configure with non-login/login](03_macOS/08_zsh/01_bash_profile_bashrc_zshrc.md) |
+| | Zsh | [~/.bash_profile ~/.bashrc ~/.zshrc : Configure with non-login/login](03_macOS/08_zsh/01_explain_of_bash_profile_bashrc_zshrc.md) |
+| | | [~/.zshrc : example of .zshrc](03_macOS/08_zsh/02_example_of_zshrc.md) |
