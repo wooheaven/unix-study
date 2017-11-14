@@ -1,5 +1,8 @@
 [ref url 1](https://www.redips.net/linux/create-fat32-usb-drive/)
+
 [ref url 2](http://jrpickeral.com/?tag=w95-fat32-lba)
+
+
 ```{bash}
 $ ls -la /dev/disk/by-id/
 total 0
