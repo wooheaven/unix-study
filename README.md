@@ -8,7 +8,8 @@
 | | date | [date with format : 24:59:59.999](01_Ubuntu/02_16/19_date/01_date_with_hour_min_sec_nano.md) |
 | | df | [df -h : display file system with human readable](01_Ubuntu/02_16/06_df/01_df_with_human_readerble.md) |
 | | exfat | [install exfat : linux and windows can available fileSystem](01_Ubuntu/02_16/20_exfat/01_install_exfat_on_ubuntu16.md) |
-| | fdisk | [fdisk : partioning and format disk](01_Ubuntu/02_16/07_fdisk/01_fdisk_partioning_and_format_disk.md) |
+| | fdisk | [fdisk : partioning disk](01_Ubuntu/02_16/07_fdisk/01_fdisk_partioning_disk.md) |
+| | | [fdisk : partioning and format USB as FAT32 limit 32GB](01_Ubuntu/02_16/07_fdisk/02_format_USB_as_FAT32.md) |
 | | find | [find : find with basename](01_Ubuntu/02_16/08_find/01_find_with_basename.md) |
 | | | [find : find with maxdepth](01_Ubuntu/02_16/08_find/02_find_with_maxdepth.md) |
 | | | [find : find file and sed CRLF to LF](01_Ubuntu/02_16/08_find/03_find_and_sed_move_CRLF_to_LF.md) |
