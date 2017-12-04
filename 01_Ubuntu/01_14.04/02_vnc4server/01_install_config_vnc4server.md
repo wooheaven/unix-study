@@ -102,6 +102,7 @@
     Applications
     -> System Tools
     -> dconf Editor
-    -> org gnome desktop wm
-    -> Value which including ['<Super>'] should be replace as empty []
+    -> org gnome desktop wm keybindings
+    -> Value which including ['<Super>'] should be replaced as empty []
+    -> Value minimize is replaced as empty []
 ```
