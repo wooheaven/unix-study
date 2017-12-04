@@ -2,7 +2,13 @@
 |---|---|---|
 | Ubuntu14 | apt-get | [apt-get : install package](01_Ubuntu/01_14.04/01_apt-get/01_apt-get_install.md) |
 | | vnc4server | [vnc4server : install configure](01_Ubuntu/01_14.04/02_vnc4server/01_install_config_vnc4server.md) |
-| Ubuntu16 | bashShell | [1st argument existence check](01_Ubuntu/02_16/02_bashShell_script/01_if_condition_1st_argument_existence_check.md) |
+| Ubuntu16 | awk | [column to rows](01_Ubuntu/02_16/01_awk/01_awk_column_to_rows.md) | 
+| | | [rows to column](01_Ubuntu/02_16/01_awk/02_awk_rows_to_column.md) |
+| | | [remove blank line](01_Ubuntu/02_16/01_awk/03_awk_remove_blank_line.md) |
+| | | [use external argument](01_Ubuntu/02_16/01_awk/04_awk_use_external_argument.md) |
+| | | [use variable in awk](01_Ubuntu/02_16/01_awk/05_awk_use_variable.md) |
+| | bash | [while statement](01_Ubuntu/02_16/02_bash/01_While_Statement.md) |
+| | bashShell | [1st argument existence check](01_Ubuntu/02_16/02_bashShell_script/01_if_condition_1st_argument_existence_check.md) |
 | | | [count of arguments check](01_Ubuntu/02_16/02_bashShell_script/02_if_condition_count_of_arguments_check.md) |
 | | | [check current shell](01_Ubuntu/02_16/02_bashShell_script/03_check_current_shell.md) |
 | | chrome remote desktop | [install : by wget deb](01_Ubuntu/02_16/03_chrome_remote_desktop/01_install_chrome_remote_desktop.md) |
@@ -28,12 +34,6 @@
 | | sed | [remove \^M in text file](01_Ubuntu/02_16/17_sed/01_remove_^M_with_sed.md) | 
 | | | [replace every 3rd comma to semicolon](01_Ubuntu/02_16/17_sed/02_replace_every_3rd_comma_to_semicolon.md) | 
 | | substring | [substring remove from beginning or back + long or short](01_Ubuntu/02_16/18_substring/01_substring_remove.md) |
-| | awk | [column to rows](01_Ubuntu/02_16/01_awk/01_awk_column_to_rows.md) | 
-| | | [rows to column](01_Ubuntu/02_16/01_awk/02_awk_rows_to_column.md) |
-| | | [remove blank line](01_Ubuntu/02_16/01_awk/03_awk_remove_blank_line.md) |
-| | | [use external argument](01_Ubuntu/02_16/01_awk/04_awk_use_external_argument.md) |
-| | | [use variable in awk](01_Ubuntu/02_16/01_awk/05_awk_use_variable.md) |
-| | bash | [while statement](01_Ubuntu/02_16/02_bash/01_While_Statement.md) |
 | | du | [fileSize of folder](01_Ubuntu/02_16/05_du/01_du_file_size_of_folder.md) |
 | | tac | [read from bottom to top](01_Ubuntu/02_16/18_tac/01_tac.md) |
 | | vim | [vimrc : encoding UTF8 (Korean)](01_Ubuntu/02_16/20_vim/01_vimrc_encoding_korean.md) |
