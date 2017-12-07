@@ -28,3 +28,7 @@ unset oldStr
 unset newStr
 
 done < change_A_to_B.txt
+
+if [ -f ./README.md-e ]; then 
+rm -rf ./README.md-e
+fi

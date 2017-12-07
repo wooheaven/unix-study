@@ -1,6 +1,8 @@
 | OS | Contents | Detail |
 |---|---|---|
 | Ubuntu14 | apt-get | [apt-get : install package](01_Ubuntu/01_14.04/01_apt-get/01_apt-get_install.md) |
+| | | [apt-get : install nvidia-docker2](01_Ubuntu/01_14.04/01_apt-get/02_install_nvidia_docker_v2.md) |
+| | | [apt-get : hash error](01_Ubuntu/01_14.04/01_apt-get/03_apt-get_update_hash_sum_error.md) |
 | | vnc4server | [vnc4server : install configure](01_Ubuntu/01_14.04/02_vnc4server/01_install_config_vnc4server.md) |
 | Ubuntu16 | awk | [column to rows](01_Ubuntu/02_16/01_awk/01_awk_column_to_rows.md) | 
 | | | [rows to column](01_Ubuntu/02_16/01_awk/02_awk_rows_to_column.md) |
