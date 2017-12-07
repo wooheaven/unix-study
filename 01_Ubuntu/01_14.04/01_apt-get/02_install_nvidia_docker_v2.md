@@ -1,3 +1,9 @@
+# ref
+
+[ install nvidia-docker v2 ] : https://github.com/NVIDIA/nvidia-docker/wiki/Installation-(version-2.0) 
+
+[ repository force pick Xenial x86_64 ] : https://nvidia.github.io/nvidia-docker/
+
 ```{bash}
 # key and repository
 curl -s -L https://nvidia.github.io/nvidia-docker/gpgkey | sudo apt-key add -
