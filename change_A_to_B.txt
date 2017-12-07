@@ -1,15 +1,1 @@
-03_macOS/03_Battery/01_Charge_Status.md -> 03_macOS/01_Battery/01_Charge_Status.md
-03_macOS/06_find/01_find_with_basename.md -> 03_macOS/02_find/01_find_with_basename.md
-03_macOS/06_find/02_find_with_maxdepth.md -> 03_macOS/02_find/02_find_with_maxdepth.md
-03_macOS/06_find/03_find_and_sed_move_CRLF_to_LF.md -> 03_macOS/02_find/03_find_and_sed_move_CRLF_to_LF.md
-03_macOS/06_find/04_find_and_sed_move_TAB_to_4SPACES.md -> 03_macOS/02_find/04_find_and_sed_move_TAB_to_4SPACES.md
-03_macOS/02_IntelliJ/01_Shortcuts.md -> 03_macOS/04_IntelliJ/01_Shortcuts.md
-03_macOS/07_Python/01_with_Conda/01_Matplotlib_backends_RuntimeError.md -> 03_macOS/05_Python/01_with_Conda/01_Matplotlib_backends_RuntimeError.md
-03_macOS/05_sed/01_sed_remove_CRLF_to_LF.md -> 03_macOS/06_sed/01_sed_remove_CRLF_to_LF.md
-03_macOS/01_vim/01_vimrc_configure.md -> 03_macOS/08_vim/01_vimrc_configure.md
-03_macOS/01_vim/02_vim_diff.md -> 03_macOS/08_vim/02_vim_diff.md
-03_macOS/01_vim/03_vim_diff_refresh.md -> 03_macOS/08_vim/03_vim_diff_refresh.md
-03_macOS/08_vnc_client/01_use_vnc_client.md -> 03_macOS/09_vnc_client/01_use_vnc_client.md
-03_macOS/09_zsh/01_explain_of_bash_profile_bashrc_zshrc.md -> 03_macOS/11_zsh/01_explain_of_bash_profile_bashrc_zshrc.md
-03_macOS/09_zsh/02_example_of_zshrc.md -> 03_macOS/11_zsh/02_example_of_zshrc.md
-03_macOS/04_zip/01_use_zip.md -> 03_macOS/10_zip/01_use_zip.md
+01_Ubuntu/01_14.04/01_apt-get/02_apt-get_update_hash_sum_error.md -> 01_Ubuntu/01_14.04/01_apt-get/03_apt-get_update_hash_sum_error.md
