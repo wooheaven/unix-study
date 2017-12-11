@@ -44,8 +44,8 @@
 | | vnc4server | [vnc4server : remote control ubuntu](01_Ubuntu/02_16/21_vnc4server/01_install_config_vnc4server.md) |
 | | window | [resize shortcut](01_Ubuntu/02_16/22_window/01_resize_window.md) |
 | | zip | [compress and uncompress directory](01_Ubuntu/02_16/23_zip/01_zip_directory.md) | 
-| CentOS6.9 | sed | [replace string /t to tab character](02_CentOS/01_6.9/01_sed/01_sed_string_replace.md) |
-| | git | [yum install git : version 2.x](02_CentOS/01_6.9/02_git/01_yum_install_git.md) |
+| CentOS6.9 | git | [yum install git : version 2.x](02_CentOS/01_6.9/02_git/01_yum_install_git.md) |
+| | sed | [replace string /t to tab character](02_CentOS/01_6.9/01_sed/01_sed_string_replace.md) |
 | macOS | battery | [Charge Status](03_macOS/01_Battery/01_Charge_Status.md) |
 | | find | [find : print basename](03_macOS/02_find/01_find_with_basename.md) |
 | | | [find : sed CRLF to LF](03_macOS/02_find/03_find_and_sed_move_CRLF_to_LF.md) |
