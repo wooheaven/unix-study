@@ -12,7 +12,7 @@ firefox:
      45.0.2+build1-0ubuntu1 500
         500 http://kr.archive.ubuntu.com/ubuntu xenial/main amd64 Packages
 
-$ sudo apt-get install -y firefox=45.0.2+build1-0ubuntu1
+$ sudo apt-get install -y --allow-downgrades firefox=45.0.2+build1-0ubuntu1
 Reading package lists... Done
 Building dependency tree       
 Reading state information... Done
