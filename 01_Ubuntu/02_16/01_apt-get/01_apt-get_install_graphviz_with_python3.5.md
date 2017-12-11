@@ -1,0 +1,6 @@
+```{bash}
+sudo apt-get update
+sudo apt install graphviz
+pip install pydot
+pip install graphviz
+```
