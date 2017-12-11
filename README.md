@@ -3,6 +3,7 @@
 | Ubuntu14 | apt-get | [apt-get : install package](01_Ubuntu/01_14.04/01_apt-get/01_apt-get_install.md) |
 | | | [apt-get : install nvidia-docker2](01_Ubuntu/01_14.04/01_apt-get/02_install_nvidia_docker_v2.md) |
 | | | [apt-get : hash error](01_Ubuntu/01_14.04/01_apt-get/03_apt-get_update_hash_sum_error.md) |
+| | | [apt-get : duplicate sources.list](01_Ubuntu/01_14.04/01_apt-get/04_apt-get_Duplicate_sources.list.md) |
 | | vnc4server | [vnc4server : install configure](01_Ubuntu/01_14.04/02_vnc4server/01_install_config_vnc4server.md) |
 | Ubuntu16 | awk | [column to rows](01_Ubuntu/02_16/01_awk/01_awk_column_to_rows.md) | 
 | | | [rows to column](01_Ubuntu/02_16/01_awk/02_awk_rows_to_column.md) |
@@ -44,8 +45,8 @@
 | | vnc4server | [vnc4server : remote control ubuntu](01_Ubuntu/02_16/21_vnc4server/01_install_config_vnc4server.md) |
 | | window | [resize shortcut](01_Ubuntu/02_16/22_window/01_resize_window.md) |
 | | zip | [compress and uncompress directory](01_Ubuntu/02_16/23_zip/01_zip_directory.md) | 
-| CentOS6.9 | sed | [replace string /t to tab character](02_CentOS/01_6.9/01_sed/01_sed_string_replace.md) |
-| | git | [yum install git : version 2.x](02_CentOS/01_6.9/02_git/01_yum_install_git.md) |
+| CentOS6.9 | git | [yum install git : version 2.x](02_CentOS/01_6.9/02_git/01_yum_install_git.md) |
+| | sed | [replace string /t to tab character](02_CentOS/01_6.9/01_sed/01_sed_string_replace.md) |
 | macOS | battery | [Charge Status](03_macOS/01_Battery/01_Charge_Status.md) |
 | | find | [find : print basename](03_macOS/02_find/01_find_with_basename.md) |
 | | | [find : sed CRLF to LF](03_macOS/02_find/03_find_and_sed_move_CRLF_to_LF.md) |
