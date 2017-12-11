@@ -16,6 +16,7 @@
 | | chrome remote desktop | [install : by wget deb](01_Ubuntu/02_16/03_chrome_remote_desktop/01_install_chrome_remote_desktop.md) |
 | | date | [date with format : 24:59:59.999](01_Ubuntu/02_16/04_date/01_date_with_hour_min_sec_nano.md) |
 | | df | [df -h : display file system with human readable](01_Ubuntu/02_16/05_df/01_df_with_human_readerble.md) |
+| | du | [fileSize of folder](01_Ubuntu/02_16/05_du/01_du_file_size_of_folder.md) |
 | | exfat | [install exfat : linux and windows can available fileSystem](01_Ubuntu/02_16/07_exfat/01_install_exfat_on_ubuntu16.md) |
 | | fdisk | [fdisk : partioning disk](01_Ubuntu/02_16/07_fdisk/01_fdisk_partioning_disk.md) |
 | | | [fdisk : partioning and format USB as FAT32 limit 32GB](01_Ubuntu/02_16/07_fdisk/02_format_USB_as_FAT32.md) |
@@ -36,7 +37,6 @@
 | | sed | [remove \^M in text file](01_Ubuntu/02_16/17_sed/01_remove_^M_with_sed.md) | 
 | | | [replace every 3rd comma to semicolon](01_Ubuntu/02_16/17_sed/02_replace_every_3rd_comma_to_semicolon.md) | 
 | | substring | [substring remove from beginning or back + long or short](01_Ubuntu/02_16/18_substring/01_substring_remove.md) |
-| | du | [fileSize of folder](01_Ubuntu/02_16/05_du/01_du_file_size_of_folder.md) |
 | | tac | [read from bottom to top](01_Ubuntu/02_16/18_tac/01_tac.md) |
 | | vim | [vimrc : encoding UTF8 (Korean)](01_Ubuntu/02_16/20_vim/01_vimrc_encoding_korean.md) |
 | | | [vimrc : append and save macro](01_Ubuntu/02_16/20_vim/02_vimrc_append_save_macro.md) |
