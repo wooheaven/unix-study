@@ -53,11 +53,11 @@
 | | | [brew install maven](03_Mac/02_brew/02_brew_install_mavern.md) |
 | | | [brew install iterm2](03_Mac/02_brew/03_brew_install_iterm2.md) |
 | | | [brew install zsh](03_Mac/02_brew/04_brew_install_zsh.md) |
-| | find | [find : print basename](03_macOS/03_find/01_find_with_basename.md) |
-| | | [find : sed CRLF to LF](03_macOS/03_find/03_find_and_sed_move_CRLF_to_LF.md) |
-| | | [find : maxdepth](03_macOS/03_find/02_find_with_maxdepth.md) |
-| | | [find : sed TAB to 4SPACES](03_macOS/03_find/04_find_and_sed_move_TAB_to_4SPACES.md) |
-| | IntelliJ | [Shortcut](03_macOS/04_IntelliJ/01_Shortcuts.md) |
+| | find | [find : print basename](03_Mac/03_find/01_find_with_basename.md) |
+| | | [find : sed CRLF to LF](03_Mac/03_find/03_find_and_sed_move_CRLF_to_LF.md) |
+| | | [find : maxdepth](03_Mac/03_find/02_find_with_maxdepth.md) |
+| | | [find : sed TAB to 4SPACES](03_Mac/03_find/04_find_and_sed_move_TAB_to_4SPACES.md) |
+| | IntelliJ | [Shortcut](03_Mac/04_IntelliJ/01_Shortcuts.md) |
 | | Python | [Python3.5 on conda : Matplotlib Backends RuntimeError](03_macOS/05_Python/01_with_Conda/01_Matplotlib_backends_RuntimeError.md) |
 | | sed | [move CRLF to LF](03_macOS/06_sed/01_sed_remove_CRLF_to_LF.md) |
 | | vim | [colors](03_macOS/08_vim/01_vimrc_configure.md) |

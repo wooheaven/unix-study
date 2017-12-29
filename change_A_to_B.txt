@@ -1,1 +1,5 @@
-03_macOS/01_Battery/01_Charge_Status.md -> 03_Mac/01_Battery/01_Charge_Status.md
+03_macOS/03_find/01_find_with_basename.md -> 03_Mac/03_find/01_find_with_basename.md
+03_macOS/03_find/02_find_with_maxdepth.md -> 03_Mac/03_find/02_find_with_maxdepth.md
+03_macOS/03_find/03_find_and_sed_move_CRLF_to_LF.md -> 03_Mac/03_find/03_find_and_sed_move_CRLF_to_LF.md
+03_macOS/03_find/04_find_and_sed_move_TAB_to_4SPACES.md -> 03_Mac/03_find/04_find_and_sed_move_TAB_to_4SPACES.md
+03_macOS/04_IntelliJ/01_Shortcuts.md -> 03_Mac/04_IntelliJ/01_Shortcuts.md
