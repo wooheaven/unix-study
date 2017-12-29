@@ -49,10 +49,11 @@
 | CentOS6.9 | git | [yum install git : version 2.x](02_CentOS/01_6.9/02_git/01_yum_install_git.md) |
 | | sed | [replace string /t to tab character](02_CentOS/01_6.9/01_sed/01_sed_string_replace.md) |
 | macOS | battery | [Charge Status](03_macOS/01_Battery/01_Charge_Status.md) |
-| | find | [find : print basename](03_macOS/02_find/01_find_with_basename.md) |
-| | | [find : sed CRLF to LF](03_macOS/02_find/03_find_and_sed_move_CRLF_to_LF.md) |
-| | | [find : maxdepth](03_macOS/02_find/02_find_with_maxdepth.md) |
-| | | [find : sed TAB to 4SPACES](03_macOS/02_find/04_find_and_sed_move_TAB_to_4SPACES.md) |
+| | brew | [install brew](03_macOS/02_brew/01_install_brew.md) |
+| | find | [find : print basename](03_macOS/03_find/01_find_with_basename.md) |
+| | | [find : sed CRLF to LF](03_macOS/03_find/03_find_and_sed_move_CRLF_to_LF.md) |
+| | | [find : maxdepth](03_macOS/03_find/02_find_with_maxdepth.md) |
+| | | [find : sed TAB to 4SPACES](03_macOS/03_find/04_find_and_sed_move_TAB_to_4SPACES.md) |
 | | IntelliJ | [Shortcut](03_macOS/04_IntelliJ/01_Shortcuts.md) |
 | | Python | [Python3.5 on conda : Matplotlib Backends RuntimeError](03_macOS/05_Python/01_with_Conda/01_Matplotlib_backends_RuntimeError.md) |
 | | sed | [move CRLF to LF](03_macOS/06_sed/01_sed_remove_CRLF_to_LF.md) |
