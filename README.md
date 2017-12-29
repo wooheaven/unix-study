@@ -50,6 +50,9 @@
 | | sed | [replace string /t to tab character](02_CentOS/01_6.9/01_sed/01_sed_string_replace.md) |
 | macOS | battery | [Charge Status](03_macOS/01_Battery/01_Charge_Status.md) |
 | | brew | [install brew](03_macOS/02_brew/01_install_brew.md) |
+| | | [brew install maven](03_macOS/02_brew/02_brew_install_mavern.md) |
+| | | [brew install iterm2](03_macOS/02_brew/03_brew_install_iterm2.md) |
+| | | [brew install zsh](03_macOS/02_brew/04_brew_install_zsh.md) |
 | | find | [find : print basename](03_macOS/03_find/01_find_with_basename.md) |
 | | | [find : sed CRLF to LF](03_macOS/03_find/03_find_and_sed_move_CRLF_to_LF.md) |
 | | | [find : maxdepth](03_macOS/03_find/02_find_with_maxdepth.md) |
