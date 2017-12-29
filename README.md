@@ -48,7 +48,7 @@
 | | zip | [compress and uncompress directory](01_Ubuntu/02_16/25_zip/01_zip_directory.md) | 
 | CentOS6.9 | git | [yum install git : version 2.x](02_CentOS/01_6.9/02_git/01_yum_install_git.md) |
 | | sed | [replace string /t to tab character](02_CentOS/01_6.9/01_sed/01_sed_string_replace.md) |
-| macOS | battery | [Charge Status](03_macOS/01_Battery/01_Charge_Status.md) |
+| macOS | battery | [Charge Status](03_Mac/01_Battery/01_Charge_Status.md) |
 | | brew | [install brew](03_Mac/02_brew/01_install_brew.md) |
 | | | [brew install maven](03_Mac/02_brew/02_brew_install_mavern.md) |
 | | | [brew install iterm2](03_Mac/02_brew/03_brew_install_iterm2.md) |
