@@ -1,4 +1,9 @@
-i# Install Command Line Tools without XCode
+# Install Command Line Tools without XCode
 ```{bash}
 xcode-select --install
+```
+
+# Remove 
+```{bash}
+rm -rf /Library/Developer/CommandLineTools
 ```
