@@ -11,8 +11,10 @@ brew uninstall aquaterm
 # install gnuplot
 ```{bash}
 brew search gnuplot --with-aquaterm
+
 brew install Caskroom/cask/aquaterm
 # ref = https://github.com/caskroom/homebrew-cask/blob/master/Casks/aquaterm.rb
+
 brew list
 ls /usr/local/bin/gnuplot
 lrwxr-xr-x  1 rwoo  admin    37B  1  2 17:58 /usr/local/bin/gnuplot@ -> ../Cellar/gnuplot/5.2.2_1/bin/gnuplot
