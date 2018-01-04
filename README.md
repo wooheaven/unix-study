@@ -40,6 +40,7 @@
 | | rsync | [rsync : folder to folder](01_Ubuntu/02_16/20_rsync/01_rsync_folder_to_folder.md) |
 | | sed | [remove \^M in text file](01_Ubuntu/02_16/21_sed/01_remove_^M_with_sed.md) | 
 | | | [replace every 3rd comma to semicolon](01_Ubuntu/02_16/21_sed/02_replace_every_3rd_comma_to_semicolon.md) | 
+| | Startup Applications | [Add Programs](01_Ubuntu/02_16/22_Startup_Applications/01_add_programs.md) |
 | | substring | [substring remove from beginning or back + long or short](01_Ubuntu/02_16/22_substring/01_substring_remove.md) |
 | | tac | [read from bottom to top](01_Ubuntu/02_16/18_tac/01_tac.md) |
 | | vim | [vimrc : encoding UTF8 (Korean)](01_Ubuntu/02_16/24_vim/01_vimrc_encoding_korean.md) |
