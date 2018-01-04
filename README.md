@@ -5,7 +5,8 @@
 | | | [apt-get : hash error](01_Ubuntu/01_14.04/01_apt-get/03_apt-get_update_hash_sum_error.md) |
 | | | [apt-get : duplicate sources.list](01_Ubuntu/01_14.04/01_apt-get/04_apt-get_Duplicate_sources.list.md) |
 | | vnc4server | [vnc4server : install configure](01_Ubuntu/01_14.04/02_vnc4server/01_install_config_vnc4server.md) |
-| Ubuntu16 | awk | [column to rows](01_Ubuntu/02_16/02_awk/01_awk_column_to_rows.md) | 
+| Ubuntu16 | apt-get | [apt-get : install graphviz](01_Ubuntu/02_16/01_apt-get/01_apt-get_install_graphviz_with_python3.5.md) |
+| | awk | [column to rows](01_Ubuntu/02_16/02_awk/01_awk_column_to_rows.md) | 
 | | | [rows to column](01_Ubuntu/02_16/02_awk/02_awk_rows_to_column.md) |
 | | | [remove blank line](01_Ubuntu/02_16/02_awk/03_awk_remove_blank_line.md) |
 | | | [use external argument](01_Ubuntu/02_16/02_awk/04_awk_use_external_argument.md) |
