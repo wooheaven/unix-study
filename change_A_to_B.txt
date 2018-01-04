@@ -1,8 +1,2 @@
-01_Ubuntu/02_16/22_substring/01_substring_remove.md -> 01_Ubuntu/02_16/23_substring/01_substring_remove.md
-01_Ubuntu/02_16/23_tac/01_tac.md -> 01_Ubuntu/02_16/24_tac/01_tac.md
-01_Ubuntu/02_16/24_vim/01_vimrc_encoding_korean.md -> 01_Ubuntu/02_16/25_vim/01_vimrc_encoding_korean.md
-01_Ubuntu/02_16/24_vim/02_vimrc_append_save_macro.md -> 01_Ubuntu/02_16/25_vim/02_vimrc_append_save_macro.md
-01_Ubuntu/02_16/24_vim/03_vim_diff.md -> 01_Ubuntu/02_16/25_vim/03_vim_diff.md
-01_Ubuntu/02_16/25_vnc4server/01_install_config_vnc4server.md -> 01_Ubuntu/02_16/26_vnc4server/01_install_config_vnc4server.md
-01_Ubuntu/02_16/26_window/01_resize_window.md -> 01_Ubuntu/02_16/27_window/01_resize_window.md
-01_Ubuntu/02_16/27_zip/01_zip_directory.md -> 01_Ubuntu/02_16/28_zip/01_zip_directory.md
+01_Ubuntu/02_16/27_window/01_resize_window.md -> 01_Ubuntu/02_16/28_window/01_resize_window.md
+01_Ubuntu/02_16/28_zip/01_zip_directory.md -> 01_Ubuntu/02_16/29_zip/01_zip_directory.md
