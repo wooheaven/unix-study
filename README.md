@@ -48,7 +48,8 @@
 | | | [vim diff](01_Ubuntu/02_16/25_vim/03_vim_diff.md) | 
 | | vnc4server | [vnc4server : remote control ubuntu](01_Ubuntu/02_16/26_vnc4server/01_install_config_vnc4server.md) |
 | | window | [resize shortcut](01_Ubuntu/02_16/27_window/01_resize_window.md) |
-| | zip | [compress and uncompress directory](01_Ubuntu/02_16/28_zip/01_zip_directory.md) | 
+| | xclip | [xclip : install and use](01_Ubuntu/02_16/28_xclip/01_install_and_use_xclip.md) |
+| | zip | [compress and uncompress directory](01_Ubuntu/02_16/29_zip/01_zip_directory.md) | 
 | CentOS6.9 | git | [yum install git : version 2.x](02_CentOS/01_6.9/02_git/01_yum_install_git.md) |
 | | sed | [replace string /t to tab character](02_CentOS/01_6.9/01_sed/01_sed_string_replace.md) |
 | Mac | battery | [Charge Status](03_Mac/01_Battery/01_Charge_Status.md) |
