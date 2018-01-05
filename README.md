@@ -11,6 +11,7 @@
 | | | [remove blank line](01_Ubuntu/02_16/02_awk/03_awk_remove_blank_line.md) |
 | | | [use external argument](01_Ubuntu/02_16/02_awk/04_awk_use_external_argument.md) |
 | | | [use variable in awk](01_Ubuntu/02_16/02_awk/05_awk_use_variable.md) |
+| | | [substr](01_Ubuntu/02_16/02_awk/06_awk_substr.md) |
 | | apt-get | [apt-get : install graphviz](01_Ubuntu/02_16/01_apt-get/01_apt-get_install_graphviz_with_python3.5.md) |
 | | bash | [while statement](01_Ubuntu/02_16/03_bash/01_While_Statement.md) |
 | | bashShell | [1st argument existence check](01_Ubuntu/02_16/04_bashShell_script/01_if_condition_1st_argument_existence_check.md) |
