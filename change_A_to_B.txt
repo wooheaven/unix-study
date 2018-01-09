@@ -1,2 +1,1 @@
-01_Ubuntu/02_16/01_apt-get/02_apt-get_install_graphviz_with_python3.5.md -> 01_Ubuntu/02_16/01_apt-get/01_apt-get_install_graphviz_with_python3.5.md
-01_Ubuntu/02_16/01_apt-get/01_apt-get_lock_error.md -> 01_Ubuntu/02_16/01_apt-get/02_apt-get_lock_error.md
+01_Ubuntu/02_16/01_apt-get/02_apt-get_lock_error.md -> 01_Ubuntu/02_16/01_apt-get/03_apt-get_lock_error.md
