@@ -60,6 +60,7 @@
 | | | [brew install iterm2](03_Mac/02_brew/03_brew_install_iterm2.md) |
 | | | [brew install zsh](03_Mac/02_brew/04_brew_install_zsh.md) |
 | | | [brew install gnuplot](03_Mac/02_brew/05_brew_install_gnuplot.md) |
+| | | [brew install jq](03_Mac/02_brew/06_brew_install_jq.md) |
 | | Command Line Tools | [install](03_Mac/03_Command_Line_Tools/01_install_Command_Line_Tools.md) |
 | | find | [find : print basename](03_Mac/04_find/01_find_with_basename.md) |
 | | | [find : sed CRLF to LF](03_Mac/04_find/03_find_and_sed_move_CRLF_to_LF.md) |
