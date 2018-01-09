@@ -1,2 +1,2 @@
-01_Ubuntu/02_16/27_window/01_resize_window.md -> 01_Ubuntu/02_16/28_window/01_resize_window.md
-01_Ubuntu/02_16/28_zip/01_zip_directory.md -> 01_Ubuntu/02_16/29_zip/01_zip_directory.md
+01_Ubuntu/02_16/01_apt-get/02_apt-get_install_graphviz_with_python3.5.md -> 01_Ubuntu/02_16/01_apt-get/01_apt-get_install_graphviz_with_python3.5.md
+01_Ubuntu/02_16/01_apt-get/01_apt-get_lock_error.md -> 01_Ubuntu/02_16/01_apt-get/02_apt-get_lock_error.md
