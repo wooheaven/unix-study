@@ -21,37 +21,38 @@
 | | chrome remote desktop | [install : by wget deb](01_Ubuntu/02_16/05_chrome_remote_desktop/01_install_chrome_remote_desktop.md) |
 | | date | [date with format : 24:59:59.999](01_Ubuntu/02_16/06_date/01_date_with_hour_min_sec_nano.md) |
 | | df | [df -h : display file system with human readable](01_Ubuntu/02_16/07_df/01_df_with_human_readerble.md) |
-| | du | [fileSize of folder](01_Ubuntu/02_16/05_du/01_du_file_size_of_folder.md) |
-| | exfat | [install exfat : linux and windows can available fileSystem](01_Ubuntu/02_16/09_exfat/01_install_exfat_on_ubuntu16.md) |
-| | fdisk | [fdisk : partioning disk](01_Ubuntu/02_16/10_fdisk/01_fdisk_partioning_disk.md) |
-| | | [fdisk : partioning and format USB as FAT32 limit 32GB](01_Ubuntu/02_16/10_fdisk/02_format_USB_as_FAT32.md) |
-| | find | [find : find with basename](01_Ubuntu/02_16/11_find/01_find_with_basename.md) |
-| | | [find : find with maxdepth](01_Ubuntu/02_16/11_find/02_find_with_maxdepth.md) |
-| | | [find : find file and sed CRLF to LF](01_Ubuntu/02_16/11_find/03_find_and_sed_move_CRLF_to_LF.md) |
-| | | [find : find file and sed TAB to 4SPACES](01_Ubuntu/02_16/11_find/04_find_and_sed_move_TAB_to_4SPACES.md) |
-| | firefox | [firefox : downgrade and upgrade](01_Ubuntu/02_16/12_firefox/01_firefox_downgrade_57_to_45.md) |
-| | for | [for : num++](01_Ubuntu/02_16/13_for_statement/01_for_num++.md) |
-| | | [for : in list](01_Ubuntu/02_16/13_for_statement/02_for_in_list.md) |
-| | | [for : read file](01_Ubuntu/02_16/13_for_statement/03_for_read_file.md) |
-| | gnome terminal | [gnome terminal : run by CLI](01_Ubuntu/02_16/14_gnome_terminal/01_run_gnome_terminal_by_CLI.md) |
-| | if | [if : check filePath](01_Ubuntu/02_16/15_if/01_if_check_filePath.md) |
-| | LVM | [LVM : format and mount attached device](01_Ubuntu/02_16/16_LVM/01_LVM_on_attached_device.md) |
-| | mkfs.ext4 | [make filesystem ext4](01_Ubuntu/02_16/17_mkfs.ext4/01_mkfs.ext4_device.md) |
-| | mkfs.xfs | [make filesystem xfs](01_Ubuntu/02_16/18_mkfs.xfs/01_mkfs.xfs_device.md) |
-| | nmap | [port check](01_Ubuntu/02_16/19_nmap/01_install_use_nmap.md) |
-| | rsync | [rsync : folder to folder](01_Ubuntu/02_16/20_rsync/01_rsync_folder_to_folder.md) |
-| | sed | [remove \^M in text file](01_Ubuntu/02_16/21_sed/01_remove_^M_with_sed.md) | 
-| | | [replace every 3rd comma to semicolon](01_Ubuntu/02_16/21_sed/02_replace_every_3rd_comma_to_semicolon.md) | 
-| | Startup Applications | [Add Programs](01_Ubuntu/02_16/22_Startup_Applications/01_add_programs.md) |
-| | substring | [substring remove from beginning or back + long or short](01_Ubuntu/02_16/23_substring/01_substring_remove.md) |
-| | tac | [read from bottom to top](01_Ubuntu/02_16/24_tac/01_tac.md) |
-| | vim | [vimrc : encoding UTF8 (Korean)](01_Ubuntu/02_16/25_vim/01_vimrc_encoding_korean.md) |
-| | | [vimrc : append and save macro](01_Ubuntu/02_16/25_vim/02_vimrc_append_save_macro.md) |
-| | | [vim diff](01_Ubuntu/02_16/25_vim/03_vim_diff.md) | 
-| | vnc4server | [vnc4server : remote control ubuntu](01_Ubuntu/02_16/26_vnc4server/01_install_config_vnc4server.md) |
-| | window | [resize shortcut](01_Ubuntu/02_16/27_window/01_resize_window.md) |
-| | xclip | [xclip : install and use](01_Ubuntu/02_16/28_xclip/01_install_and_use_xclip.md) |
-| | zip | [compress and uncompress directory](01_Ubuntu/02_16/29_zip/01_zip_directory.md) | 
+| | dpkg | [dpgk : install and remove package](01_Ubuntu/02_16/08_dpkg/01_dpkg_install_remove_package.md) |
+| | du | [fileSize of folder](01_Ubuntu/02_16/09_du/01_du_file_size_of_folder.md) |
+| | exfat | [install exfat : linux and windows can available fileSystem](01_Ubuntu/02_16/10_exfat/01_install_exfat_on_ubuntu16.md) |
+| | fdisk | [fdisk : partioning disk](01_Ubuntu/02_16/11_fdisk/01_fdisk_partioning_disk.md) |
+| | | [fdisk : partioning and format USB as FAT32 limit 32GB](01_Ubuntu/02_16/11_fdisk/02_format_USB_as_FAT32.md) |
+| | find | [find : find with basename](01_Ubuntu/02_16/12_find/01_find_with_basename.md) |
+| | | [find : find with maxdepth](01_Ubuntu/02_16/12_find/02_find_with_maxdepth.md) |
+| | | [find : find file and sed CRLF to LF](01_Ubuntu/02_16/12_find/03_find_and_sed_move_CRLF_to_LF.md) |
+| | | [find : find file and sed TAB to 4SPACES](01_Ubuntu/02_16/12_find/04_find_and_sed_move_TAB_to_4SPACES.md) |
+| | firefox | [firefox : downgrade and upgrade](01_Ubuntu/02_16/13_firefox/01_firefox_downgrade_57_to_45.md) |
+| | for | [for : num++](01_Ubuntu/02_16/14_for_statement/01_for_num++.md) |
+| | | [for : in list](01_Ubuntu/02_16/14_for_statement/02_for_in_list.md) |
+| | | [for : read file](01_Ubuntu/02_16/14_for_statement/03_for_read_file.md) |
+| | gnome terminal | [gnome terminal : run by CLI](01_Ubuntu/02_16/15_gnome_terminal/01_run_gnome_terminal_by_CLI.md) |
+| | if | [if : check filePath](01_Ubuntu/02_16/16_if/01_if_check_filePath.md) |
+| | LVM | [LVM : format and mount attached device](01_Ubuntu/02_16/17_LVM/01_LVM_on_attached_device.md) |
+| | mkfs.ext4 | [make filesystem ext4](01_Ubuntu/02_16/18_mkfs.ext4/01_mkfs.ext4_device.md) |
+| | mkfs.xfs | [make filesystem xfs](01_Ubuntu/02_16/19_mkfs.xfs/01_mkfs.xfs_device.md) |
+| | nmap | [port check](01_Ubuntu/02_16/20_nmap/01_install_use_nmap.md) |
+| | rsync | [rsync : folder to folder](01_Ubuntu/02_16/21_rsync/01_rsync_folder_to_folder.md) |
+| | sed | [remove \^M in text file](01_Ubuntu/02_16/22_sed/01_remove_^M_with_sed.md) | 
+| | | [replace every 3rd comma to semicolon](01_Ubuntu/02_16/22_sed/02_replace_every_3rd_comma_to_semicolon.md) | 
+| | Startup Applications | [Add Programs](01_Ubuntu/02_16/23_Startup_Applications/01_add_programs.md) |
+| | substring | [substring remove from beginning or back + long or short](01_Ubuntu/02_16/24_substring/01_substring_remove.md) |
+| | tac | [read from bottom to top](01_Ubuntu/02_16/25_tac/01_tac.md) |
+| | vim | [vimrc : encoding UTF8 (Korean)](01_Ubuntu/02_16/26_vim/01_vimrc_encoding_korean.md) |
+| | | [vimrc : append and save macro](01_Ubuntu/02_16/26_vim/02_vimrc_append_save_macro.md) |
+| | | [vim diff](01_Ubuntu/02_16/26_vim/03_vim_diff.md) | 
+| | vnc4server | [vnc4server : remote control ubuntu](01_Ubuntu/02_16/27_vnc4server/01_install_config_vnc4server.md) |
+| | window | [resize shortcut](01_Ubuntu/02_16/28_window/01_resize_window.md) |
+| | xclip | [xclip : install and use](01_Ubuntu/02_16/29_xclip/01_install_and_use_xclip.md) |
+| | zip | [compress and uncompress directory](01_Ubuntu/02_16/30_zip/01_zip_directory.md) | 
 | CentOS6.9 | git | [yum install git : version 2.x](02_CentOS/01_6.9/02_git/01_yum_install_git.md) |
 | | sed | [replace string /t to tab character](02_CentOS/01_6.9/01_sed/01_sed_string_replace.md) |
 | Mac | battery | [Charge Status](03_Mac/01_Battery/01_Charge_Status.md) |
