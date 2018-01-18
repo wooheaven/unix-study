@@ -22,7 +22,7 @@
 | | date | [date with format : 24:59:59.999](01_Ubuntu/02_16/06_date/01_date_with_hour_min_sec_nano.md) |
 | | df | [df -h : display file system with human readable](01_Ubuntu/02_16/07_df/01_df_with_human_readerble.md) |
 | | dpkg | [dpgk : install and remove package](01_Ubuntu/02_16/08_dpkg/01_dpkg_install_remove_package.md) |
-| | du | [fileSize of folder](01_Ubuntu/02_16/05_du/01_du_file_size_of_folder.md) |
+| | du | [fileSize of folder](01_Ubuntu/02_16/09_du/01_du_file_size_of_folder.md) |
 | | exfat | [install exfat : linux and windows can available fileSystem](01_Ubuntu/02_16/10_exfat/01_install_exfat_on_ubuntu16.md) |
 | | fdisk | [fdisk : partioning disk](01_Ubuntu/02_16/11_fdisk/01_fdisk_partioning_disk.md) |
 | | | [fdisk : partioning and format USB as FAT32 limit 32GB](01_Ubuntu/02_16/11_fdisk/02_format_USB_as_FAT32.md) |
