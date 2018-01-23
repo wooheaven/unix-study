@@ -55,8 +55,10 @@
 | | window | [resize shortcut](01_Ubuntu/02_16/29_window/01_resize_window.md) |
 | | xclip | [xclip : install and use](01_Ubuntu/02_16/30_xclip/01_install_and_use_xclip.md) |
 | | zip | [compress and uncompress directory](01_Ubuntu/02_16/31_zip/01_zip_directory.md) | 
-| CentOS6.9 | git | [yum install git : version 2.x](02_CentOS/01_6.9/02_git/01_yum_install_git.md) |
-| | sed | [replace string /t to tab character](02_CentOS/01_6.9/01_sed/01_sed_string_replace.md) |
+| CentOS6.9 | git | [yum install git : version 2.x](02_CentOS/01_6.9/01_git/01_yum_install_git.md) |
+| | network | [network : static](02_CentOS/01_6.9/02_network/01_static.md) |
+| | | [network : dhcp](02_CentOS/01_6.9/02_network/02_dhcp.md) |
+| | sed | [replace string /t to tab character](02_CentOS/01_6.9/03_sed/01_sed_string_replace.md) |
 | Mac | battery | [Charge Status](03_Mac/01_Battery/01_Charge_Status.md) |
 | | brew | [install brew](03_Mac/02_brew/01_install_brew.md) |
 | | | [brew install maven](03_Mac/02_brew/02_brew_install_mavern.md) |
