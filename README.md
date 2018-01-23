@@ -39,20 +39,22 @@
 | | LVM | [LVM : format and mount attached device](01_Ubuntu/02_16/17_LVM/01_LVM_on_attached_device.md) |
 | | mkfs.ext4 | [make filesystem ext4](01_Ubuntu/02_16/18_mkfs.ext4/01_mkfs.ext4_device.md) |
 | | mkfs.xfs | [make filesystem xfs](01_Ubuntu/02_16/19_mkfs.xfs/01_mkfs.xfs_device.md) |
-| | nmap | [port check](01_Ubuntu/02_16/20_nmap/01_install_use_nmap.md) |
-| | rsync | [rsync : folder to folder](01_Ubuntu/02_16/21_rsync/01_rsync_folder_to_folder.md) |
-| | sed | [remove \^M in text file](01_Ubuntu/02_16/22_sed/01_remove_^M_with_sed.md) | 
-| | | [replace every 3rd comma to semicolon](01_Ubuntu/02_16/22_sed/02_replace_every_3rd_comma_to_semicolon.md) | 
-| | Startup Applications | [Add Programs](01_Ubuntu/02_16/23_Startup_Applications/01_add_programs.md) |
-| | substring | [substring remove from beginning or back + long or short](01_Ubuntu/02_16/24_substring/01_substring_remove.md) |
-| | tac | [read from bottom to top](01_Ubuntu/02_16/25_tac/01_tac.md) |
-| | vim | [vimrc : encoding UTF8 (Korean)](01_Ubuntu/02_16/26_vim/01_vimrc_encoding_korean.md) |
-| | | [vimrc : append and save macro](01_Ubuntu/02_16/26_vim/02_vimrc_append_save_macro.md) |
-| | | [vim diff](01_Ubuntu/02_16/26_vim/03_vim_diff.md) | 
-| | vnc4server | [vnc4server : remote control ubuntu](01_Ubuntu/02_16/27_vnc4server/01_install_config_vnc4server.md) |
-| | window | [resize shortcut](01_Ubuntu/02_16/28_window/01_resize_window.md) |
-| | xclip | [xclip : install and use](01_Ubuntu/02_16/29_xclip/01_install_and_use_xclip.md) |
-| | zip | [compress and uncompress directory](01_Ubuntu/02_16/30_zip/01_zip_directory.md) | 
+| | network | [network : static](01_Ubuntu/02_16/20_network/01_static/01_configure_static.md) |
+| | | [network : dhcp](01_Ubuntu/02_16/20_network/01_static/01_configure_static.md) |
+| | nmap | [port check](01_Ubuntu/02_16/21_nmap/01_install_use_nmap.md) |
+| | rsync | [rsync : folder to folder](01_Ubuntu/02_16/22_rsync/01_rsync_folder_to_folder.md) |
+| | sed | [remove \^M in text file](01_Ubuntu/02_16/23_sed/01_remove_^M_with_sed.md) | 
+| | | [replace every 3rd comma to semicolon](01_Ubuntu/02_16/23_sed/02_replace_every_3rd_comma_to_semicolon.md) | 
+| | Startup Applications | [Add Programs](01_Ubuntu/02_16/24_Startup_Applications/01_add_programs.md) |
+| | substring | [substring remove from beginning or back + long or short](01_Ubuntu/02_16/25_substring/01_substring_remove.md) |
+| | tac | [read from bottom to top](01_Ubuntu/02_16/26_tac/01_tac.md) |
+| | vim | [vimrc : encoding UTF8 (Korean)](01_Ubuntu/02_16/27_vim/01_vimrc_encoding_korean.md) |
+| | | [vimrc : append and save macro](01_Ubuntu/02_16/27_vim/02_vimrc_append_save_macro.md) |
+| | | [vim diff](01_Ubuntu/02_16/27_vim/03_vim_diff.md) | 
+| | vnc4server | [vnc4server : remote control ubuntu](01_Ubuntu/02_16/28_vnc4server/01_install_config_vnc4server.md) |
+| | window | [resize shortcut](01_Ubuntu/02_16/29_window/01_resize_window.md) |
+| | xclip | [xclip : install and use](01_Ubuntu/02_16/30_xclip/01_install_and_use_xclip.md) |
+| | zip | [compress and uncompress directory](01_Ubuntu/02_16/31_zip/01_zip_directory.md) | 
 | CentOS6.9 | git | [yum install git : version 2.x](02_CentOS/01_6.9/02_git/01_yum_install_git.md) |
 | | sed | [replace string /t to tab character](02_CentOS/01_6.9/01_sed/01_sed_string_replace.md) |
 | Mac | battery | [Charge Status](03_Mac/01_Battery/01_Charge_Status.md) |
