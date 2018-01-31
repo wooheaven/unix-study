@@ -42,6 +42,7 @@
 | | network | [network : static](01_Ubuntu/02_16/20_network/01_static/01_configure_static.md) |
 | | | [network : dhcp](01_Ubuntu/02_16/20_network/01_static/01_configure_static.md) |
 | | nmap | [port check](01_Ubuntu/02_16/21_nmap/01_install_use_nmap.md) |
+| | nvidia | [install : nvidia driver](01_Ubuntu/02_16/22_nvidia/01_install_nvidia_driver.md) |
 | | rsync | [rsync : folder to folder](01_Ubuntu/02_16/22_rsync/01_rsync_folder_to_folder.md) |
 | | sed | [remove \^M in text file](01_Ubuntu/02_16/23_sed/01_remove_^M_with_sed.md) | 
 | | | [replace every 3rd comma to semicolon](01_Ubuntu/02_16/23_sed/02_replace_every_3rd_comma_to_semicolon.md) | 
