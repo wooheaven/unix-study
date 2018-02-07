@@ -55,6 +55,7 @@
 | | vim | [vimrc : encoding UTF8 (Korean)](01_Ubuntu/02_16/31_vim/01_vimrc_encoding_korean.md) |
 | | | [vimrc : append and save macro](01_Ubuntu/02_16/31_vim/02_vimrc_append_save_macro.md) |
 | | | [vim diff](01_Ubuntu/02_16/31_vim/03_vim_diff.md) | 
+| | | [vim move line](01_Ubuntu/02_16/31_vim/04_vim_move_line.md) | 
 | | vnc4server | [vnc4server : remote control ubuntu](01_Ubuntu/02_16/32_vnc4server/01_install_config_vnc4server.md) |
 | | window | [resize shortcut](01_Ubuntu/02_16/33_window/01_resize_window.md) |
 | | xclip | [xclip : install and use](01_Ubuntu/02_16/34_xclip/01_install_and_use_xclip.md) |
@@ -83,6 +84,7 @@
 | | | [vim diff](03_Mac/09_vim/02_vim_diff.md) |
 | | | [vim diff refresh](03_Mac/09_vim/03_vim_diff_refresh.md) |
 | | | [vimrc : short key](03_Mac/09_vim/04_vimrc.md) |
+| | | [vim move line](03_Mac/09_vim/05_vim_move_line.md) |
 | | vnc | [vnc client : Connect to vnc server](03_Mac/10_vnc_client/01_use_vnc_client.md) |
 | | zip | [compress folder, partially by size](03_Mac/11_zip/01_use_zip.md) |
 | | Zsh | [~/.bash_profile ~/.bashrc ~/.zshrc : Configure with non-login/login](03_Mac/12_zsh/01_explain_of_bash_profile_bashrc_zshrc.md) |
