@@ -50,6 +50,7 @@
 | | sed | [remove \^M in text file](01_Ubuntu/02_16/27_sed/01_remove_^M_with_sed.md) | 
 | | | [replace every 3rd comma to semicolon](01_Ubuntu/02_16/27_sed/02_replace_every_3rd_comma_to_semicolon.md) |
 | | ssh | [ssh : install](01_Ubuntu/02_16/29_ssh/01_install_ssh.md) |
+| | | [ssh-key : ssh login without passowrd](01_Ubuntu/02_16/29_ssh/02_add_publicKey_to_server.md) |
 | | server | [install ubuntu 16 server](01_Ubuntu/02_16/28_server/01_install_ubuntu16_server.md) | 
 | | Startup Applications | [Add Programs](01_Ubuntu/02_16/30_Startup_Applications/01_add_programs.md) |
 | | Steam | [Install Steam on Ubuntu16](01_Ubuntu/02_16/31_Steam/01_install_Steam_on_ubuntu16.md) |
