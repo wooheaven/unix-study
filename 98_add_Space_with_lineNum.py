@@ -26,7 +26,7 @@ def getColumnAsStringFromMatrix(matrix, targetLineNum, targetLineColumnNum):
     return outputStr
 
 def addSpaceStrAtLast(comparedStr, targetStr):
-    while ( not len(comparedStr) == len(targetStr) ):
+    while ( len(comparedStr) > len(targetStr) ):
         #printColumnStr(comparedStr)
         #printColumnStr(targetStr)
         targetStr += " "
