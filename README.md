@@ -79,6 +79,7 @@
 |           |                       | [brew install zsh](03_Mac/02_brew/04_brew_install_zsh.md)                                                                       |
 |           |                       | [brew install gnuplot](03_Mac/02_brew/05_brew_install_gnuplot.md)                                                               |
 |           |                       | [brew install jq](03_Mac/02_brew/06_brew_install_jq.md)                                                                         |
+|           |                       | [brew install tree](03_Mac/02_brew/07_brew_install_tree.md)                                                                     |
 |           | Command Line Tools    | [install](03_Mac/03_Command_Line_Tools/01_install_Command_Line_Tools.md)                                                        |
 |           | find                  | [find : print basename](03_Mac/04_find/01_find_with_basename.md)                                                                |
 |           |                       | [find : sed CRLF to LF](03_Mac/04_find/03_find_and_sed_move_CRLF_to_LF.md)                                                      |
@@ -88,13 +89,14 @@
 |           | IntelliJ              | [Shortcut](03_Mac/06_IntelliJ/01_Shortcuts.md)                                                                                  |
 |           | Python                | [Python3.5 on conda : Matplotlib Backends RuntimeError](03_Mac/07_Python/01_with_Conda/01_Matplotlib_backends_RuntimeError.md)  |
 |           | sed                   | [move CRLF to LF](03_Mac/08_sed/01_sed_remove_CRLF_to_LF.md)                                                                    |
-|           | vim                   | [colors](03_Mac/09_vim/01_vimrc_configure.md)                                                                                   |
-|           |                       | [vim diff](03_Mac/09_vim/02_vim_diff.md)                                                                                        |
-|           |                       | [vim diff refresh](03_Mac/09_vim/03_vim_diff_refresh.md)                                                                        |
-|           |                       | [vimrc : short key](03_Mac/09_vim/04_vimrc.md)                                                                                  |
-|           |                       | [vim move line](03_Mac/09_vim/05_vim_move_line.md)                                                                              |
-|           |                       | [vim save as other file](03_Mac/09_vim/06_vim_save_as_other_File.md)                                                            |
-|           | vnc                   | [vnc client : Connect to vnc server](03_Mac/10_vnc_client/01_use_vnc_client.md)                                                 |
-|           | zip                   | [compress folder, partially by size](03_Mac/11_zip/01_use_zip.md)                                                               |
-|           | Zsh                   | [~/.bash_profile ~/.bashrc ~/.zshrc : Configure with non-login/login](03_Mac/12_zsh/01_explain_of_bash_profile_bashrc_zshrc.md) |
-|           |                       | [~/.zshrc : example of .zshrc](03_Mac/12_zsh/02_example_of_zshrc.md)                                                            |
+|           | tree                  | [install and use tree](03_Mac/09_tree/01_install_use_tree_on_mac.md)                                                            |
+|           | vim                   | [colors](03_Mac/10_vim/01_vimrc_configure.md)                                                                                   |
+|           |                       | [vim diff](03_Mac/10_vim/02_vim_diff.md)                                                                                        |
+|           |                       | [vim diff refresh](03_Mac/10_vim/03_vim_diff_refresh.md)                                                                        |
+|           |                       | [vimrc : short key](03_Mac/10_vim/04_vimrc.md)                                                                                  |
+|           |                       | [vim move line](03_Mac/10_vim/05_vim_move_line.md)                                                                              |
+|           |                       | [vim save as other file](03_Mac/10_vim/06_vim_save_as_other_File.md)                                                            |
+|           | vnc                   | [vnc client : Connect to vnc server](03_Mac/11_vnc_client/01_use_vnc_client.md)                                                 |
+|           | zip                   | [compress folder, partially by size](03_Mac/12_zip/01_use_zip.md)                                                               |
+|           | Zsh                   | [~/.bash_profile ~/.bashrc ~/.zshrc : Configure with non-login/login](03_Mac/13_zsh/01_explain_of_bash_profile_bashrc_zshrc.md) |
+|           |                       | [~/.zshrc : example of .zshrc](03_Mac/13_zsh/02_example_of_zshrc.md)                                                            |
