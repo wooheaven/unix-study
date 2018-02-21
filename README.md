@@ -28,6 +28,7 @@
 |           | exfat                 | [install exfat : linux and windows can available fileSystem](01_Ubuntu/02_16/11_exfat/01_install_exfat_on_ubuntu16.md)          |
 |           | fdisk                 | [fdisk : partioning disk](01_Ubuntu/02_16/12_fdisk/01_fdisk_partioning_disk.md)                                                 |
 |           |                       | [fdisk : partioning and format USB as FAT32 limit 32GB](01_Ubuntu/02_16/12_fdisk/02_format_USB_as_FAT32.md)                     |
+|           |                       | [fdisk : list partitions of attached disks](01_Ubuntu/02_16/12_fdisk/03_fdisk_list_disks.md)                                    |
 |           | find                  | [find : find with basename](01_Ubuntu/02_16/13_find/01_find_with_basename.md)                                                   |
 |           |                       | [find : find with maxdepth](01_Ubuntu/02_16/13_find/02_find_with_maxdepth.md)                                                   |
 |           |                       | [find : find file and sed CRLF to LF](01_Ubuntu/02_16/13_find/03_find_and_sed_move_CRLF_to_LF.md)                               |
@@ -47,28 +48,29 @@
 |           | nohup                 | [nohup : use](01_Ubuntu/02_16/23_nohup/01_use_nohup.md)                                                                         |
 |           | nvidia                | [install : nvidia driver](01_Ubuntu/02_16/24_nvidia/01_install_nvidia_driver.md)                                                |
 |           | opencv                | [build and install : opencv 3.4.0](01_Ubuntu/02_16/25_OpenCV/01_Build_OpenCV_3.4_with_opencv_contrib.md)                        |
-|           | rsync                 | [rsync : folder to folder](01_Ubuntu/02_16/26_rsync/01_rsync_folder_to_folder.md)                                               |
-|           | run-level             | [run-level : change](01_Ubuntu/02_16/27_run-level/01_change_run-level.md)                                                       |
-|           | sed                   | [remove \^M in text file](01_Ubuntu/02_16/28_sed/01_remove_^M_with_sed.md)                                                      | 
-|           |                       | [replace every 3rd comma to semicolon](01_Ubuntu/02_16/28_sed/02_replace_every_3rd_comma_to_semicolon.md)                       |
-|           | ssh                   | [ssh : install](01_Ubuntu/02_16/30_ssh/01_install_ssh.md)                                                                       |
-|           |                       | [ssh-key : ssh login without passowrd](01_Ubuntu/02_16/30_ssh/02_add_publicKey_to_server.md)                                    |
-|           | server                | [install ubuntu 16 server](01_Ubuntu/02_16/29_server/01_install_ubuntu16_server.md)                                             | 
-|           | Startup Applications  | [Add Programs](01_Ubuntu/02_16/31_Startup_Applications/01_add_programs.md)                                                      |
-|           | Steam                 | [Install Steam on Ubuntu16](01_Ubuntu/02_16/32_Steam/01_install_Steam_on_ubuntu16.md)                                           |
-|           | substring             | [substring remove from beginning or back + long or short](01_Ubuntu/02_16/33_substring/01_substring_remove.md)                  |
-|           | tac                   | [read from bottom to top](01_Ubuntu/02_16/34_tac/01_tac.md)                                                                     |
-|           | vim                   | [vimrc : encoding UTF8 (Korean)](01_Ubuntu/02_16/35_vim/01_vimrc_encoding_korean.md)                                            |
-|           |                       | [vimrc : append and save macro](01_Ubuntu/02_16/35_vim/02_vimrc_append_save_macro.md)                                           |
-|           |                       | [vim diff](01_Ubuntu/02_16/35_vim/03_vim_diff.md)                                                                               | 
-|           |                       | [vim move line](01_Ubuntu/02_16/35_vim/04_vim_move_line.md)                                                                     | 
-|           |                       | [vim save as other file](01_Ubuntu/02_16/35_vim/05_vim_save_as_other_File.md)                                                   | 
-|           | vnc4server            | [vnc4server : remote control ubuntu](01_Ubuntu/02_16/36_vnc4server/01_install_config_vnc4server.md)                             |
-|           | vncserver             | [vncserver : remote access sharing](01_Ubuntu/02_16/36_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md)                |
-|           | window                | [resize shortcut](01_Ubuntu/02_16/37_window/01_resize_window.md)                                                                |
-|           | xclip                 | [xclip : install and use](01_Ubuntu/02_16/38_xclip/01_install_and_use_xclip.md)                                                 |
-|           | xwininfo              | [xwininfo : get window size](01_Ubuntu/02_16/39_xwininfo/01_use_xwininfo.md)                                                    |
-|           | zip                   | [compress and uncompress directory](01_Ubuntu/02_16/40_zip/01_zip_directory.md)                                                 | 
+|           | parted                | [parted : check model of attached disks](01_Ubuntu/02_16/26_parted/01_parted_list.md)                                           |
+|           | rsync                 | [rsync : folder to folder](01_Ubuntu/02_16/27_rsync/01_rsync_folder_to_folder.md)                                               |
+|           | run-level             | [run-level : change](01_Ubuntu/02_16/28_run-level/01_change_run-level.md)                                                       |
+|           | sed                   | [remove \^M in text file](01_Ubuntu/02_16/29_sed/01_remove_^M_with_sed.md)                                                      | 
+|           |                       | [replace every 3rd comma to semicolon](01_Ubuntu/02_16/29_sed/02_replace_every_3rd_comma_to_semicolon.md)                       |
+|           | ssh                   | [ssh : install](01_Ubuntu/02_16/31_ssh/01_install_ssh.md)                                                                       |
+|           |                       | [ssh-key : ssh login without passowrd](01_Ubuntu/02_16/31_ssh/02_add_publicKey_to_server.md)                                    |
+|           | server                | [install ubuntu 16 server](01_Ubuntu/02_16/30_server/01_install_ubuntu16_server.md)                                             | 
+|           | Startup Applications  | [Add Programs](01_Ubuntu/02_16/32_Startup_Applications/01_add_programs.md)                                                      |
+|           | Steam                 | [Install Steam on Ubuntu16](01_Ubuntu/02_16/33_Steam/01_install_Steam_on_ubuntu16.md)                                           |
+|           | substring             | [substring remove from beginning or back + long or short](01_Ubuntu/02_16/34_substring/01_substring_remove.md)                  |
+|           | tac                   | [read from bottom to top](01_Ubuntu/02_16/35_tac/01_tac.md)                                                                     |
+|           | vim                   | [vimrc : encoding UTF8 (Korean)](01_Ubuntu/02_16/36_vim/01_vimrc_encoding_korean.md)                                            |
+|           |                       | [vimrc : append and save macro](01_Ubuntu/02_16/36_vim/02_vimrc_append_save_macro.md)                                           |
+|           |                       | [vim diff](01_Ubuntu/02_16/36_vim/03_vim_diff.md)                                                                               | 
+|           |                       | [vim move line](01_Ubuntu/02_16/36_vim/04_vim_move_line.md)                                                                     | 
+|           |                       | [vim save as other file](01_Ubuntu/02_16/36_vim/05_vim_save_as_other_File.md)                                                   | 
+|           | vnc4server            | [vnc4server : remote control ubuntu](01_Ubuntu/02_16/37_vnc4server/01_install_config_vnc4server.md)                             |
+|           | vncserver             | [vncserver : remote access sharing](01_Ubuntu/02_16/37_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md)                |
+|           | window                | [resize shortcut](01_Ubuntu/02_16/38_window/01_resize_window.md)                                                                |
+|           | xclip                 | [xclip : install and use](01_Ubuntu/02_16/39_xclip/01_install_and_use_xclip.md)                                                 |
+|           | xwininfo              | [xwininfo : get window size](01_Ubuntu/02_16/40_xwininfo/01_use_xwininfo.md)                                                    |
+|           | zip                   | [compress and uncompress directory](01_Ubuntu/02_16/41_zip/01_zip_directory.md)                                                 | 
 | CentOS6.9 | git                   | [yum install git : version 2.x](02_CentOS/01_6.9/01_git/01_yum_install_git.md)                                                  |
 |           | network               | [network : static](02_CentOS/01_6.9/02_network/01_static.md)                                                                    |
 |           |                       | [network : dhcp](02_CentOS/01_6.9/02_network/02_dhcp.md)                                                                        |
