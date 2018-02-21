@@ -1,3 +1,4 @@
+# partitioning attached disk as LVM 
 ```{text}
 $ fdisk /dev/sdc
 Welcome to fdisk (util-linux 2.23.2).
