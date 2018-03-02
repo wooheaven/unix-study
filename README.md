@@ -15,9 +15,10 @@
 |           |                       | [use variable in awk](01_Ubuntu/02_16/02_awk/05_awk_use_variable.md)                                                            |
 |           |                       | [substr](01_Ubuntu/02_16/02_awk/06_awk_substr.md)                                                                               |
 |           | bash                  | [while statement](01_Ubuntu/02_16/03_bash/01_While_Statement.md)                                                                |
-|           | bashShell             | [1st argument existence check](01_Ubuntu/02_16/04_bashShell_script/01_if_condition_1st_argument_existence_check.md)             |
-|           |                       | [count of arguments check](01_Ubuntu/02_16/04_bashShell_script/02_if_condition_count_of_arguments_check.md)                     |
-|           |                       | [check current shell](01_Ubuntu/02_16/04_bashShell_script/03_check_current_shell.md)                                            |
+|           |                       | [1st argument existence check](01_Ubuntu/02_16/03_bash/02_f_condition_1st_argument_existence_check.md)                          |
+|           |                       | [count of arguments check](01_Ubuntu/02_16/03_bash/03_if_condition_count_of_arguments_check.md)                                 |
+|           |                       | [check current shell](01_Ubuntu/02_16/03_bash/04_check_current_shell.md)                                                        |
+|           |                       | [Multiplication](01_Ubuntu/02_16/03_bash/05_Multiplication_on_Bash.md)                                                          |
 |           | chrome remote desktop | [install : by wget deb](01_Ubuntu/02_16/05_chrome_remote_desktop/01_install_chrome_remote_desktop.md)                           |
 |           | date                  | [date with format : 24:59:59.999](01_Ubuntu/02_16/06_date/01_date_with_hour_min_sec_nano.md)                                    |
 |           | desktop               | [install desktop on Ubuntu16 server](01_Ubuntu/02_16/07_desktop/01_install_desktop_on_Ubuntu16_server.md)                       |
