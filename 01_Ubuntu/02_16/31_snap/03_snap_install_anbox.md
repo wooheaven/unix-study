@@ -63,4 +63,9 @@ In summary we will install the following things:
 
 Please type 'I AGREE' followed by pressing ENTER to continue
 or type anything else to abort:
+I AGREE
+
+...
+
+Done !
 ```
