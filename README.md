@@ -58,23 +58,23 @@
 |           | server                | [install ubuntu 16 server](01_Ubuntu/02_16/30_server/01_install_ubuntu16_server.md)                                             |
 |           | snap                  | [snap : install list refresh remove](01_Ubuntu/02_16/31_snap/01_snap_install_list_changes_refresh_remove.md)                    |
 |           |                       | [snap : install pycharm](01_Ubuntu/02_16/31_snap/02_snap_install_pycharm.md)                                                    | 
-|           | ssh                   | [ssh : install](01_Ubuntu/02_16/31_ssh/01_install_ssh.md)                                                                       |
-|           |                       | [ssh-key : ssh login without passowrd](01_Ubuntu/02_16/31_ssh/02_add_publicKey_to_server.md)                                    |
-|           | Startup Applications  | [Add Programs](01_Ubuntu/02_16/32_Startup_Applications/01_add_programs.md)                                                      |
-|           | Steam                 | [Install Steam on Ubuntu16](01_Ubuntu/02_16/33_Steam/01_install_Steam_on_ubuntu16.md)                                           |
-|           | substring             | [substring remove from beginning or back + long or short](01_Ubuntu/02_16/34_substring/01_substring_remove.md)                  |
-|           | tac                   | [read from bottom to top](01_Ubuntu/02_16/35_tac/01_tac.md)                                                                     |
-|           | vim                   | [vimrc : encoding UTF8 (Korean)](01_Ubuntu/02_16/36_vim/01_vimrc_encoding_korean.md)                                            |
-|           |                       | [vimrc : append and save macro](01_Ubuntu/02_16/36_vim/02_vimrc_append_save_macro.md)                                           |
-|           |                       | [vim diff](01_Ubuntu/02_16/36_vim/03_vim_diff.md)                                                                               | 
-|           |                       | [vim move line](01_Ubuntu/02_16/36_vim/04_vim_move_line.md)                                                                     | 
-|           |                       | [vim save as other file](01_Ubuntu/02_16/36_vim/05_vim_save_as_other_File.md)                                                   | 
-|           | vnc4server            | [vnc4server : remote control ubuntu](01_Ubuntu/02_16/37_vnc4server/01_install_config_vnc4server.md)                             |
-|           | vncserver             | [vncserver : remote access sharing](01_Ubuntu/02_16/37_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md)                |
-|           | window                | [resize shortcut](01_Ubuntu/02_16/38_window/01_resize_window.md)                                                                |
-|           | xclip                 | [xclip : install and use](01_Ubuntu/02_16/39_xclip/01_install_and_use_xclip.md)                                                 |
-|           | xwininfo              | [xwininfo : get window size](01_Ubuntu/02_16/40_xwininfo/01_use_xwininfo.md)                                                    |
-|           | zip                   | [compress and uncompress directory](01_Ubuntu/02_16/41_zip/01_zip_directory.md)                                                 | 
+|           | ssh                   | [ssh : install](01_Ubuntu/02_16/32_ssh/01_install_ssh.md)                                                                       |
+|           |                       | [ssh-key : ssh login without passowrd](01_Ubuntu/02_16/32_ssh/02_add_publicKey_to_server.md)                                    |
+|           | Startup Applications  | [Add Programs](01_Ubuntu/02_16/33_Startup_Applications/01_add_programs.md)                                                      |
+|           | Steam                 | [Install Steam on Ubuntu16](01_Ubuntu/02_16/34_Steam/01_install_Steam_on_ubuntu16.md)                                           |
+|           | substring             | [substring remove from beginning or back + long or short](01_Ubuntu/02_16/35_substring/01_substring_remove.md)                  |
+|           | tac                   | [read from bottom to top](01_Ubuntu/02_16/36_tac/01_tac.md)                                                                     |
+|           | vim                   | [vimrc : encoding UTF8 (Korean)](01_Ubuntu/02_16/37_vim/01_vimrc_encoding_korean.md)                                            |
+|           |                       | [vimrc : append and save macro](01_Ubuntu/02_16/37_vim/02_vimrc_append_save_macro.md)                                           |
+|           |                       | [vim diff](01_Ubuntu/02_16/37_vim/03_vim_diff.md)                                                                               | 
+|           |                       | [vim move line](01_Ubuntu/02_16/37_vim/04_vim_move_line.md)                                                                     | 
+|           |                       | [vim save as other file](01_Ubuntu/02_16/37_vim/05_vim_save_as_other_File.md)                                                   | 
+|           | vnc4server            | [vnc4server : remote control ubuntu](01_Ubuntu/02_16/38_vnc4server/01_install_config_vnc4server.md)                             |
+|           | vncserver             | [vncserver : remote access sharing](01_Ubuntu/02_16/38_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md)                |
+|           | window                | [resize shortcut](01_Ubuntu/02_16/39_window/01_resize_window.md)                                                                |
+|           | xclip                 | [xclip : install and use](01_Ubuntu/02_16/40_xclip/01_install_and_use_xclip.md)                                                 |
+|           | xwininfo              | [xwininfo : get window size](01_Ubuntu/02_16/41_xwininfo/01_use_xwininfo.md)                                                    |
+|           | zip                   | [compress and uncompress directory](01_Ubuntu/02_16/42_zip/01_zip_directory.md)                                                 | 
 | CentOS6.9 | git                   | [yum install git : version 2.x](02_CentOS/01_6.9/01_git/01_yum_install_git.md)                                                  |
 |           | network               | [network : static](02_CentOS/01_6.9/02_network/01_static.md)                                                                    |
 |           |                       | [network : dhcp](02_CentOS/01_6.9/02_network/02_dhcp.md)                                                                        |
