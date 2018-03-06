@@ -55,9 +55,11 @@
 |           | run-level             | [run-level : change](01_Ubuntu/02_16/28_run-level/01_change_run-level.md)                                                       |
 |           | sed                   | [remove \^M in text file](01_Ubuntu/02_16/29_sed/01_remove_^M_with_sed.md)                                                      | 
 |           |                       | [replace every 3rd comma to semicolon](01_Ubuntu/02_16/29_sed/02_replace_every_3rd_comma_to_semicolon.md)                       |
+|           | server                | [install ubuntu 16 server](01_Ubuntu/02_16/30_server/01_install_ubuntu16_server.md)                                             |
+|           | snap                  | [snap : install list refresh remove](01_Ubuntu/02_16/31_snap/01_snap_install_list_changes_refresh_remove.md)                    |
+|           |                       | [snap : install pycharm](01_Ubuntu/02_16/31_snap/02_snap_install_pycharm.md)                                                    | 
 |           | ssh                   | [ssh : install](01_Ubuntu/02_16/31_ssh/01_install_ssh.md)                                                                       |
 |           |                       | [ssh-key : ssh login without passowrd](01_Ubuntu/02_16/31_ssh/02_add_publicKey_to_server.md)                                    |
-|           | server                | [install ubuntu 16 server](01_Ubuntu/02_16/30_server/01_install_ubuntu16_server.md)                                             | 
 |           | Startup Applications  | [Add Programs](01_Ubuntu/02_16/32_Startup_Applications/01_add_programs.md)                                                      |
 |           | Steam                 | [Install Steam on Ubuntu16](01_Ubuntu/02_16/33_Steam/01_install_Steam_on_ubuntu16.md)                                           |
 |           | substring             | [substring remove from beginning or back + long or short](01_Ubuntu/02_16/34_substring/01_substring_remove.md)                  |
