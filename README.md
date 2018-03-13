@@ -38,6 +38,7 @@
 |           | for                   | [for : num++](01_Ubuntu/02_16/14_for_statement/01_for_num++.md)                                                                 |
 |           |                       | [for : in list](01_Ubuntu/02_16/14_for_statement/02_for_in_list.md)                                                             |
 |           |                       | [for : read file](01_Ubuntu/02_16/14_for_statement/03_for_read_file.md)                                                         |
+|           |                       | [frep : activate frep on android](01_Ubuntu/02_16/14_frep/01_use_frep.md)                                                       |
 |           | gnome terminal        | [gnome terminal : run by CLI](01_Ubuntu/02_16/15_gnome_terminal/01_run_gnome_terminal_by_CLI.md)                                |
 |           | if                    | [if : check filePath](01_Ubuntu/02_16/16_if/01_if_check_filePath.md)                                                            |
 |           | Libre Office          | [remove](01_Ubuntu/02_16/17_LibreOffice/01_remove_LibreOffice.md)                                                               |
