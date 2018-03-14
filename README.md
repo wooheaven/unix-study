@@ -66,6 +66,7 @@
 |           | Steam                 | [Install Steam on Ubuntu16](01_Ubuntu/02_16/35_Steam/01_install_Steam_on_ubuntu16.md)                                           |
 |           | substring             | [substring remove from beginning or back + long or short](01_Ubuntu/02_16/36_substring/01_substring_remove.md)                  |
 |           | tac                   | [read from bottom to top](01_Ubuntu/02_16/37_tac/01_tac.md)                                                                     |
+|           | tar                   | [uncompress : tgz](01_Ubuntu/02_16/37_tar/01_uncompress_tgz.md)                                                                 |
 |           | vim                   | [vimrc : encoding UTF8 (Korean)](01_Ubuntu/02_16/38_vim/01_vimrc_encoding_korean.md)                                            |
 |           |                       | [vimrc : append and save macro](01_Ubuntu/02_16/38_vim/02_vimrc_append_save_macro.md)                                           |
 |           |                       | [vim diff](01_Ubuntu/02_16/38_vim/03_vim_diff.md)                                                                               | 
