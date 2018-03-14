@@ -66,17 +66,18 @@
 |           | Steam                 | [Install Steam on Ubuntu16](01_Ubuntu/02_16/35_Steam/01_install_Steam_on_ubuntu16.md)                                           |
 |           | substring             | [substring remove from beginning or back + long or short](01_Ubuntu/02_16/36_substring/01_substring_remove.md)                  |
 |           | tac                   | [read from bottom to top](01_Ubuntu/02_16/37_tac/01_tac.md)                                                                     |
-|           | vim                   | [vimrc : encoding UTF8 (Korean)](01_Ubuntu/02_16/38_vim/01_vimrc_encoding_korean.md)                                            |
-|           |                       | [vimrc : append and save macro](01_Ubuntu/02_16/38_vim/02_vimrc_append_save_macro.md)                                           |
-|           |                       | [vim diff](01_Ubuntu/02_16/38_vim/03_vim_diff.md)                                                                               | 
-|           |                       | [vim move line](01_Ubuntu/02_16/38_vim/04_vim_move_line.md)                                                                     | 
-|           |                       | [vim save as other file](01_Ubuntu/02_16/38_vim/05_vim_save_as_other_File.md)                                                   | 
-|           | vnc4server            | [vnc4server : remote control ubuntu](01_Ubuntu/02_16/39_vnc4server/01_install_config_vnc4server.md)                             |
-|           | vncserver             | [vncserver : remote access sharing](01_Ubuntu/02_16/39_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md)                |
-|           | window                | [resize shortcut](01_Ubuntu/02_16/40_window/01_resize_window.md)                                                                |
-|           | xclip                 | [xclip : install and use](01_Ubuntu/02_16/41_xclip/01_install_and_use_xclip.md)                                                 |
-|           | xwininfo              | [xwininfo : get window size](01_Ubuntu/02_16/42_xwininfo/01_use_xwininfo.md)                                                    |
-|           | zip                   | [compress and uncompress directory](01_Ubuntu/02_16/43_zip/01_zip_directory.md)                                                 | 
+|           | tar                   | [uncompress : tgz](01_Ubuntu/02_16/38_tar/01_uncompress_tgz.md)                                                                 |
+|           | vim                   | [vimrc : encoding UTF8 (Korean)](01_Ubuntu/02_16/39_vim/01_vimrc_encoding_korean.md)                                            |
+|           |                       | [vimrc : append and save macro](01_Ubuntu/02_16/39_vim/02_vimrc_append_save_macro.md)                                           |
+|           |                       | [vim diff](01_Ubuntu/02_16/39_vim/03_vim_diff.md)                                                                               | 
+|           |                       | [vim move line](01_Ubuntu/02_16/39_vim/04_vim_move_line.md)                                                                     | 
+|           |                       | [vim save as other file](01_Ubuntu/02_16/39_vim/05_vim_save_as_other_File.md)                                                   | 
+|           | vnc4server            | [vnc4server : remote control ubuntu](01_Ubuntu/02_16/40_vnc4server/01_install_config_vnc4server.md)                             |
+|           | vncserver             | [vncserver : remote access sharing](01_Ubuntu/02_16/40_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md)                |
+|           | window                | [resize shortcut](01_Ubuntu/02_16/41_window/01_resize_window.md)                                                                |
+|           | xclip                 | [xclip : install and use](01_Ubuntu/02_16/42_xclip/01_install_and_use_xclip.md)                                                 |
+|           | xwininfo              | [xwininfo : get window size](01_Ubuntu/02_16/43_xwininfo/01_use_xwininfo.md)                                                    |
+|           | zip                   | [compress and uncompress directory](01_Ubuntu/02_16/44_zip/01_zip_directory.md)                                                 | 
 | CentOS6.9 | git                   | [yum install git : version 2.x](02_CentOS/01_6.9/01_git/01_yum_install_git.md)                                                  |
 |           | network               | [network : static](02_CentOS/01_6.9/02_network/01_static.md)                                                                    |
 |           |                       | [network : dhcp](02_CentOS/01_6.9/02_network/02_dhcp.md)                                                                        |
@@ -102,7 +103,7 @@
 |           | vim                   | [colors](03_Mac/10_vim/01_vimrc_configure.md)                                                                                   |
 |           |                       | [vim diff](03_Mac/10_vim/02_vim_diff.md)                                                                                        |
 |           |                       | [vim diff refresh](03_Mac/10_vim/03_vim_diff_refresh.md)                                                                        |
-|           |                       | [vimrc : short key](03_Mac/10_vim/04_vimrc.md)                                                                                  |
+|           |                       | [vimrc : cat ~/.vimrc](03_Mac/10_vim/04_vimrc.md)                                                                               |
 |           |                       | [vim move line](03_Mac/10_vim/05_vim_move_line.md)                                                                              |
 |           |                       | [vim save as other file](03_Mac/10_vim/06_vim_save_as_other_File.md)                                                            |
 |           | vnc                   | [vnc client : Connect to vnc server](03_Mac/11_vnc_client/01_use_vnc_client.md)                                                 |

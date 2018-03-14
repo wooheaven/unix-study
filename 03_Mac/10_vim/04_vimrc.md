@@ -12,7 +12,7 @@ let @n=':set nu! nu?'
 let @c='4Gdwdwdwi#:8,$s/^;\t//'
 
 " GitLab Renamed list by git status
-let @r=':1,$s/    renamed:    //'
+let @r=':1,$s/^\trenamed:    //'
 
 " View White Characters or not
 let @l=':set list! list?'
