@@ -103,7 +103,7 @@
 |           | vim                   | [colors](03_Mac/10_vim/01_vimrc_configure.md)                                                                                   |
 |           |                       | [vim diff](03_Mac/10_vim/02_vim_diff.md)                                                                                        |
 |           |                       | [vim diff refresh](03_Mac/10_vim/03_vim_diff_refresh.md)                                                                        |
-|           |                       | [vimrc : short key](03_Mac/10_vim/04_vimrc.md)                                                                                  |
+|           |                       | [vimrc : cat ~/.vimrc](03_Mac/10_vim/04_vimrc.md)                                                                               |
 |           |                       | [vim move line](03_Mac/10_vim/05_vim_move_line.md)                                                                              |
 |           |                       | [vim save as other file](03_Mac/10_vim/06_vim_save_as_other_File.md)                                                            |
 |           | vnc                   | [vnc client : Connect to vnc server](03_Mac/11_vnc_client/01_use_vnc_client.md)                                                 |
