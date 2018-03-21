@@ -67,11 +67,13 @@
 |           | substring             | [substring remove from beginning or back + long or short](01_Ubuntu/02_16/36_substring/01_substring_remove.md)                  |
 |           | tac                   | [read from bottom to top](01_Ubuntu/02_16/37_tac/01_tac.md)                                                                     |
 |           | tar                   | [uncompress : tgz](01_Ubuntu/02_16/38_tar/01_uncompress_tgz.md)                                                                 |
-|           | vim                   | [vimrc : encoding UTF8 (Korean)](01_Ubuntu/02_16/39_vim/01_vimrc_encoding_korean.md)                                            |
-|           |                       | [vimrc : append and save macro](01_Ubuntu/02_16/39_vim/02_vimrc_append_save_macro.md)                                           |
-|           |                       | [vim diff](01_Ubuntu/02_16/39_vim/03_vim_diff.md)                                                                               | 
-|           |                       | [vim move line](01_Ubuntu/02_16/39_vim/04_vim_move_line.md)                                                                     | 
-|           |                       | [vim save as other file](01_Ubuntu/02_16/39_vim/05_vim_save_as_other_File.md)                                                   | 
+|           | vim                   | [Cmd-Mode ESC-Mode : Move Cursor](01_Ubuntu/02_16/39_vim/01_Command-Mode_ESC-Mode/01_Move_Cursor.md)                            |
+|           |                       | [Insert-Mode : ]()                                                                                                              |
+|           |                       | [Colon-Mode_EX-Mode : move between lines](01_Ubuntu/02_16/39_vim/03_Colon-Mode_EX-Mode/01_vim_move_line.md)                     | 
+|           |                       | [Colon-Mode_EX-Mode : save as other file](01_Ubuntu/02_16/39_vim/03_Colon-Mode_EX-Mode/02_vim_save_as_other_File.md)            | 
+|           |                       | [ETC : vimrc encoding UTF8 (Korean)](01_Ubuntu/02_16/39_vim/04_ETC/01_vimrc_encoding_korean.md)                                 |
+|           |                       | [ETC : vimrc append and save macro](01_Ubuntu/02_16/39_vim/04_ETC/02_vimrc_append_save_macro.md)                                |
+|           |                       | [ETC : vim diff](01_Ubuntu/02_16/39_vim/04_ETC/03_vim_diff.md)                                                                  | 
 |           | vnc4server            | [vnc4server : remote control ubuntu](01_Ubuntu/02_16/40_vnc4server/01_install_config_vnc4server.md)                             |
 |           | vncserver             | [vncserver : remote access sharing](01_Ubuntu/02_16/40_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md)                |
 |           | window                | [resize shortcut](01_Ubuntu/02_16/41_window/01_resize_window.md)                                                                |

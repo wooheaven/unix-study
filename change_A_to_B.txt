@@ -1,12 +1,5 @@
-01_Ubuntu/02_16/37_tar/01_uncompress_tgz.md -> 01_Ubuntu/02_16/38_tar/01_uncompress_tgz.md
-01_Ubuntu/02_16/38_vim/01_vimrc_encoding_korean.md -> 01_Ubuntu/02_16/39_vim/01_vimrc_encoding_korean.md
-01_Ubuntu/02_16/38_vim/02_vimrc_append_save_macro.md -> 01_Ubuntu/02_16/39_vim/02_vimrc_append_save_macro.md
-01_Ubuntu/02_16/38_vim/03_vim_diff.md -> 01_Ubuntu/02_16/39_vim/03_vim_diff.md
-01_Ubuntu/02_16/38_vim/04_vim_move_line.md -> 01_Ubuntu/02_16/39_vim/04_vim_move_line.md
-01_Ubuntu/02_16/38_vim/05_vim_save_as_other_File.md -> 01_Ubuntu/02_16/39_vim/05_vim_save_as_other_File.md
-01_Ubuntu/02_16/39_vnc4server/01_install_config_vnc4server.md -> 01_Ubuntu/02_16/40_vnc4server/01_install_config_vnc4server.md
-01_Ubuntu/02_16/39_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md -> 01_Ubuntu/02_16/40_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md
-01_Ubuntu/02_16/40_window/01_resize_window.md -> 01_Ubuntu/02_16/41_window/01_resize_window.md
-01_Ubuntu/02_16/41_xclip/01_install_and_use_xclip.md -> 01_Ubuntu/02_16/42_xclip/01_install_and_use_xclip.md
-01_Ubuntu/02_16/42_xwininfo/01_use_xwininfo.md -> 01_Ubuntu/02_16/43_xwininfo/01_use_xwininfo.md
-01_Ubuntu/02_16/43_zip/01_zip_directory.md -> 01_Ubuntu/02_16/44_zip/01_zip_directory.md
+01_Ubuntu/02_16/39_vim/04_vim_move_line.md -> 01_Ubuntu/02_16/39_vim/03_Colon-Mode_EX-Mode/01_vim_move_line.md
+01_Ubuntu/02_16/39_vim/05_vim_save_as_other_File.md -> 01_Ubuntu/02_16/39_vim/03_Colon-Mode_EX-Mode/02_vim_save_as_other_File.md
+01_Ubuntu/02_16/39_vim/01_vimrc_encoding_korean.md -> 01_Ubuntu/02_16/39_vim/04_ETC/01_vimrc_encoding_korean.md
+01_Ubuntu/02_16/39_vim/02_vimrc_append_save_macro.md -> 01_Ubuntu/02_16/39_vim/04_ETC/02_vimrc_append_save_macro.md
+01_Ubuntu/02_16/39_vim/03_vim_diff.md -> 01_Ubuntu/02_16/39_vim/04_ETC/03_vim_diff.md
