@@ -70,7 +70,8 @@
 |           | vim                   | [Cmd-Mode ESC-Mode : Move Cursor](01_Ubuntu/02_16/39_vim/01_Command-Mode_ESC-Mode/01_Move_Cursor.md)                            |
 |           |                       | [Insert-Mode : ]()                                                                                                              |
 |           |                       | [Colon-Mode_EX-Mode : move between lines](01_Ubuntu/02_16/39_vim/03_Colon-Mode_EX-Mode/01_vim_move_line.md)                     | 
-|           |                       | [Colon-Mode_EX-Mode : save as other file](01_Ubuntu/02_16/39_vim/03_Colon-Mode_EX-Mode/02_vim_save_as_other_File.md)            | 
+|           |                       | [Colon-Mode_EX-Mode : save as other file](01_Ubuntu/02_16/39_vim/03_Colon-Mode_EX-Mode/02_vim_save_as_other_File.md)            |
+|           |                       | [Colon-Mode Ex-Mode : CRLF to LF](01_Ubuntu/02_16/39_vim/03_Colon-Mode_EX-Mode/03_vim_CRLF_to_LF.md)                            |
 |           |                       | [ETC : vimrc encoding UTF8 (Korean)](01_Ubuntu/02_16/39_vim/04_ETC/01_vimrc_encoding_korean.md)                                 |
 |           |                       | [ETC : vimrc append and save macro](01_Ubuntu/02_16/39_vim/04_ETC/02_vimrc_append_save_macro.md)                                |
 |           |                       | [ETC : vim diff](01_Ubuntu/02_16/39_vim/04_ETC/03_vim_diff.md)                                                                  | 
