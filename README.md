@@ -7,7 +7,8 @@
 |           | vnc4server            | [vnc4server : install configure](01_Ubuntu/01_14.04/02_vnc4server/01_install_config_vnc4server.md)                              |
 | Ubuntu16  | apt-get               | [apt-get : install graphviz](01_Ubuntu/02_16/01_apt-get/01_apt-get_install_graphviz_with_python3.5.md)                          |
 |           |                       | [apt-get : install jq](01_Ubuntu/02_16/01_apt-get/02_apt-get_install_jq.md)                                                     |
-|           |                       | [apt-get : lock error](01_Ubuntu/02_16/01_apt-get/03_apt-get_lock_error.md)                                                     |
+|           |                       | [apt-get : install vlc](01_Ubuntu/02_16/01_apt-get/03_apt-get_install_vlc.md)                                                   |
+|           |                       | [apt-get : lock error](01_Ubuntu/02_16/01_apt-get/04_apt-get_lock_error.md)                                                     |
 |           | awk                   | [column to rows](01_Ubuntu/02_16/02_awk/01_awk_column_to_rows.md)                                                               | 
 |           |                       | [rows to column](01_Ubuntu/02_16/02_awk/02_awk_rows_to_column.md)                                                               |
 |           |                       | [remove blank line](01_Ubuntu/02_16/02_awk/03_awk_remove_blank_line.md)                                                         |
