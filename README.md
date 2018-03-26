@@ -24,6 +24,7 @@
 |           | date                  | [date with format : 24:59:59.999](01_Ubuntu/02_16/05_date/01_date_with_hour_min_sec_nano.md)                                    |
 |           | desktop               | [install desktop on Ubuntu16 server](01_Ubuntu/02_16/06_desktop/01_install_desktop_on_Ubuntu16_server.md)                       |
 |           |                       | [auto login on unity desktop](01_Ubuntu/02_16/06_desktop/02_auto_login+on_ubuntu16_desktop.md)                                  |
+|           |                       | [location of desktop files](01_Ubuntu/02_16/06_desktop/03_find_desktop_file.md)                                                 |
 |           | df                    | [df -h : display file system with human readable](01_Ubuntu/02_16/07_df/01_df_with_human_readerble.md)                          |
 |           | dpkg                  | [dpgk : install and remove package](01_Ubuntu/02_16/08_dpkg/01_dpkg_install_remove_package.md)                                  |
 |           | du                    | [fileSize of folder](01_Ubuntu/02_16/09_du/01_du_file_size_of_folder.md)                                                        |
