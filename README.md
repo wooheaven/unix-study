@@ -70,14 +70,17 @@
 |           | substring             | [substring remove from beginning or back + long or short](01_Ubuntu/02_16/37_substring/01_substring_remove.md)                  |
 |           | tac                   | [read from bottom to top](01_Ubuntu/02_16/38_tac/01_tac.md)                                                                     |
 |           | tar                   | [uncompress : tgz](01_Ubuntu/02_16/39_tar/01_uncompress_tgz.md)                                                                 |
-|           | vim                   | [Cmd-Mode ESC-Mode : Move Cursor](01_Ubuntu/02_16/40_vim/01_Command-Mode_ESC-Mode/01_Move_Cursor.md)                            |
-|           |                       | [Insert-Mode : ]()                                                                                                              |
-|           |                       | [Colon-Mode_EX-Mode : move between lines](01_Ubuntu/02_16/40_vim/03_Colon-Mode_EX-Mode/01_vim_move_line.md)                     | 
-|           |                       | [Colon-Mode_EX-Mode : save as other file](01_Ubuntu/02_16/40_vim/03_Colon-Mode_EX-Mode/02_vim_save_as_other_File.md)            |
-|           |                       | [Colon-Mode Ex-Mode : CRLF to LF](01_Ubuntu/02_16/40_vim/03_Colon-Mode_EX-Mode/03_vim_CRLF_to_LF.md)                            |
+|           | vim                   | [Cmd-Mode : Move Cursor](01_Ubuntu/02_16/40_vim/01_cmd-Mode/01_Move_Cursor.md)                                                  |
+|           |                       | [Cmd-Mode : Move Line Up and Down](01_Ubuntu/02_16/40_vim/01_cmd-Mode/02_Move_Line_Up_and_Down.md)                              |
+|           |                       | [Edit-Mode Insert-Mode : ]()                                                                                                    |
+|           |                       | [CmdLine-Mode : Move Line Up and Down](01_Ubuntu/02_16/40_vim/03_cmdLine-Mode/01_Move_Line_Up_and_Down.md)                      | 
+|           |                       | [CmdLine-Mode : save as other file](01_Ubuntu/02_16/40_vim/03_cmdLine-Mode/02_vim_save_as_other_File.md)                        |
+|           |                       | [CmdLine-Mode : CRLF to LF](01_Ubuntu/02_16/40_vim/03_cmdLine-Mode/03_vim_CRLF_to_LF.md)                                        |
 |           |                       | [ETC : vimrc encoding UTF8 (Korean)](01_Ubuntu/02_16/40_vim/04_ETC/01_vimrc_encoding_korean.md)                                 |
 |           |                       | [ETC : vimrc append and save macro](01_Ubuntu/02_16/40_vim/04_ETC/02_vimrc_append_save_macro.md)                                |
-|           |                       | [ETC : vim diff](01_Ubuntu/02_16/40_vim/04_ETC/03_vim_diff.md)                                                                  | 
+|           |                       | [ETC : vim diff](01_Ubuntu/02_16/40_vim/04_ETC/03_vim_diff.md)                                                                  |
+|           |                       | [ETC : cat ~/.vimrc](01_Ubuntu/02_16/40_vim/04_ETC/04_vimrc.md)                                                                 | 
+|           |                       | [ETC : color](01_Ubuntu/02_16/40_vim/04_ETC/05_vimrc_color.md)                                                                  | 
 |           | vnc4server            | [vnc4server : remote control ubuntu](01_Ubuntu/02_16/41_vnc4server/01_install_config_vnc4server.md)                             |
 |           | vncserver             | [vncserver : remote access sharing](01_Ubuntu/02_16/41_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md)                |
 |           | window                | [resize shortcut](01_Ubuntu/02_16/42_window/01_resize_window.md)                                                                |
@@ -106,12 +109,12 @@
 |           | Python                | [Python3.5 on conda : Matplotlib Backends RuntimeError](03_Mac/07_Python/01_with_Conda/01_Matplotlib_backends_RuntimeError.md)  |
 |           | sed                   | [move CRLF to LF](03_Mac/08_sed/01_sed_remove_CRLF_to_LF.md)                                                                    |
 |           | tree                  | [install and use tree](03_Mac/09_tree/01_install_use_tree_on_mac.md)                                                            |
-|           | vim                   | [colors](03_Mac/10_vim/01_vimrc_configure.md)                                                                                   |
-|           |                       | [vim diff](03_Mac/10_vim/02_vim_diff.md)                                                                                        |
-|           |                       | [vim diff refresh](03_Mac/10_vim/03_vim_diff_refresh.md)                                                                        |
-|           |                       | [vimrc : cat ~/.vimrc](03_Mac/10_vim/04_vimrc.md)                                                                               |
-|           |                       | [vim move line](03_Mac/10_vim/05_vim_move_line.md)                                                                              |
-|           |                       | [vim save as other file](03_Mac/10_vim/06_vim_save_as_other_File.md)                                                            |
+|           | vim                   | [ComLine-Mode : vim move line](03_Mac/10_vim/03_CmdLine-Mode/01_vim_move_line.md)                                               |
+|           |                       | [CmdLine-Mode : vim save as other file](03_Mac/10_vim/03_CmdLine-Mode/02_vim_save_as_other_File.md)                             |
+|           |                       | [ETC : color](03_Mac/10_vim/04_ETC/01_vimrc_color_molokai.md)                                                                   |
+|           |                       | [ETC : vim diff](03_Mac/10_vim/04_ETC/02_vim_diff.md)                                                                           |
+|           |                       | [ETC : vim diff refresh](03_Mac/10_vim/04_ETC/03_vim_diff_refresh.md)                                                           |
+|           |                       | [ETC : cat ~/.vimrc](03_Mac/10_vim/04_ETC/04_vimrc.md)                                                                          |
 |           | vnc                   | [vnc client : Connect to vnc server](03_Mac/11_vnc_client/01_use_vnc_client.md)                                                 |
 |           | zip                   | [compress folder, partially by size](03_Mac/12_zip/01_use_zip.md)                                                               |
 |           | Zsh                   | [~/.bash_profile ~/.bashrc ~/.zshrc : Configure with non-login/login](03_Mac/13_zsh/01_explain_of_bash_profile_bashrc_zshrc.md) |

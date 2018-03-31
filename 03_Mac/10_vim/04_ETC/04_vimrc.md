@@ -8,8 +8,12 @@ colorscheme molokai
 " Line Number
 let @n=':set nu! nu?'
 
-" GitLab Commit Message
-let @c='4Gdwdwdwi#:8,$s/^;\t//'
+" Move line Up and Down
+nmap <C-j> :m .+1<CR>
+nmap <C-k> :m .-2<CR>
+
+" GitLab Commit Message "
+let @c=':1,1s/^/```/:4,4s/; On branch /#/:1,$s/;\t//^M:$,$s/;/```/'
 
 " GitLab Renamed list by git status
 let @r=':1,$s/^\trenamed:    //'
@@ -22,10 +26,4 @@ let @t=':s/\t/    /g'
 
 " Python 
 autocmd FileType python exec 'setlocal expandtab ts=4 sw=4 ai nu list'
-
-" Move Current Line Up
-let @u=':m .-2'
-
-" Move Current Line Down
-let @d=':m .+1'
 ```
