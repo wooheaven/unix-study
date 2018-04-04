@@ -100,23 +100,24 @@
 |           |                       | [brew install jq](03_Mac/02_brew/06_brew_install_jq.md)                                                                         |
 |           |                       | [brew install tree](03_Mac/02_brew/07_brew_install_tree.md)                                                                     |
 |           | Command Line Tools    | [install](03_Mac/03_Command_Line_Tools/01_install_Command_Line_Tools.md)                                                        |
-|           | find                  | [find : print basename](03_Mac/04_find/01_find_with_basename.md)                                                                |
-|           |                       | [find : sed CRLF to LF](03_Mac/04_find/03_find_and_sed_move_CRLF_to_LF.md)                                                      |
-|           |                       | [find : maxdepth](03_Mac/04_find/02_find_with_maxdepth.md)                                                                      |
-|           |                       | [find : sed TAB to 4SPACES](03_Mac/04_find/04_find_and_sed_move_TAB_to_4SPACES.md)                                              |
-|           | Installer USB         | [usb : installer for Ubuntu16 server](03_Mac/05_installer_usb/01_create_installer_usb_for_ubuntu16_server.md)                   |
-|           | IntelliJ              | [Shortcut](03_Mac/06_IntelliJ/01_Shortcuts.md)                                                                                  |
-|           | Picture               | [resize picture](03_Mac/07_Picture/01_resize_of_picture.md)                                                                     |
-|           | Python                | [Python3.5 on conda : Matplotlib Backends RuntimeError](03_Mac/08_Python/01_with_Conda/01_Matplotlib_backends_RuntimeError.md)  |
-|           | sed                   | [move CRLF to LF](03_Mac/09_sed/01_sed_remove_CRLF_to_LF.md)                                                                    |
-|           | tree                  | [install and use tree](03_Mac/10_tree/01_install_use_tree_on_mac.md)                                                            |
-|           | vim                   | [ComLine-Mode : vim move line](03_Mac/11_vim/03_CmdLine-Mode/01_vim_move_line.md)                                               |
-|           |                       | [CmdLine-Mode : vim save as other file](03_Mac/11_vim/03_CmdLine-Mode/02_vim_save_as_other_File.md)                             |
-|           |                       | [ETC : color](03_Mac/11_vim/04_ETC/01_vimrc_color_molokai.md)                                                                   |
-|           |                       | [ETC : vim diff](03_Mac/11_vim/04_ETC/02_vim_diff.md)                                                                           |
-|           |                       | [ETC : vim diff refresh](03_Mac/11_vim/04_ETC/03_vim_diff_refresh.md)                                                           |
-|           |                       | [ETC : cat ~/.vimrc](03_Mac/11_vim/04_ETC/04_vimrc.md)                                                                          |
-|           | vnc                   | [vnc client : Connect to vnc server](03_Mac/12_vnc_client/01_use_vnc_client.md)                                                 |
-|           | zip                   | [compress folder, partially by size](03_Mac/13_zip/01_use_zip.md)                                                               |
-|           | Zsh                   | [~/.bash_profile ~/.bashrc ~/.zshrc : Configure with non-login/login](03_Mac/14_zsh/01_explain_of_bash_profile_bashrc_zshrc.md) |
-|           |                       | [~/.zshrc : example of .zshrc](03_Mac/14_zsh/02_example_of_zshrc.md)                                                            |
+|           | Disk Utility          | [Erase and Format](03_Mac/04_Disk_Utility/01_Format_usb_on_mac.md)                                                              |
+|           | find                  | [find : print basename](03_Mac/05_find/01_find_with_basename.md)                                                                |
+|           |                       | [find : sed CRLF to LF](03_Mac/05_find/03_find_and_sed_move_CRLF_to_LF.md)                                                      |
+|           |                       | [find : maxdepth](03_Mac/05_find/02_find_with_maxdepth.md)                                                                      |
+|           |                       | [find : sed TAB to 4SPACES](03_Mac/05_find/04_find_and_sed_move_TAB_to_4SPACES.md)                                              |
+|           | Installer USB         | [usb : installer for Ubuntu16 server](03_Mac/06_installer_usb/01_create_installer_usb_for_ubuntu16_server.md)                   |
+|           | IntelliJ              | [Shortcut](03_Mac/07_IntelliJ/01_Shortcuts.md)                                                                                  |
+|           | Picture               | [resize picture](03_Mac/08_Picture/01_resize_of_picture.md)                                                                     |
+|           | Python                | [Python3.5 on conda : Matplotlib Backends RuntimeError](03_Mac/09_Python/01_with_Conda/01_Matplotlib_backends_RuntimeError.md)  |
+|           | sed                   | [move CRLF to LF](03_Mac/10_sed/01_sed_remove_CRLF_to_LF.md)                                                                    |
+|           | tree                  | [install and use tree](03_Mac/11_tree/01_install_use_tree_on_mac.md)                                                            |
+|           | vim                   | [ComLine-Mode : vim move line](03_Mac/12_vim/03_CmdLine-Mode/01_vim_move_line.md)                                               |
+|           |                       | [CmdLine-Mode : vim save as other file](03_Mac/12_vim/03_CmdLine-Mode/02_vim_save_as_other_File.md)                             |
+|           |                       | [ETC : color](03_Mac/12_vim/04_ETC/01_vimrc_color_molokai.md)                                                                   |
+|           |                       | [ETC : vim diff](03_Mac/12_vim/04_ETC/02_vim_diff.md)                                                                           |
+|           |                       | [ETC : vim diff refresh](03_Mac/12_vim/04_ETC/03_vim_diff_refresh.md)                                                           |
+|           |                       | [ETC : cat ~/.vimrc](03_Mac/12_vim/04_ETC/04_vimrc.md)                                                                          |
+|           | vnc                   | [vnc client : Connect to vnc server](03_Mac/13_vnc_client/01_use_vnc_client.md)                                                 |
+|           | zip                   | [compress folder, partially by size](03_Mac/14_zip/01_use_zip.md)                                                               |
+|           | Zsh                   | [~/.bash_profile ~/.bashrc ~/.zshrc : Configure with non-login/login](03_Mac/15_zsh/01_explain_of_bash_profile_bashrc_zshrc.md) |
+|           |                       | [~/.zshrc : example of .zshrc](03_Mac/15_zsh/02_example_of_zshrc.md)                                                            |
