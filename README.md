@@ -70,6 +70,7 @@
 |           | substring             | [substring remove from beginning or back + long or short](01_Ubuntu/02_16/37_substring/01_substring_remove.md)                  |
 |           | tac                   | [read from bottom to top](01_Ubuntu/02_16/38_tac/01_tac.md)                                                                     |
 |           | tar                   | [uncompress : tgz](01_Ubuntu/02_16/39_tar/01_uncompress_tgz.md)                                                                 |
+|           | unicode               | [box char](01_Ubuntu/02_16/39_unicode/01_box_char.md)                                                                           |
 |           | vim                   | [Cmd-Mode : Move Cursor](01_Ubuntu/02_16/40_vim/01_cmd-Mode/01_Move_Cursor.md)                                                  |
 |           |                       | [Cmd-Mode : Move Line Up and Down](01_Ubuntu/02_16/40_vim/01_cmd-Mode/02_Move_Line_Up_and_Down.md)                              |
 |           |                       | [Edit-Mode Insert-Mode : ]()                                                                                                    |
