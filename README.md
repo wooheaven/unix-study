@@ -21,6 +21,7 @@
 |           |                       | [check current shell](01_Ubuntu/02_16/03_bash/04_check_current_shell.md)                                                        |
 |           |                       | [Multiplication](01_Ubuntu/02_16/03_bash/05_Multiplication_on_Bash.md)                                                          |
 |           | chrome remote desktop | [install : by wget deb](01_Ubuntu/02_16/04_chrome_remote_desktop/01_install_chrome_remote_desktop.md)                           |
+|           | cpu                   | [cpu info : by cat](01_Ubuntu/02_16/05_cpu/01_cpu_info.md)                                                                      |
 |           | date                  | [date with format : 24:59:59.999](01_Ubuntu/02_16/05_date/01_date_with_hour_min_sec_nano.md)                                    |
 |           | desktop               | [install desktop on Ubuntu16 server](01_Ubuntu/02_16/06_desktop/01_install_desktop_on_Ubuntu16_server.md)                       |
 |           |                       | [auto login on unity desktop](01_Ubuntu/02_16/06_desktop/02_auto_login+on_ubuntu16_desktop.md)                                  |
