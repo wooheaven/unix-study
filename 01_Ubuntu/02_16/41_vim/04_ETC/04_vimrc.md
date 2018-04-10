@@ -8,7 +8,7 @@ nmap <C-j> :m .+1<CR>
 nmap <C-k> :m .-2<CR>
 
 " GitLab Commit Message "
-let @c=':1,1s/^/```/:1,$s/; On branch /#/:1,$s/;\t//:$,$s/;/```/'
+let @c='5Go```:5,5s/; On branch /#/:10,$s/;\t//:$,$s/;/```/'
 
 " GitLab Renamed list by git status
 let @r=':1,$s/\trenamed:    //'

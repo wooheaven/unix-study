@@ -1,19 +1,23 @@
 ```{bash}
 set autoread
-set ts=4
+set tabstop=4
 syntax on
+
+" Colors
 colorscheme molokai
+
 " filetype indent on
 
 " Line Number
 let @n=':set nu! nu?'
+set nu
 
 " Move line Up and Down
 nmap <C-j> :m .+1<CR>
 nmap <C-k> :m .-2<CR>
 
 " GitLab Commit Message "
-let @c=':1,1s/^/```/:4,4s/; On branch /#/:1,$s/;\t//^M:$,$s/;/```/'
+let @c='5Go```:5,5s/; On branch /#/:10,$s/;\t//^M:$,$s/;/```/'
 
 " GitLab Renamed list by git status
 let @r=':1,$s/^\trenamed:    //'
