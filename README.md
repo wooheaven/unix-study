@@ -29,6 +29,7 @@
 |           | df                    | [df -h : display file system with human readable](01_Ubuntu/02_16/08_df/01_df_with_human_readerble.md)                          |
 |           | dpkg                  | [dpgk : install and remove package](01_Ubuntu/02_16/09_dpkg/01_dpkg_install_remove_package.md)                                  |
 |           | du                    | [fileSize of folder](01_Ubuntu/02_16/10_du/01_du_file_size_of_folder.md)                                                        |
+|           | egrep                 | [egrep : A or B file.txt](01_Ubuntu/02_16/11_egrep/01_egrep_A_or_B_example.md)                                                  |
 |           | exfat                 | [install exfat : linux and windows can available fileSystem](01_Ubuntu/02_16/11_exfat/01_install_exfat_on_ubuntu16.md)          |
 |           | fcitx                 | [fcitx : virtual keyboard](01_Ubuntu/02_16/12_fcitx/01_disable_fcitx.md)                                                        |
 |           | fdisk                 | [fdisk : partioning disk](01_Ubuntu/02_16/13_fdisk/01_fdisk_partioning_disk.md)                                                 |
