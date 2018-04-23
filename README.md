@@ -112,7 +112,7 @@
 |           |                       | [find : sed TAB to 4SPACES](03_Mac/05_find/04_find_and_sed_move_TAB_to_4SPACES.md)                                              |
 |           | Installer USB         | [usb : installer for Ubuntu16 server](03_Mac/06_installer_usb/01_create_installer_usb_for_ubuntu16_server.md)                   |
 |           | IntelliJ              | [Shortcut](03_Mac/07_IntelliJ/01_Shortcuts.md)                                                                                  |
-|           | ITerm2                | [Pane : switch Splited Panes](03_Mac/08_ITerm2/01_switch_Splited_Panes.md)                                                      |
+|           | ITerm2                | [ShortKey of Iterm2](03_Mac/08_ITerm2/01_short_key_of_iterm2_on_mac.md)                                                         |
 |           | Picture               | [resize picture](03_Mac/09_Picture/01_resize_of_picture.md)                                                                     |
 |           | Python                | [Python3.5 on conda : Matplotlib Backends RuntimeError](03_Mac/10_Python/01_with_Conda/01_Matplotlib_backends_RuntimeError.md)  |
 |           | sed                   | [move CRLF to LF](03_Mac/11_sed/01_sed_remove_CRLF_to_LF.md)                                                                    |
