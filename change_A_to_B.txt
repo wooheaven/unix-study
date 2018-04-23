@@ -1,14 +1,1 @@
-03_Mac/08_Picture/01_resize_of_picture.md -> 03_Mac/09_Picture/01_resize_of_picture.md
-03_Mac/09_Python/01_with_Conda/01_Matplotlib_backends_RuntimeError.md -> 03_Mac/10_Python/01_with_Conda/01_Matplotlib_backends_RuntimeError.md
-03_Mac/10_sed/01_sed_remove_CRLF_to_LF.md -> 03_Mac/11_sed/01_sed_remove_CRLF_to_LF.md
-03_Mac/11_tree/01_install_use_tree_on_mac.md -> 03_Mac/13_tree/01_install_use_tree_on_mac.md
-03_Mac/12_vim/03_CmdLine-Mode/01_vim_move_line.md -> 03_Mac/14_vim/03_CmdLine-Mode/01_vim_move_line.md
-03_Mac/12_vim/03_CmdLine-Mode/02_vim_save_as_other_File.md -> 03_Mac/14_vim/03_CmdLine-Mode/02_vim_save_as_other_File.md
-03_Mac/12_vim/04_ETC/01_vimrc_color_molokai.md -> 03_Mac/14_vim/04_ETC/01_vimrc_color_molokai.md
-03_Mac/12_vim/04_ETC/02_vim_diff.md -> 03_Mac/14_vim/04_ETC/02_vim_diff.md
-03_Mac/12_vim/04_ETC/03_vim_diff_refresh.md -> 03_Mac/14_vim/04_ETC/03_vim_diff_refresh.md
-03_Mac/12_vim/04_ETC/04_vimrc.md -> 03_Mac/14_vim/04_ETC/04_vimrc.md
-03_Mac/13_vnc_client/01_use_vnc_client.md -> 03_Mac/15_vnc_client/01_use_vnc_client.md
-03_Mac/14_zip/01_use_zip.md -> 03_Mac/16_zip/01_use_zip.md
-03_Mac/15_zsh/01_explain_of_bash_profile_bashrc_zshrc.md -> 03_Mac/17_zsh/01_explain_of_bash_profile_bashrc_zshrc.md
-03_Mac/15_zsh/02_example_of_zshrc.md -> 03_Mac/17_zsh/02_example_of_zshrc.md
+03_Mac/08_ITerm2/01_short_key_of_iterm2_on_mac.md -> 03_Mac/08_ITerm2/01_switch_Splited_Panes.md
