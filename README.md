@@ -110,6 +110,7 @@
 |           |                       | [find : sed CRLF to LF](03_Mac/05_find/03_find_and_sed_move_CRLF_to_LF.md)                                                      |
 |           |                       | [find : maxdepth](03_Mac/05_find/02_find_with_maxdepth.md)                                                                      |
 |           |                       | [find : sed TAB to 4SPACES](03_Mac/05_find/04_find_and_sed_move_TAB_to_4SPACES.md)                                              |
+|           |                       | [find : size](03_Mac/05_find/05_find_with_fizeSize.md)                                                                          |
 |           | Installer USB         | [usb : installer for Ubuntu16 server](03_Mac/06_installer_usb/01_create_installer_usb_for_ubuntu16_server.md)                   |
 |           | IntelliJ              | [Shortcut](03_Mac/07_IntelliJ/01_Shortcuts.md)                                                                                  |
 |           | ITerm2                | [ShortKey of Iterm2](03_Mac/08_ITerm2/01_short_key_of_iterm2_on_mac.md)                                                         |
