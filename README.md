@@ -39,6 +39,7 @@
 |           |                       | [find : find with maxdepth](01_Ubuntu/02_16/15_find/02_find_with_maxdepth.md)                                                   |
 |           |                       | [find : find file and sed CRLF to LF](01_Ubuntu/02_16/15_find/03_find_and_sed_move_CRLF_to_LF.md)                               |
 |           |                       | [find : find file and sed TAB to 4SPACES](01_Ubuntu/02_16/15_find/04_find_and_sed_move_TAB_to_4SPACES.md)                       |
+|           |                       | [find : size](01_Ubuntu/02_16/15_find/05_find_with_fileSize.md)                                                                 |
 |           | firefox               | [firefox : downgrade and upgrade](01_Ubuntu/02_16/16_firefox/01_firefox_downgrade_57_to_45.md)                                  |
 |           | for                   | [for : num++](01_Ubuntu/02_16/17_for_statement/01_for_num++.md)                                                                 |
 |           |                       | [for : in list](01_Ubuntu/02_16/17_for_statement/02_for_in_list.md)                                                             |
@@ -110,6 +111,7 @@
 |           |                       | [find : sed CRLF to LF](03_Mac/05_find/03_find_and_sed_move_CRLF_to_LF.md)                                                      |
 |           |                       | [find : maxdepth](03_Mac/05_find/02_find_with_maxdepth.md)                                                                      |
 |           |                       | [find : sed TAB to 4SPACES](03_Mac/05_find/04_find_and_sed_move_TAB_to_4SPACES.md)                                              |
+|           |                       | [find : size](03_Mac/05_find/05_find_with_fileSize.md)                                                                          |
 |           | Installer USB         | [usb : installer for Ubuntu16 server](03_Mac/06_installer_usb/01_create_installer_usb_for_ubuntu16_server.md)                   |
 |           | IntelliJ              | [Shortcut](03_Mac/07_IntelliJ/01_Shortcuts.md)                                                                                  |
 |           | ITerm2                | [ShortKey of Iterm2](03_Mac/08_ITerm2/01_short_key_of_iterm2_on_mac.md)                                                         |
