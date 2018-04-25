@@ -126,6 +126,8 @@
 |           |                       | [ETC : vim diff refresh](03_Mac/14_vim/04_ETC/03_vim_diff_refresh.md)                                                           |
 |           |                       | [ETC : cat ~/.vimrc](03_Mac/14_vim/04_ETC/04_vimrc.md)                                                                          |
 |           | vnc                   | [vnc client : Connect to vnc server](03_Mac/15_vnc_client/01_use_vnc_client.md)                                                 |
-|           | zip                   | [compress folder, partially by size](03_Mac/16_zip/01_use_zip.md)                                                               |
+|           | zip                   | [zip : compress folder](03_Mac/16_zip/01_zip_folder.md)                                                                         |
+|           |                       | [zip : splited compress](03_Mac/16_zip/02_zip_splited_compress.md)                                                              |
+|           |                       | [zip : exclude](03_Mac/16_zip/03_zip_exclude.md)                                                                                |
 |           | Zsh                   | [~/.bash_profile ~/.bashrc ~/.zshrc : Configure with non-login/login](03_Mac/17_zsh/01_explain_of_bash_profile_bashrc_zshrc.md) |
 |           |                       | [~/.zshrc : example of .zshrc](03_Mac/17_zsh/02_example_of_zshrc.md)                                                            |
