@@ -65,7 +65,7 @@
 |           |                       | [replace every 3rd comma to semicolon](01_Ubuntu/02_16/34_sed/02_replace_every_3rd_comma_to_semicolon.md)                       |
 |           | server                | [install ubuntu 16 server](01_Ubuntu/02_16/35_server/01_install_ubuntu16_server.md)                                             |
 |           | snap                  | [snap : install list refresh remove](01_Ubuntu/02_16/36_snap/01_snap_install_list_changes_refresh_remove.md)                    |
-|           |                       | [snap : install pycharm](01_Ubuntu/02_16/36_snap/02_snap_install_pycharm.md)                                                    |
+|           |                       | [snap : install and refresh pycharm](01_Ubuntu/02_16/36_snap/02_snap_install_refresh_pycharm.md)                                |
 |           |                       | [snap : install anbox](01_Ubuntu/02_16/36_snap/03_snap_install_anbox.md)                                                        | 
 |           | ssh                   | [ssh : install](01_Ubuntu/02_16/37_ssh/01_install_ssh.md)                                                                       |
 |           |                       | [ssh-key : ssh login without passowrd](01_Ubuntu/02_16/37_ssh/02_add_publicKey_to_server.md)                                    |
