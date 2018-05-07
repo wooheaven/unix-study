@@ -72,6 +72,7 @@
 |           |                       | [ssh-key : ssh login without passowrd](01_Ubuntu/02_16/37_ssh/02_add_publicKey_to_server.md)                                    |
 |           | Startup Applications  | [Add Programs](01_Ubuntu/02_16/38_Startup_Applications/01_add_programs.md)                                                      |
 |           | Steam                 | [Install Steam on Ubuntu16](01_Ubuntu/02_16/39_Steam/01_install_Steam_on_ubuntu16.md)                                           |
+|           | Sublime Text 2        | [Install Sublime Text 2](01_Ubuntu/02_16/40_sublime_text_2/01_install_sublime_text2.md)                                         |
 |           | substring             | [substring remove from beginning or back + long or short](01_Ubuntu/02_16/40_substring/01_substring_remove.md)                  |
 |           | tac                   | [read from bottom to top](01_Ubuntu/02_16/41_tac/01_tac.md)                                                                     |
 |           | tar                   | [uncompress : tgz](01_Ubuntu/02_16/42_tar/01_uncompress_tgz.md)                                                                 |
