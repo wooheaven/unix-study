@@ -55,6 +55,7 @@
 |           | mkfs.xfs              | [make filesystem xfs](01_Ubuntu/02_16/25_mkfs.xfs/01_mkfs.xfs_device.md)                                                        |
 |           | network               | [network : static](01_Ubuntu/02_16/26_network/01_static/01_configure_static.md)                                                 |
 |           |                       | [network : dhcp](01_Ubuntu/02_16/26_network/01_static/01_configure_static.md)                                                   |
+|           |                       | [127.0.1.1 : why use this](01_Ubuntu/02_16/26_network/03_hostname/01_127.0.1.1.md)                                              |
 |           | nmap                  | [port check](01_Ubuntu/02_16/27_nmap/01_install_use_nmap.md)                                                                    |
 |           | nohup                 | [nohup : use](01_Ubuntu/02_16/28_nohup/01_use_nohup.md)                                                                         |
 |           | nvidia                | [install : nvidia driver](01_Ubuntu/02_16/29_nvidia/01_install_nvidia_driver.md)                                                |
