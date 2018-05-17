@@ -99,10 +99,10 @@
 |           | xwininfo              | [xwininfo : get window size](01_Ubuntu/02_16/50_xwininfo/01_use_xwininfo.md)                                                    |
 |           | zip                   | [compress and uncompress directory](01_Ubuntu/02_16/51_zip/01_zip_directory.md)                                                 | 
 | CentOS6.9 | docker                | [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)                                                             |
-|           | git                   | [yum install git : version 2.x](02_CentOS/01_6.9/01_git/01_yum_install_git.md)                                                  |
-|           | network               | [network : static](02_CentOS/01_6.9/02_network/01_static.md)                                                                    |
-|           |                       | [network : dhcp](02_CentOS/01_6.9/02_network/02_dhcp.md)                                                                        |
-|           | sed                   | [replace string /t to tab character](02_CentOS/01_6.9/03_sed/01_sed_string_replace.md)                                          |
+|           | git                   | [yum install git : version 2.x](02_CentOS/01_6.9/02_git/01_yum_install_git.md)                                                  |
+|           | network               | [network : static](02_CentOS/01_6.9/03_network/01_static.md)                                                                    |
+|           |                       | [network : dhcp](02_CentOS/01_6.9/03_network/02_dhcp.md)                                                                        |
+|           | sed                   | [replace string /t to tab character](02_CentOS/01_6.9/04_sed/01_sed_string_replace.md)                                          |
 | Mac       | battery               | [Charge Status](03_Mac/01_Battery/01_Charge_Status.md)                                                                          |
 |           | brew                  | [install brew](03_Mac/02_brew/01_install_brew.md)                                                                               |
 |           |                       | [brew install maven](03_Mac/02_brew/02_brew_install_mavern.md)                                                                  |
