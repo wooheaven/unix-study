@@ -98,7 +98,8 @@
 |           | xclip                 | [xclip : install and use](01_Ubuntu/02_16/49_xclip/01_install_and_use_xclip.md)                                                 |
 |           | xwininfo              | [xwininfo : get window size](01_Ubuntu/02_16/50_xwininfo/01_use_xwininfo.md)                                                    |
 |           | zip                   | [compress and uncompress directory](01_Ubuntu/02_16/51_zip/01_zip_directory.md)                                                 | 
-| CentOS6.9 | git                   | [yum install git : version 2.x](02_CentOS/01_6.9/01_git/01_yum_install_git.md)                                                  |
+| CentOS6.9 | docker                | [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)                                                             |
+|           | git                   | [yum install git : version 2.x](02_CentOS/01_6.9/01_git/01_yum_install_git.md)                                                  |
 |           | network               | [network : static](02_CentOS/01_6.9/02_network/01_static.md)                                                                    |
 |           |                       | [network : dhcp](02_CentOS/01_6.9/02_network/02_dhcp.md)                                                                        |
 |           | sed                   | [replace string /t to tab character](02_CentOS/01_6.9/03_sed/01_sed_string_replace.md)                                          |
