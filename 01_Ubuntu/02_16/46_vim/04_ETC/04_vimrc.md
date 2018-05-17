@@ -4,8 +4,8 @@
 color molokai
 
 " Move line Up and Down
-nmap <C-j> :m .+1<CR>
-nmap <C-k> :m .-2<CR>
+nmap <S-k> :m .-2<CR>
+nmap <S-j> :m .+1<CR>
 
 " GitLab Commit Message "
 let @c='5Go```:5,5s/; On branch /#/:10,$s/;\t//:$,$s/;/```/'
