@@ -13,8 +13,8 @@ let @n=':set nu! nu?'
 set nu
 
 " Move line Up and Down
-nmap <C-j> :m .+1<CR>
-nmap <C-k> :m .-2<CR>
+nmap <S-k> :m .-2<CR>
+nmap <S-j> :m .+1<CR>
 
 " GitLab Commit Message "
 let @c='4Gdwdwdwi#^[o```^[:7,$s/^;\t//^M:$,$s/^;/```/^M'
