@@ -67,9 +67,10 @@
 |           | sed                   | [remove \^M in text file](01_Ubuntu/02_16/35_sed/01_remove_^M_with_sed.md)                                                      | 
 |           |                       | [replace every 3rd comma to semicolon](01_Ubuntu/02_16/35_sed/02_replace_every_3rd_comma_to_semicolon.md)                       |
 |           | server                | [install ubuntu 16 server](01_Ubuntu/02_16/36_server/01_install_ubuntu16_server.md)                                             |
-|           | snap                  | [snap : install list refresh remove](01_Ubuntu/02_16/37_snap/01_snap_install_list_changes_refresh_remove.md)                    |
+|           | snap                  | [snap : example install list refresh remove](01_Ubuntu/02_16/37_snap/01_snap_install_list_changes_refresh_remove.md)            |
 |           |                       | [snap : install and refresh pycharm](01_Ubuntu/02_16/37_snap/02_snap_install_refresh_pycharm.md)                                |
 |           |                       | [snap : install anbox](01_Ubuntu/02_16/37_snap/03_snap_install_anbox.md)                                                        | 
+|           |                       | [snap : install intellij](01_Ubuntu/02_16/37_snap/04_snap_install_intellij.md)                                                  |
 |           | ssh                   | [ssh : install](01_Ubuntu/02_16/38_ssh/01_install_ssh.md)                                                                       |
 |           |                       | [ssh-key : ssh login without passowrd](01_Ubuntu/02_16/38_ssh/02_add_publicKey_to_server.md)                                    |
 |           |                       | [pssh : parallel-ssh](01_Ubuntu/02_16/38_ssh/03_install_pssh.md)                                                                |
