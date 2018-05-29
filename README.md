@@ -49,6 +49,7 @@
 |           | gnome terminal        | [gnome terminal : run by CLI](01_Ubuntu/02_16/19_gnome_terminal/01_run_gnome_terminal_by_CLI.md)                                |
 |           | GRUB                  | [GRUB : reset PassWord](01_Ubuntu/02_16/20_GRUB/01_reset_passwd_on_GRUB.md)                                                     |
 |           | if                    | [if : check filePath](01_Ubuntu/02_16/21_if/01_if_check_filePath.md)                                                            |
+|           | Java                  | [jdk7 : install](01_Ubuntu/02_16/22_Java/01_install_jdk7.md)                                                                    |
 |           | Libre Office          | [remove](01_Ubuntu/02_16/22_LibreOffice/01_remove_LibreOffice.md)                                                               |
 |           | LVM                   | [LVM : format and mount attached device](01_Ubuntu/02_16/23_LVM/01_LVM_on_attached_device.md)                                   |
 |           | mkfs.ext4             | [make filesystem ext4](01_Ubuntu/02_16/24_mkfs.ext4/01_mkfs.ext4_device.md)                                                     |
