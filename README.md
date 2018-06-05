@@ -5,7 +5,8 @@
 |           |                       | [apt-get : hash error](01_Ubuntu/01_14.04/01_apt-get/03_apt-get_update_hash_sum_error.md)                                       |
 |           |                       | [apt-get : duplicate sources.list](01_Ubuntu/01_14.04/01_apt-get/04_apt-get_Duplicate_sources.list.md)                          |
 |           | vnc4server            | [vnc4server : install configure](01_Ubuntu/01_14.04/02_vnc4server/01_install_config_vnc4server.md)                              |
-| Ubuntu16  | apt-get               | [apt-get : install graphviz](01_Ubuntu/02_16/01_apt-get/01_apt-get_install_graphviz_with_python3.5.md)                          |
+| Ubuntu16  | adduser               | [adduser : hadoop user](01_Ubuntu/02_16/01_adduser/01_adduser.md)                                                               |
+|           | apt-get               | [apt-get : install graphviz](01_Ubuntu/02_16/01_apt-get/01_apt-get_install_graphviz_with_python3.5.md)                          |
 |           |                       | [apt-get : install jq](01_Ubuntu/02_16/01_apt-get/02_apt-get_install_jq.md)                                                     |
 |           |                       | [apt-get : install vlc](01_Ubuntu/02_16/01_apt-get/03_apt-get_install_vlc.md)                                                   |
 |           |                       | [apt-get : lock error](01_Ubuntu/02_16/01_apt-get/04_apt-get_lock_error.md)                                                     |
