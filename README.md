@@ -85,6 +85,7 @@
 |           |                       | [compress : folder](01_Ubuntu/02_16/46_tar/02_compress_folder_by_tar.md)                                                        |
 |           | touch                 | [touch : accessed modified timestamp](01_Ubuntu/02_16/47_touch/01_modify_timestamp.md)                                          |
 |           | unicode               | [box char](01_Ubuntu/02_16/48_unicode/01_box_char.md)                                                                           |
+|           | usermod               | [add User to Group](01_Ubuntu/02_16/49_usermod/01_add_USER_to_GROUP.md)                                                         |
 |           | vim                   | [Cmd-Mode : Move Cursor](01_Ubuntu/02_16/49_vim/01_cmd-Mode/01_Move_Cursor.md)                                                  |
 |           |                       | [Cmd-Mode : Move Line Up and Down](01_Ubuntu/02_16/49_vim/01_cmd-Mode/02_Move_Line_Up_and_Down.md)                              |
 |           |                       | [Edit-Mode Insert-Mode : ]()                                                                                                    |
