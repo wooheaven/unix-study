@@ -6,6 +6,7 @@
 |           |                       | [apt-get : duplicate sources.list](01_Ubuntu/01_14.04/01_apt-get/04_apt-get_Duplicate_sources.list.md)                          |
 |           | vnc4server            | [vnc4server : install configure](01_Ubuntu/01_14.04/02_vnc4server/01_install_config_vnc4server.md)                              |
 | Ubuntu16  | adduser               | [adduser : hadoop user](01_Ubuntu/02_16/01_adduser/01_adduser.md)                                                               |
+|           | apt                   | [apt : list](01_Ubuntu/02_16/02_apt/01_apt_list.md)                                                                             |
 |           | apt-get               | [apt-get : install graphviz](01_Ubuntu/02_16/02_apt-get/01_apt-get_install_graphviz_with_python3.5.md)                          |
 |           |                       | [apt-get : install jq](01_Ubuntu/02_16/02_apt-get/02_apt-get_install_jq.md)                                                     |
 |           |                       | [apt-get : install vlc](01_Ubuntu/02_16/02_apt-get/03_apt-get_install_vlc.md)                                                   |
@@ -30,6 +31,7 @@
 |           |                       | [location of desktop files](01_Ubuntu/02_16/08_desktop/03_find_desktop_file.md)                                                 |
 |           | df                    | [df -h : display file system with human readable](01_Ubuntu/02_16/09_df/01_df_with_human_readerble.md)                          |
 |           | dpkg                  | [dpgk : install and remove package](01_Ubuntu/02_16/10_dpkg/01_dpkg_install_remove_package.md)                                  |
+|           |                       | [dpgk : list](01_Ubuntu/02_16/10_dpkg/02_dpkg_list.md)                                                                          |
 |           | du                    | [fileSize of folder](01_Ubuntu/02_16/11_du/01_du_file_size_of_folder.md)                                                        |
 |           | egrep                 | [egrep : A or B file.txt](01_Ubuntu/02_16/12_egrep/01_egrep_A_or_B_example.md)                                                  |
 |           | exfat                 | [install exfat : linux and windows can available fileSystem](01_Ubuntu/02_16/13_exfat/01_install_exfat_on_ubuntu16.md)          |
