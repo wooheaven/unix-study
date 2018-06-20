@@ -66,6 +66,7 @@
 |           | opencv                | [build and install : opencv 3.4.0](01_Ubuntu/02_16/33_OpenCV/01_Build_OpenCV_3.4_with_opencv_contrib.md)                        |
 |           | opera                 | [save stream video as file](01_Ubuntu/02_16/34_Opera/01_save_stream_video_as_file.md)                                           |
 |           | parted                | [parted : check model of attached disks](01_Ubuntu/02_16/35_parted/01_parted_list.md)                                           |
+|           | passwd                | [passwd : root passwd update](01_Ubuntu/02_16/36_passwd/01_root_passwd.md)                                                      |
 |           | rsync                 | [rsync : folder to folder](01_Ubuntu/02_16/36_rsync/01_rsync_folder_to_folder.md)                                               |
 |           | run-level             | [run-level : change](01_Ubuntu/02_16/37_run-level/01_change_run-level.md)                                                       |
 |           | sed                   | [remove \^M in text file](01_Ubuntu/02_16/38_sed/01_remove_^M_with_sed.md)                                                      | 
