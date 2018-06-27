@@ -58,6 +58,8 @@
 |           | LVM                   | [LVM : format and mount attached device](01_Ubuntu/02_16/26_LVM/01_LVM_on_attached_device.md)                                   |
 |           | mkfs.ext4             | [make filesystem ext4](01_Ubuntu/02_16/27_mkfs.ext4/01_mkfs.ext4_device.md)                                                     |
 |           | mkfs.xfs              | [make filesystem xfs](01_Ubuntu/02_16/28_mkfs.xfs/01_mkfs.xfs_device.md)                                                        |
+|           | mount                 | [mount : remount /home to other disk](01_Ubuntu/02_16/29_mount/01_remount_home_to_other_disk.md)                                |
+|           |                       | [mount : remount /var to other disk](01_Ubuntu/02_16/29_mount/02_remount_var_to_other_disk.md)                                  |
 |           | network               | [network : static](01_Ubuntu/02_16/29_network/01_static/01_configure_static.md)                                                 |
 |           |                       | [network : dhcp](01_Ubuntu/02_16/29_network/01_static/01_configure_static.md)                                                   |
 |           |                       | [127.0.1.1 : why use this](01_Ubuntu/02_16/29_network/03_hostname/01_127.0.1.1.md)                                              |
