@@ -1,5 +1,5 @@
 # Remove and Create swap partition by fdisk
-ref https://www.computernetworkingnotes.com/rhce-study-guide/how-to-create-swap-partition-in-linux.html
+ref https://www.computernetworkingnotes.com/rhce-study-guide/how-to-create-swap-partition-in-linux.html  
 ref https://linuxtechlab.com/create-swap-using-fdisk-fallocate/
 
 # Check Filesystem and Mount
@@ -189,23 +189,11 @@ Filename                Type        Size    Used    Priority
 
 # register on /etc/fstab for permanent use
 ```{bash}
+bistel@BIStelResearchDev-NN:~$ sudo blkid | grep vda7
+    /dev/vda7: UUID="3aadae39-913e-4783-80b8-902ff4cb654d" TYPE="swap" PARTUUID="5d53dc53-07"
+
 bistel@BIStelResearchDev-NN:~$ sudo vi /etc/fstab
-bistel@BIStelResearchDev-NN:~$ sudo cat /etc/fstab
-# /etc/fstab: static file system information.
-#
-# Use 'blkid' to print the universally unique identifier for a
-# device; this may be used with UUID= as a more robust way to name devices
-# that works even if disks are added and removed. See fstab(5).
-#
-# <file system> <mount point>   <type>  <options>       <dump>  <pass>
-# / was on /dev/vda5 during installation
-UUID=5dda0e38-6696-497f-8005-52f989a7206d /               ext4    errors=remount-ro 0       1
-# /boot was on /dev/vda6 during installation
-UUID=3892467e-3a74-4c83-b961-323c58796244 /boot           ext4    defaults        0       2
-# /home was on /dev/vdb6 during installation
-UUID=d2f45223-d8bf-41e1-b2b3-233b14b4a2e4 /home           ext4    defaults        0       2
-# /var was on /dev/vdb5 during installation
-UUID=1ed30669-6424-47a8-91ec-c9b6ec6613ed /var            ext4    defaults        0       2
+bistel@BIStelResearchDev-NN:~$ sudo cat /etc/fstab | grep swap
 # swap was on /dev/vda7 during installation
-UUID=37cbb0f8-6b4f-480c-86d0-a054cc5b3342 none            swap    sw              0       0
+UUID=3aadae39-913e-4783-80b8-902ff4cb654d none            swap    sw              0       0
 ```
