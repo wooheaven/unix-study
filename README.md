@@ -70,6 +70,8 @@
 |           |                       | [parted : remove and create swap partition](01_Ubuntu/02_16/35_parted/02_parted_swap_partition.md)                              |
 |           | passwd                | [passwd : root passwd update](01_Ubuntu/02_16/36_passwd/01_root_passwd.md)                                                      |
 |           | rsync                 | [rsync : folder to folder](01_Ubuntu/02_16/37_rsync/01_rsync_folder_to_folder.md)                                               |
+|           |                       | [rsync : /home to other folder](01_Ubuntu/02_16/37_rsync/02_rsync_home_to_other.md)                                             |
+|           |                       | [rsync : /var to other folder](01_Ubuntu/02_16/37_rsync/03_rsync_var_to_other.md)                                               | 
 |           | run-level             | [run-level : change](01_Ubuntu/02_16/38_run-level/01_change_run-level.md)                                                       |
 |           | sed                   | [remove \^M in text file](01_Ubuntu/02_16/39_sed/01_remove_^M_with_sed.md)                                                      | 
 |           |                       | [replace every 3rd comma to semicolon](01_Ubuntu/02_16/39_sed/02_replace_every_3rd_comma_to_semicolon.md)                       |
