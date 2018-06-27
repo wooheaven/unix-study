@@ -39,6 +39,7 @@
 |           | fdisk                 | [fdisk : partioning disk](01_Ubuntu/02_16/16_fdisk/01_fdisk_partioning_disk.md)                                                 |
 |           |                       | [fdisk : partioning and format USB as FAT32 limit 32GB](01_Ubuntu/02_16/16_fdisk/02_format_USB_as_FAT32.md)                     |
 |           |                       | [fdisk : list partitions of attached disks](01_Ubuntu/02_16/16_fdisk/03_fdisk_list_disks.md)                                    |
+|           |                       | [fdisk : delete and create swap partition](01_Ubuntu/02_16/16_fdisk/05_fdisk_swap_partition.md)                                 |
 |           | find                  | [find : find with basename](01_Ubuntu/02_16/17_find/01_find_with_basename.md)                                                   |
 |           |                       | [find : find with maxdepth](01_Ubuntu/02_16/17_find/02_find_with_maxdepth.md)                                                   |
 |           |                       | [find : find file and sed CRLF to LF](01_Ubuntu/02_16/17_find/03_find_and_sed_move_CRLF_to_LF.md)                               |
