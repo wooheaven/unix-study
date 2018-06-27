@@ -39,7 +39,7 @@
 |           | fdisk                 | [fdisk : partioning disk](01_Ubuntu/02_16/16_fdisk/01_fdisk_partioning_disk.md)                                                 |
 |           |                       | [fdisk : partioning and format USB as FAT32 limit 32GB](01_Ubuntu/02_16/16_fdisk/02_format_USB_as_FAT32.md)                     |
 |           |                       | [fdisk : list partitions of attached disks](01_Ubuntu/02_16/16_fdisk/03_fdisk_list_disks.md)                                    |
-|           |                       | [fdisk : delete and create swap partition](01_Ubuntu/02_16/16_fdisk/05_fdisk_swap_partition.md)                                 |
+|           |                       | [fdisk : delete and create swap partition](01_Ubuntu/02_16/16_fdisk/04_fdisk_swap_partition.md)                                 |
 |           | find                  | [find : find with basename](01_Ubuntu/02_16/17_find/01_find_with_basename.md)                                                   |
 |           |                       | [find : find with maxdepth](01_Ubuntu/02_16/17_find/02_find_with_maxdepth.md)                                                   |
 |           |                       | [find : find file and sed CRLF to LF](01_Ubuntu/02_16/17_find/03_find_and_sed_move_CRLF_to_LF.md)                               |
@@ -67,6 +67,7 @@
 |           | opencv                | [build and install : opencv 3.4.0](01_Ubuntu/02_16/33_OpenCV/01_Build_OpenCV_3.4_with_opencv_contrib.md)                        |
 |           | opera                 | [save stream video as file](01_Ubuntu/02_16/34_Opera/01_save_stream_video_as_file.md)                                           |
 |           | parted                | [parted : check model of attached disks](01_Ubuntu/02_16/35_parted/01_parted_list.md)                                           |
+|           |                       | [parted : remove and create swap partition](01_Ubuntu/02_16/35_parted/02_parted_swap_partition.md)                              |
 |           | passwd                | [passwd : root passwd update](01_Ubuntu/02_16/36_passwd/01_root_passwd.md)                                                      |
 |           | rsync                 | [rsync : folder to folder](01_Ubuntu/02_16/37_rsync/01_rsync_folder_to_folder.md)                                               |
 |           | run-level             | [run-level : change](01_Ubuntu/02_16/38_run-level/01_change_run-level.md)                                                       |
