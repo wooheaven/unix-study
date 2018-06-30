@@ -87,6 +87,7 @@
 |           | ssh                   | [ssh : install](01_Ubuntu/02_16/44_ssh/01_install_ssh.md)                                                                       |
 |           |                       | [ssh-key : ssh login without passowrd](01_Ubuntu/02_16/44_ssh/02_add_publicKey_to_server.md)                                    |
 |           |                       | [pssh : parallel-ssh](01_Ubuntu/02_16/44_ssh/03_install_pssh.md)                                                                |
+|           |                       | [pssh : rsync and md5sum a file on cluster by pssh](01_Ubuntu/02_16/44_ssh/04_rsync_file_by_pssh.md)                            |
 |           | Startup Applications  | [Add Programs](01_Ubuntu/02_16/45_Startup_Applications/01_add_programs.md)                                                      |
 |           | Steam                 | [Install Steam on Ubuntu16](01_Ubuntu/02_16/46_Steam/01_install_Steam_on_ubuntu16.md)                                           |
 |           | Sublime Text 2        | [Install Sublime Text 2](01_Ubuntu/02_16/47_sublime_text_2/01_install_sublime_text2.md)                                         |
