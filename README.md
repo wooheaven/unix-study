@@ -97,6 +97,7 @@
 |           |                       | [compress : folder](01_Ubuntu/02_16/50_tar/02_compress_folder_by_tar.md)                                                        |
 |           | touch                 | [touch : accessed modified timestamp](01_Ubuntu/02_16/51_touch/01_modify_timestamp.md)                                          |
 |           | unicode               | [box char](01_Ubuntu/02_16/52_unicode/01_box_char.md)                                                                           |
+|           | userdel               | [userdel](01_Ubuntu/02_16/53_userdel/01_userdel_hadoop.md)                                                                      |
 |           | usermod               | [add User to Group](01_Ubuntu/02_16/53_usermod/01_add_USER_to_GROUP.md)                                                         |
 |           | vim                   | [Cmd-Mode : Move Cursor](01_Ubuntu/02_16/54_vim/01_cmd-Mode/01_Move_Cursor.md)                                                  |
 |           |                       | [Cmd-Mode : Move Line Up and Down](01_Ubuntu/02_16/54_vim/01_cmd-Mode/02_Move_Line_Up_and_Down.md)                              |
