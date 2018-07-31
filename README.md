@@ -1,11 +1,19 @@
+UNIX  
+╠═1. Ubuntu  
+║&ensp; ╠═1.1. ubuntu14  
+║&ensp; ║&ensp; ╠═1.1.1 apt-get  
+║&ensp; ║&ensp; ║&ensp; ╠═1.1.1.1 [apt-get : install package](01_Ubuntu/01_14.04/01_apt-get/01_apt-get_install.md)  
+║&ensp; ║&ensp; ║&ensp; ╠═1.1.1.2 [apt-get : install nvidia-docker2](01_Ubuntu/01_14.04/01_apt-get/02_install_nvidia_docker_v2.md)  
+║&ensp; ║&ensp; ║&ensp; ╠═1.1.1.3 [apt-get : hash error](01_Ubuntu/01_14.04/01_apt-get/03_apt-get_update_hash_sum_error.md)  
+║&ensp; ║&ensp; ║&ensp; ╚═1.1.1.4 [apt-get : duplicate sources.list](01_Ubuntu/01_14.04/01_apt-get/04_apt-get_Duplicate_sources.list.md)  
+║&ensp; ║&ensp; ╚═1.1.2 vnc4server  
+║&ensp; ║&ensp; &ensp; &ensp; ╚═1.1.2.1 [vnc4server : install configure](01_Ubuntu/01_14.04/02_vnc4server/01_install_config_vnc4server.md)  
+║&ensp; ╠═1.2. ubuntu16  
+║&ensp; ║&ensp; ╠═1.2.1 [adduser : hadoop user](01_Ubuntu/02_16/01_adduser/01_adduser.md)  
+( ║ ╠ ═ ╚ )  
+
 | OS        | Contents              | Detail                                                                                                                          |
 |-----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| Ubuntu14  | apt-get               | [apt-get : install package](01_Ubuntu/01_14.04/01_apt-get/01_apt-get_install.md)                                                |
-|           |                       | [apt-get : install nvidia-docker2](01_Ubuntu/01_14.04/01_apt-get/02_install_nvidia_docker_v2.md)                                |
-|           |                       | [apt-get : hash error](01_Ubuntu/01_14.04/01_apt-get/03_apt-get_update_hash_sum_error.md)                                       |
-|           |                       | [apt-get : duplicate sources.list](01_Ubuntu/01_14.04/01_apt-get/04_apt-get_Duplicate_sources.list.md)                          |
-|           | vnc4server            | [vnc4server : install configure](01_Ubuntu/01_14.04/02_vnc4server/01_install_config_vnc4server.md)                              |
-| Ubuntu16  | adduser               | [adduser : hadoop user](01_Ubuntu/02_16/01_adduser/01_adduser.md)                                                               |
 |           | apt                   | [apt : list](01_Ubuntu/02_16/02_apt/01_apt_list.md)                                                                             |
 |           | apt-get               | [apt-get : install graphviz](01_Ubuntu/02_16/03_apt-get/01_apt-get_install_graphviz_with_python3.5.md)                          |
 |           |                       | [apt-get : install jq](01_Ubuntu/02_16/03_apt-get/02_apt-get_install_jq.md)                                                     |
@@ -50,72 +58,73 @@
 |           |                       | [for : in list](01_Ubuntu/02_16/19_for_statement/02_for_in_list.md)                                                             |
 |           |                       | [for : read file](01_Ubuntu/02_16/19_for_statement/03_for_read_file.md)                                                         |
 |           | frep                  | [frep : activate frep on android](01_Ubuntu/02_16/20_frep/01_use_frep.md)                                                       |
-|           | gnome terminal        | [gnome terminal : run by CLI](01_Ubuntu/02_16/21_gnome_terminal/01_run_gnome_terminal_by_CLI.md)                                |
-|           | GRUB                  | [GRUB : reset PassWord](01_Ubuntu/02_16/22_GRUB/01_reset_passwd_on_GRUB.md)                                                     |
-|           | if                    | [if : check filePath](01_Ubuntu/02_16/23_if/01_if_check_filePath.md)                                                            |
-|           | Java                  | [jdk7 : install by apt](01_Ubuntu/02_16/24_Java/01_install_jdk7.md)                                                             |
-|           |                       | [jdk8 : install by apt](01_Ubuntu/02_16/24_Java/02_install_jdk8.md)                                                             |
-|           | Libre Office          | [remove](01_Ubuntu/02_16/25_LibreOffice/01_remove_LibreOffice.md)                                                               |
-|           | LVM                   | [LVM : format and mount attached device](01_Ubuntu/02_16/26_LVM/01_LVM_on_attached_device.md)                                   |
-|           | mkfs.ext4             | [make filesystem ext4](01_Ubuntu/02_16/27_mkfs.ext4/01_mkfs.ext4_device.md)                                                     |
-|           | mkfs.xfs              | [make filesystem xfs](01_Ubuntu/02_16/28_mkfs.xfs/01_mkfs.xfs_device.md)                                                        |
-|           | mount                 | [mount : remount /home to other disk](01_Ubuntu/02_16/29_mount/01_remount_home_to_other_disk.md)                                |
-|           |                       | [mount : remount /var to other disk](01_Ubuntu/02_16/29_mount/02_remount_var_to_other_disk.md)                                  |
-|           | network               | [network : static](01_Ubuntu/02_16/30_network/01_static/01_configure_static.md)                                                 |
-|           |                       | [network : dhcp](01_Ubuntu/02_16/30_network/01_static/01_configure_static.md)                                                   |
-|           |                       | [127.0.1.1 : why use this](01_Ubuntu/02_16/30_network/03_hostname/01_127.0.1.1.md)                                              |
-|           | nmap                  | [port check](01_Ubuntu/02_16/31_nmap/01_install_use_nmap.md)                                                                    |
-|           | nohup                 | [nohup : use](01_Ubuntu/02_16/32_nohup/01_use_nohup.md)                                                                         |
-|           | nvidia                | [install : nvidia driver](01_Ubuntu/02_16/33_nvidia/01_install_nvidia_driver.md)                                                |
-|           | opencv                | [build and install : opencv 3.4.0](01_Ubuntu/02_16/34_OpenCV/01_Build_OpenCV_3.4_with_opencv_contrib.md)                        |
-|           | opera                 | [save stream video as file](01_Ubuntu/02_16/35_Opera/01_save_stream_video_as_file.md)                                           |
-|           | parted                | [parted : check model of attached disks](01_Ubuntu/02_16/36_parted/01_parted_list.md)                                           |
-|           |                       | [parted : remove and create swap partition](01_Ubuntu/02_16/36_parted/02_parted_swap_partition.md)                              |
-|           | passwd                | [passwd : root passwd update](01_Ubuntu/02_16/37_passwd/01_root_passwd.md)                                                      |
-|           | rsync                 | [rsync : folder to folder](01_Ubuntu/02_16/38_rsync/01_rsync_folder_to_folder.md)                                               |
-|           |                       | [rsync : /home to other folder](01_Ubuntu/02_16/38_rsync/02_rsync_home_to_other.md)                                             |
-|           |                       | [rsync : /var to other folder](01_Ubuntu/02_16/38_rsync/03_rsync_var_to_other.md)                                               | 
-|           | run-level             | [run-level : change](01_Ubuntu/02_16/39_run-level/01_change_run-level.md)                                                       |
-|           | sed                   | [remove \^M in text file](01_Ubuntu/02_16/40_sed/01_remove_^M_with_sed.md)                                                      | 
-|           |                       | [replace every 3rd comma to semicolon](01_Ubuntu/02_16/40_sed/02_replace_every_3rd_comma_to_semicolon.md)                       |
-|           | server                | [install ubuntu 16 server](01_Ubuntu/02_16/41_server/01_install_ubuntu16_server.md)                                             |
-|           | snap                  | [snap : example install list refresh remove](01_Ubuntu/02_16/42_snap/01_snap_install_list_changes_refresh_remove.md)            |
-|           |                       | [snap : install and refresh pycharm](01_Ubuntu/02_16/42_snap/02_snap_install_refresh_pycharm.md)                                |
-|           |                       | [snap : install anbox](01_Ubuntu/02_16/42_snap/03_snap_install_anbox.md)                                                        | 
-|           |                       | [snap : install intellij](01_Ubuntu/02_16/42_snap/04_snap_install_intellij.md)                                                  |
-|           | sort                  | [sort key : Field and Chracter position](01_Ubuntu/02_16/43_sort/01_sort_key.md)                                                |
-|           | ssh                   | [ssh : install](01_Ubuntu/02_16/44_ssh/01_install_ssh.md)                                                                       |
-|           |                       | [ssh-key : ssh login without passowrd](01_Ubuntu/02_16/44_ssh/02_add_publicKey_to_server.md)                                    |
-|           |                       | [pssh : parallel-ssh](01_Ubuntu/02_16/44_ssh/03_install_pssh.md)                                                                |
-|           |                       | [pssh : rsync and md5sum a file on cluster by pssh](01_Ubuntu/02_16/44_ssh/04_rsync_file_by_pssh.md)                            |
-|           | Startup Applications  | [Add Programs](01_Ubuntu/02_16/45_Startup_Applications/01_add_programs.md)                                                      |
-|           | Steam                 | [Install Steam on Ubuntu16](01_Ubuntu/02_16/46_Steam/01_install_Steam_on_ubuntu16.md)                                           |
-|           | Sublime Text 2        | [Install Sublime Text 2](01_Ubuntu/02_16/47_sublime_text_2/01_install_sublime_text2.md)                                         |
-|           | substring             | [substring remove from beginning or back + long or short](01_Ubuntu/02_16/48_substring/01_substring_remove.md)                  |
-|           | tac                   | [read from bottom to top](01_Ubuntu/02_16/49_tac/01_tac.md)                                                                     |
-|           | tar                   | [uncompress : tgz](01_Ubuntu/02_16/50_tar/01_uncompress_tgz.md)                                                                 |
-|           |                       | [compress : folder](01_Ubuntu/02_16/50_tar/02_compress_folder_by_tar.md)                                                        |
-|           | touch                 | [touch : accessed modified timestamp](01_Ubuntu/02_16/51_touch/01_modify_timestamp.md)                                          |
-|           | unicode               | [box char](01_Ubuntu/02_16/52_unicode/01_box_char.md)                                                                           |
-|           | userdel               | [userdel](01_Ubuntu/02_16/53_userdel/01_userdel_hadoop.md)                                                                      |
-|           | usermod               | [add User to Group](01_Ubuntu/02_16/54_usermod/01_add_USER_to_GROUP.md)                                                         |
-|           | vim                   | [Cmd-Mode : Move Cursor](01_Ubuntu/02_16/55_vim/01_cmd-Mode/01_Move_Cursor.md)                                                  |
-|           |                       | [Cmd-Mode : Move Line Up and Down](01_Ubuntu/02_16/55_vim/01_cmd-Mode/02_Move_Line_Up_and_Down.md)                              |
+|           | gzip, gunzip          | [gzip gunzip : compress/decompress a file](01_Ubuntu/02_16/21_gzip_gunzip/01_gzip_gunzip_file.md)                               |
+|           | gnome terminal        | [gnome terminal : run by CLI](01_Ubuntu/02_16/22_gnome_terminal/01_run_gnome_terminal_by_CLI.md)                                |
+|           | GRUB                  | [GRUB : reset PassWord](01_Ubuntu/02_16/23_GRUB/01_reset_passwd_on_GRUB.md)                                                     |
+|           | if                    | [if : check filePath](01_Ubuntu/02_16/24_if/01_if_check_filePath.md)                                                            |
+|           | Java                  | [jdk7 : install by apt](01_Ubuntu/02_16/25_Java/01_install_jdk7.md)                                                             |
+|           |                       | [jdk8 : install by apt](01_Ubuntu/02_16/25_Java/02_install_jdk8.md)                                                             |
+|           | Libre Office          | [remove](01_Ubuntu/02_16/26_LibreOffice/01_remove_LibreOffice.md)                                                               |
+|           | LVM                   | [LVM : format and mount attached device](01_Ubuntu/02_16/27_LVM/01_LVM_on_attached_device.md)                                   |
+|           | mkfs.ext4             | [make filesystem ext4](01_Ubuntu/02_16/28_mkfs.ext4/01_mkfs.ext4_device.md)                                                     |
+|           | mkfs.xfs              | [make filesystem xfs](01_Ubuntu/02_16/29_mkfs.xfs/01_mkfs.xfs_device.md)                                                        |
+|           | mount                 | [mount : remount /home to other disk](01_Ubuntu/02_16/30_mount/01_remount_home_to_other_disk.md)                                |
+|           |                       | [mount : remount /var to other disk](01_Ubuntu/02_16/30_mount/02_remount_var_to_other_disk.md)                                  |
+|           | network               | [network : static](01_Ubuntu/02_16/31_network/01_static/01_configure_static.md)                                                 |
+|           |                       | [network : dhcp](01_Ubuntu/02_16/31_network/01_static/01_configure_static.md)                                                   |
+|           |                       | [127.0.1.1 : why use this](01_Ubuntu/02_16/31_network/03_hostname/01_127.0.1.1.md)                                              |
+|           | nmap                  | [port check](01_Ubuntu/02_16/32_nmap/01_install_use_nmap.md)                                                                    |
+|           | nohup                 | [nohup : use](01_Ubuntu/02_16/33_nohup/01_use_nohup.md)                                                                         |
+|           | nvidia                | [install : nvidia driver](01_Ubuntu/02_16/34_nvidia/01_install_nvidia_driver.md)                                                |
+|           | opencv                | [build and install : opencv 3.4.0](01_Ubuntu/02_16/35_OpenCV/01_Build_OpenCV_3.4_with_opencv_contrib.md)                        |
+|           | opera                 | [save stream video as file](01_Ubuntu/02_16/36_Opera/01_save_stream_video_as_file.md)                                           |
+|           | parted                | [parted : check model of attached disks](01_Ubuntu/02_16/37_parted/01_parted_list.md)                                           |
+|           |                       | [parted : remove and create swap partition](01_Ubuntu/02_16/37_parted/02_parted_swap_partition.md)                              |
+|           | passwd                | [passwd : root passwd update](01_Ubuntu/02_16/38_passwd/01_root_passwd.md)                                                      |
+|           | rsync                 | [rsync : folder to folder](01_Ubuntu/02_16/39_rsync/01_rsync_folder_to_folder.md)                                               |
+|           |                       | [rsync : /home to other folder](01_Ubuntu/02_16/39_rsync/02_rsync_home_to_other.md)                                             |
+|           |                       | [rsync : /var to other folder](01_Ubuntu/02_16/39_rsync/03_rsync_var_to_other.md)                                               | 
+|           | run-level             | [run-level : change](01_Ubuntu/02_16/40_run-level/01_change_run-level.md)                                                       |
+|           | sed                   | [remove \^M in text file](01_Ubuntu/02_16/41_sed/01_remove_^M_with_sed.md)                                                      | 
+|           |                       | [replace every 3rd comma to semicolon](01_Ubuntu/02_16/41_sed/02_replace_every_3rd_comma_to_semicolon.md)                       |
+|           | server                | [install ubuntu 16 server](01_Ubuntu/02_16/42_server/01_install_ubuntu16_server.md)                                             |
+|           | snap                  | [snap : example install list refresh remove](01_Ubuntu/02_16/43_snap/01_snap_install_list_changes_refresh_remove.md)            |
+|           |                       | [snap : install and refresh pycharm](01_Ubuntu/02_16/43_snap/02_snap_install_refresh_pycharm.md)                                |
+|           |                       | [snap : install anbox](01_Ubuntu/02_16/43_snap/03_snap_install_anbox.md)                                                        | 
+|           |                       | [snap : install intellij](01_Ubuntu/02_16/43_snap/04_snap_install_intellij.md)                                                  |
+|           | sort                  | [sort key : Field and Chracter position](01_Ubuntu/02_16/44_sort/01_sort_key.md)                                                |
+|           | ssh                   | [ssh : install](01_Ubuntu/02_16/45_ssh/01_install_ssh.md)                                                                       |
+|           |                       | [ssh-key : ssh login without passowrd](01_Ubuntu/02_16/45_ssh/02_add_publicKey_to_server.md)                                    |
+|           |                       | [pssh : parallel-ssh](01_Ubuntu/02_16/45_ssh/03_install_pssh.md)                                                                |
+|           |                       | [pssh : rsync and md5sum a file on cluster by pssh](01_Ubuntu/02_16/45_ssh/04_rsync_file_by_pssh.md)                            |
+|           | Startup Applications  | [Add Programs](01_Ubuntu/02_16/46_Startup_Applications/01_add_programs.md)                                                      |
+|           | Steam                 | [Install Steam on Ubuntu16](01_Ubuntu/02_16/47_Steam/01_install_Steam_on_ubuntu16.md)                                           |
+|           | Sublime Text 2        | [Install Sublime Text 2](01_Ubuntu/02_16/48_sublime_text_2/01_install_sublime_text2.md)                                         |
+|           | substring             | [substring remove from beginning or back + long or short](01_Ubuntu/02_16/49_substring/01_substring_remove.md)                  |
+|           | tac                   | [read from bottom to top](01_Ubuntu/02_16/50_tac/01_tac.md)                                                                     |
+|           | tar                   | [uncompress : tgz](01_Ubuntu/02_16/51_tar/01_uncompress_tgz.md)                                                                 |
+|           |                       | [compress : folder](01_Ubuntu/02_16/51_tar/02_compress_folder_by_tar.md)                                                        |
+|           | touch                 | [touch : accessed modified timestamp](01_Ubuntu/02_16/52_touch/01_modify_timestamp.md)                                          |
+|           | unicode               | [box char](01_Ubuntu/02_16/53_unicode/01_box_char.md)                                                                           |
+|           | userdel               | [userdel](01_Ubuntu/02_16/54_userdel/01_userdel_hadoop.md)                                                                      |
+|           | usermod               | [add User to Group](01_Ubuntu/02_16/55_usermod/01_add_USER_to_GROUP.md)                                                         |
+|           | vim                   | [Cmd-Mode : Move Cursor](01_Ubuntu/02_16/56_vim/01_cmd-Mode/01_Move_Cursor.md)                                                  |
+|           |                       | [Cmd-Mode : Move Line Up and Down](01_Ubuntu/02_16/56_vim/01_cmd-Mode/02_Move_Line_Up_and_Down.md)                              |
 |           |                       | [Edit-Mode Insert-Mode : ]()                                                                                                    |
-|           |                       | [CmdLine-Mode : Move Line Up and Down](01_Ubuntu/02_16/55_vim/03_cmdLine-Mode/01_Move_Line_Up_and_Down.md)                      | 
-|           |                       | [CmdLine-Mode : save as other file](01_Ubuntu/02_16/55_vim/03_cmdLine-Mode/02_vim_save_as_other_File.md)                        |
-|           |                       | [CmdLine-Mode : CRLF to LF](01_Ubuntu/02_16/55_vim/03_cmdLine-Mode/03_vim_CRLF_to_LF.md)                                        |
-|           |                       | [ETC : vimrc encoding UTF8 (Korean)](01_Ubuntu/02_16/55_vim/04_ETC/01_vimrc_encoding_korean.md)                                 |
-|           |                       | [ETC : vimrc append and save macro](01_Ubuntu/02_16/55_vim/04_ETC/02_vimrc_append_save_macro.md)                                |
-|           |                       | [ETC : vim diff](01_Ubuntu/02_16/55_vim/04_ETC/03_vim_diff.md)                                                                  |
-|           |                       | [ETC : cat ~/.vimrc](01_Ubuntu/02_16/55_vim/04_ETC/04_vimrc.md)                                                                 | 
-|           |                       | [ETC : color](01_Ubuntu/02_16/55_vim/04_ETC/05_vimrc_color.md)                                                                  | 
-|           | vnc4server            | [vnc4server : remote control ubuntu](01_Ubuntu/02_16/56_vnc4server/01_install_config_vnc4server.md)                             |
-|           | vncserver             | [vncserver : remote access sharing](01_Ubuntu/02_16/56_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md)                |
-|           | window                | [resize shortcut](01_Ubuntu/02_16/57_window/01_resize_window.md)                                                                |
-|           | xclip                 | [xclip : install and use](01_Ubuntu/02_16/58_xclip/01_install_and_use_xclip.md)                                                 |
-|           | xwininfo              | [xwininfo : get window size](01_Ubuntu/02_16/59_xwininfo/01_use_xwininfo.md)                                                    |
-|           | zip                   | [compress and uncompress directory](01_Ubuntu/02_16/60_zip/01_zip_directory.md)                                                 | 
+|           |                       | [CmdLine-Mode : Move Line Up and Down](01_Ubuntu/02_16/56_vim/03_cmdLine-Mode/01_Move_Line_Up_and_Down.md)                      | 
+|           |                       | [CmdLine-Mode : save as other file](01_Ubuntu/02_16/56_vim/03_cmdLine-Mode/02_vim_save_as_other_File.md)                        |
+|           |                       | [CmdLine-Mode : CRLF to LF](01_Ubuntu/02_16/56_vim/03_cmdLine-Mode/03_vim_CRLF_to_LF.md)                                        |
+|           |                       | [ETC : vimrc encoding UTF8 (Korean)](01_Ubuntu/02_16/56_vim/04_ETC/01_vimrc_encoding_korean.md)                                 |
+|           |                       | [ETC : vimrc append and save macro](01_Ubuntu/02_16/56_vim/04_ETC/02_vimrc_append_save_macro.md)                                |
+|           |                       | [ETC : vim diff](01_Ubuntu/02_16/56_vim/04_ETC/03_vim_diff.md)                                                                  |
+|           |                       | [ETC : cat ~/.vimrc](01_Ubuntu/02_16/56_vim/04_ETC/04_vimrc.md)                                                                 | 
+|           |                       | [ETC : color](01_Ubuntu/02_16/56_vim/04_ETC/05_vimrc_color.md)                                                                  | 
+|           | vnc4server            | [vnc4server : remote control ubuntu](01_Ubuntu/02_16/57_vnc4server/01_install_config_vnc4server.md)                             |
+|           | vncserver             | [vncserver : remote access sharing](01_Ubuntu/02_16/57_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md)                |
+|           | window                | [resize shortcut](01_Ubuntu/02_16/58_window/01_resize_window.md)                                                                |
+|           | xclip                 | [xclip : install and use](01_Ubuntu/02_16/59_xclip/01_install_and_use_xclip.md)                                                 |
+|           | xwininfo              | [xwininfo : get window size](01_Ubuntu/02_16/60_xwininfo/01_use_xwininfo.md)                                                    |
+|           | zip                   | [compress and uncompress directory](01_Ubuntu/02_16/61_zip/01_zip_directory.md)                                                 | 
 | CentOS6.9 | docker                | [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)                                                             |
 |           | git                   | [yum install git : version 2.x](02_CentOS/01_6.9/02_git/01_yum_install_git.md)                                                  |
 |           | network               | [network : static](02_CentOS/01_6.9/03_network/01_static.md)                                                                    |
