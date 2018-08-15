@@ -1,11 +1,13 @@
 UNIX  
 ╠═1. Ubuntu  
 ║&ensp; ╠═1.1. ubuntu14  
-║&ensp; ║&ensp; ╠═1.1.1 apt-get  
-║&ensp; ║&ensp; ║&ensp; ╠═1.1.1.1 [apt-get : install package](01_Ubuntu/01_14.04/01_apt-get/01_apt-get_install.md)  
-║&ensp; ║&ensp; ║&ensp; ╠═1.1.1.2 [apt-get : install nvidia-docker2](01_Ubuntu/01_14.04/01_apt-get/02_install_nvidia_docker_v2.md)  
-║&ensp; ║&ensp; ║&ensp; ╠═1.1.1.3 [apt-get : hash error](01_Ubuntu/01_14.04/01_apt-get/03_apt-get_update_hash_sum_error.md)  
-║&ensp; ║&ensp; ║&ensp; ╚═1.1.1.4 [apt-get : duplicate sources.list](01_Ubuntu/01_14.04/01_apt-get/04_apt-get_Duplicate_sources.list.md)  
+║&ensp; ║&ensp; ╠═1.1.1 apt  
+║&ensp; ║&ensp; ║&ensp; ╚═1.1.1.1 [apt list --installed : check installed packages](01_Ubuntu/02_16/02_apt/01_apt_list.md)  
+║&ensp; ║&ensp; ╠═1.1.2 apt-get  
+║&ensp; ║&ensp; ║&ensp; ╠═1.1.2.1 [apt-get : install package](01_Ubuntu/01_14.04/01_apt-get/01_apt-get_install.md)  
+║&ensp; ║&ensp; ║&ensp; ╠═1.1.2.2 [apt-get : install nvidia-docker2](01_Ubuntu/01_14.04/01_apt-get/02_install_nvidia_docker_v2.md)  
+║&ensp; ║&ensp; ║&ensp; ╠═1.1.2.3 [apt-get : hash error](01_Ubuntu/01_14.04/01_apt-get/03_apt-get_update_hash_sum_error.md)  
+║&ensp; ║&ensp; ║&ensp; ╚═1.1.2.4 [apt-get : duplicate sources.list](01_Ubuntu/01_14.04/01_apt-get/04_apt-get_Duplicate_sources.list.md)  
 ║&ensp; ║&ensp; ╚═1.1.2 vnc4server  
 ║&ensp; ║&ensp; &ensp; &ensp; ╚═1.1.2.1 [vnc4server : install configure](01_Ubuntu/01_14.04/02_vnc4server/01_install_config_vnc4server.md)  
 ║&ensp; ╠═1.2. ubuntu16  
@@ -14,7 +16,6 @@ UNIX
 
 | OS        | Contents              | Detail                                                                                                                          |
 |-----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|           | apt                   | [apt : list](01_Ubuntu/02_16/02_apt/01_apt_list.md)                                                                             |
 |           | apt-get               | [apt-get : install graphviz](01_Ubuntu/02_16/03_apt-get/01_apt-get_install_graphviz_with_python3.5.md)                          |
 |           |                       | [apt-get : install jq](01_Ubuntu/02_16/03_apt-get/02_apt-get_install_jq.md)                                                     |
 |           |                       | [apt-get : install vlc](01_Ubuntu/02_16/03_apt-get/03_apt-get_install_vlc.md)                                                   |
