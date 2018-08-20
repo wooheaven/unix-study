@@ -2,7 +2,7 @@ UNIX
 ╠═1. Ubuntu  
 ║&ensp; ╠═1.1. ubuntu14  
 ║&ensp; ║&ensp; ╠═1.1.1 apt-get  
-╠&ensp; ║&ensp; ║&ensp; ╚═1.1.1.1 [apt-get install : nvidia-docker2](01_Ubuntu/01_14.04/01_apt-get/01_install_nvidia_docker_v2.md)  
+║&ensp; ║&ensp; ║&ensp; ╚═1.1.1.1 [apt-get install : nvidia-docker2](01_Ubuntu/01_14.04/01_apt-get/01_install_nvidia_docker_v2.md)  
 ║&ensp; ║&ensp; ╚═1.1.2 vnc4server  
 ║&ensp; ║&ensp; &ensp; &ensp; ╚═1.1.2.1 [vnc4server : install configure](01_Ubuntu/01_14.04/02_vnc4server/01_install_config_vnc4server.md)  
 ║&ensp; ╠═1.2. ubuntu16  
@@ -15,7 +15,7 @@ UNIX
 ║&ensp; ║&ensp; ║&ensp; ║&ensp; ╠═1.2.3.1.2 [apt-get install : graphviz](01_Ubuntu/02_16/03_apt-get/01_apt-get_install_graphviz_with_python3.5.md)  
 ║&ensp; ║&ensp; ║&ensp; ║&ensp; ╠═1.2.3.1.3 [apt-get install : jq](01_Ubuntu/02_16/03_apt-get/02_apt-get_install_jq.md)  
 ║&ensp; ║&ensp; ║&ensp; ║&ensp; ╠═1.2.3.1.4 [apt-get install : vlc](01_Ubuntu/02_16/03_apt-get/03_apt-get_install_vlc.md)  
-╠&ensp; ║&ensp; ║&ensp; ║&ensp; ╚═1.2.3.1.5 [apt-get install : lock error](01_Ubuntu/02_16/03_apt-get/04_apt-get_lock_error.md)  
+║&ensp; ║&ensp; ║&ensp; ║&ensp; ╚═1.2.3.1.5 [apt-get install : lock error](01_Ubuntu/02_16/03_apt-get/04_apt-get_lock_error.md)  
 ║&ensp; ║&ensp; ║&ensp; ╚═1.2.3.2 apt-get update  
 ║&ensp; ║&ensp; ║&ensp; &ensp; &ensp;╠═1.2.3.2.1 [apt-get update : hash error](01_Ubuntu/02_16/03_apt-get/06_apt-get_update_hash_sum_error.md)  
 ║&ensp; ║&ensp; ║&ensp; &ensp; &ensp;╚═1.2.3.2.2 [apt-get update : duplicate sources.list](01_Ubuntu/02_16/03_apt-get/05_apt-get_Duplicate_sources.list.md)  
@@ -30,12 +30,6 @@ UNIX
 
 | OS        | Contents              | Detail                                                                                                                          |
 |-----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|           | awk                   | [column to rows](01_Ubuntu/02_16/04_awk/01_awk_column_to_rows.md)                                                               | 
-|           |                       | [rows to column](01_Ubuntu/02_16/04_awk/02_awk_rows_to_column.md)                                                               |
-|           |                       | [remove blank line](01_Ubuntu/02_16/04_awk/03_awk_remove_blank_line.md)                                                         |
-|           |                       | [use external argument](01_Ubuntu/02_16/04_awk/04_awk_use_external_argument.md)                                                 |
-|           |                       | [use variable in awk](01_Ubuntu/02_16/04_awk/05_awk_use_variable.md)                                                            |
-|           |                       | [substr](01_Ubuntu/02_16/04_awk/06_awk_substr.md)                                                                               |
 |           | bash                  | [while statement](01_Ubuntu/02_16/05_bash/01_While_Statement.md)                                                                |
 |           |                       | [1st argument existence check](01_Ubuntu/02_16/05_bash/02_if_condition_1st_argument_existence_check.md)                         |
 |           |                       | [count of arguments check](01_Ubuntu/02_16/05_bash/03_if_condition_count_of_arguments_check.md)                                 |
