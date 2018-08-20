@@ -19,6 +19,13 @@ UNIX
 ║&ensp; ║&ensp; ║&ensp; ╚═1.2.3.2 apt-get update  
 ║&ensp; ║&ensp; ║&ensp; &ensp; &ensp;╠═1.2.3.2.1 [apt-get update : hash error](01_Ubuntu/02_16/03_apt-get/06_apt-get_update_hash_sum_error.md)  
 ║&ensp; ║&ensp; ║&ensp; &ensp; &ensp;╚═1.2.3.2.2 [apt-get update : duplicate sources.list](01_Ubuntu/02_16/03_apt-get/05_apt-get_Duplicate_sources.list.md)  
+║&ensp; ║&ensp; ╠═1.2.4 awk  
+║&ensp; ║&ensp; ║&ensp; ╠═1.2.4.1 [column to rows](01_Ubuntu/02_16/04_awk/01_awk_column_to_rows.md)  
+║&ensp; ║&ensp; ║&ensp; ╠═1.2.4.2 [rows to column](01_Ubuntu/02_16/04_awk/02_awk_rows_to_column.md)  
+║&ensp; ║&ensp; ║&ensp; ╠═1.2.4.3 [remove blank line](01_Ubuntu/02_16/04_awk/03_awk_remove_blank_line.md)  
+║&ensp; ║&ensp; ║&ensp; ╠═1.2.4.4 [use external argument](01_Ubuntu/02_16/04_awk/04_awk_use_external_argument.md)  
+║&ensp; ║&ensp; ║&ensp; ╠═1.2.4.5 [use variable in awk](01_Ubuntu/02_16/04_awk/05_awk_use_variable.md)  
+║&ensp; ║&ensp; ║&ensp; ╚═1.2.4.6 [substr](01_Ubuntu/02_16/04_awk/06_awk_substr.md)  
 ( ║ ╠ ═ ╚ )  
 
 | OS        | Contents              | Detail                                                                                                                          |
