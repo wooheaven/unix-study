@@ -28,7 +28,7 @@
 </head>
 <body>
 	<p>
-	<a class="NORM" href="../UNIX-Study">UNIX_Study</a><br>
+	<a class="NORM" href=".">UNIX_Study</a><br>
 	╠══ <a class="DIR" href="01_Ubuntu/">01_Ubuntu</a><br>
 	║&nbsp; &nbsp;╠══ <a class="DIR" href="01_Ubuntu/01_14.04/">01_14.04</a><br>
 	║&nbsp; &nbsp;║&nbsp; &nbsp;╠══ <a class="DIR" href="01_Ubuntu/01_14.04/01_apt-get/">01_apt-get</a><br>
