@@ -10,15 +10,8 @@ UNIX
 ║&ensp; ║&ensp; ╠═1.2.2 apt  
 ║&ensp; ║&ensp; ║&ensp; ╚═1.2.2.1 [apt list --installed : check installed packages](01_Ubuntu/02_16/02_apt/01_apt_list.md)  
 ║&ensp; ║&ensp; ╠═1.2.3 apt-get  
-║&ensp; ║&ensp; ║&ensp; ╠═1.2.3.1 apt-get install  
-║&ensp; ║&ensp; ║&ensp; ║&ensp; ╠═1.2.3.1.1 [apt-get install : tree](01_Ubuntu/02_16/03_apt-get/07_apt-get_tree.md)  
-║&ensp; ║&ensp; ║&ensp; ║&ensp; ╠═1.2.3.1.2 [apt-get install : graphviz](01_Ubuntu/02_16/03_apt-get/01_apt-get_install_graphviz_with_python3.5.md)  
-║&ensp; ║&ensp; ║&ensp; ║&ensp; ╠═1.2.3.1.3 [apt-get install : jq](01_Ubuntu/02_16/03_apt-get/02_apt-get_install_jq.md)  
-║&ensp; ║&ensp; ║&ensp; ║&ensp; ╠═1.2.3.1.4 [apt-get install : vlc](01_Ubuntu/02_16/03_apt-get/03_apt-get_install_vlc.md)  
-║&ensp; ║&ensp; ║&ensp; ║&ensp; ╚═1.2.3.1.5 [apt-get install : lock error](01_Ubuntu/02_16/03_apt-get/04_apt-get_lock_error.md)  
-║&ensp; ║&ensp; ║&ensp; ╚═1.2.3.2 apt-get update  
-║&ensp; ║&ensp; ║&ensp; &ensp; &ensp; ╠═1.2.3.2.1 [apt-get update : hash error](01_Ubuntu/02_16/03_apt-get/06_apt-get_update_hash_sum_error.md)  
-║&ensp; ║&ensp; ║&ensp; &ensp; &ensp; ╚═1.2.3.2.2 [apt-get update : duplicate sources.list](01_Ubuntu/02_16/03_apt-get/05_apt-get_Duplicate_sources.list.md)  
+║&ensp; ║&ensp; ║&ensp; ╠═1.2.3.1 apt-get install : [tree](01_Ubuntu/02_16/03_apt-get/07_apt-get_tree.md), [graphviz](01_Ubuntu/02_16/03_apt-get/01_apt-get_install_graphviz_with_python3.5.md), [jq](01_Ubuntu/02_16/03_apt-get/02_apt-get_install_jq.md), [vlc](01_Ubuntu/02_16/03_apt-get/03_apt-get_install_vlc.md), [lock error](01_Ubuntu/02_16/03_apt-get/04_apt-get_lock_error.md)  
+║&ensp; ║&ensp; ║&ensp; ╚═1.2.3.2 apt-get update : [hash error](01_Ubuntu/02_16/03_apt-get/06_apt-get_update_hash_sum_error.md), [duplicate sources.list](01_Ubuntu/02_16/03_apt-get/05_apt-get_Duplicate_sources.list.md)  
 ║&ensp; ║&ensp; ╠═1.2.4 awk  
 ║&ensp; ║&ensp; ║&ensp; ╠═1.2.4.1 [column to rows](01_Ubuntu/02_16/04_awk/01_awk_column_to_rows.md)  
 ║&ensp; ║&ensp; ║&ensp; ╠═1.2.4.2 [rows to column](01_Ubuntu/02_16/04_awk/02_awk_rows_to_column.md)  
