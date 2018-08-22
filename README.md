@@ -26,16 +26,17 @@ UNIX
 ║&ensp; ║&ensp; ║&ensp; ╠═1.2.4.4 [use external argument](01_Ubuntu/02_16/04_awk/04_awk_use_external_argument.md)  
 ║&ensp; ║&ensp; ║&ensp; ╠═1.2.4.5 [use variable in awk](01_Ubuntu/02_16/04_awk/05_awk_use_variable.md)  
 ║&ensp; ║&ensp; ║&ensp; ╚═1.2.4.6 [substr](01_Ubuntu/02_16/04_awk/06_awk_substr.md)  
+║&ensp; ║&ensp; ╠═1.2.5 bash  
+║&ensp; ║&ensp; ║&ensp; ╠═1.2.5.1 [while statement](01_Ubuntu/02_16/05_bash/01_While_Statement.md)  
+║&ensp; ║&ensp; ║&ensp; ╠═1.2.5.2 [1st argument existence check](01_Ubuntu/02_16/05_bash/02_if_condition_1st_argument_existence_check.md)   
+║&ensp; ║&ensp; ║&ensp; ╠═1.2.5.3 [count of arguments check](01_Ubuntu/02_16/05_bash/03_if_condition_count_of_arguments_check.md)  
+║&ensp; ║&ensp; ║&ensp; ╠═1.2.5.4 [check current shell](01_Ubuntu/02_16/05_bash/04_check_current_shell.md)  
+║&ensp; ║&ensp; ║&ensp; ╠═1.2.5.5 [Multiplication](01_Ubuntu/02_16/05_bash/05_Multiplication_on_Bash.md)  
+║&ensp; ║&ensp; ║&ensp; ╚═1.2.5.6 [bash prombt](01_Ubuntu/02_16/05_bash/06_bashrc_PS1_bash_prombt.md)  
 ( ║ ╠ ═ ╚ )  
 
 | OS        | Contents              | Detail                                                                                                                          |
 |-----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|           | bash                  | [while statement](01_Ubuntu/02_16/05_bash/01_While_Statement.md)                                                                |
-|           |                       | [1st argument existence check](01_Ubuntu/02_16/05_bash/02_if_condition_1st_argument_existence_check.md)                         |
-|           |                       | [count of arguments check](01_Ubuntu/02_16/05_bash/03_if_condition_count_of_arguments_check.md)                                 |
-|           |                       | [check current shell](01_Ubuntu/02_16/05_bash/04_check_current_shell.md)                                                        |
-|           |                       | [Multiplication](01_Ubuntu/02_16/05_bash/05_Multiplication_on_Bash.md)                                                          |
-|           |                       | [bash prombt](01_Ubuntu/02_16/05_bash/06_bashrc_PS1_bash_prombt.md)                                                             |
 |           | chrome remote desktop | [install : by wget deb](01_Ubuntu/02_16/06_chrome_remote_desktop/01_install_chrome_remote_desktop.md)                           |
 |           | cpu                   | [cpu info : by cat](01_Ubuntu/02_16/07_cpu/01_cpu_info.md)                                                                      |
 |           | date                  | [date with format : 24:59:59.999](01_Ubuntu/02_16/08_date/01_date_with_hour_min_sec_nano.md)                                    |
