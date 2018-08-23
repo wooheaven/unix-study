@@ -33,6 +33,6 @@ cat Auto_README.md | sed 's/\&nbsp;\&nbsp;/\&nbsp; /g' > Auto_README.md.tmp
 mv Auto_README.md.tmp Auto_README.md
 
 # Auto_README.md
-# ║[SPACE][SPACE] to ║&ensp;[SPACE]
+# ║[[:space:]][[:space:]] to ║&ensp;[[:space:]]
 cat Auto_README.md | sed 's/\║[[:space:]][[:space:]][[:space:]]/\║\&nbsp; \&nbsp;/g' > Auto_README.md.tmp
 mv Auto_README.md.tmp Auto_README.md

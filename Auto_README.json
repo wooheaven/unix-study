@@ -172,7 +172,8 @@
         ]},
         {"type":"directory","name":"41_sed","contents":[
           {"type":"file","name":"01_remove_^M_with_sed.md"},
-          {"type":"file","name":"02_replace_every_3rd_comma_to_semicolon.md"}
+          {"type":"file","name":"02_replace_every_3rd_comma_to_semicolon.md"},
+          {"type":"file","name":"03_space_regular_expression.md"}
         ]},
         {"type":"directory","name":"42_server","contents":[
           {"type":"file","name":"01_install_ubuntu16_server.md"}
@@ -363,5 +364,5 @@
     {"type":"file","name":"change_A_to_B.txt"},
     {"type":"file","name":"reNumberFolder.sh"}
   ]},
-  {"type":"report","directories":98,"files":167}
+  {"type":"report","directories":98,"files":168}
 ]
