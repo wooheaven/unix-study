@@ -27,11 +27,11 @@ UNIX
 ║&ensp; ║&ensp; ║&ensp; ╠═1.2.5.5 [Multiplication](01_Ubuntu/02_16/05_bash/05_Multiplication_on_Bash.md)  
 ║&ensp; ║&ensp; ║&ensp; ╚═1.2.5.6 [bash prombt](01_Ubuntu/02_16/05_bash/06_bashrc_PS1_bash_prombt.md)  
 ║&ensp; ║&ensp; ╠═1.2.6 chrome remote desktop : [install](01_Ubuntu/02_16/06_chrome_remote_desktop/01_install_chrome_remote_desktop.md)  
+║&ensp; ║&ensp; ╠═1.2.7 cpu monitor : [cat cpu_info](01_Ubuntu/02_16/07_cpu/01_cpu_info.md)  
 ( ║ ╠ ═ ╚ )  
 
 | OS        | Contents              | Detail                                                                                                                          |
 |-----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|           | cpu                   | [cpu info : by cat](01_Ubuntu/02_16/07_cpu/01_cpu_info.md)                                                                      |
 |           | date                  | [date with format : 24:59:59.999](01_Ubuntu/02_16/08_date/01_date_with_hour_min_sec_nano.md)                                    |
 |           | desktop               | [install desktop on Ubuntu16 server](01_Ubuntu/02_16/09_desktop/01_install_desktop_on_Ubuntu16_server.md)                       |
 |           |                       | [auto login on unity desktop](01_Ubuntu/02_16/09_desktop/02_auto_login+on_ubuntu16_desktop.md)                                  |
@@ -150,8 +150,9 @@ UNIX
 |           | IntelliJ              | [Shortcut](03_Mac/07_IntelliJ/01_Shortcuts.md)                                                                                  |
 |           | ITerm2                | [ShortKey of Iterm2](03_Mac/08_ITerm2/01_short_key_of_iterm2_on_mac.md)                                                         |
 |           | Picture               | [resize picture](03_Mac/09_Picture/01_resize_of_picture.md)                                                                     |
-|           | Python                | [Python3.5 on conda : Matplotlib Backends RuntimeError](03_Mac/10_Python/01_with_Conda/01_Matplotlib_backends_RuntimeError.md)  |
-|           | sed                   | [move CRLF to LF](03_Mac/11_sed/01_sed_remove_CRLF_to_LF.md)                                                                    |
+|           | Proxy                 | [use proxy](03_Mac/10_Proxy/01_use_proxy.md)                                                                                    |
+|           | Python                | [Python3.5 on conda : Matplotlib Backends RuntimeError](03_Mac/11_Python/01_with_Conda/01_Matplotlib_backends_RuntimeError.md)  |
+|           | sed                   | [move CRLF to LF](03_Mac/12_sed/01_sed_remove_CRLF_to_LF.md)                                                                    |
 |           | tree                  | [install and use tree](03_Mac/13_tree/01_install_use_tree_on_mac.md)                                                            |
 |           | vim                   | [ComLine-Mode : vim move line](03_Mac/14_vim/03_CmdLine-Mode/01_vim_move_line.md)                                               |
 |           |                       | [CmdLine-Mode : vim save as other file](03_Mac/14_vim/03_CmdLine-Mode/02_vim_save_as_other_File.md)                             |
