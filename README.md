@@ -26,11 +26,11 @@ UNIX
 ║&ensp; ║&ensp; ║&ensp; ╠═1.2.5.4 [check current shell](01_Ubuntu/02_16/05_bash/04_check_current_shell.md)  
 ║&ensp; ║&ensp; ║&ensp; ╠═1.2.5.5 [Multiplication](01_Ubuntu/02_16/05_bash/05_Multiplication_on_Bash.md)  
 ║&ensp; ║&ensp; ║&ensp; ╚═1.2.5.6 [bash prombt](01_Ubuntu/02_16/05_bash/06_bashrc_PS1_bash_prombt.md)  
+║&ensp; ║&ensp; ╠═1.2.6 chrome remote desktop : [install](01_Ubuntu/02_16/06_chrome_remote_desktop/01_install_chrome_remote_desktop.md)  
 ( ║ ╠ ═ ╚ )  
 
 | OS        | Contents              | Detail                                                                                                                          |
 |-----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|           | chrome remote desktop | [install : by wget deb](01_Ubuntu/02_16/06_chrome_remote_desktop/01_install_chrome_remote_desktop.md)                           |
 |           | cpu                   | [cpu info : by cat](01_Ubuntu/02_16/07_cpu/01_cpu_info.md)                                                                      |
 |           | date                  | [date with format : 24:59:59.999](01_Ubuntu/02_16/08_date/01_date_with_hour_min_sec_nano.md)                                    |
 |           | desktop               | [install desktop on Ubuntu16 server](01_Ubuntu/02_16/09_desktop/01_install_desktop_on_Ubuntu16_server.md)                       |
@@ -87,6 +87,7 @@ UNIX
 |           | run-level             | [run-level : change](01_Ubuntu/02_16/40_run-level/01_change_run-level.md)                                                       |
 |           | sed                   | [remove \^M in text file](01_Ubuntu/02_16/41_sed/01_remove_^M_with_sed.md)                                                      | 
 |           |                       | [replace every 3rd comma to semicolon](01_Ubuntu/02_16/41_sed/02_replace_every_3rd_comma_to_semicolon.md)                       |
+|           |                       | [space regular expression](01_Ubuntu/02_16/41_sed/03_space_regular_expression.md)                                               |
 |           | server                | [install ubuntu 16 server](01_Ubuntu/02_16/42_server/01_install_ubuntu16_server.md)                                             |
 |           | snap                  | [snap : example install list refresh remove](01_Ubuntu/02_16/43_snap/01_snap_install_list_changes_refresh_remove.md)            |
 |           |                       | [snap : install and refresh pycharm](01_Ubuntu/02_16/43_snap/02_snap_install_refresh_pycharm.md)                                |
