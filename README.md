@@ -57,7 +57,7 @@ UNIX
 |           |                       | [for : in list](01_Ubuntu/02_16/19_for_statement/02_for_in_list.md)                                                             |
 |           |                       | [for : read file](01_Ubuntu/02_16/19_for_statement/03_for_read_file.md)                                                         |
 |           | frep                  | [frep : activate frep on android](01_Ubuntu/02_16/20_frep/01_use_frep.md)                                                       |
-|           | gitlab                | [gitlab math documenr](https://khan.github.io/KaTeX/docs/supported.html)                                                        |
+|           | gitlab                | [gitlab math document](https://khan.github.io/KaTeX/docs/supported.html)                                                        |
 |           | gzip, gunzip          | [gzip gunzip : compress/decompress a file](01_Ubuntu/02_16/21_gzip_gunzip/01_gzip_gunzip_file.md)                               |
 |           | gnome terminal        | [gnome terminal : run by CLI](01_Ubuntu/02_16/22_gnome_terminal/01_run_gnome_terminal_by_CLI.md)                                |
 |           | GRUB                  | [GRUB : reset PassWord](01_Ubuntu/02_16/23_GRUB/01_reset_passwd_on_GRUB.md)                                                     |
