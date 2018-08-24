@@ -317,12 +317,15 @@
       {"type":"directory","name":"09_Picture","contents":[
         {"type":"file","name":"01_resize_of_picture.md"}
       ]},
-      {"type":"directory","name":"10_Python","contents":[
+      {"type":"directory","name":"10_Proxy","contents":[
+        {"type":"file","name":"01_use_proxy.md"}
+      ]},
+      {"type":"directory","name":"11_Python","contents":[
         {"type":"directory","name":"01_with_Conda","contents":[
           {"type":"file","name":"01_Matplotlib_backends_RuntimeError.md"}
         ]}
       ]},
-      {"type":"directory","name":"11_sed","contents":[
+      {"type":"directory","name":"12_sed","contents":[
         {"type":"file","name":"01_sed_remove_CRLF_to_LF.md"}
       ]},
       {"type":"directory","name":"13_tree","contents":[
@@ -364,5 +367,5 @@
     {"type":"file","name":"change_A_to_B.txt"},
     {"type":"file","name":"reNumberFolder.sh"}
   ]},
-  {"type":"report","directories":98,"files":168}
+  {"type":"report","directories":99,"files":169}
 ]
