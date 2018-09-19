@@ -42,6 +42,7 @@ UNIX
 |           | du                    | [fileSize of folder](01_Ubuntu/02_16/12_du/01_du_file_size_of_folder.md)                                                        |
 |           | egrep                 | [egrep : A or B file.txt](01_Ubuntu/02_16/13_egrep/01_egrep_A_or_B_example.md)                                                  |
 |           | exfat                 | [install exfat : linux and windows can available fileSystem](01_Ubuntu/02_16/14_exfat/01_install_exfat_on_ubuntu16.md)          |
+|           | fallocate             | [fallocate : create swap file](01_Ubuntu/02_16/15_fallocate/01_swap_file_by_fallocate.md)                                       |
 |           | fcitx                 | [fcitx : virtual keyboard](01_Ubuntu/02_16/15_fcitx/01_disable_fcitx.md)                                                        |
 |           | fdisk                 | [fdisk : partioning disk](01_Ubuntu/02_16/16_fdisk/01_fdisk_partioning_disk.md)                                                 |
 |           |                       | [fdisk : partioning and format USB as FAT32 limit 32GB](01_Ubuntu/02_16/16_fdisk/02_format_USB_as_FAT32.md)                     |

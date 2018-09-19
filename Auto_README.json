@@ -70,6 +70,9 @@
         {"type":"directory","name":"14_exfat","contents":[
           {"type":"file","name":"01_install_exfat_on_ubuntu16.md"}
         ]},
+        {"type":"directory","name":"15_fallocate","contents":[
+          {"type":"file","name":"01_swap_file_by_fallocate.md"}
+        ]},
         {"type":"directory","name":"15_fcitx","contents":[
           {"type":"file","name":"01_disable_fcitx.md"}
         ]},
@@ -367,5 +370,5 @@
     {"type":"file","name":"change_A_to_B.txt"},
     {"type":"file","name":"reNumberFolder.sh"}
   ]},
-  {"type":"report","directories":99,"files":169}
+  {"type":"report","directories":100,"files":170}
 ]
