@@ -28,11 +28,11 @@ UNIX
 ║&ensp; ║&ensp; ║&ensp; ╚═1.2.5.6 [bash prombt](01_Ubuntu/02_16/05_bash/06_bashrc_PS1_bash_prombt.md)  
 ║&ensp; ║&ensp; ╠═1.2.6 chrome remote desktop : [install](01_Ubuntu/02_16/06_chrome_remote_desktop/01_install_chrome_remote_desktop.md)  
 ║&ensp; ║&ensp; ╠═1.2.7 cpu monitor : [cat cpu_info](01_Ubuntu/02_16/07_cpu/01_cpu_info.md)  
+║&ensp; ║&ensp; ╠═1.2.8 date : [date with format : 24:59:59.999](01_Ubuntu/02_16/08_date/01_date_with_hour_min_sec_nano.md)  
 ( ║ ╠ ═ ╚ )  
 
 | OS        | Contents              | Detail                                                                                                                          |
 |-----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|           | date                  | [date with format : 24:59:59.999](01_Ubuntu/02_16/08_date/01_date_with_hour_min_sec_nano.md)                                    |
 |           | desktop               | [install desktop on Ubuntu16 server](01_Ubuntu/02_16/09_desktop/01_install_desktop_on_Ubuntu16_server.md)                       |
 |           |                       | [auto login on unity desktop](01_Ubuntu/02_16/09_desktop/02_auto_login+on_ubuntu16_desktop.md)                                  |
 |           |                       | [location of desktop files](01_Ubuntu/02_16/09_desktop/03_find_desktop_file.md)                                                 |
