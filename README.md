@@ -33,13 +33,14 @@ UNIX
 ║&ensp; ║&ensp; ║&ensp; ╠═1.2.9.1 [install desktop on Ubuntu16 server](01_Ubuntu/02_16/09_desktop/01_install_desktop_on_Ubuntu16_server.md)  
 ║&ensp; ║&ensp; ║&ensp; ╠═1.2.9.2 [auto login on unity desktop](01_Ubuntu/02_16/09_desktop/02_auto_login+on_ubuntu16_desktop.md)  
 ║&ensp; ║&ensp; ║&ensp; ╚═1.2.9.3 [location of desktop files](01_Ubuntu/02_16/09_desktop/03_find_desktop_file.md)  
+║&ensp; ║&ensp; ╠═1.2.10 df : [df -h : display file system with human readable](01_Ubuntu/02_16/10_df/01_df_with_human_readerble.md)  
+║&ensp; ║&ensp; ╠═1.2.11 dpkg  
+║&ensp; ║&ensp; ║&ensp; ╠═1.2.11.1 [install and remove package](01_Ubuntu/02_16/11_dpkg/01_dpkg_install_remove_package.md)  
+║&ensp; ║&ensp; ║&ensp; ╚═1.2.11.2 [list](01_Ubuntu/02_16/11_dpkg/02_dpkg_list.md)  
 ( ║ ╠ ═ ╚ )  
 
 | OS        | Contents              | Detail                                                                                                                          |
 |-----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|           | df                    | [df -h : display file system with human readable](01_Ubuntu/02_16/10_df/01_df_with_human_readerble.md)                          |
-|           | dpkg                  | [dpgk : install and remove package](01_Ubuntu/02_16/11_dpkg/01_dpkg_install_remove_package.md)                                  |
-|           |                       | [dpgk : list](01_Ubuntu/02_16/11_dpkg/02_dpkg_list.md)                                                                          |
 |           | du                    | [fileSize of folder](01_Ubuntu/02_16/12_du/01_du_file_size_of_folder.md)                                                        |
 |           | egrep                 | [egrep : A or B file.txt](01_Ubuntu/02_16/13_egrep/01_egrep_A_or_B_example.md)                                                  |
 |           | exfat                 | [install exfat : linux and windows can available fileSystem](01_Ubuntu/02_16/14_exfat/01_install_exfat_on_ubuntu16.md)          |
@@ -113,7 +114,7 @@ UNIX
 |           | userdel               | [userdel](01_Ubuntu/02_16/56_userdel/01_userdel_hadoop.md)                                                                      |
 |           | usermod               | [add User to Group](01_Ubuntu/02_16/57_usermod/01_add_USER_to_GROUP.md)                                                         |
 |           | vim                   | [Cmd-Mode : Move Cursor](01_Ubuntu/02_16/58_vim/01_cmd-Mode/01_Move_Cursor.md)                                                  |
-|           |                       | [Cmd-Mode : Move Line Up and Down](01_Ubuntu/02_16/58_vim/01_cmd-Mode/02_Move_Line_Up_and_Down.md)                              |
+|           |                       | [Cmd-Mode : Switch Line Up and Down](01_Ubuntu/02_16/58_vim/01_cmd-Mode/02_Switch_Line_Up_and_Down.md)                          |
 |           |                       | [Edit-Mode Insert-Mode : ]()                                                                                                    |
 |           |                       | [CmdLine-Mode : Move Line Up and Down](01_Ubuntu/02_16/58_vim/03_cmdLine-Mode/01_Move_Line_Up_and_Down.md)                      | 
 |           |                       | [CmdLine-Mode : save as other file](01_Ubuntu/02_16/58_vim/03_cmdLine-Mode/02_vim_save_as_other_File.md)                        |
