@@ -37,11 +37,11 @@ UNIX
 ║&ensp; ║&ensp; ╠═1.2.11 dpkg  
 ║&ensp; ║&ensp; ║&ensp; ╠═1.2.11.1 [install and remove package](01_Ubuntu/02_16/11_dpkg/01_dpkg_install_remove_package.md)  
 ║&ensp; ║&ensp; ║&ensp; ╚═1.2.11.2 [list](01_Ubuntu/02_16/11_dpkg/02_dpkg_list.md)  
+║&ensp; ║&ensp; ╠═1.2.12 du : [fileSize of folder](01_Ubuntu/02_16/12_du/01_du_file_size_of_folder.md)  
 ( ║ ╠ ═ ╚ )  
 
 | OS        | Contents              | Detail                                                                                                                          |
 |-----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|           | du                    | [fileSize of folder](01_Ubuntu/02_16/12_du/01_du_file_size_of_folder.md)                                                        |
 |           | egrep                 | [egrep : A or B file.txt](01_Ubuntu/02_16/13_egrep/01_egrep_A_or_B_example.md)                                                  |
 |           | exfat                 | [install exfat : linux and windows can available fileSystem](01_Ubuntu/02_16/14_exfat/01_install_exfat_on_ubuntu16.md)          |
 |           | fallocate             | [fallocate : create swap file](01_Ubuntu/02_16/15_fallocate/01_swap_file_by_fallocate.md)                                       |
