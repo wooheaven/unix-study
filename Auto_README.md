@@ -62,168 +62,170 @@
 	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/05_bash/04_check_current_shell.md">04_check_current_shell.md</a><br>
 	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/05_bash/05_Multiplication_on_Bash.md">05_Multiplication_on_Bash.md</a><br>
 	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/05_bash/06_bashrc_PS1_bash_prombt.md">06_bashrc_PS1_bash_prombt.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/06_chrome_remote_desktop/">06_chrome_remote_desktop</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/06_chrome_remote_desktop/01_install_chrome_remote_desktop.md">01_install_chrome_remote_desktop.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/07_cpu/">07_cpu</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/07_cpu/01_cpu_info.md">01_cpu_info.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/08_date/">08_date</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/08_date/01_date_with_hour_min_sec_nano.md">01_date_with_hour_min_sec_nano.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/09_desktop/">09_desktop</a><br>
-	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/09_desktop/01_install_desktop_on_Ubuntu16_server.md">01_install_desktop_on_Ubuntu16_server.md</a><br>
-	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/09_desktop/02_auto_login+on_ubuntu16_desktop.md">02_auto_login+on_ubuntu16_desktop.md</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/09_desktop/03_find_desktop_file.md">03_find_desktop_file.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/10_df/">10_df</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/10_df/01_df_with_human_readerble.md">01_df_with_human_readerble.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/11_dpkg/">11_dpkg</a><br>
-	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/11_dpkg/01_dpkg_install_remove_package.md">01_dpkg_install_remove_package.md</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/11_dpkg/02_dpkg_list.md">02_dpkg_list.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/12_du/">12_du</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/12_du/01_du_file_size_of_folder.md">01_du_file_size_of_folder.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/13_egrep/">13_egrep</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/13_egrep/01_egrep_A_or_B_example.md">01_egrep_A_or_B_example.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/14_exfat/">14_exfat</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/14_exfat/01_install_exfat_on_ubuntu16.md">01_install_exfat_on_ubuntu16.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/15_fallocate/">15_fallocate</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/15_fallocate/01_swap_file_by_fallocate.md">01_swap_file_by_fallocate.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/16_fcitx/">16_fcitx</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/16_fcitx/01_disable_fcitx.md">01_disable_fcitx.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/17_fdisk/">17_fdisk</a><br>
-	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/17_fdisk/01_fdisk_partioning_disk.md">01_fdisk_partioning_disk.md</a><br>
-	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/17_fdisk/02_format_USB_as_FAT32.md">02_format_USB_as_FAT32.md</a><br>
-	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/17_fdisk/03_fdisk_list_disks.md">03_fdisk_list_disks.md</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/17_fdisk/04_fdisk_swap_partition.md">04_fdisk_swap_partition.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/18_find/">18_find</a><br>
-	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/18_find/01_find_with_basename.md">01_find_with_basename.md</a><br>
-	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/18_find/02_find_with_maxdepth.md">02_find_with_maxdepth.md</a><br>
-	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/18_find/03_find_and_sed_move_CRLF_to_LF.md">03_find_and_sed_move_CRLF_to_LF.md</a><br>
-	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/18_find/04_find_and_sed_move_TAB_to_4SPACES.md">04_find_and_sed_move_TAB_to_4SPACES.md</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/18_find/05_find_with_fileSize.md">05_find_with_fileSize.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/19_firefox/">19_firefox</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/19_firefox/01_firefox_downgrade_57_to_45.md">01_firefox_downgrade_57_to_45.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/20_for_statement/">20_for_statement</a><br>
-	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/20_for_statement/01_for_num++.md">01_for_num++.md</a><br>
-	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/20_for_statement/02_for_in_list.md">02_for_in_list.md</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/20_for_statement/03_for_read_file.md">03_for_read_file.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/21_frep/">21_frep</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/21_frep/01_use_frep.md">01_use_frep.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/22_gzip_gunzip/">22_gzip_gunzip</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/22_gzip_gunzip/01_gzip_gunzip_file.md">01_gzip_gunzip_file.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/23_gnome_terminal/">23_gnome_terminal</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/23_gnome_terminal/01_run_gnome_terminal_by_CLI.md">01_run_gnome_terminal_by_CLI.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/24_GRUB/">24_GRUB</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/24_GRUB/01_reset_passwd_on_GRUB.md">01_reset_passwd_on_GRUB.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/25_if/">25_if</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/25_if/01_if_check_filePath.md">01_if_check_filePath.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/26_Java/">26_Java</a><br>
-	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/26_Java/01_install_jdk7.md">01_install_jdk7.md</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/26_Java/02_install_jdk8.md">02_install_jdk8.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/27_LibreOffice/">27_LibreOffice</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/27_LibreOffice/01_remove_LibreOffice.md">01_remove_LibreOffice.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/28_LVM/">28_LVM</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/28_LVM/01_LVM_on_attached_device.md">01_LVM_on_attached_device.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/29_mkfs.ext4/">29_mkfs.ext4</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/29_mkfs.ext4/01_mkfs.ext4_device.md">01_mkfs.ext4_device.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/30_mkfs.xfs/">30_mkfs.xfs</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/30_mkfs.xfs/01_mkfs.xfs_device.md">01_mkfs.xfs_device.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/31_mount/">31_mount</a><br>
-	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/31_mount/01_remount_home_to_other_disk.md">01_remount_home_to_other_disk.md</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/31_mount/02_remount_var_to_other_disk.md">02_remount_var_to_other_disk.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/32_mpstat/">32_mpstat</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/32_mpstat/01_mpstat.md">01_mpstat.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/33_network/">33_network</a><br>
-	║   &nbsp; &nbsp; ║   ╠══ <a class="DIR" href="01_Ubuntu/02_16/33_network/01_static/">01_static</a><br>
-	║   &nbsp; &nbsp; ║   ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/33_network/01_static/01_configure_static.md">01_configure_static.md</a><br>
-	║   &nbsp; &nbsp; ║   ╠══ <a class="DIR" href="01_Ubuntu/02_16/33_network/02_dhcp/">02_dhcp</a><br>
-	║   &nbsp; &nbsp; ║   ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/33_network/02_dhcp/01_configure_dhcp.md">01_configure_dhcp.md</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="DIR" href="01_Ubuntu/02_16/33_network/03_hostname/">03_hostname</a><br>
-	║   &nbsp; &nbsp; ║   &nbsp; &nbsp; ╚══ <a class="NORM" href="01_Ubuntu/02_16/33_network/03_hostname/01_127.0.1.1.md">01_127.0.1.1.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/34_nmap/">34_nmap</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/34_nmap/01_install_use_nmap.md">01_install_use_nmap.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/35_nohup/">35_nohup</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/35_nohup/01_use_nohup.md">01_use_nohup.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/36_nvidia/">36_nvidia</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/36_nvidia/01_install_nvidia_driver.md">01_install_nvidia_driver.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/37_OpenCV/">37_OpenCV</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/37_OpenCV/01_Build_OpenCV_3.4_with_opencv_contrib.md">01_Build_OpenCV_3.4_with_opencv_contrib.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/38_Opera/">38_Opera</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/38_Opera/01_save_stream_video_as_file.md">01_save_stream_video_as_file.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/39_parted/">39_parted</a><br>
-	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/39_parted/01_parted_list.md">01_parted_list.md</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/39_parted/02_parted_swap_partition.md">02_parted_swap_partition.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/40_passwd/">40_passwd</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/40_passwd/01_root_passwd.md">01_root_passwd.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/41_rsync/">41_rsync</a><br>
-	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/41_rsync/01_rsync_folder_to_folder.md">01_rsync_folder_to_folder.md</a><br>
-	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/41_rsync/02_rsync_home_to_other.md">02_rsync_home_to_other.md</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/41_rsync/03_rsync_var_to_other.md">03_rsync_var_to_other.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/42_run-level/">42_run-level</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/42_run-level/01_change_run-level.md">01_change_run-level.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/43_sed/">43_sed</a><br>
-	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/43_sed/01_remove_^M_with_sed.md">01_remove_^M_with_sed.md</a><br>
-	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/43_sed/02_replace_every_3rd_comma_to_semicolon.md">02_replace_every_3rd_comma_to_semicolon.md</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/43_sed/03_space_regular_expression.md">03_space_regular_expression.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/44_server/">44_server</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/44_server/01_install_ubuntu16_server.md">01_install_ubuntu16_server.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/45_snap/">45_snap</a><br>
-	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/45_snap/01_snap_install_list_changes_refresh_remove.md">01_snap_install_list_changes_refresh_remove.md</a><br>
-	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/45_snap/02_snap_install_refresh_pycharm.md">02_snap_install_refresh_pycharm.md</a><br>
-	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/45_snap/03_snap_install_anbox.md">03_snap_install_anbox.md</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/45_snap/04_snap_install_intellij.md">04_snap_install_intellij.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/46_sort/">46_sort</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/46_sort/01_sort_key.md">01_sort_key.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/47_ssh/">47_ssh</a><br>
-	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/47_ssh/01_install_ssh.md">01_install_ssh.md</a><br>
-	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/47_ssh/02_add_publicKey_to_server.md">02_add_publicKey_to_server.md</a><br>
-	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/47_ssh/03_install_pssh.md">03_install_pssh.md</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/47_ssh/04_rsync_file_by_pssh.md">04_rsync_file_by_pssh.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/48_Startup_Applications/">48_Startup_Applications</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/48_Startup_Applications/01_add_programs.md">01_add_programs.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/49_Steam/">49_Steam</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/49_Steam/01_install_Steam_on_ubuntu16.md">01_install_Steam_on_ubuntu16.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/50_sublime_text_2/">50_sublime_text_2</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/50_sublime_text_2/01_install_sublime_text2.md">01_install_sublime_text2.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/51_substring/">51_substring</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/51_substring/01_substring_remove.md">01_substring_remove.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/52_tac/">52_tac</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/52_tac/01_tac.md">01_tac.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/53_tar/">53_tar</a><br>
-	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/53_tar/01_uncompress_tgz.md">01_uncompress_tgz.md</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/53_tar/02_compress_folder_by_tar.md">02_compress_folder_by_tar.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/54_tmux/">54_tmux</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/54_tmux/01_tmux.md">01_tmux.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/55_touch/">55_touch</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/55_touch/01_modify_timestamp.md">01_modify_timestamp.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/56_unicode/">56_unicode</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/56_unicode/01_box_char.md">01_box_char.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/57_userdel/">57_userdel</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/57_userdel/01_userdel_hadoop.md">01_userdel_hadoop.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/58_usermod/">58_usermod</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/58_usermod/01_add_USER_to_GROUP.md">01_add_USER_to_GROUP.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/59_vim/">59_vim</a><br>
-	║   &nbsp; &nbsp; ║   ╠══ <a class="DIR" href="01_Ubuntu/02_16/59_vim/01_cmd-Mode/">01_cmd-Mode</a><br>
-	║   &nbsp; &nbsp; ║   ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/59_vim/01_cmd-Mode/01_Move_Cursor.md">01_Move_Cursor.md</a><br>
-	║   &nbsp; &nbsp; ║   ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/59_vim/01_cmd-Mode/02_Switch_Line_Up_and_Down.md">02_Switch_Line_Up_and_Down.md</a><br>
-	║   &nbsp; &nbsp; ║   ╠══ <a class="DIR" href="01_Ubuntu/02_16/59_vim/03_cmdLine-Mode/">03_cmdLine-Mode</a><br>
-	║   &nbsp; &nbsp; ║   ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/59_vim/03_cmdLine-Mode/01_Move_Line_Up_and_Down.md">01_Move_Line_Up_and_Down.md</a><br>
-	║   &nbsp; &nbsp; ║   ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/59_vim/03_cmdLine-Mode/02_vim_save_as_other_File.md">02_vim_save_as_other_File.md</a><br>
-	║   &nbsp; &nbsp; ║   ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/59_vim/03_cmdLine-Mode/03_vim_CRLF_to_LF.md">03_vim_CRLF_to_LF.md</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="DIR" href="01_Ubuntu/02_16/59_vim/04_ETC/">04_ETC</a><br>
-	║   &nbsp; &nbsp; ║   &nbsp; &nbsp; ╠══ <a class="NORM" href="01_Ubuntu/02_16/59_vim/04_ETC/01_vimrc_encoding_korean.md">01_vimrc_encoding_korean.md</a><br>
-	║   &nbsp; &nbsp; ║   &nbsp; &nbsp; ╠══ <a class="NORM" href="01_Ubuntu/02_16/59_vim/04_ETC/02_vimrc_append_save_macro.md">02_vimrc_append_save_macro.md</a><br>
-	║   &nbsp; &nbsp; ║   &nbsp; &nbsp; ╠══ <a class="NORM" href="01_Ubuntu/02_16/59_vim/04_ETC/03_vim_diff.md">03_vim_diff.md</a><br>
-	║   &nbsp; &nbsp; ║   &nbsp; &nbsp; ╠══ <a class="NORM" href="01_Ubuntu/02_16/59_vim/04_ETC/04_vimrc.md">04_vimrc.md</a><br>
-	║   &nbsp; &nbsp; ║   &nbsp; &nbsp; ╚══ <a class="NORM" href="01_Ubuntu/02_16/59_vim/04_ETC/05_vimrc_color.md">05_vimrc_color.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/60_vnc4server/">60_vnc4server</a><br>
-	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/60_vnc4server/01_install_config_vnc4server.md">01_install_config_vnc4server.md</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/60_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md">02_configure_vncserver_on_ubuntu16_desktop.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/61_window/">61_window</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/61_window/01_resize_window.md">01_resize_window.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/62_xclip/">62_xclip</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/62_xclip/01_install_and_use_xclip.md">01_install_and_use_xclip.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/63_xwininfo/">63_xwininfo</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/63_xwininfo/01_use_xwininfo.md">01_use_xwininfo.md</a><br>
-	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/64_zip/">64_zip</a><br>
-	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/64_zip/01_zip_directory.md">01_zip_directory.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/06_brew/">06_brew</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/06_brew/01_brew.md">01_brew.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/07_chrome_remote_desktop/">07_chrome_remote_desktop</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/07_chrome_remote_desktop/01_install_chrome_remote_desktop.md">01_install_chrome_remote_desktop.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/08_cpu/">08_cpu</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/08_cpu/01_cpu_info.md">01_cpu_info.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/09_date/">09_date</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/09_date/01_date_with_hour_min_sec_nano.md">01_date_with_hour_min_sec_nano.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/10_desktop/">10_desktop</a><br>
+	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/10_desktop/01_install_desktop_on_Ubuntu16_server.md">01_install_desktop_on_Ubuntu16_server.md</a><br>
+	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/10_desktop/02_auto_login+on_ubuntu16_desktop.md">02_auto_login+on_ubuntu16_desktop.md</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/10_desktop/03_find_desktop_file.md">03_find_desktop_file.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/11_df/">11_df</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/11_df/01_df_with_human_readerble.md">01_df_with_human_readerble.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/12_dpkg/">12_dpkg</a><br>
+	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/12_dpkg/01_dpkg_install_remove_package.md">01_dpkg_install_remove_package.md</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/12_dpkg/02_dpkg_list.md">02_dpkg_list.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/13_du/">13_du</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/13_du/01_du_file_size_of_folder.md">01_du_file_size_of_folder.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/14_egrep/">14_egrep</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/14_egrep/01_egrep_A_or_B_example.md">01_egrep_A_or_B_example.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/15_exfat/">15_exfat</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/15_exfat/01_install_exfat_on_ubuntu16.md">01_install_exfat_on_ubuntu16.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/16_fallocate/">16_fallocate</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/16_fallocate/01_swap_file_by_fallocate.md">01_swap_file_by_fallocate.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/17_fcitx/">17_fcitx</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/17_fcitx/01_disable_fcitx.md">01_disable_fcitx.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/18_fdisk/">18_fdisk</a><br>
+	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/18_fdisk/01_fdisk_partioning_disk.md">01_fdisk_partioning_disk.md</a><br>
+	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/18_fdisk/02_format_USB_as_FAT32.md">02_format_USB_as_FAT32.md</a><br>
+	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/18_fdisk/03_fdisk_list_disks.md">03_fdisk_list_disks.md</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/18_fdisk/04_fdisk_swap_partition.md">04_fdisk_swap_partition.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/19_find/">19_find</a><br>
+	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/19_find/01_find_with_basename.md">01_find_with_basename.md</a><br>
+	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/19_find/02_find_with_maxdepth.md">02_find_with_maxdepth.md</a><br>
+	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/19_find/03_find_and_sed_move_CRLF_to_LF.md">03_find_and_sed_move_CRLF_to_LF.md</a><br>
+	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/19_find/04_find_and_sed_move_TAB_to_4SPACES.md">04_find_and_sed_move_TAB_to_4SPACES.md</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/19_find/05_find_with_fileSize.md">05_find_with_fileSize.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/20_firefox/">20_firefox</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/20_firefox/01_firefox_downgrade_57_to_45.md">01_firefox_downgrade_57_to_45.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/21_for_statement/">21_for_statement</a><br>
+	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/21_for_statement/01_for_num++.md">01_for_num++.md</a><br>
+	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/21_for_statement/02_for_in_list.md">02_for_in_list.md</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/21_for_statement/03_for_read_file.md">03_for_read_file.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/22_frep/">22_frep</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/22_frep/01_use_frep.md">01_use_frep.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/23_gzip_gunzip/">23_gzip_gunzip</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/23_gzip_gunzip/01_gzip_gunzip_file.md">01_gzip_gunzip_file.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/24_gnome_terminal/">24_gnome_terminal</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/24_gnome_terminal/01_run_gnome_terminal_by_CLI.md">01_run_gnome_terminal_by_CLI.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/25_GRUB/">25_GRUB</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/25_GRUB/01_reset_passwd_on_GRUB.md">01_reset_passwd_on_GRUB.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/26_if/">26_if</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/26_if/01_if_check_filePath.md">01_if_check_filePath.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/27_Java/">27_Java</a><br>
+	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/27_Java/01_install_jdk7.md">01_install_jdk7.md</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/27_Java/02_install_jdk8.md">02_install_jdk8.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/28_LibreOffice/">28_LibreOffice</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/28_LibreOffice/01_remove_LibreOffice.md">01_remove_LibreOffice.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/29_LVM/">29_LVM</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/29_LVM/01_LVM_on_attached_device.md">01_LVM_on_attached_device.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/30_mkfs.ext4/">30_mkfs.ext4</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/30_mkfs.ext4/01_mkfs.ext4_device.md">01_mkfs.ext4_device.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/31_mkfs.xfs/">31_mkfs.xfs</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/31_mkfs.xfs/01_mkfs.xfs_device.md">01_mkfs.xfs_device.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/32_mount/">32_mount</a><br>
+	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/32_mount/01_remount_home_to_other_disk.md">01_remount_home_to_other_disk.md</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/32_mount/02_remount_var_to_other_disk.md">02_remount_var_to_other_disk.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/33_mpstat/">33_mpstat</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/33_mpstat/01_mpstat.md">01_mpstat.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/34_network/">34_network</a><br>
+	║   &nbsp; &nbsp; ║   ╠══ <a class="DIR" href="01_Ubuntu/02_16/34_network/01_static/">01_static</a><br>
+	║   &nbsp; &nbsp; ║   ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/34_network/01_static/01_configure_static.md">01_configure_static.md</a><br>
+	║   &nbsp; &nbsp; ║   ╠══ <a class="DIR" href="01_Ubuntu/02_16/34_network/02_dhcp/">02_dhcp</a><br>
+	║   &nbsp; &nbsp; ║   ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/34_network/02_dhcp/01_configure_dhcp.md">01_configure_dhcp.md</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="DIR" href="01_Ubuntu/02_16/34_network/03_hostname/">03_hostname</a><br>
+	║   &nbsp; &nbsp; ║   &nbsp; &nbsp; ╚══ <a class="NORM" href="01_Ubuntu/02_16/34_network/03_hostname/01_127.0.1.1.md">01_127.0.1.1.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/35_nmap/">35_nmap</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/35_nmap/01_install_use_nmap.md">01_install_use_nmap.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/36_nohup/">36_nohup</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/36_nohup/01_use_nohup.md">01_use_nohup.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/37_nvidia/">37_nvidia</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/37_nvidia/01_install_nvidia_driver.md">01_install_nvidia_driver.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/38_OpenCV/">38_OpenCV</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/38_OpenCV/01_Build_OpenCV_3.4_with_opencv_contrib.md">01_Build_OpenCV_3.4_with_opencv_contrib.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/39_Opera/">39_Opera</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/39_Opera/01_save_stream_video_as_file.md">01_save_stream_video_as_file.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/40_parted/">40_parted</a><br>
+	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/40_parted/01_parted_list.md">01_parted_list.md</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/40_parted/02_parted_swap_partition.md">02_parted_swap_partition.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/41_passwd/">41_passwd</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/41_passwd/01_root_passwd.md">01_root_passwd.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/42_rsync/">42_rsync</a><br>
+	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/42_rsync/01_rsync_folder_to_folder.md">01_rsync_folder_to_folder.md</a><br>
+	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/42_rsync/02_rsync_home_to_other.md">02_rsync_home_to_other.md</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/42_rsync/03_rsync_var_to_other.md">03_rsync_var_to_other.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/43_run-level/">43_run-level</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/43_run-level/01_change_run-level.md">01_change_run-level.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/44_sed/">44_sed</a><br>
+	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/44_sed/01_remove_^M_with_sed.md">01_remove_^M_with_sed.md</a><br>
+	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/44_sed/02_replace_every_3rd_comma_to_semicolon.md">02_replace_every_3rd_comma_to_semicolon.md</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/44_sed/03_space_regular_expression.md">03_space_regular_expression.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/45_server/">45_server</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/45_server/01_install_ubuntu16_server.md">01_install_ubuntu16_server.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/46_snap/">46_snap</a><br>
+	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/46_snap/01_snap_install_list_changes_refresh_remove.md">01_snap_install_list_changes_refresh_remove.md</a><br>
+	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/46_snap/02_snap_install_refresh_pycharm.md">02_snap_install_refresh_pycharm.md</a><br>
+	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/46_snap/03_snap_install_anbox.md">03_snap_install_anbox.md</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/46_snap/04_snap_install_intellij.md">04_snap_install_intellij.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/47_sort/">47_sort</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/47_sort/01_sort_key.md">01_sort_key.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/48_ssh/">48_ssh</a><br>
+	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/48_ssh/01_install_ssh.md">01_install_ssh.md</a><br>
+	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/48_ssh/02_add_publicKey_to_server.md">02_add_publicKey_to_server.md</a><br>
+	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/48_ssh/03_install_pssh.md">03_install_pssh.md</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/48_ssh/04_rsync_file_by_pssh.md">04_rsync_file_by_pssh.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/49_Startup_Applications/">49_Startup_Applications</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/49_Startup_Applications/01_add_programs.md">01_add_programs.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/50_Steam/">50_Steam</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/50_Steam/01_install_Steam_on_ubuntu16.md">01_install_Steam_on_ubuntu16.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/51_sublime_text_2/">51_sublime_text_2</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/51_sublime_text_2/01_install_sublime_text2.md">01_install_sublime_text2.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/52_substring/">52_substring</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/52_substring/01_substring_remove.md">01_substring_remove.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/53_tac/">53_tac</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/53_tac/01_tac.md">01_tac.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/54_tar/">54_tar</a><br>
+	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/54_tar/01_uncompress_tgz.md">01_uncompress_tgz.md</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/54_tar/02_compress_folder_by_tar.md">02_compress_folder_by_tar.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/55_tmux/">55_tmux</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/55_tmux/01_tmux.md">01_tmux.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/56_touch/">56_touch</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/56_touch/01_modify_timestamp.md">01_modify_timestamp.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/57_unicode/">57_unicode</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/57_unicode/01_box_char.md">01_box_char.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/58_userdel/">58_userdel</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/58_userdel/01_userdel_hadoop.md">01_userdel_hadoop.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/59_usermod/">59_usermod</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/59_usermod/01_add_USER_to_GROUP.md">01_add_USER_to_GROUP.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/60_vim/">60_vim</a><br>
+	║   &nbsp; &nbsp; ║   ╠══ <a class="DIR" href="01_Ubuntu/02_16/60_vim/01_cmd-Mode/">01_cmd-Mode</a><br>
+	║   &nbsp; &nbsp; ║   ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/60_vim/01_cmd-Mode/01_Move_Cursor.md">01_Move_Cursor.md</a><br>
+	║   &nbsp; &nbsp; ║   ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/60_vim/01_cmd-Mode/02_Switch_Line_Up_and_Down.md">02_Switch_Line_Up_and_Down.md</a><br>
+	║   &nbsp; &nbsp; ║   ╠══ <a class="DIR" href="01_Ubuntu/02_16/60_vim/03_cmdLine-Mode/">03_cmdLine-Mode</a><br>
+	║   &nbsp; &nbsp; ║   ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/60_vim/03_cmdLine-Mode/01_Move_Line_Up_and_Down.md">01_Move_Line_Up_and_Down.md</a><br>
+	║   &nbsp; &nbsp; ║   ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/60_vim/03_cmdLine-Mode/02_vim_save_as_other_File.md">02_vim_save_as_other_File.md</a><br>
+	║   &nbsp; &nbsp; ║   ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/60_vim/03_cmdLine-Mode/03_vim_CRLF_to_LF.md">03_vim_CRLF_to_LF.md</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="DIR" href="01_Ubuntu/02_16/60_vim/04_ETC/">04_ETC</a><br>
+	║   &nbsp; &nbsp; ║   &nbsp; &nbsp; ╠══ <a class="NORM" href="01_Ubuntu/02_16/60_vim/04_ETC/01_vimrc_encoding_korean.md">01_vimrc_encoding_korean.md</a><br>
+	║   &nbsp; &nbsp; ║   &nbsp; &nbsp; ╠══ <a class="NORM" href="01_Ubuntu/02_16/60_vim/04_ETC/02_vimrc_append_save_macro.md">02_vimrc_append_save_macro.md</a><br>
+	║   &nbsp; &nbsp; ║   &nbsp; &nbsp; ╠══ <a class="NORM" href="01_Ubuntu/02_16/60_vim/04_ETC/03_vim_diff.md">03_vim_diff.md</a><br>
+	║   &nbsp; &nbsp; ║   &nbsp; &nbsp; ╠══ <a class="NORM" href="01_Ubuntu/02_16/60_vim/04_ETC/04_vimrc.md">04_vimrc.md</a><br>
+	║   &nbsp; &nbsp; ║   &nbsp; &nbsp; ╚══ <a class="NORM" href="01_Ubuntu/02_16/60_vim/04_ETC/05_vimrc_color.md">05_vimrc_color.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/61_vnc4server/">61_vnc4server</a><br>
+	║   &nbsp; &nbsp; ║   ╠══ <a class="NORM" href="01_Ubuntu/02_16/61_vnc4server/01_install_config_vnc4server.md">01_install_config_vnc4server.md</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/61_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md">02_configure_vncserver_on_ubuntu16_desktop.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/62_window/">62_window</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/62_window/01_resize_window.md">01_resize_window.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/63_xclip/">63_xclip</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/63_xclip/01_install_and_use_xclip.md">01_install_and_use_xclip.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/64_xwininfo/">64_xwininfo</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/64_xwininfo/01_use_xwininfo.md">01_use_xwininfo.md</a><br>
+	║   &nbsp; &nbsp; ╠══ <a class="DIR" href="01_Ubuntu/02_16/65_zip/">65_zip</a><br>
+	║   &nbsp; &nbsp; ║   ╚══ <a class="NORM" href="01_Ubuntu/02_16/65_zip/01_zip_directory.md">01_zip_directory.md</a><br>
 	║   &nbsp; &nbsp; ╚══ <a class="EXEC" href="01_Ubuntu/02_16/reNumberFolder.sh">reNumberFolder.sh</a><br>
 	╠══ <a class="DIR" href="02_CentOS/">02_CentOS</a><br>
 	║   ╚══ <a class="DIR" href="02_CentOS/01_6.9/">01_6.9</a><br>
@@ -310,7 +312,7 @@
 	</p>
 	<p>
 
-105 directories, 172 files
+106 directories, 173 files
 	<br><br>
 	</p>
 	<hr>
