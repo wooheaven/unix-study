@@ -42,15 +42,16 @@ UNIX
 ║&ensp; ║&ensp; ╠═1.2.14 egrep : [egrep : search A or B of file.txt](01_Ubuntu/02_16/14_egrep/01_egrep_A_or_B_example.md)  
 ║&ensp; ║&ensp; ╠═1.2.15 exfat : [install exfat : linux and windows can available fileSystem](01_Ubuntu/02_16/15_exfat/01_install_exfat_on_ubuntu16.md)  
 ║&ensp; ║&ensp; ╠═1.2.16 fallocate : [fallocate : create swap file](01_Ubuntu/02_16/16_fallocate/01_swap_file_by_fallocate.md)  
+║&ensp; ║&ensp; ╠═1.2.17 fcitx : [fcitx : virtual keyboard](01_Ubuntu/02_16/17_fcitx/01_disable_fcitx.md)  
+║&ensp; ║&ensp; ╠═1.2.18 fdisk   
+║&ensp; ║&ensp; ║&ensp; ╠═1.2.18.1 [partioning disk](01_Ubuntu/02_16/18_fdisk/01_fdisk_partioning_disk.md)  
+║&ensp; ║&ensp; ║&ensp; ╠═1.2.18.2 [partioning and format USB as FAT32 limit 32GB](01_Ubuntu/02_16/18_fdisk/02_format_USB_as_FAT32.md)   
+║&ensp; ║&ensp; ║&ensp; ╠═1.2.18.3 [list partitions of attached disks](01_Ubuntu/02_16/18_fdisk/03_fdisk_list_disks.md)   
+║&ensp; ║&ensp; ║&ensp; ╚═1.2.18.4 [delete and create swap partition](01_Ubuntu/02_16/18_fdisk/04_fdisk_swap_partition.md)  
 ( ║ ╠ ═ ╚ )  
 
 | OS        | Contents              | Detail                                                                                                                          |
 |-----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|           | fcitx                 | [fcitx : virtual keyboard](01_Ubuntu/02_16/17_fcitx/01_disable_fcitx.md)                                                        |
-|           | fdisk                 | [fdisk : partioning disk](01_Ubuntu/02_16/18_fdisk/01_fdisk_partioning_disk.md)                                                 |
-|           |                       | [fdisk : partioning and format USB as FAT32 limit 32GB](01_Ubuntu/02_16/18_fdisk/02_format_USB_as_FAT32.md)                     |
-|           |                       | [fdisk : list partitions of attached disks](01_Ubuntu/02_16/18_fdisk/03_fdisk_list_disks.md)                                    |
-|           |                       | [fdisk : delete and create swap partition](01_Ubuntu/02_16/18_fdisk/04_fdisk_swap_partition.md)                                 |
 |           | find                  | [find : find with basename](01_Ubuntu/02_16/19_find/01_find_with_basename.md)                                                   |
 |           |                       | [find : find with maxdepth](01_Ubuntu/02_16/19_find/02_find_with_maxdepth.md)                                                   |
 |           |                       | [find : find file and sed CRLF to LF](01_Ubuntu/02_16/19_find/03_find_and_sed_move_CRLF_to_LF.md)                               |
@@ -80,7 +81,7 @@ UNIX
 |           |                       | [127.0.1.1 : why use this](01_Ubuntu/02_16/34_network/03_hostname/01_127.0.1.1.md)                                              |
 |           | nmap                  | [port check](01_Ubuntu/02_16/35_nmap/01_install_use_nmap.md)                                                                    |
 |           | nohup                 | [nohup : use](01_Ubuntu/02_16/36_nohup/01_use_nohup.md)                                                                         |
-|           | nvidia                | [install : nvidia driver](01_Ubuntu/02_16/37_nvidia/01_install_nvidia_driver.md)                                                |
+|           | nvidia                | [install : nvidia driver by apt](01_Ubuntu/02_16/37_nvidia/01_install_nvidia_driver_to_keras.md)                                |
 |           | opencv                | [build and install : opencv 3.4.0](01_Ubuntu/02_16/38_OpenCV/01_Build_OpenCV_3.4_with_opencv_contrib.md)                        |
 |           | opera                 | [save stream video as file](01_Ubuntu/02_16/39_Opera/01_save_stream_video_as_file.md)                                           |
 |           | parted                | [parted : check model of attached disks](01_Ubuntu/02_16/40_parted/01_parted_list.md)                                           |
