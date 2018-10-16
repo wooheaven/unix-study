@@ -36,6 +36,11 @@ bind -n C-right select-pane -R
 # Redefine splitting shortcuts
 bind C-v split-window -h \; display "Splitting Vertical"
 bind C-h split-window -v \; display "Splitting Horizontal"
+
+# copy shortcuts
+unbind -T copy-mode-vi Enter
+bind-key -T copy-mode-vi Enter send-keys -X copy-pipe-and-cancel "xclip -selection c"
+bind-key -T copy-mode-vi MouseDragEnd1Pane send-keys -X copy-pipe-and-cancel "xclip -in -selection clipboard"
 ```
 
 # Use
