@@ -8,8 +8,8 @@ https://developer.nvidia.com/cuda-gpus
 # find Compute Capability and CUDA SDK
 ```
 https://en.wikipedia.org/wiki/CUDA
-# Compute Capability 2.1 = CUDA SDK 7.5 <=  8.0
-# Compute Capability 5.0 = CUDA SDK 6.5 <= 10.0
+# Compute Capability 2.1 = CUDA SDK 7.5 ~  8.0
+# Compute Capability 5.0 = CUDA SDK 6.5 ~ 10.0
 ```
 
 # find CUDA SDK and cuDNN and Tensorflow
