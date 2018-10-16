@@ -156,7 +156,7 @@
           {"type":"file","name":"01_use_nohup.md"}
         ]},
         {"type":"directory","name":"37_nvidia","contents":[
-          {"type":"file","name":"01_install_nvidia_driver.md"}
+          {"type":"file","name":"01_install_nvidia_driver_to_keras.md"}
         ]},
         {"type":"directory","name":"38_OpenCV","contents":[
           {"type":"file","name":"01_Build_OpenCV_3.4_with_opencv_contrib.md"}

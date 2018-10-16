@@ -48,15 +48,16 @@ UNIX
 ║&ensp; ║&ensp; ║&ensp; ╠═1.2.18.2 [partioning and format USB as FAT32 limit 32GB](01_Ubuntu/02_16/18_fdisk/02_format_USB_as_FAT32.md)   
 ║&ensp; ║&ensp; ║&ensp; ╠═1.2.18.3 [list partitions of attached disks](01_Ubuntu/02_16/18_fdisk/03_fdisk_list_disks.md)   
 ║&ensp; ║&ensp; ║&ensp; ╚═1.2.18.4 [delete and create swap partition](01_Ubuntu/02_16/18_fdisk/04_fdisk_swap_partition.md)  
+║&ensp; ║&ensp; ╠═1.2.19 find  
+║&ensp; ║&ensp; ║&ensp; ╠═1.2.19.1 [find with basename](01_Ubuntu/02_16/19_find/01_find_with_basename.md)  
+║&ensp; ║&ensp; ║&ensp; ╠═1.2.19.2 [find with maxdepth](01_Ubuntu/02_16/19_find/02_find_with_maxdepth.md)  
+║&ensp; ║&ensp; ║&ensp; ╠═1.2.19.3 [find file and sed CRLF to LF](01_Ubuntu/02_16/19_find/03_find_and_sed_move_CRLF_to_LF.md)  
+║&ensp; ║&ensp; ║&ensp; ╠═1.2.19.4 [find file and sed TAB to 4SPACES](01_Ubuntu/02_16/19_find/04_find_and_sed_move_TAB_to_4SPACES.md)  
+║&ensp; ║&ensp; ║&ensp; ╚═1.2.19.5 [find with size](01_Ubuntu/02_16/19_find/05_find_with_fileSize.md)  
 ( ║ ╠ ═ ╚ )  
 
 | OS        | Contents              | Detail                                                                                                                          |
 |-----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|           | find                  | [find : find with basename](01_Ubuntu/02_16/19_find/01_find_with_basename.md)                                                   |
-|           |                       | [find : find with maxdepth](01_Ubuntu/02_16/19_find/02_find_with_maxdepth.md)                                                   |
-|           |                       | [find : find file and sed CRLF to LF](01_Ubuntu/02_16/19_find/03_find_and_sed_move_CRLF_to_LF.md)                               |
-|           |                       | [find : find file and sed TAB to 4SPACES](01_Ubuntu/02_16/19_find/04_find_and_sed_move_TAB_to_4SPACES.md)                       |
-|           |                       | [find : size](01_Ubuntu/02_16/19_find/05_find_with_fileSize.md)                                                                 |
 |           | firefox               | [firefox : downgrade and upgrade](01_Ubuntu/02_16/20_firefox/01_firefox_downgrade_57_to_45.md)                                  |
 |           | for                   | [for : num++](01_Ubuntu/02_16/21_for_statement/01_for_num++.md)                                                                 |
 |           |                       | [for : in list](01_Ubuntu/02_16/21_for_statement/02_for_in_list.md)                                                             |
@@ -111,6 +112,7 @@ UNIX
 |           | tac                   | [read from bottom to top](01_Ubuntu/02_16/53_tac/01_tac.md)                                                                     |
 |           | tar                   | [uncompress : tgz](01_Ubuntu/02_16/54_tar/01_uncompress_tgz.md)                                                                 |
 |           |                       | [compress : folder](01_Ubuntu/02_16/54_tar/02_compress_folder_by_tar.md)                                                        |
+|           | tmux                  | [install, configure, use](01_Ubuntu/02_16/55_tmux/01_tmux.md)                                                                   |
 |           | touch                 | [touch : accessed modified timestamp](01_Ubuntu/02_16/56_touch/01_modify_timestamp.md)                                          |
 |           | unicode               | [box char](01_Ubuntu/02_16/57_unicode/01_box_char.md)                                                                           |
 |           | userdel               | [userdel](01_Ubuntu/02_16/58_userdel/01_userdel_hadoop.md)                                                                      |
