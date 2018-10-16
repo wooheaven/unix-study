@@ -80,7 +80,7 @@ UNIX
 |           |                       | [127.0.1.1 : why use this](01_Ubuntu/02_16/34_network/03_hostname/01_127.0.1.1.md)                                              |
 |           | nmap                  | [port check](01_Ubuntu/02_16/35_nmap/01_install_use_nmap.md)                                                                    |
 |           | nohup                 | [nohup : use](01_Ubuntu/02_16/36_nohup/01_use_nohup.md)                                                                         |
-|           | nvidia                | [install : nvidia driver](01_Ubuntu/02_16/37_nvidia/01_install_nvidia_driver.md)                                                |
+|           | nvidia                | [install : nvidia driver by apt](01_Ubuntu/02_16/37_nvidia/01_install_nvidia_driver_to_keras.md)                                |
 |           | opencv                | [build and install : opencv 3.4.0](01_Ubuntu/02_16/38_OpenCV/01_Build_OpenCV_3.4_with_opencv_contrib.md)                        |
 |           | opera                 | [save stream video as file](01_Ubuntu/02_16/39_Opera/01_save_stream_video_as_file.md)                                           |
 |           | parted                | [parted : check model of attached disks](01_Ubuntu/02_16/40_parted/01_parted_list.md)                                           |
