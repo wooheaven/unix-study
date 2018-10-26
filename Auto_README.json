@@ -119,26 +119,29 @@
           {"type":"file","name":"01_install_jdk7.md"},
           {"type":"file","name":"02_install_jdk8.md"}
         ]},
-        {"type":"directory","name":"28_LibreOffice","contents":[
+        {"type":"directory","name":"28_jenv","contents":[
+          {"type":"file","name":"01_install_and_use_jenv.md"}
+        ]},
+        {"type":"directory","name":"29_LibreOffice","contents":[
           {"type":"file","name":"01_remove_LibreOffice.md"}
         ]},
-        {"type":"directory","name":"29_LVM","contents":[
+        {"type":"directory","name":"30_LVM","contents":[
           {"type":"file","name":"01_LVM_on_attached_device.md"}
         ]},
-        {"type":"directory","name":"30_mkfs.ext4","contents":[
+        {"type":"directory","name":"31_mkfs.ext4","contents":[
           {"type":"file","name":"01_mkfs.ext4_device.md"}
         ]},
-        {"type":"directory","name":"31_mkfs.xfs","contents":[
+        {"type":"directory","name":"32_mkfs.xfs","contents":[
           {"type":"file","name":"01_mkfs.xfs_device.md"}
         ]},
-        {"type":"directory","name":"32_mount","contents":[
+        {"type":"directory","name":"33_mount","contents":[
           {"type":"file","name":"01_remount_home_to_other_disk.md"},
           {"type":"file","name":"02_remount_var_to_other_disk.md"}
         ]},
-        {"type":"directory","name":"33_mpstat","contents":[
+        {"type":"directory","name":"34_mpstat","contents":[
           {"type":"file","name":"01_mpstat.md"}
         ]},
-        {"type":"directory","name":"34_network","contents":[
+        {"type":"directory","name":"35_network","contents":[
           {"type":"directory","name":"01_static","contents":[
             {"type":"file","name":"01_configure_static.md"}
           ]},
@@ -149,94 +152,94 @@
             {"type":"file","name":"01_127.0.1.1.md"}
           ]}
         ]},
-        {"type":"directory","name":"35_nmap","contents":[
+        {"type":"directory","name":"36_nmap","contents":[
           {"type":"file","name":"01_install_use_nmap.md"}
         ]},
-        {"type":"directory","name":"36_nohup","contents":[
+        {"type":"directory","name":"37_nohup","contents":[
           {"type":"file","name":"01_use_nohup.md"}
         ]},
-        {"type":"directory","name":"37_nvidia","contents":[
+        {"type":"directory","name":"38_nvidia","contents":[
           {"type":"file","name":"01_install_nvidia_driver_to_keras.md"}
         ]},
-        {"type":"directory","name":"38_OpenCV","contents":[
+        {"type":"directory","name":"39_OpenCV","contents":[
           {"type":"file","name":"01_Build_OpenCV_3.4_with_opencv_contrib.md"}
         ]},
-        {"type":"directory","name":"39_Opera","contents":[
+        {"type":"directory","name":"40_Opera","contents":[
           {"type":"file","name":"01_save_stream_video_as_file.md"}
         ]},
-        {"type":"directory","name":"40_parted","contents":[
+        {"type":"directory","name":"41_parted","contents":[
           {"type":"file","name":"01_parted_list.md"},
           {"type":"file","name":"02_parted_swap_partition.md"}
         ]},
-        {"type":"directory","name":"41_passwd","contents":[
+        {"type":"directory","name":"42_passwd","contents":[
           {"type":"file","name":"01_root_passwd.md"}
         ]},
-        {"type":"directory","name":"42_rsync","contents":[
+        {"type":"directory","name":"43_rsync","contents":[
           {"type":"file","name":"01_rsync_folder_to_folder.md"},
           {"type":"file","name":"02_rsync_home_to_other.md"},
           {"type":"file","name":"03_rsync_var_to_other.md"}
         ]},
-        {"type":"directory","name":"43_run-level","contents":[
+        {"type":"directory","name":"44_run-level","contents":[
           {"type":"file","name":"01_change_run-level.md"}
         ]},
-        {"type":"directory","name":"44_sed","contents":[
+        {"type":"directory","name":"45_sed","contents":[
           {"type":"file","name":"01_remove_^M_with_sed.md"},
           {"type":"file","name":"02_replace_every_3rd_comma_to_semicolon.md"},
           {"type":"file","name":"03_space_regular_expression.md"}
         ]},
-        {"type":"directory","name":"45_server","contents":[
+        {"type":"directory","name":"46_server","contents":[
           {"type":"file","name":"01_install_ubuntu16_server.md"}
         ]},
-        {"type":"directory","name":"46_snap","contents":[
+        {"type":"directory","name":"47_snap","contents":[
           {"type":"file","name":"01_snap_install_list_changes_refresh_remove.md"},
           {"type":"file","name":"02_snap_install_refresh_pycharm.md"},
           {"type":"file","name":"03_snap_install_anbox.md"},
           {"type":"file","name":"04_snap_install_intellij.md"}
         ]},
-        {"type":"directory","name":"47_sort","contents":[
+        {"type":"directory","name":"48_sort","contents":[
           {"type":"file","name":"01_sort_key.md"}
         ]},
-        {"type":"directory","name":"48_ssh","contents":[
+        {"type":"directory","name":"49_ssh","contents":[
           {"type":"file","name":"01_install_ssh.md"},
           {"type":"file","name":"02_add_publicKey_to_server.md"},
           {"type":"file","name":"03_install_pssh.md"},
           {"type":"file","name":"04_rsync_file_by_pssh.md"}
         ]},
-        {"type":"directory","name":"49_Startup_Applications","contents":[
+        {"type":"directory","name":"50_Startup_Applications","contents":[
           {"type":"file","name":"01_add_programs.md"}
         ]},
-        {"type":"directory","name":"50_Steam","contents":[
+        {"type":"directory","name":"51_Steam","contents":[
           {"type":"file","name":"01_install_Steam_on_ubuntu16.md"}
         ]},
-        {"type":"directory","name":"51_sublime_text_2","contents":[
+        {"type":"directory","name":"52_sublime_text_2","contents":[
           {"type":"file","name":"01_install_sublime_text2.md"}
         ]},
-        {"type":"directory","name":"52_substring","contents":[
+        {"type":"directory","name":"53_substring","contents":[
           {"type":"file","name":"01_substring_remove.md"}
         ]},
-        {"type":"directory","name":"53_tac","contents":[
+        {"type":"directory","name":"54_tac","contents":[
           {"type":"file","name":"01_tac.md"}
         ]},
-        {"type":"directory","name":"54_tar","contents":[
+        {"type":"directory","name":"55_tar","contents":[
           {"type":"file","name":"01_uncompress_tgz.md"},
           {"type":"file","name":"02_compress_folder_by_tar.md"}
         ]},
-        {"type":"directory","name":"55_tmux","contents":[
+        {"type":"directory","name":"56_tmux","contents":[
           {"type":"file","name":"01_tmux.md"}
         ]},
-        {"type":"directory","name":"56_touch","contents":[
+        {"type":"directory","name":"57_touch","contents":[
           {"type":"file","name":"01_modify_timestamp.md"}
         ]},
-        {"type":"directory","name":"57_unicode","contents":[
+        {"type":"directory","name":"58_unicode","contents":[
           {"type":"file","name":"01_box_char.md"}
         ]},
-        {"type":"directory","name":"58_userdel","contents":[
+        {"type":"directory","name":"59_userdel","contents":[
           {"type":"file","name":"01_userdel_hadoop.md"}
         ]},
-        {"type":"directory","name":"59_usermod","contents":[
+        {"type":"directory","name":"60_usermod","contents":[
           {"type":"file","name":"01_add_USER_to_GROUP.md"}
         ]},
-        {"type":"directory","name":"60_vim","contents":[
+        {"type":"directory","name":"61_vim","contents":[
           {"type":"directory","name":"01_cmd-Mode","contents":[
             {"type":"file","name":"01_Move_Cursor.md"},
             {"type":"file","name":"02_Switch_Line_Up_and_Down.md"}
@@ -254,20 +257,20 @@
             {"type":"file","name":"05_vimrc_color.md"}
           ]}
         ]},
-        {"type":"directory","name":"61_vnc4server","contents":[
+        {"type":"directory","name":"62_vnc4server","contents":[
           {"type":"file","name":"01_install_config_vnc4server.md"},
           {"type":"file","name":"02_configure_vncserver_on_ubuntu16_desktop.md"}
         ]},
-        {"type":"directory","name":"62_window","contents":[
+        {"type":"directory","name":"63_window","contents":[
           {"type":"file","name":"01_resize_window.md"}
         ]},
-        {"type":"directory","name":"63_xclip","contents":[
+        {"type":"directory","name":"64_xclip","contents":[
           {"type":"file","name":"01_install_and_use_xclip.md"}
         ]},
-        {"type":"directory","name":"64_xwininfo","contents":[
+        {"type":"directory","name":"65_xwininfo","contents":[
           {"type":"file","name":"01_use_xwininfo.md"}
         ]},
-        {"type":"directory","name":"65_zip","contents":[
+        {"type":"directory","name":"66_zip","contents":[
           {"type":"file","name":"01_zip_directory.md"}
         ]},
         {"type":"file","name":"reNumberFolder.sh"}
@@ -332,12 +335,6 @@
       {"type":"directory","name":"10_Proxy","contents":[
         {"type":"file","name":"01_use_proxy.md"}
       ]},
-      {"type":"directory","name":"10_vim","contents":[
-        {"type":"directory","name":"01_Cmd-Mode","contents":[
-        ]},
-        {"type":"directory","name":"02_Edit-Mode","contents":[
-        ]}
-      ]},
       {"type":"directory","name":"11_Python","contents":[
         {"type":"directory","name":"01_with_Conda","contents":[
           {"type":"file","name":"01_Matplotlib_backends_RuntimeError.md"}
@@ -385,5 +382,5 @@
     {"type":"file","name":"README.md"},
     {"type":"file","name":"reNumberFolder.sh"}
   ]},
-  {"type":"report","directories":106,"files":173}
+  {"type":"report","directories":104,"files":174}
 ]
