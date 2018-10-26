@@ -25,7 +25,8 @@ UNIX
 ║&ensp; ║&ensp; ║&ensp; ╠═1.2.5.3 [count of arguments check](01_Ubuntu/02_16/05_bash/03_if_condition_count_of_arguments_check.md)  
 ║&ensp; ║&ensp; ║&ensp; ╠═1.2.5.4 [check current shell](01_Ubuntu/02_16/05_bash/04_check_current_shell.md)  
 ║&ensp; ║&ensp; ║&ensp; ╠═1.2.5.5 [Multiplication](01_Ubuntu/02_16/05_bash/05_Multiplication_on_Bash.md)  
-║&ensp; ║&ensp; ║&ensp; ╚═1.2.5.6 [bash prombt](01_Ubuntu/02_16/05_bash/06_bashrc_PS1_bash_prombt.md)  
+║&ensp; ║&ensp; ║&ensp; ╠═1.2.5.6 [bash prombt](01_Ubuntu/02_16/05_bash/06_bashrc_PS1_bash_prombt.md)  
+║&ensp; ║&ensp; ║&ensp; ╚═1.2.5.7 [redirect : print to null](01_Ubuntu/02_16/05_bash/07_print_to_null_by_redirect.md)  
 ║&ensp; ║&ensp; ╠═1.2.6 brew : [install, use](01_Ubuntu/02_16/06_brew/01_brew.md)  
 ║&ensp; ║&ensp; ╠═1.2.7 chrome remote desktop : [install](01_Ubuntu/02_16/07_chrome_remote_desktop/01_install_chrome_remote_desktop.md)  
 ║&ensp; ║&ensp; ╠═1.2.8 cpu monitor : [cat cpu_info](01_Ubuntu/02_16/08_cpu/01_cpu_info.md)  
@@ -59,14 +60,14 @@ UNIX
 ║&ensp; ║&ensp; ║&ensp; ╠═1.2.21.1 [iterate by num++](01_Ubuntu/02_16/21_for_statement/01_for_num++.md)  
 ║&ensp; ║&ensp; ║&ensp; ╠═1.2.21.2 [iterate by list](01_Ubuntu/02_16/21_for_statement/02_for_in_list.md)  
 ║&ensp; ║&ensp; ║&ensp; ╚═1.2.21.3 [iterate by file](01_Ubuntu/02_16/21_for_statement/03_for_read_file.md)  
-║&ensp; ║&ensp; ╠═1.2.22 frep : [frep : activate frep on android](01_Ubuntu/02_16/22_frep/01_use_frep.md)  
-║&ensp; ║&ensp; ╠═1.2.23 gitlab  : [gitlab math document](https://khan.github.io/KaTeX/docs/supported.html)  
-║&ensp; ║&ensp; ╠═1.2.24 gzip, gunzip : [gzip gunzip : compress/decompress a file](01_Ubuntu/02_16/23_gzip_gunzip/01_gzip_gunzip_file.md)  
+║&ensp; ║&ensp; ╠═1.2.22 frep : [activate frep on android](01_Ubuntu/02_16/22_frep/01_use_frep.md)  
+║&ensp; ║&ensp; ╠═1.2.23 gitlab  : [math document](https://khan.github.io/KaTeX/docs/supported.html)  
+║&ensp; ║&ensp; ╠═1.2.24 gzip, gunzip : [compress/decompress a file](01_Ubuntu/02_16/23_gzip_gunzip/01_gzip_gunzip_file.md)  
+║&ensp; ║&ensp; ╠═1.2.25 gnome terminal : [execute by CLI with window-size](01_Ubuntu/02_16/24_gnome_terminal/01_run_gnome_terminal_by_CLI.md)  
 ( ║ ╠ ═ ╚ )  
 
 | OS        | Contents              | Detail                                                                                                                          |
 |-----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|           | gnome terminal        | [gnome terminal : execute by CLI with window-size](01_Ubuntu/02_16/24_gnome_terminal/01_run_gnome_terminal_by_CLI.md)           |
 |           | GRUB                  | [GRUB : reset PassWord](01_Ubuntu/02_16/25_GRUB/01_reset_passwd_on_GRUB.md)                                                     |
 |           | if                    | [if : check filePath](01_Ubuntu/02_16/26_if/01_if_check_filePath.md)                                                            |
 |           | Java                  | [jdk7 : install by apt](01_Ubuntu/02_16/27_Java/01_install_jdk7.md)                                                             |
