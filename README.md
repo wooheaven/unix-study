@@ -26,7 +26,8 @@ UNIX
 ║&ensp; ║&ensp; ║&ensp; ╠═1.2.5.4 [check current shell](01_Ubuntu/02_16/05_bash/04_check_current_shell.md)  
 ║&ensp; ║&ensp; ║&ensp; ╠═1.2.5.5 [Multiplication](01_Ubuntu/02_16/05_bash/05_Multiplication_on_Bash.md)  
 ║&ensp; ║&ensp; ║&ensp; ╠═1.2.5.6 [bash prombt](01_Ubuntu/02_16/05_bash/06_bashrc_PS1_bash_prombt.md)  
-║&ensp; ║&ensp; ║&ensp; ╚═1.2.5.7 [redirect : print to null](01_Ubuntu/02_16/05_bash/07_print_to_null_by_redirect.md)  
+║&ensp; ║&ensp; ║&ensp; ╠═1.2.5.7 [redirect : print to null](01_Ubuntu/02_16/05_bash/07_print_to_null_by_redirect.md)  
+║&ensp; ║&ensp; ║&ensp; ╚═1.2.5.8 [if : check filePath](01_Ubuntu/02_16/26_if/01_if_check_filePath.md)  
 ║&ensp; ║&ensp; ╠═1.2.6 brew : [install, use](01_Ubuntu/02_16/06_brew/01_brew.md)  
 ║&ensp; ║&ensp; ╠═1.2.7 chrome remote desktop : [install](01_Ubuntu/02_16/07_chrome_remote_desktop/01_install_chrome_remote_desktop.md)  
 ║&ensp; ║&ensp; ╠═1.2.8 cpu monitor : [cat cpu_info](01_Ubuntu/02_16/08_cpu/01_cpu_info.md)  
@@ -64,15 +65,15 @@ UNIX
 ║&ensp; ║&ensp; ╠═1.2.23 gitlab  : [math document](https://khan.github.io/KaTeX/docs/supported.html)  
 ║&ensp; ║&ensp; ╠═1.2.24 gzip, gunzip : [compress/decompress a file](01_Ubuntu/02_16/23_gzip_gunzip/01_gzip_gunzip_file.md)  
 ║&ensp; ║&ensp; ╠═1.2.25 gnome terminal : [execute by CLI with window-size](01_Ubuntu/02_16/24_gnome_terminal/01_run_gnome_terminal_by_CLI.md)  
+║&ensp; ║&ensp; ╠═1.2.26 GRUB : [reset PassWord](01_Ubuntu/02_16/25_GRUB/01_reset_passwd_on_GRUB.md)  
+║&ensp; ║&ensp; ╠═1.2.27 Java  
+║&ensp; ║&ensp; ║&ensp; ╠═1.2.27.1 [jdk7 : install by apt](01_Ubuntu/02_16/27_Java/01_install_jdk7.md)  
+║&ensp; ║&ensp; ║&ensp; ╚═1.2.27.2 [jdk8 : install by apt](01_Ubuntu/02_16/27_Java/02_install_jdk8.md)  
 ( ║ ╠ ═ ╚ )  
 
 | OS        | Contents              | Detail                                                                                                                          |
 |-----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|           | GRUB                  | [GRUB : reset PassWord](01_Ubuntu/02_16/25_GRUB/01_reset_passwd_on_GRUB.md)                                                     |
-|           | if                    | [if : check filePath](01_Ubuntu/02_16/26_if/01_if_check_filePath.md)                                                            |
-|           | Java                  | [jdk7 : install by apt](01_Ubuntu/02_16/27_Java/01_install_jdk7.md)                                                             |
-|           |                       | [jdk8 : install by apt](01_Ubuntu/02_16/27_Java/02_install_jdk8.md)                                                             |
-|           | jenv                  | [jenv : java env manage](01_Ubuntu/02_16/28_jenv/01_install_and_use_jenv.md)                                                    |
+|           | jenv                  | [java env manage](01_Ubuntu/02_16/28_jenv/01_install_and_use_jenv.md)                                                           |
 |           | Libre Office          | [remove](01_Ubuntu/02_16/29_LibreOffice/01_remove_LibreOffice.md)                                                               |
 |           | LVM                   | [LVM : format and mount attached device](01_Ubuntu/02_16/30_LVM/01_LVM_on_attached_device.md)                                   |
 |           | mkfs.ext4             | [make filesystem ext4](01_Ubuntu/02_16/31_mkfs.ext4/01_mkfs.ext4_device.md)                                                     |
@@ -117,26 +118,27 @@ UNIX
 |           |                       | [compress : folder](01_Ubuntu/02_16/55_tar/02_compress_folder_by_tar.md)                                                        |
 |           | tmux                  | [install, configure, use](01_Ubuntu/02_16/56_tmux/01_tmux.md)                                                                   |
 |           | touch                 | [touch : accessed modified timestamp](01_Ubuntu/02_16/57_touch/01_modify_timestamp.md)                                          |
-|           | unicode               | [box char](01_Ubuntu/02_16/58_unicode/01_box_char.md)                                                                           |
-|           | userdel               | [userdel](01_Ubuntu/02_16/59_userdel/01_userdel_hadoop.md)                                                                      |
-|           | usermod               | [add User to Group](01_Ubuntu/02_16/60_usermod/01_add_USER_to_GROUP.md)                                                         |
-|           | vim                   | [Cmd-Mode : Move Cursor](01_Ubuntu/02_16/61_vim/01_cmd-Mode/01_Move_Cursor.md)                                                  |
-|           |                       | [Cmd-Mode : Switch Line Up and Down](01_Ubuntu/02_16/61_vim/01_cmd-Mode/02_Switch_Line_Up_and_Down.md)                          |
+|           | tzdata                | [time zone](01_Ubuntu/02_16/58_tzdata/01_timeZone.md)                                                                           |
+|           | unicode               | [box char](01_Ubuntu/02_16/59_unicode/01_box_char.md)                                                                           |
+|           | userdel               | [userdel](01_Ubuntu/02_16/60_userdel/01_userdel_hadoop.md)                                                                      |
+|           | usermod               | [add User to Group](01_Ubuntu/02_16/61_usermod/01_add_USER_to_GROUP.md)                                                         |
+|           | vim                   | [Cmd-Mode : Move Cursor](01_Ubuntu/02_16/62_vim/01_cmd-Mode/01_Move_Cursor.md)                                                  |
+|           |                       | [Cmd-Mode : Switch Line Up and Down](01_Ubuntu/02_16/62_vim/01_cmd-Mode/02_Switch_Line_Up_and_Down.md)                          |
 |           |                       | [Edit-Mode Insert-Mode : ]()                                                                                                    |
-|           |                       | [CmdLine-Mode : Move Line Up and Down](01_Ubuntu/02_16/61_vim/03_cmdLine-Mode/01_Move_Line_Up_and_Down.md)                      | 
-|           |                       | [CmdLine-Mode : save as other file](01_Ubuntu/02_16/61_vim/03_cmdLine-Mode/02_vim_save_as_other_File.md)                        |
-|           |                       | [CmdLine-Mode : CRLF to LF](01_Ubuntu/02_16/61_vim/03_cmdLine-Mode/03_vim_CRLF_to_LF.md)                                        |
-|           |                       | [ETC : vimrc encoding UTF8 (Korean)](01_Ubuntu/02_16/61_vim/04_ETC/01_vimrc_encoding_korean.md)                                 |
-|           |                       | [ETC : vimrc append and save macro](01_Ubuntu/02_16/61_vim/04_ETC/02_vimrc_append_save_macro.md)                                |
-|           |                       | [ETC : vim diff](01_Ubuntu/02_16/61_vim/04_ETC/03_vim_diff.md)                                                                  |
-|           |                       | [ETC : cat ~/.vimrc](01_Ubuntu/02_16/61_vim/04_ETC/04_vimrc.md)                                                                 | 
-|           |                       | [ETC : color](01_Ubuntu/02_16/61_vim/04_ETC/05_vimrc_color.md)                                                                  | 
-|           | vnc4server            | [vnc4server : remote control ubuntu](01_Ubuntu/02_16/62_vnc4server/01_install_config_vnc4server.md)                             |
-|           | vncserver             | [vncserver : remote access sharing](01_Ubuntu/02_16/62_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md)                |
-|           | window                | [resize shortcut](01_Ubuntu/02_16/63_window/01_resize_window.md)                                                                |
-|           | xclip                 | [xclip : install and use](01_Ubuntu/02_16/64_xclip/01_install_and_use_xclip.md)                                                 |
-|           | xwininfo              | [xwininfo : get window size](01_Ubuntu/02_16/65_xwininfo/01_use_xwininfo.md)                                                    |
-|           | zip                   | [compress and uncompress directory](01_Ubuntu/02_16/66_zip/01_zip_directory.md)                                                 | 
+|           |                       | [CmdLine-Mode : Move Line Up and Down](01_Ubuntu/02_16/62_vim/03_cmdLine-Mode/01_Move_Line_Up_and_Down.md)                      | 
+|           |                       | [CmdLine-Mode : save as other file](01_Ubuntu/02_16/62_vim/03_cmdLine-Mode/02_vim_save_as_other_File.md)                        |
+|           |                       | [CmdLine-Mode : CRLF to LF](01_Ubuntu/02_16/62_vim/03_cmdLine-Mode/03_vim_CRLF_to_LF.md)                                        |
+|           |                       | [ETC : vimrc encoding UTF8 (Korean)](01_Ubuntu/02_16/62_vim/04_ETC/01_vimrc_encoding_korean.md)                                 |
+|           |                       | [ETC : vimrc append and save macro](01_Ubuntu/02_16/62_vim/04_ETC/02_vimrc_append_save_macro.md)                                |
+|           |                       | [ETC : vim diff](01_Ubuntu/02_16/62_vim/04_ETC/03_vim_diff.md)                                                                  |
+|           |                       | [ETC : cat ~/.vimrc](01_Ubuntu/02_16/62_vim/04_ETC/04_vimrc.md)                                                                 | 
+|           |                       | [ETC : color](01_Ubuntu/02_16/62_vim/04_ETC/05_vimrc_color.md)                                                                  | 
+|           | vnc4server            | [vnc4server : remote control ubuntu](01_Ubuntu/02_16/63_vnc4server/01_install_config_vnc4server.md)                             |
+|           | vncserver             | [vncserver : remote access sharing](01_Ubuntu/02_16/63_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md)                |
+|           | window                | [resize shortcut](01_Ubuntu/02_16/64_window/01_resize_window.md)                                                                |
+|           | xclip                 | [xclip : install and use](01_Ubuntu/02_16/65_xclip/01_install_and_use_xclip.md)                                                 |
+|           | xwininfo              | [xwininfo : get window size](01_Ubuntu/02_16/66_xwininfo/01_use_xwininfo.md)                                                    |
+|           | zip                   | [compress and uncompress directory](01_Ubuntu/02_16/67_zip/01_zip_directory.md)                                                 | 
 | CentOS6.9 | docker                | [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)                                                             |
 |           | git                   | [yum install git : version 2.x](02_CentOS/01_6.9/02_git/01_yum_install_git.md)                                                  |
 |           | network               | [network : static](02_CentOS/01_6.9/03_network/01_static.md)                                                                    |

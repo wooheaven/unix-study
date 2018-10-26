@@ -231,16 +231,19 @@
         {"type":"directory","name":"57_touch","contents":[
           {"type":"file","name":"01_modify_timestamp.md"}
         ]},
-        {"type":"directory","name":"58_unicode","contents":[
+        {"type":"directory","name":"58_tzdata","contents":[
+          {"type":"file","name":"01_timeZone.md"}
+        ]},
+        {"type":"directory","name":"59_unicode","contents":[
           {"type":"file","name":"01_box_char.md"}
         ]},
-        {"type":"directory","name":"59_userdel","contents":[
+        {"type":"directory","name":"60_userdel","contents":[
           {"type":"file","name":"01_userdel_hadoop.md"}
         ]},
-        {"type":"directory","name":"60_usermod","contents":[
+        {"type":"directory","name":"61_usermod","contents":[
           {"type":"file","name":"01_add_USER_to_GROUP.md"}
         ]},
-        {"type":"directory","name":"61_vim","contents":[
+        {"type":"directory","name":"62_vim","contents":[
           {"type":"directory","name":"01_cmd-Mode","contents":[
             {"type":"file","name":"01_Move_Cursor.md"},
             {"type":"file","name":"02_Switch_Line_Up_and_Down.md"}
@@ -258,20 +261,20 @@
             {"type":"file","name":"05_vimrc_color.md"}
           ]}
         ]},
-        {"type":"directory","name":"62_vnc4server","contents":[
+        {"type":"directory","name":"63_vnc4server","contents":[
           {"type":"file","name":"01_install_config_vnc4server.md"},
           {"type":"file","name":"02_configure_vncserver_on_ubuntu16_desktop.md"}
         ]},
-        {"type":"directory","name":"63_window","contents":[
+        {"type":"directory","name":"64_window","contents":[
           {"type":"file","name":"01_resize_window.md"}
         ]},
-        {"type":"directory","name":"64_xclip","contents":[
+        {"type":"directory","name":"65_xclip","contents":[
           {"type":"file","name":"01_install_and_use_xclip.md"}
         ]},
-        {"type":"directory","name":"65_xwininfo","contents":[
+        {"type":"directory","name":"66_xwininfo","contents":[
           {"type":"file","name":"01_use_xwininfo.md"}
         ]},
-        {"type":"directory","name":"66_zip","contents":[
+        {"type":"directory","name":"67_zip","contents":[
           {"type":"file","name":"01_zip_directory.md"}
         ]},
         {"type":"file","name":"reNumberFolder.sh"}
@@ -383,5 +386,5 @@
     {"type":"file","name":"README.md"},
     {"type":"file","name":"reNumberFolder.sh"}
   ]},
-  {"type":"report","directories":104,"files":175}
+  {"type":"report","directories":105,"files":176}
 ]
