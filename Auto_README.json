@@ -38,7 +38,8 @@
           {"type":"file","name":"03_if_condition_count_of_arguments_check.md"},
           {"type":"file","name":"04_check_current_shell.md"},
           {"type":"file","name":"05_Multiplication_on_Bash.md"},
-          {"type":"file","name":"06_bashrc_PS1_bash_prombt.md"}
+          {"type":"file","name":"06_bashrc_PS1_bash_prombt.md"},
+          {"type":"file","name":"07_print_to_null_by_redirect.md"}
         ]},
         {"type":"directory","name":"06_brew","contents":[
           {"type":"file","name":"01_brew.md"}
@@ -382,5 +383,5 @@
     {"type":"file","name":"README.md"},
     {"type":"file","name":"reNumberFolder.sh"}
   ]},
-  {"type":"report","directories":104,"files":174}
+  {"type":"report","directories":104,"files":175}
 ]
