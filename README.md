@@ -69,12 +69,12 @@ UNIX
 ║&ensp; ║&ensp; ╠═1.2.27 Java  
 ║&ensp; ║&ensp; ║&ensp; ╠═1.2.27.1 [jdk7 : install by apt](01_Ubuntu/02_16/27_Java/01_install_jdk7.md)  
 ║&ensp; ║&ensp; ║&ensp; ╚═1.2.27.2 [jdk8 : install by apt](01_Ubuntu/02_16/27_Java/02_install_jdk8.md)  
+║&ensp; ║&ensp; ╠═1.2.28 jenv : [java env manage](01_Ubuntu/02_16/28_jenv/01_install_and_use_jenv.md)   
+║&ensp; ║&ensp; ╠═1.2.29 Libre Office : [remove](01_Ubuntu/02_16/29_LibreOffice/01_remove_LibreOffice.md)   
 ( ║ ╠ ═ ╚ )  
 
 | OS        | Contents              | Detail                                                                                                                          |
 |-----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|           | jenv                  | [java env manage](01_Ubuntu/02_16/28_jenv/01_install_and_use_jenv.md)                                                           |
-|           | Libre Office          | [remove](01_Ubuntu/02_16/29_LibreOffice/01_remove_LibreOffice.md)                                                               |
 |           | LVM                   | [LVM : format and mount attached device](01_Ubuntu/02_16/30_LVM/01_LVM_on_attached_device.md)                                   |
 |           | mkfs.ext4             | [make filesystem ext4](01_Ubuntu/02_16/31_mkfs.ext4/01_mkfs.ext4_device.md)                                                     |
 |           | mkfs.xfs              | [make filesystem xfs](01_Ubuntu/02_16/32_mkfs.xfs/01_mkfs.xfs_device.md)                                                        |
