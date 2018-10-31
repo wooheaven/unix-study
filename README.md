@@ -73,13 +73,14 @@ UNIX
 ║&ensp; ║&ensp; ╠═1.2.29 Libre Office : [remove](01_Ubuntu/02_16/29_LibreOffice/01_remove_LibreOffice.md)   
 ║&ensp; ║&ensp; ╠═1.2.30 LVM : [format and mount attached device](01_Ubuntu/02_16/30_LVM/01_LVM_on_attached_device.md)  
 ║&ensp; ║&ensp; ╠═1.2.31 mkfs.ext4 : [make filesystem ext4](01_Ubuntu/02_16/31_mkfs.ext4/01_mkfs.ext4_device.md)  
+║&ensp; ║&ensp; ╠═1.2.32 mkfs.xfs : [make filesystem xfs](01_Ubuntu/02_16/32_mkfs.xfs/01_mkfs.xfs_device.md)  
+║&ensp; ║&ensp; ╠═1.2.33 mount  
+║&ensp; ║&ensp; ║&ensp; ╠═1.2.33.1 [remount /home to other disk](01_Ubuntu/02_16/33_mount/01_remount_home_to_other_disk.md)  
+║&ensp; ║&ensp; ║&ensp; ╚═1.2.33.2 [remount /var to other disk](01_Ubuntu/02_16/33_mount/02_remount_var_to_other_disk.md)  
 ( ║ ╠ ═ ╚ )  
 
 | OS        | Contents              | Detail                                                                                                                          |
 |-----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|           | mkfs.xfs              | [make filesystem xfs](01_Ubuntu/02_16/32_mkfs.xfs/01_mkfs.xfs_device.md)                                                        |
-|           | mount                 | [mount : remount /home to other disk](01_Ubuntu/02_16/33_mount/01_remount_home_to_other_disk.md)                                |
-|           |                       | [mount : remount /var to other disk](01_Ubuntu/02_16/33_mount/02_remount_var_to_other_disk.md)                                  |
 |           | mpstat                | [mpstat : monitoring CPU's processors](01_Ubuntu/02_16/34_mpstat/01_mpstat.md)                                                  |
 |           | network               | [network : static](01_Ubuntu/02_16/35_network/01_static/01_configure_static.md)                                                 |
 |           |                       | [network : dhcp](01_Ubuntu/02_16/35_network/01_static/01_configure_static.md)                                                   |
