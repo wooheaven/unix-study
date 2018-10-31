@@ -1,82 +1,91 @@
 UNIX  
-╠═1. Ubuntu  
-║&ensp; ╠═1.1. ubuntu14  
-║&ensp; ║&ensp; ╠═1.1.1 apt-get  
-║&ensp; ║&ensp; ║&ensp; ╚═1.1.1.1 [apt-get install : nvidia-docker2](01_Ubuntu/01_14.04/01_apt-get/01_install_nvidia_docker_v2.md)  
-║&ensp; ║&ensp; ╚═1.1.2 vnc4server  
-║&ensp; ║&ensp; &ensp; &ensp; ╚═1.1.2.1 [vnc4server : install configure](01_Ubuntu/01_14.04/02_vnc4server/01_install_config_vnc4server.md)  
-║&ensp; ╠═1.2. ubuntu16  
-║&ensp; ║&ensp; ╠═1.2.1 [adduser : hadoop user](01_Ubuntu/02_16/01_adduser/01_adduser.md)  
-║&ensp; ║&ensp; ╠═1.2.2 apt  
-║&ensp; ║&ensp; ║&ensp; ╚═1.2.2.1 [apt list --installed : check installed packages](01_Ubuntu/02_16/02_apt/01_apt_list.md)  
-║&ensp; ║&ensp; ╠═1.2.3 apt-get  
-║&ensp; ║&ensp; ║&ensp; ╠═1.2.3.1 apt-get install : [tree](01_Ubuntu/02_16/03_apt-get/07_apt-get_tree.md), [graphviz](01_Ubuntu/02_16/03_apt-get/01_apt-get_install_graphviz_with_python3.5.md), [jq](01_Ubuntu/02_16/03_apt-get/02_apt-get_install_jq.md), [vlc](01_Ubuntu/02_16/03_apt-get/03_apt-get_install_vlc.md), [lock error](01_Ubuntu/02_16/03_apt-get/04_apt-get_lock_error.md)  
-║&ensp; ║&ensp; ║&ensp; ╚═1.2.3.2 apt-get update : [hash error](01_Ubuntu/02_16/03_apt-get/06_apt-get_update_hash_sum_error.md), [duplicate sources.list](01_Ubuntu/02_16/03_apt-get/05_apt-get_Duplicate_sources.list.md)  
-║&ensp; ║&ensp; ╠═1.2.4 awk  
-║&ensp; ║&ensp; ║&ensp; ╠═1.2.4.1 [column to rows](01_Ubuntu/02_16/04_awk/01_awk_column_to_rows.md)  
-║&ensp; ║&ensp; ║&ensp; ╠═1.2.4.2 [rows to column](01_Ubuntu/02_16/04_awk/02_awk_rows_to_column.md)  
-║&ensp; ║&ensp; ║&ensp; ╠═1.2.4.3 [remove blank line](01_Ubuntu/02_16/04_awk/03_awk_remove_blank_line.md)  
-║&ensp; ║&ensp; ║&ensp; ╠═1.2.4.4 [use external argument](01_Ubuntu/02_16/04_awk/04_awk_use_external_argument.md)  
-║&ensp; ║&ensp; ║&ensp; ╠═1.2.4.5 [use variable in awk](01_Ubuntu/02_16/04_awk/05_awk_use_variable.md)  
-║&ensp; ║&ensp; ║&ensp; ╚═1.2.4.6 [substr](01_Ubuntu/02_16/04_awk/06_awk_substr.md)  
-║&ensp; ║&ensp; ╠═1.2.5 bash  
-║&ensp; ║&ensp; ║&ensp; ╠═1.2.5.1 [while statement](01_Ubuntu/02_16/05_bash/01_While_Statement.md)  
-║&ensp; ║&ensp; ║&ensp; ╠═1.2.5.2 [1st argument existence check](01_Ubuntu/02_16/05_bash/02_if_condition_1st_argument_existence_check.md)   
-║&ensp; ║&ensp; ║&ensp; ╠═1.2.5.3 [count of arguments check](01_Ubuntu/02_16/05_bash/03_if_condition_count_of_arguments_check.md)  
-║&ensp; ║&ensp; ║&ensp; ╠═1.2.5.4 [check current shell](01_Ubuntu/02_16/05_bash/04_check_current_shell.md)  
-║&ensp; ║&ensp; ║&ensp; ╠═1.2.5.5 [Multiplication](01_Ubuntu/02_16/05_bash/05_Multiplication_on_Bash.md)  
-║&ensp; ║&ensp; ║&ensp; ╠═1.2.5.6 [bash prombt](01_Ubuntu/02_16/05_bash/06_bashrc_PS1_bash_prombt.md)  
-║&ensp; ║&ensp; ║&ensp; ╠═1.2.5.7 [redirect : print to null](01_Ubuntu/02_16/05_bash/07_print_to_null_by_redirect.md)  
-║&ensp; ║&ensp; ║&ensp; ╚═1.2.5.8 [if : check filePath](01_Ubuntu/02_16/26_if/01_if_check_filePath.md)  
-║&ensp; ║&ensp; ╠═1.2.6 brew : [install, use](01_Ubuntu/02_16/06_brew/01_brew.md)  
-║&ensp; ║&ensp; ╠═1.2.7 chrome remote desktop : [install](01_Ubuntu/02_16/07_chrome_remote_desktop/01_install_chrome_remote_desktop.md)  
-║&ensp; ║&ensp; ╠═1.2.8 cpu monitor : [cat cpu_info](01_Ubuntu/02_16/08_cpu/01_cpu_info.md)  
-║&ensp; ║&ensp; ╠═1.2.9 date : [date with format : 24:59:59.999](01_Ubuntu/02_16/09_date/01_date_with_hour_min_sec_nano.md)  
-║&ensp; ║&ensp; ╠═1.2.10 desktop  
-║&ensp; ║&ensp; ║&ensp; ╠═1.2.10.1 [install desktop on Ubuntu16 server](01_Ubuntu/02_16/10_desktop/01_install_desktop_on_Ubuntu16_server.md)  
-║&ensp; ║&ensp; ║&ensp; ╠═1.2.10.2 [auto login on unity desktop](01_Ubuntu/02_16/10_desktop/02_auto_login+on_ubuntu16_desktop.md)  
-║&ensp; ║&ensp; ║&ensp; ╚═1.2.10.3 [location of desktop files](01_Ubuntu/02_16/10_desktop/03_find_desktop_file.md)  
-║&ensp; ║&ensp; ╠═1.2.11 df : [df -h : display file system with human readable](01_Ubuntu/02_16/11_df/01_df_with_human_readerble.md)  
-║&ensp; ║&ensp; ╠═1.2.12 dpkg  
-║&ensp; ║&ensp; ║&ensp; ╠═1.2.12.1 [install and remove package](01_Ubuntu/02_16/12_dpkg/01_dpkg_install_remove_package.md)  
-║&ensp; ║&ensp; ║&ensp; ╚═1.2.12.2 [list](01_Ubuntu/02_16/12_dpkg/02_dpkg_list.md)  
-║&ensp; ║&ensp; ╠═1.2.13 du : [fileSize of folder](01_Ubuntu/02_16/13_du/01_du_file_size_of_folder.md)  
-║&ensp; ║&ensp; ╠═1.2.14 egrep : [egrep : search A or B of file.txt](01_Ubuntu/02_16/14_egrep/01_egrep_A_or_B_example.md)  
-║&ensp; ║&ensp; ╠═1.2.15 exfat : [install exfat : linux and windows can available fileSystem](01_Ubuntu/02_16/15_exfat/01_install_exfat_on_ubuntu16.md)  
-║&ensp; ║&ensp; ╠═1.2.16 fallocate : [fallocate : create swap file](01_Ubuntu/02_16/16_fallocate/01_swap_file_by_fallocate.md)  
-║&ensp; ║&ensp; ╠═1.2.17 fcitx : [fcitx : virtual keyboard](01_Ubuntu/02_16/17_fcitx/01_disable_fcitx.md)  
-║&ensp; ║&ensp; ╠═1.2.18 fdisk   
-║&ensp; ║&ensp; ║&ensp; ╠═1.2.18.1 [partioning disk](01_Ubuntu/02_16/18_fdisk/01_fdisk_partioning_disk.md)  
-║&ensp; ║&ensp; ║&ensp; ╠═1.2.18.2 [partioning and format USB as FAT32 limit 32GB](01_Ubuntu/02_16/18_fdisk/02_format_USB_as_FAT32.md)   
-║&ensp; ║&ensp; ║&ensp; ╠═1.2.18.3 [list partitions of attached disks](01_Ubuntu/02_16/18_fdisk/03_fdisk_list_disks.md)   
-║&ensp; ║&ensp; ║&ensp; ╚═1.2.18.4 [delete and create swap partition](01_Ubuntu/02_16/18_fdisk/04_fdisk_swap_partition.md)  
-║&ensp; ║&ensp; ╠═1.2.19 find  
-║&ensp; ║&ensp; ║&ensp; ╠═1.2.19.1 [find with basename](01_Ubuntu/02_16/19_find/01_find_with_basename.md)  
-║&ensp; ║&ensp; ║&ensp; ╠═1.2.19.2 [find with maxdepth](01_Ubuntu/02_16/19_find/02_find_with_maxdepth.md)  
-║&ensp; ║&ensp; ║&ensp; ╠═1.2.19.3 [find file and sed CRLF to LF](01_Ubuntu/02_16/19_find/03_find_and_sed_move_CRLF_to_LF.md)  
-║&ensp; ║&ensp; ║&ensp; ╠═1.2.19.4 [find file and sed TAB to 4SPACES](01_Ubuntu/02_16/19_find/04_find_and_sed_move_TAB_to_4SPACES.md)  
-║&ensp; ║&ensp; ║&ensp; ╚═1.2.19.5 [find with size](01_Ubuntu/02_16/19_find/05_find_with_fileSize.md)  
-║&ensp; ║&ensp; ╠═1.2.20 ffirefox : [downgrade and upgrade](01_Ubuntu/02_16/20_firefox/01_firefox_downgrade_57_to_45.md)  
-║&ensp; ║&ensp; ╠═1.2.21 for  
-║&ensp; ║&ensp; ║&ensp; ╠═1.2.21.1 [iterate by num++](01_Ubuntu/02_16/21_for_statement/01_for_num++.md)  
-║&ensp; ║&ensp; ║&ensp; ╠═1.2.21.2 [iterate by list](01_Ubuntu/02_16/21_for_statement/02_for_in_list.md)  
-║&ensp; ║&ensp; ║&ensp; ╚═1.2.21.3 [iterate by file](01_Ubuntu/02_16/21_for_statement/03_for_read_file.md)  
-║&ensp; ║&ensp; ╠═1.2.22 frep : [activate frep on android](01_Ubuntu/02_16/22_frep/01_use_frep.md)  
-║&ensp; ║&ensp; ╠═1.2.23 gitlab  : [math document](https://khan.github.io/KaTeX/docs/supported.html)  
-║&ensp; ║&ensp; ╠═1.2.24 gzip, gunzip : [compress/decompress a file](01_Ubuntu/02_16/23_gzip_gunzip/01_gzip_gunzip_file.md)  
-║&ensp; ║&ensp; ╠═1.2.25 gnome terminal : [execute by CLI with window-size](01_Ubuntu/02_16/24_gnome_terminal/01_run_gnome_terminal_by_CLI.md)  
-║&ensp; ║&ensp; ╠═1.2.26 GRUB : [reset PassWord](01_Ubuntu/02_16/25_GRUB/01_reset_passwd_on_GRUB.md)  
-║&ensp; ║&ensp; ╠═1.2.27 Java  
-║&ensp; ║&ensp; ║&ensp; ╠═1.2.27.1 [jdk7 : install by apt](01_Ubuntu/02_16/27_Java/01_install_jdk7.md)  
-║&ensp; ║&ensp; ║&ensp; ╚═1.2.27.2 [jdk8 : install by apt](01_Ubuntu/02_16/27_Java/02_install_jdk8.md)  
-║&ensp; ║&ensp; ╠═1.2.28 jenv : [java env manage](01_Ubuntu/02_16/28_jenv/01_install_and_use_jenv.md)   
-║&ensp; ║&ensp; ╠═1.2.29 Libre Office : [remove](01_Ubuntu/02_16/29_LibreOffice/01_remove_LibreOffice.md)   
-║&ensp; ║&ensp; ╠═1.2.30 LVM : [format and mount attached device](01_Ubuntu/02_16/30_LVM/01_LVM_on_attached_device.md)  
-║&ensp; ║&ensp; ╠═1.2.31 mkfs.ext4 : [make filesystem ext4](01_Ubuntu/02_16/31_mkfs.ext4/01_mkfs.ext4_device.md)  
-║&ensp; ║&ensp; ╠═1.2.32 mkfs.xfs : [make filesystem xfs](01_Ubuntu/02_16/32_mkfs.xfs/01_mkfs.xfs_device.md)  
-║&ensp; ║&ensp; ╠═1.2.33 mount  
-║&ensp; ║&ensp; ║&ensp; ╠═1.2.33.1 [remount /home to other disk](01_Ubuntu/02_16/33_mount/01_remount_home_to_other_disk.md)  
-║&ensp; ║&ensp; ║&ensp; ╚═1.2.33.2 [remount /var to other disk](01_Ubuntu/02_16/33_mount/02_remount_var_to_other_disk.md)  
+
+╠═1 Ubuntu  
+║&ensp;╠═1.1 ubuntu14  
+║&ensp;║&ensp;╠═1.1.1 apt-get  
+║&ensp;║&ensp;║&ensp;╚═1.1.1.1 [apt-get install : nvidia-docker2](01_Ubuntu/01_14.04/01_apt-get/01_install_nvidia_docker_v2.md)  
+║&ensp;║&ensp;╠═1.1.2 vnc4server  
+║&ensp;║&ensp;║&ensp;╚═1.1.2.1 [vnc4server : install configure](01_Ubuntu/01_14.04/02_vnc4server/01_install_config_vnc4server.md)  
+║&ensp;╠═1.2 ubuntu16  
+║&ensp;║&ensp;╠═1.2.1 [adduser : hadoop user](01_Ubuntu/02_16/01_adduser/01_adduser.md)  
+║&ensp;║&ensp;╠═1.2.2 apt  
+║&ensp;║&ensp;║&ensp;╚═1.2.2.1 [list --installed : check installed packages](01_Ubuntu/02_16/02_apt/01_apt_list.md)  
+║&ensp;║&ensp;╠═1.2.3 apt-get  
+║&ensp;║&ensp;║&ensp;╠═1.2.3.1 install  
+║&ensp;║&ensp;║&ensp;║&ensp;╠═1.2.3.1.1 [tree](01_Ubuntu/02_16/03_apt-get/07_apt-get_tree.md)  
+║&ensp;║&ensp;║&ensp;║&ensp;╠═1.2.3.1.2 [graphviz](01_Ubuntu/02_16/03_apt-get/01_apt-get_install_graphviz_with_python3.5.md)  
+║&ensp;║&ensp;║&ensp;║&ensp;╠═1.2.3.1.3 [jq](01_Ubuntu/02_16/03_apt-get/02_apt-get_install_jq.md)  
+║&ensp;║&ensp;║&ensp;║&ensp;╠═1.2.3.1.4 [vlc](01_Ubuntu/02_16/03_apt-get/03_apt-get_install_vlc.md)  
+║&ensp;║&ensp;║&ensp;║&ensp;╚═1.2.3.1.5 [lock error](01_Ubuntu/02_16/03_apt-get/04_apt-get_lock_error.md)  
+║&ensp;║&ensp;║&ensp;╚═1.2.3.2 update  
+║&ensp;║&ensp;║&ensp;&ensp;&ensp;╠═1.2.3.2.1 [hash error](01_Ubuntu/02_16/03_apt-get/06_apt-get_update_hash_sum_error.md)  
+║&ensp;║&ensp;║&ensp;&ensp;&ensp;╚═1.2.3.2.2 [duplicate sources.list](01_Ubuntu/02_16/03_apt-get/05_apt-get_Duplicate_sources.list.md)  
+║&ensp;║&ensp;╠═1.2.4 awk  
+║&ensp;║&ensp;║&ensp;╠═1.2.4.1 [column to rows](01_Ubuntu/02_16/04_awk/01_awk_column_to_rows.md)  
+║&ensp;║&ensp;║&ensp;╠═1.2.4.2 [rows to column](01_Ubuntu/02_16/04_awk/02_awk_rows_to_column.md)  
+║&ensp;║&ensp;║&ensp;╠═1.2.4.3 [remove blank line](01_Ubuntu/02_16/04_awk/03_awk_remove_blank_line.md)  
+║&ensp;║&ensp;║&ensp;╠═1.2.4.4 [use external argument](01_Ubuntu/02_16/04_awk/04_awk_use_external_argument.md)  
+║&ensp;║&ensp;║&ensp;╠═1.2.4.5 [use variable in awk](01_Ubuntu/02_16/04_awk/05_awk_use_variable.md)  
+║&ensp;║&ensp;║&ensp;╚═1.2.4.6 [substr](01_Ubuntu/02_16/04_awk/06_awk_substr.md)  
+║&ensp;║&ensp;╠═1.2.5 bash  
+║&ensp;║&ensp;║&ensp;╠═1.2.5.1 [while statement](01_Ubuntu/02_16/05_bash/01_While_Statement.md)  
+║&ensp;║&ensp;║&ensp;╠═1.2.5.2 [1st argument existence check](01_Ubuntu/02_16/05_bash/02_if_condition_1st_argument_existence_check.md)   
+║&ensp;║&ensp;║&ensp;╠═1.2.5.3 [count of arguments check](01_Ubuntu/02_16/05_bash/03_if_condition_count_of_arguments_check.md)  
+║&ensp;║&ensp;║&ensp;╠═1.2.5.4 [check current shell](01_Ubuntu/02_16/05_bash/04_check_current_shell.md)  
+║&ensp;║&ensp;║&ensp;╠═1.2.5.5 [Multiplication](01_Ubuntu/02_16/05_bash/05_Multiplication_on_Bash.md)  
+║&ensp;║&ensp;║&ensp;╠═1.2.5.6 [bash prombt](01_Ubuntu/02_16/05_bash/06_bashrc_PS1_bash_prombt.md)  
+║&ensp;║&ensp;║&ensp;╠═1.2.5.7 [redirect : print to null](01_Ubuntu/02_16/05_bash/07_print_to_null_by_redirect.md)  
+║&ensp;║&ensp;║&ensp;╚═1.2.5.8 [if : check filePath](01_Ubuntu/02_16/26_if/01_if_check_filePath.md)  
+║&ensp;║&ensp;╠═1.2.6 brew : [install, use](01_Ubuntu/02_16/06_brew/01_brew.md)  
+║&ensp;║&ensp;╠═1.2.7 chrome remote desktop : [install](01_Ubuntu/02_16/07_chrome_remote_desktop/01_install_chrome_remote_desktop.md)  
+║&ensp;║&ensp;╠═1.2.8 cpu monitor : [cat cpu_info](01_Ubuntu/02_16/08_cpu/01_cpu_info.md)  
+║&ensp;║&ensp;╠═1.2.9 date : [date with format : 24:59:59.999](01_Ubuntu/02_16/09_date/01_date_with_hour_min_sec_nano.md)  
+║&ensp;║&ensp;╠═1.2.10 desktop   
+║&ensp;║&ensp;║&ensp;╠═1.2.10.1 [install desktop on Ubuntu16 server](01_Ubuntu/02_16/10_desktop/01_install_desktop_on_Ubuntu16_server.md)  
+║&ensp;║&ensp;║&ensp;╠═1.2.10.2 [auto login on unity desktop](01_Ubuntu/02_16/10_desktop/02_auto_login+on_ubuntu16_desktop.md)  
+║&ensp;║&ensp;║&ensp;╚═1.2.10.3 [location of desktop files](01_Ubuntu/02_16/10_desktop/03_find_desktop_file.md)  
+║&ensp;║&ensp;╠═1.2.11 df : [df -h : display file system with human readable](01_Ubuntu/02_16/11_df/01_df_with_human_readerble.md)  
+║&ensp;║&ensp;╠═1.2.12 dpkg  
+║&ensp;║&ensp;║&ensp;╠═1.2.12.1 [install and remove package](01_Ubuntu/02_16/12_dpkg/01_dpkg_install_remove_package.md)  
+║&ensp;║&ensp;║&ensp;╚═1.2.12.2 [list](01_Ubuntu/02_16/12_dpkg/02_dpkg_list.md)  
+║&ensp;║&ensp;╠═1.2.13 du : [fileSize of folder](01_Ubuntu/02_16/13_du/01_du_file_size_of_folder.md)  
+║&ensp;║&ensp;╠═1.2.14 egrep : [egrep : search A or B of file.txt](01_Ubuntu/02_16/14_egrep/01_egrep_A_or_B_example.md)  
+║&ensp;║&ensp;╠═1.2.15 exfat : [install exfat : linux and windows can available fileSystem](01_Ubuntu/02_16/15_exfat/01_install_exfat_on_ubuntu16.md)  
+║&ensp;║&ensp;╠═1.2.16 fallocate : [fallocate : create swap file](01_Ubuntu/02_16/16_fallocate/01_swap_file_by_fallocate.md)  
+║&ensp;║&ensp;╠═1.2.17 fcitx : [fcitx : virtual keyboard](01_Ubuntu/02_16/17_fcitx/01_disable_fcitx.md)  
+║&ensp;║&ensp;╠═1.2.18 fdisk   
+║&ensp;║&ensp;║&ensp;╠═1.2.18.1 [partioning disk](01_Ubuntu/02_16/18_fdisk/01_fdisk_partioning_disk.md)  
+║&ensp;║&ensp;║&ensp;╠═1.2.18.2 [partioning and format USB as FAT32 limit 32GB](01_Ubuntu/02_16/18_fdisk/02_format_USB_as_FAT32.md)   
+║&ensp;║&ensp;║&ensp;╠═1.2.18.3 [list partitions of attached disks](01_Ubuntu/02_16/18_fdisk/03_fdisk_list_disks.md)   
+║&ensp;║&ensp;║&ensp;╚═1.2.18.4 [delete and create swap partition](01_Ubuntu/02_16/18_fdisk/04_fdisk_swap_partition.md)  
+║&ensp;║&ensp;╠═1.2.19 find  
+║&ensp;║&ensp;║&ensp;╠═1.2.19.1 [find with basename](01_Ubuntu/02_16/19_find/01_find_with_basename.md)  
+║&ensp;║&ensp;║&ensp;╠═1.2.19.2 [find with maxdepth](01_Ubuntu/02_16/19_find/02_find_with_maxdepth.md)  
+║&ensp;║&ensp;║&ensp;╠═1.2.19.3 [find file and sed CRLF to LF](01_Ubuntu/02_16/19_find/03_find_and_sed_move_CRLF_to_LF.md)  
+║&ensp;║&ensp;║&ensp;╠═1.2.19.4 [find file and sed TAB to 4SPACES](01_Ubuntu/02_16/19_find/04_find_and_sed_move_TAB_to_4SPACES.md)  
+║&ensp;║&ensp;║&ensp;╚═1.2.19.5 [find with size](01_Ubuntu/02_16/19_find/05_find_with_fileSize.md)  
+║&ensp;║&ensp;╠═1.2.20 firefox : [downgrade and upgrade](01_Ubuntu/02_16/20_firefox/01_firefox_downgrade_57_to_45.md)  
+║&ensp;║&ensp;╠═1.2.21 for  
+║&ensp;║&ensp;║&ensp;╠═1.2.21.1 [iterate by num++](01_Ubuntu/02_16/21_for_statement/01_for_num++.md)  
+║&ensp;║&ensp;║&ensp;╠═1.2.21.2 [iterate by list](01_Ubuntu/02_16/21_for_statement/02_for_in_list.md)  
+║&ensp;║&ensp;║&ensp;╚═1.2.21.3 [iterate by file](01_Ubuntu/02_16/21_for_statement/03_for_read_file.md)  
+║&ensp;║&ensp;╠═1.2.22 frep : [activate frep on android](01_Ubuntu/02_16/22_frep/01_use_frep.md)  
+║&ensp;║&ensp;╠═1.2.23 gitlab  : [math document](https://khan.github.io/KaTeX/docs/supported.html)  
+║&ensp;║&ensp;╠═1.2.24 gzip, gunzip : [compress/decompress a file](01_Ubuntu/02_16/23_gzip_gunzip/01_gzip_gunzip_file.md)  
+║&ensp;║&ensp;╠═1.2.25 gnome terminal : [execute by CLI with window-size](01_Ubuntu/02_16/24_gnome_terminal/01_run_gnome_terminal_by_CLI.md)  
+║&ensp;║&ensp;╠═1.2.26 GRUB : [reset PassWord](01_Ubuntu/02_16/25_GRUB/01_reset_passwd_on_GRUB.md)  
+║&ensp;║&ensp;╠═1.2.27 Java  
+║&ensp;║&ensp;║&ensp;╠═1.2.27.1 [jdk7 : install by apt](01_Ubuntu/02_16/27_Java/01_install_jdk7.md)  
+║&ensp;║&ensp;║&ensp;╚═1.2.27.2 [jdk8 : install by apt](01_Ubuntu/02_16/27_Java/02_install_jdk8.md)  
+║&ensp;║&ensp;╠═1.2.28 jenv : [java env manage](01_Ubuntu/02_16/28_jenv/01_install_and_use_jenv.md)   
+║&ensp;║&ensp;╠═1.2.29 Libre Office : [remove](01_Ubuntu/02_16/29_LibreOffice/01_remove_LibreOffice.md)   
+║&ensp;║&ensp;╠═1.2.30 LVM : [format and mount attached device](01_Ubuntu/02_16/30_LVM/01_LVM_on_attached_device.md)  
+║&ensp;║&ensp;╠═1.2.31 mkfs.ext4 : [make filesystem ext4](01_Ubuntu/02_16/31_mkfs.ext4/01_mkfs.ext4_device.md)  
+║&ensp;║&ensp;╠═1.2.32 mkfs.xfs : [make filesystem xfs](01_Ubuntu/02_16/32_mkfs.xfs/01_mkfs.xfs_device.md)  
+║&ensp;║&ensp;╠═1.2.33 mount  
+║&ensp;║&ensp;║&ensp;╠═1.2.33.1 [remount /home to other disk](01_Ubuntu/02_16/33_mount/01_remount_home_to_other_disk.md)  
+║&ensp;║&ensp;║&ensp;╚═1.2.33.2 [remount /var to other disk](01_Ubuntu/02_16/33_mount/02_remount_var_to_other_disk.md)  
+
 ( ║ ╠ ═ ╚ )  
 
 | OS        | Contents              | Detail                                                                                                                          |
