@@ -96,6 +96,7 @@ Python 3.5.2
 $ sudo add-apt-repository ppa:jonathonf/python-3.6
 $ sudo apt-get update
 $ sudo apt-get install python3.6
+$ sudo apt-get install python3.6-venv # for virtual env of python3.6
 
 $ which python3.6
 /usr/bin/python3.6
