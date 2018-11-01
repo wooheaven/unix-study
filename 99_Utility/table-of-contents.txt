@@ -1,80 +1,285 @@
-1
-1.1
-1.1.1
-1.1.1.1
-1.1.2
-1.1.2.1
-1.2
-1.2.1
-1.2.2
-1.2.2.1
-1.2.3
-1.2.3.1
-1.2.3.2
-1.2.3.2.1
-1.2.3.2.2
-1.2.4
-1.2.4.1
-1.2.4.2
-1.2.4.3
-1.2.4.4
-1.2.4.5
-1.2.4.6
-1.2.5
-1.2.5.1
-1.2.5.2
-1.2.5.3
-1.2.5.4
-1.2.5.5
-1.2.5.6
-1.2.5.7
-1.2.5.8
-1.2.6
-1.2.7
-1.2.8
-1.2.9
-1.2.10
-1.2.10.1
-1.2.10.2
-1.2.10.3
-1.2.11
-1.2.12
-1.2.12.1
-1.2.12.2
-1.2.13
-1.2.14
-1.2.15
-1.2.16
-1.2.17
-1.2.18
-1.2.18.1
-1.2.18.2
-1.2.18.3
-1.2.18.4
-1.2.19
-1.2.19.1
-1.2.19.2
-1.2.19.3
-1.2.19.4
-1.2.19.5
-1.2.20
-1.2.21
-1.2.21.1
-1.2.21.2
-1.2.21.3
-1.2.22
-1.2.23
-1.2.24
-1.2.25
-1.2.26
-1.2.27
-1.2.27.1
-1.2.27.2
-1.2.28
-1.2.29
-1.2.30
-1.2.31
-1.2.32
-1.2.33
-1.2.33.1
-1.2.33.2
+.
+├── 01_Ubuntu
+│   ├── 01_14.04
+│   │   ├── 01_apt-get
+│   │   │   └── 01_install_nvidia_docker_v2.md
+│   │   └── 02_vnc4server
+│   │       └── 01_install_config_vnc4server.md
+│   └── 02_16
+│       ├── 01_adduser
+│       │   └── 01_adduser.md
+│       ├── 02_apt
+│       │   └── 01_apt_list.md
+│       ├── 03_apt-get
+│       │   ├── 01_apt-get_install_graphviz_with_python3.5.md
+│       │   ├── 02_apt-get_install_jq.md
+│       │   ├── 03_apt-get_install_vlc.md
+│       │   ├── 04_apt-get_lock_error.md
+│       │   ├── 05_apt-get_Duplicate_sources.list.md
+│       │   ├── 06_apt-get_update_hash_sum_error.md
+│       │   └── 07_apt-get_tree.md
+│       ├── 04_awk
+│       │   ├── 01_awk_column_to_rows.md
+│       │   ├── 02_awk_rows_to_column.md
+│       │   ├── 03_awk_remove_blank_line.md
+│       │   ├── 04_awk_use_external_argument.md
+│       │   ├── 05_awk_use_variable.md
+│       │   └── 06_awk_substr.md
+│       ├── 05_bash
+│       │   ├── 01_While_Statement.md
+│       │   ├── 02_if_condition_1st_argument_existence_check.md
+│       │   ├── 03_if_condition_count_of_arguments_check.md
+│       │   ├── 04_check_current_shell.md
+│       │   ├── 05_Multiplication_on_Bash.md
+│       │   ├── 06_bashrc_PS1_bash_prombt.md
+│       │   └── 07_print_to_null_by_redirect.md
+│       ├── 06_brew
+│       │   └── 01_brew.md
+│       ├── 07_chrome_remote_desktop
+│       │   └── 01_install_chrome_remote_desktop.md
+│       ├── 08_cpu
+│       │   └── 01_cpu_info.md
+│       ├── 09_date
+│       │   └── 01_date_with_hour_min_sec_nano.md
+│       ├── 10_desktop
+│       │   ├── 01_install_desktop_on_Ubuntu16_server.md
+│       │   ├── 02_auto_login+on_ubuntu16_desktop.md
+│       │   └── 03_find_desktop_file.md
+│       ├── 11_df
+│       │   └── 01_df_with_human_readerble.md
+│       ├── 12_dpkg
+│       │   ├── 01_dpkg_install_remove_package.md
+│       │   └── 02_dpkg_list.md
+│       ├── 13_du
+│       │   └── 01_du_file_size_of_folder.md
+│       ├── 14_egrep
+│       │   └── 01_egrep_A_or_B_example.md
+│       ├── 15_exfat
+│       │   └── 01_install_exfat_on_ubuntu16.md
+│       ├── 16_fallocate
+│       │   └── 01_swap_file_by_fallocate.md
+│       ├── 17_fcitx
+│       │   └── 01_disable_fcitx.md
+│       ├── 18_fdisk
+│       │   ├── 01_fdisk_partioning_disk.md
+│       │   ├── 02_format_USB_as_FAT32.md
+│       │   ├── 03_fdisk_list_disks.md
+│       │   └── 04_fdisk_swap_partition.md
+│       ├── 19_find
+│       │   ├── 01_find_with_basename.md
+│       │   ├── 02_find_with_maxdepth.md
+│       │   ├── 03_find_and_sed_move_CRLF_to_LF.md
+│       │   ├── 04_find_and_sed_move_TAB_to_4SPACES.md
+│       │   └── 05_find_with_fileSize.md
+│       ├── 20_firefox
+│       │   └── 01_firefox_downgrade_57_to_45.md
+│       ├── 21_for_statement
+│       │   ├── 01_for_num++.md
+│       │   ├── 02_for_in_list.md
+│       │   └── 03_for_read_file.md
+│       ├── 22_frep
+│       │   └── 01_use_frep.md
+│       ├── 23_gzip_gunzip
+│       │   └── 01_gzip_gunzip_file.md
+│       ├── 24_gnome_terminal
+│       │   └── 01_run_gnome_terminal_by_CLI.md
+│       ├── 25_GRUB
+│       │   └── 01_reset_passwd_on_GRUB.md
+│       ├── 26_if
+│       │   └── 01_if_check_filePath.md
+│       ├── 27_Java
+│       │   ├── 01_install_jdk7.md
+│       │   └── 02_install_jdk8.md
+│       ├── 28_jenv
+│       │   └── 01_install_and_use_jenv.md
+│       ├── 29_LibreOffice
+│       │   └── 01_remove_LibreOffice.md
+│       ├── 30_LVM
+│       │   └── 01_LVM_on_attached_device.md
+│       ├── 31_mkfs.ext4
+│       │   └── 01_mkfs.ext4_device.md
+│       ├── 32_mkfs.xfs
+│       │   └── 01_mkfs.xfs_device.md
+│       ├── 33_mount
+│       │   ├── 01_remount_home_to_other_disk.md
+│       │   └── 02_remount_var_to_other_disk.md
+│       ├── 34_mpstat
+│       │   └── 01_mpstat.md
+│       ├── 35_network
+│       │   ├── 01_static
+│       │   │   └── 01_configure_static.md
+│       │   ├── 02_dhcp
+│       │   │   └── 01_configure_dhcp.md
+│       │   └── 03_hostname
+│       │       └── 01_127.0.1.1.md
+│       ├── 36_nmap
+│       │   └── 01_install_use_nmap.md
+│       ├── 37_nohup
+│       │   └── 01_use_nohup.md
+│       ├── 38_nvidia
+│       │   └── 01_install_nvidia_driver_to_keras.md
+│       ├── 39_OpenCV
+│       │   └── 01_Build_OpenCV_3.4_with_opencv_contrib.md
+│       ├── 40_Opera
+│       │   └── 01_save_stream_video_as_file.md
+│       ├── 41_parted
+│       │   ├── 01_parted_list.md
+│       │   └── 02_parted_swap_partition.md
+│       ├── 42_passwd
+│       │   └── 01_root_passwd.md
+│       ├── 43_Python
+│       │   └── 01_configure_python_env_and_install_python3.6.md
+│       ├── 44_rsync
+│       │   ├── 01_rsync_folder_to_folder.md
+│       │   ├── 02_rsync_home_to_other.md
+│       │   └── 03_rsync_var_to_other.md
+│       ├── 45_run-level
+│       │   └── 01_change_run-level.md
+│       ├── 46_sed
+│       │   ├── 01_remove_^M_with_sed.md
+│       │   ├── 02_replace_every_3rd_comma_to_semicolon.md
+│       │   └── 03_space_regular_expression.md
+│       ├── 47_server
+│       │   └── 01_install_ubuntu16_server.md
+│       ├── 48_snap
+│       │   ├── 01_snap_install_list_changes_refresh_remove.md
+│       │   ├── 02_snap_install_refresh_pycharm.md
+│       │   ├── 03_snap_install_anbox.md
+│       │   └── 04_snap_install_intellij.md
+│       ├── 49_sort
+│       │   └── 01_sort_key.md
+│       ├── 50_ssh
+│       │   ├── 01_install_ssh.md
+│       │   ├── 02_add_publicKey_to_server.md
+│       │   ├── 03_install_pssh.md
+│       │   └── 04_rsync_file_by_pssh.md
+│       ├── 51_Startup_Applications
+│       │   └── 01_add_programs.md
+│       ├── 52_Steam
+│       │   └── 01_install_Steam_on_ubuntu16.md
+│       ├── 53_sublime_text_2
+│       │   └── 01_install_sublime_text2.md
+│       ├── 54_substring
+│       │   └── 01_substring_remove.md
+│       ├── 55_tac
+│       │   └── 01_tac.md
+│       ├── 56_tar
+│       │   ├── 01_uncompress_tgz.md
+│       │   └── 02_compress_folder_by_tar.md
+│       ├── 57_tmux
+│       │   └── 01_tmux.md
+│       ├── 58_touch
+│       │   └── 01_modify_timestamp.md
+│       ├── 59_tzdata
+│       │   └── 01_timeZone.md
+│       ├── 60_unicode
+│       │   └── 01_box_char.md
+│       ├── 61_userdel
+│       │   └── 01_userdel_hadoop.md
+│       ├── 62_usermod
+│       │   └── 01_add_USER_to_GROUP.md
+│       ├── 63_vim
+│       │   ├── 01_cmd-Mode
+│       │   │   ├── 01_Move_Cursor.md
+│       │   │   └── 02_Switch_Line_Up_and_Down.md
+│       │   ├── 03_cmdLine-Mode
+│       │   │   ├── 01_Move_Line_Up_and_Down.md
+│       │   │   ├── 02_vim_save_as_other_File.md
+│       │   │   └── 03_vim_CRLF_to_LF.md
+│       │   └── 04_ETC
+│       │       ├── 01_vimrc_encoding_korean.md
+│       │       ├── 02_vimrc_append_save_macro.md
+│       │       ├── 03_vim_diff.md
+│       │       ├── 04_vimrc.md
+│       │       └── 05_vimrc_color.md
+│       ├── 64_vnc4server
+│       │   ├── 01_install_config_vnc4server.md
+│       │   └── 02_configure_vncserver_on_ubuntu16_desktop.md
+│       ├── 65_window
+│       │   └── 01_resize_window.md
+│       ├── 66_xclip
+│       │   └── 01_install_and_use_xclip.md
+│       ├── 67_xwininfo
+│       │   └── 01_use_xwininfo.md
+│       ├── 68_zip
+│       │   └── 01_zip_directory.md
+│       └── reNumberFolder.sh
+├── 02_CentOS
+│   └── 01_6.9
+│       ├── 01_docker
+│       │   └── 01_install_docker.md
+│       ├── 02_git
+│       │   └── 01_yum_install_git.md
+│       ├── 03_network
+│       │   ├── 01_static.md
+│       │   └── 02_dhcp.md
+│       ├── 04_sed
+│       │   └── 01_sed_string_replace.md
+│       └── reNumberFolder.sh
+├── 03_Mac
+│   ├── 01_Battery
+│   │   └── 01_Charge_Status.md
+│   ├── 02_brew
+│   │   ├── 01_install_brew.md
+│   │   ├── 02_brew_install_mavern.md
+│   │   ├── 03_brew_install_iterm2.md
+│   │   ├── 04_brew_install_zsh.md
+│   │   ├── 05_brew_install_gnuplot.md
+│   │   ├── 06_brew_install_jq.md
+│   │   └── 07_brew_install_tree.md
+│   ├── 03_Command_Line_Tools
+│   │   └── 01_install_Command_Line_Tools.md
+│   ├── 04_Disk_Utility
+│   │   └── 01_Format_usb_on_mac.md
+│   ├── 05_find
+│   │   ├── 01_find_with_basename.md
+│   │   ├── 02_find_with_maxdepth.md
+│   │   ├── 03_find_and_sed_move_CRLF_to_LF.md
+│   │   ├── 04_find_and_sed_move_TAB_to_4SPACES.md
+│   │   └── 05_find_with_fileSize.md
+│   ├── 06_installer_usb
+│   │   └── 01_create_installer_usb_for_ubuntu16_server.md
+│   ├── 07_IntelliJ
+│   │   └── 01_Shortcuts.md
+│   ├── 08_ITerm2
+│   │   └── 01_short_key_of_iterm2_on_mac.md
+│   ├── 09_Picture
+│   │   └── 01_resize_of_picture.md
+│   ├── 10_Proxy
+│   │   └── 01_use_proxy.md
+│   ├── 11_Python
+│   │   └── 01_with_Conda
+│   │       └── 01_Matplotlib_backends_RuntimeError.md
+│   ├── 12_sed
+│   │   └── 01_sed_remove_CRLF_to_LF.md
+│   ├── 13_tree
+│   │   └── 01_install_use_tree_on_mac.md
+│   ├── 14_vim
+│   │   ├── 03_CmdLine-Mode
+│   │   │   ├── 01_vim_move_line.md
+│   │   │   └── 02_vim_save_as_other_File.md
+│   │   └── 04_ETC
+│   │       ├── 01_vimrc_color_molokai.md
+│   │       ├── 02_vim_diff.md
+│   │       ├── 03_vim_diff_refresh.md
+│   │       └── 04_vimrc.md
+│   ├── 15_vnc_client
+│   │   └── 01_use_vnc_client.md
+│   ├── 16_zip
+│   │   ├── 01_zip_folder.md
+│   │   ├── 02_zip_splited_compress.md
+│   │   └── 03_zip_exclude.md
+│   ├── 17_zsh
+│   │   ├── 01_explain_of_bash_profile_bashrc_zshrc.md
+│   │   └── 02_example_of_zshrc.md
+│   └── reNumberFolder.sh
+├── 99_Utility
+│   ├── 01_modify_README.sh
+│   ├── 97_update_README-html.sh
+│   ├── Auto_README.html
+│   ├── Auto_README.json
+│   ├── Auto_README.md
+│   ├── change_A_to_B.txt
+│   ├── readme-align.py
+│   └── table-of-contents.txt
+└── README.md
