@@ -16,8 +16,8 @@ UNIX
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.3.1.4 [vlc](01_Ubuntu/02_16/03_apt-get/03_apt-get_install_vlc.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 1.2.3.1.5 [lock error](01_Ubuntu/02_16/03_apt-get/04_apt-get_lock_error.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.3.2 update  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;&ensp;&ensp;&ensp;╠══ 1.2.3.2.1 [hash error](01_Ubuntu/02_16/03_apt-get/06_apt-get_update_hash_sum_error.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;&ensp;&ensp;&ensp;╚══ 1.2.3.2.2 [duplicate sources.list](01_Ubuntu/02_16/03_apt-get/05_apt-get_Duplicate_sources.list.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.3.2.1 [hash error](01_Ubuntu/02_16/03_apt-get/06_apt-get_update_hash_sum_error.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 1.2.3.2.2 [duplicate sources.list](01_Ubuntu/02_16/03_apt-get/05_apt-get_Duplicate_sources.list.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 04_awk  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 01_awk_column_to_rows.md  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 02_awk_rows_to_column.md  
