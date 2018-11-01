@@ -7,16 +7,17 @@ UNIX
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 1.1.2.1 [vnc4server : install configure](01_Ubuntu/01_14.04/02_vnc4server/01_install_config_vnc4server.md)  
 ║&ensp;&ensp;&nbsp;╚══ 1.2 ubuntu16  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.1 [adduser : hadoop user](01_Ubuntu/02_16/01_adduser/01_adduser.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 02_apt  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 01_apt_list.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 03_apt-get  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 01_apt-get_install_graphviz_with_python3.5.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 02_apt-get_install_jq.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 03_apt-get_install_vlc.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 04_apt-get_lock_error.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 05_apt-get_Duplicate_sources.list.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 06_apt-get_update_hash_sum_error.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 07_apt-get_tree.md  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.2 [apt list --installed : check installed packages](01_Ubuntu/02_16/02_apt/01_apt_list.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.3 apt-get  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.3.1 install  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.3.1.1 [tree](01_Ubuntu/02_16/03_apt-get/07_apt-get_tree.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.3.1.2 [graphviz](01_Ubuntu/02_16/03_apt-get/01_apt-get_install_graphviz_with_python3.5.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.3.1.3 [jq](01_Ubuntu/02_16/03_apt-get/02_apt-get_install_jq.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.3.1.4 [vlc](01_Ubuntu/02_16/03_apt-get/03_apt-get_install_vlc.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 1.2.3.1.5 [lock error](01_Ubuntu/02_16/03_apt-get/04_apt-get_lock_error.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.3.2 update  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;&ensp;&ensp;&ensp;╠══ 1.2.3.2.1 [hash error](01_Ubuntu/02_16/03_apt-get/06_apt-get_update_hash_sum_error.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;&ensp;&ensp;&ensp;╚══ 1.2.3.2.2 [duplicate sources.list](01_Ubuntu/02_16/03_apt-get/05_apt-get_Duplicate_sources.list.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 04_awk  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 01_awk_column_to_rows.md  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 02_awk_rows_to_column.md  
@@ -283,18 +284,6 @@ UNIX
 ║&ensp;&ensp;&nbsp;╚══ table-of-contents.txt  
 ╚══ README.md  
 
-║&ensp;║&ensp;╠═1.2.2 apt  
-║&ensp;║&ensp;║&ensp;╚═1.2.2.1 [list --installed : check installed packages](01_Ubuntu/02_16/02_apt/01_apt_list.md)  
-║&ensp;║&ensp;╠═1.2.3 apt-get  
-║&ensp;║&ensp;║&ensp;╠═1.2.3.1 install  
-║&ensp;║&ensp;║&ensp;║&ensp;╠═1.2.3.1.1 [tree](01_Ubuntu/02_16/03_apt-get/07_apt-get_tree.md)  
-║&ensp;║&ensp;║&ensp;║&ensp;╠═1.2.3.1.2 [graphviz](01_Ubuntu/02_16/03_apt-get/01_apt-get_install_graphviz_with_python3.5.md)  
-║&ensp;║&ensp;║&ensp;║&ensp;╠═1.2.3.1.3 [jq](01_Ubuntu/02_16/03_apt-get/02_apt-get_install_jq.md)  
-║&ensp;║&ensp;║&ensp;║&ensp;╠═1.2.3.1.4 [vlc](01_Ubuntu/02_16/03_apt-get/03_apt-get_install_vlc.md)  
-║&ensp;║&ensp;║&ensp;║&ensp;╚═1.2.3.1.5 [lock error](01_Ubuntu/02_16/03_apt-get/04_apt-get_lock_error.md)  
-║&ensp;║&ensp;║&ensp;╚═1.2.3.2 update  
-║&ensp;║&ensp;║&ensp;&ensp;&ensp;╠═1.2.3.2.1 [hash error](01_Ubuntu/02_16/03_apt-get/06_apt-get_update_hash_sum_error.md)  
-║&ensp;║&ensp;║&ensp;&ensp;&ensp;╚═1.2.3.2.2 [duplicate sources.list](01_Ubuntu/02_16/03_apt-get/05_apt-get_Duplicate_sources.list.md)  
 ║&ensp;║&ensp;╠═1.2.4 awk  
 ║&ensp;║&ensp;║&ensp;╠═1.2.4.1 [column to rows](01_Ubuntu/02_16/04_awk/01_awk_column_to_rows.md)  
 ║&ensp;║&ensp;║&ensp;╠═1.2.4.2 [rows to column](01_Ubuntu/02_16/04_awk/02_awk_rows_to_column.md)  
