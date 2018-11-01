@@ -5,9 +5,8 @@ UNIX
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 1.1.1.1 [apt-get install : nvidia-docker2](01_Ubuntu/01_14.04/01_apt-get/01_install_nvidia_docker_v2.md)  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 1.1.2 vnc4server  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 1.1.2.1 [vnc4server : install configure](01_Ubuntu/01_14.04/02_vnc4server/01_install_config_vnc4server.md)  
-║&ensp;&ensp;&nbsp;╚══ 02_16  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 01_adduser  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 01_adduser.md  
+║&ensp;&ensp;&nbsp;╚══ 1.2 ubuntu16  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.1 [adduser : hadoop user](01_Ubuntu/02_16/01_adduser/01_adduser.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 02_apt  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 01_apt_list.md  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 03_apt-get  
@@ -284,8 +283,6 @@ UNIX
 ║&ensp;&ensp;&nbsp;╚══ table-of-contents.txt  
 ╚══ README.md  
 
-║&ensp;╠═1.2 ubuntu16  
-║&ensp;║&ensp;╠═1.2.1 [adduser : hadoop user](01_Ubuntu/02_16/01_adduser/01_adduser.md)  
 ║&ensp;║&ensp;╠═1.2.2 apt  
 ║&ensp;║&ensp;║&ensp;╚═1.2.2.1 [list --installed : check installed packages](01_Ubuntu/02_16/02_apt/01_apt_list.md)  
 ║&ensp;║&ensp;╠═1.2.3 apt-get  
