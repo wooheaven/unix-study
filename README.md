@@ -33,7 +33,7 @@ UNIX
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.5.5 [Multiplication](01_Ubuntu/02_16/05_bash/05_Multiplication_on_Bash.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.5.6 [bash prombt](01_Ubuntu/02_16/05_bash/06_bashrc_PS1_bash_prombt.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.5.7 [redirect : print to null](01_Ubuntu/02_16/05_bash/07_print_to_null_by_redirect.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.5.8 [if : check filePath](01_Ubuntu/02_16/26_if/01_if_check_filePath.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.5.8 [if : check filePath](01_Ubuntu/02_16/05_bash/08_if_filePath_check.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.6 [brew : install and use](01_Ubuntu/02_16/06_brew/01_brew.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.7 [chrome remote desktop : install and configure](01_Ubuntu/02_16/07_chrome_remote_desktop/01_install_chrome_remote_desktop.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.8 [cpu monitor : cat cpu_info](01_Ubuntu/02_16/08_cpu/01_cpu_info.md)  
@@ -71,7 +71,7 @@ UNIX
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.23 [gitlab  : math document](https://khan.github.io/KaTeX/docs/supported.html)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.24 [gzip, gunzip : compress/decompress a file](01_Ubuntu/02_16/23_gzip_gunzip/01_gzip_gunzip_file.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.25 [gnome terminal : execute by CLI with window-size](01_Ubuntu/02_16/24_gnome_terminal/01_run_gnome_terminal_by_CLI.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.26 [GRUB : [reset PassWord](01_Ubuntu/02_16/25_GRUB/01_reset_passwd_on_GRUB.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.26 [GRUB : reset PassWord](01_Ubuntu/02_16/25_GRUB/01_reset_passwd_on_GRUB.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.27 Java  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.27.1 [jdk7 : install by apt](01_Ubuntu/02_16/27_Java/01_install_jdk7.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.27.2 [jdk8 : install by apt](01_Ubuntu/02_16/27_Java/02_install_jdk8.md)  
