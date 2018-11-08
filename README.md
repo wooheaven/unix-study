@@ -84,13 +84,10 @@ UNIX
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.33.1 [remount /home to other disk](01_Ubuntu/02_16/33_mount/01_remount_home_to_other_disk.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.33.2 [remount /var to other disk](01_Ubuntu/02_16/33_mount/02_remount_var_to_other_disk.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.34 [mpstat : monitoring CPU's processors](01_Ubuntu/02_16/34_mpstat/01_mpstat.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 35_network  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 01_static  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_configure_static.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 02_dhcp  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_configure_dhcp.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 03_hostname  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 01_127.0.1.1.md  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.35 network  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.35.1 [static](01_Ubuntu/02_16/35_network/01_static/01_configure_static.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.35.2 [dhcp](01_Ubuntu/02_16/35_network/01_static/01_configure_static.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.35.3 [hostname : 127.0.1.1 why use this](01_Ubuntu/02_16/35_network/03_hostname/01_127.0.1.1.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 36_nmap  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 01_install_use_nmap.md  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 37_nohup  
@@ -268,9 +265,6 @@ UNIX
 
 |OS        | Contents              | Detail                                                                                                                          |
 |----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|          | network               | [network : static](01_Ubuntu/02_16/35_network/01_static/01_configure_static.md)                                                 |
-|          |                       | [network : dhcp](01_Ubuntu/02_16/35_network/01_static/01_configure_static.md)                                                   |
-|          |                       | [127.0.1.1 : why use this](01_Ubuntu/02_16/35_network/03_hostname/01_127.0.1.1.md)                                              |
 |          | nmap                  | [port check](01_Ubuntu/02_16/36_nmap/01_install_use_nmap.md)                                                                    |
 |          | nohup                 | [nohup : use](01_Ubuntu/02_16/37_nohup/01_use_nohup.md)                                                                         |
 |          | nvidia                | [install : nvidia driver by apt](01_Ubuntu/02_16/38_nvidia/01_install_nvidia_driver_to_keras.md)                                |
