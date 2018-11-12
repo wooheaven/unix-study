@@ -93,11 +93,10 @@ UNIX
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.38 [nvidia install : nvidia driver to keras](01_Ubuntu/02_16/38_nvidia/01_install_nvidia_driver_to_keras.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.39 [opencv : build and install opencv 3.4.0](01_Ubuntu/02_16/39_OpenCV/01_Build_OpenCV_3.4_with_opencv_contrib.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.40 [opera : save stream video as file](01_Ubuntu/02_16/40_Opera/01_save_stream_video_as_file.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 41_parted  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 01_parted_list.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 02_parted_swap_partition.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 42_passwd  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 01_root_passwd.md  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.41 parted  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.41.1 [parted list : check model of attached disks](01_Ubuntu/02_16/41_parted/01_parted_list.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.41.2 [swap partition : remove and create swap partition](01_Ubuntu/02_16/41_parted/02_parted_swap_partition.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.42 [passwd : root passwd update](01_Ubuntu/02_16/42_passwd/01_root_passwd.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 43_Python  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 01_configure_python_env_and_install_python3.6.md  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 44_rsync  
@@ -260,9 +259,6 @@ UNIX
 
 |OS        | Contents              | Detail                                                                                                                          |
 |----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|          | parted                | [parted : check model of attached disks](01_Ubuntu/02_16/41_parted/01_parted_list.md)                                           |
-|          |                       | [parted : remove and create swap partition](01_Ubuntu/02_16/41_parted/02_parted_swap_partition.md)                              |
-|          | passwd                | [passwd : root passwd update](01_Ubuntu/02_16/42_passwd/01_root_passwd.md)                                                      |
 |          | python                | [configure python env and install python3.6](01_Ubuntu/02_16/43_Python/01_configure_python_env_and_install_python3.6.md)        |
 |          | rsync                 | [rsync : folder to folder](01_Ubuntu/02_16/44_rsync/01_rsync_folder_to_folder.md)                                               |
 |          |                       | [rsync : /home to other folder](01_Ubuntu/02_16/44_rsync/02_rsync_home_to_other.md)                                             |
