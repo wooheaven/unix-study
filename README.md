@@ -97,8 +97,7 @@ UNIX
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.41.1 [parted list : check model of attached disks](01_Ubuntu/02_16/41_parted/01_parted_list.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.41.2 [swap partition : remove and create swap partition](01_Ubuntu/02_16/41_parted/02_parted_swap_partition.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.42 [passwd : root passwd update](01_Ubuntu/02_16/42_passwd/01_root_passwd.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 43_Python  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 01_configure_python_env_and_install_python3.6.md  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.43 [Python : install python3.6 and create virtual env](01_Ubuntu/02_16/43_Python/01_configure_python_env_and_install_python3.6.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 44_rsync  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 01_rsync_folder_to_folder.md  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 02_rsync_home_to_other.md  
@@ -259,7 +258,6 @@ UNIX
 
 |OS        | Contents              | Detail                                                                                                                          |
 |----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|          | python                | [configure python env and install python3.6](01_Ubuntu/02_16/43_Python/01_configure_python_env_and_install_python3.6.md)        |
 |          | rsync                 | [rsync : folder to folder](01_Ubuntu/02_16/44_rsync/01_rsync_folder_to_folder.md)                                               |
 |          |                       | [rsync : /home to other folder](01_Ubuntu/02_16/44_rsync/02_rsync_home_to_other.md)                                             |
 |          |                       | [rsync : /var to other folder](01_Ubuntu/02_16/44_rsync/03_rsync_var_to_other.md)                                               |
