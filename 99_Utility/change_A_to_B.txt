@@ -1,1 +1,7 @@
-01_Ubuntu/02_16/26_if/01_if_check_filePath.md -> 01_Ubuntu/02_16/05_bash/08_if_filePath_check.md
+01_Ubuntu/02_16/03_apt-get/01_apt-get_install_graphviz_with_python3.5.md -> 01_Ubuntu/02_16/03_apt-get/01_install/01_apt-get_install_graphviz_with_python3.5.md
+01_Ubuntu/02_16/03_apt-get/02_apt-get_install_jq.md -> 01_Ubuntu/02_16/03_apt-get/01_install/02_apt-get_install_jq.md
+01_Ubuntu/02_16/03_apt-get/03_apt-get_install_vlc.md -> 01_Ubuntu/02_16/03_apt-get/01_install/04_apt-get_install_vlc.md
+01_Ubuntu/02_16/03_apt-get/07_apt-get_tree.md -> 01_Ubuntu/02_16/03_apt-get/01_install/05_apt-get_install_tree.md
+01_Ubuntu/02_16/03_apt-get/04_apt-get_lock_error.md -> 01_Ubuntu/02_16/03_apt-get/01_install/06_apt-get_install_lock_error.md
+01_Ubuntu/02_16/03_apt-get/05_apt-get_Duplicate_sources.list.md -> 01_Ubuntu/02_16/03_apt-get/02_update/01_apt-get_Duplicate_sources.list.md
+01_Ubuntu/02_16/03_apt-get/06_apt-get_update_hash_sum_error.md -> 01_Ubuntu/02_16/03_apt-get/02_update/02_apt-get_update_hash_sum_error.md
