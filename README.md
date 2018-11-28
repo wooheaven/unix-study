@@ -108,13 +108,12 @@ UNIX
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.46.1 [remove \^M in text file](01_Ubuntu/02_16/46_sed/01_remove_^M_with_sed.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.46.2 [replace every 3rd comma to semicolon](01_Ubuntu/02_16/46_sed/02_replace_every_3rd_comma_to_semicolon.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.46.3 [space regular expression](01_Ubuntu/02_16/46_sed/03_space_regular_expression.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 47_server  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 01_install_ubuntu16_server.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 48_snap  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 01_snap_install_list_changes_refresh_remove.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 02_snap_install_refresh_pycharm.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 03_snap_install_anbox.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 04_snap_install_intellij.md  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.47 [server : install server](01_Ubuntu/02_16/47_server/01_install_ubuntu16_server.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.48 snap  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.48.1 [snap : example install list refresh remove](01_Ubuntu/02_16/48_snap/01_snap_install_list_changes_refresh_remove.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.48.2 [snap : install and refresh pycharm](01_Ubuntu/02_16/48_snap/02_snap_install_refresh_pycharm.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.48.3 [snap : install anbox](01_Ubuntu/02_16/48_snap/03_snap_install_anbox.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.48.4 [snap : install intellij](01_Ubuntu/02_16/48_snap/04_snap_install_intellij.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 49_sort  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 01_sort_key.md  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 50_ssh  
@@ -256,11 +255,6 @@ UNIX
 
 |OS        | Contents              | Detail                                                                                                                          |
 |----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|          | server                | [install ubuntu 16 server](01_Ubuntu/02_16/47_server/01_install_ubuntu16_server.md)                                             |
-|          | snap                  | [snap : example install list refresh remove](01_Ubuntu/02_16/48_snap/01_snap_install_list_changes_refresh_remove.md)            |
-|          |                       | [snap : install and refresh pycharm](01_Ubuntu/02_16/48_snap/02_snap_install_refresh_pycharm.md)                                |
-|          |                       | [snap : install anbox](01_Ubuntu/02_16/48_snap/03_snap_install_anbox.md)                                                        |
-|          |                       | [snap : install intellij](01_Ubuntu/02_16/48_snap/04_snap_install_intellij.md)                                                  |
 |          | sort                  | [sort key : Field and Chracter position](01_Ubuntu/02_16/49_sort/01_sort_key.md)                                                |
 |          | ssh                   | [ssh : install](01_Ubuntu/02_16/50_ssh/01_install_ssh.md)                                                                       |
 |          |                       | [ssh-key : ssh login without passowrd](01_Ubuntu/02_16/50_ssh/02_add_publicKey_to_server.md)                                    |
