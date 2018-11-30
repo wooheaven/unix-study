@@ -12,6 +12,16 @@ https://en.wikipedia.org/wiki/CUDA
 # Compute Capability 5.0 = CUDA SDK 6.5 ~ 10.0
 ```
 
+# Nvidia CUDA and Ubuntu version
+```{text}
+https://developer.nvidia.com/cuda-80-ga2-download-archive
+https://developer.nvidia.com/cuda-90-download-archive?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu
+# Nvidia CUDA = Ubuntu
+# 9.0     = 16.04
+# 8.0 GA2 = 16.04, 14.04
+```
+
+
 # find CUDA SDK and cuDNN and Tensorflow
 ```
 https://www.tensorflow.org/install/source#tested_source_configurations
@@ -23,8 +33,8 @@ https://www.tensorflow.org/install/source#tested_source_configurations
 ```{text}
 https://www.tensorflow.org/install/gpu  
 https://docs.floydhub.com/guides/environments/  
-tensorflow_gpu-1.4.0  = Keras 2.0.8 = Python 3.6
-tensorflow_gpu-1.11.0 = Keras 2.2.0 = Python 3.6
+# tensorflow_gpu-1.4.0  = Keras 2.0.8 = Python 3.6
+# tensorflow_gpu-1.11.0 = Keras 2.2.0 = Python 3.6
 ```
 
 # overview
