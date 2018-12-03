@@ -114,19 +114,15 @@ UNIX
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.48.2 [snap : install and refresh pycharm](01_Ubuntu/02_16/48_snap/02_snap_install_refresh_pycharm.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.48.3 [snap : install anbox](01_Ubuntu/02_16/48_snap/03_snap_install_anbox.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.48.4 [snap : install intellij](01_Ubuntu/02_16/48_snap/04_snap_install_intellij.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 49_sort  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 01_sort_key.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 50_ssh  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 01_install_ssh.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 02_add_publicKey_to_server.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 03_install_pssh.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 04_rsync_file_by_pssh.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 51_Startup_Applications  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 01_add_programs.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 52_Steam  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 01_install_Steam_on_ubuntu16.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 53_sublime_text_2  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 01_install_sublime_text2.md  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.49 [sort : by key with Field and Chracter position](01_Ubuntu/02_16/49_sort/01_sort_key.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.50 ssh  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.50.1 [install](01_Ubuntu/02_16/50_ssh/01_install_ssh.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.50.2 [ssh-key : ssh login without passowrd](01_Ubuntu/02_16/50_ssh/02_add_publicKey_to_server.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.50.3 [pssh install : parallel-ssh](01_Ubuntu/02_16/50_ssh/03_install_pssh.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.50.4 [file rsymc by pssh : rsync and md5sum a file on cluster by pssh](01_Ubuntu/02_16/50_ssh/04_rsync_file_by_pssh.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.51 [StartUp Applications : add program](01_Ubuntu/02_16/51_Startup_Applications/01_add_programs.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.52 [Steam : Install on Ubuntu16](01_Ubuntu/02_16/52_Steam/01_install_Steam_on_ubuntu16.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.53 [Install Sublime Text 2](01_Ubuntu/02_16/53_sublime_text_2/01_install_sublime_text2.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 54_substring  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 01_substring_remove.md  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 55_tac  
@@ -255,14 +251,6 @@ UNIX
 
 |OS        | Contents              | Detail                                                                                                                          |
 |----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|          | sort                  | [sort key : Field and Chracter position](01_Ubuntu/02_16/49_sort/01_sort_key.md)                                                |
-|          | ssh                   | [ssh : install](01_Ubuntu/02_16/50_ssh/01_install_ssh.md)                                                                       |
-|          |                       | [ssh-key : ssh login without passowrd](01_Ubuntu/02_16/50_ssh/02_add_publicKey_to_server.md)                                    |
-|          |                       | [pssh : parallel-ssh](01_Ubuntu/02_16/50_ssh/03_install_pssh.md)                                                                |
-|          |                       | [pssh : rsync and md5sum a file on cluster by pssh](01_Ubuntu/02_16/50_ssh/04_rsync_file_by_pssh.md)                            |
-|          | Startup Applications  | [Add Programs](01_Ubuntu/02_16/51_Startup_Applications/01_add_programs.md)                                                      |
-|          | Steam                 | [Install Steam on Ubuntu16](01_Ubuntu/02_16/52_Steam/01_install_Steam_on_ubuntu16.md)                                           |
-|          | Sublime Text 2        | [Install Sublime Text 2](01_Ubuntu/02_16/53_sublime_text_2/01_install_sublime_text2.md)                                         |
 |          | substring             | [substring remove from beginning or back + long or short](01_Ubuntu/02_16/54_substring/01_substring_remove.md)                  |
 |          | tac                   | [read from bottom to top](01_Ubuntu/02_16/55_tac/01_tac.md)                                                                     |
 |          | tar                   | [uncompress : tgz](01_Ubuntu/02_16/56_tar/01_uncompress_tgz.md)                                                                 |
