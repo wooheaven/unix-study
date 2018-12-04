@@ -123,19 +123,14 @@ UNIX
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.51 [StartUp Applications : add program](01_Ubuntu/02_16/51_Startup_Applications/01_add_programs.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.52 [Steam : Install on Ubuntu16](01_Ubuntu/02_16/52_Steam/01_install_Steam_on_ubuntu16.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.53 [Install Sublime Text 2](01_Ubuntu/02_16/53_sublime_text_2/01_install_sublime_text2.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 54_substring  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 01_substring_remove.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 55_tac  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 01_tac.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 56_tar  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 01_uncompress_tgz.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 02_compress_folder_by_tar.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 57_tmux  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 01_tmux.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 58_touch  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 01_modify_timestamp.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 59_tzdata  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 01_timeZone.md  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.54 [substring : remove from beginning or back + long or short](01_Ubuntu/02_16/54_substring/01_substring_remove.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.55 [tac : read from bottom to top](01_Ubuntu/02_16/55_tac/01_tac.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.56 tar  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.56.1 [uncompress : tgz](01_Ubuntu/02_16/56_tar/01_uncompress_tgz.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.56.2 [compress : folder](01_Ubuntu/02_16/56_tar/02_compress_folder_by_tar.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.57 [tmux : install, configure, use](01_Ubuntu/02_16/57_tmux/01_tmux.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.58 [touch : accessed modified timestamp](01_Ubuntu/02_16/58_touch/01_modify_timestamp.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.59 [tzdata : time zone](01_Ubuntu/02_16/59_tzdata/01_timeZone.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 60_unicode  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 01_box_char.md  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 61_userdel  
@@ -251,13 +246,6 @@ UNIX
 
 |OS        | Contents              | Detail                                                                                                                          |
 |----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|          | substring             | [substring remove from beginning or back + long or short](01_Ubuntu/02_16/54_substring/01_substring_remove.md)                  |
-|          | tac                   | [read from bottom to top](01_Ubuntu/02_16/55_tac/01_tac.md)                                                                     |
-|          | tar                   | [uncompress : tgz](01_Ubuntu/02_16/56_tar/01_uncompress_tgz.md)                                                                 |
-|          |                       | [compress : folder](01_Ubuntu/02_16/56_tar/02_compress_folder_by_tar.md)                                                        |
-|          | tmux                  | [install, configure, use](01_Ubuntu/02_16/57_tmux/01_tmux.md)                                                                   |
-|          | touch                 | [touch : accessed modified timestamp](01_Ubuntu/02_16/58_touch/01_modify_timestamp.md)                                          |
-|          | tzdata                | [time zone](01_Ubuntu/02_16/59_tzdata/01_timeZone.md)                                                                           |
 |          | unicode               | [box char](01_Ubuntu/02_16/60_unicode/01_box_char.md)                                                                           |
 |          | userdel               | [userdel](01_Ubuntu/02_16/61_userdel/01_userdel_hadoop.md)                                                                      |
 |          | usermod               | [add User to Group](01_Ubuntu/02_16/62_usermod/01_add_USER_to_GROUP.md)                                                         |
