@@ -131,29 +131,26 @@ UNIX
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.57 [tmux : install, configure, use](01_Ubuntu/02_16/57_tmux/01_tmux.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.58 [touch : accessed modified timestamp](01_Ubuntu/02_16/58_touch/01_modify_timestamp.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.59 [tzdata : time zone](01_Ubuntu/02_16/59_tzdata/01_timeZone.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 60_unicode  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 01_box_char.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 61_userdel  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 01_userdel_hadoop.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 62_usermod  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 01_add_USER_to_GROUP.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 63_vim  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 01_cmd-Mode  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 01_Move_Cursor.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 02_Switch_Line_Up_and_Down.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 03_cmdLine-Mode  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 01_Move_Line_Up_and_Down.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 02_vim_save_as_other_File.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 03_vim_CRLF_to_LF.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 04_ETC  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 01_vimrc_encoding_korean.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 02_vimrc_append_save_macro.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 03_vim_diff.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 04_vimrc.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 05_vimrc_color.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 64_vnc4server  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 01_install_config_vnc4server.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 02_configure_vncserver_on_ubuntu16_desktop.md  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.60 [unicode : box char](01_Ubuntu/02_16/60_unicode/01_box_char.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.61 [userdel](01_Ubuntu/02_16/61_userdel/01_userdel_hadoop.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.62 [usermod : add User to Group](01_Ubuntu/02_16/62_usermod/01_add_USER_to_GROUP.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.63 vim  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.63.1 Cmd-Mode  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.63.1.1 [Move Cursor](01_Ubuntu/02_16/63_vim/01_cmd-Mode/01_Move_Cursor.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 1.2.63.1.2 [Switch Line Up and Down](01_Ubuntu/02_16/63_vim/01_cmd-Mode/02_Switch_Line_Up_and_Down.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.63.2 CmdLine-Mode  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.63.2.1 [Move Line Up and Down](01_Ubuntu/02_16/63_vim/03_cmdLine-Mode/01_Move_Line_Up_and_Down.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.63.2.2 [save as other file](01_Ubuntu/02_16/63_vim/03_cmdLine-Mode/02_vim_save_as_other_File.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 1.2.63.2.3 [CRLF to LF](01_Ubuntu/02_16/63_vim/03_cmdLine-Mode/03_vim_CRLF_to_LF.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.63.3 ETC  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.63.3.1 [vimrc encoding UTF8 (Korean)](01_Ubuntu/02_16/63_vim/04_ETC/01_vimrc_encoding_korean.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.63.3.2 [vimrc append and save macro](01_Ubuntu/02_16/63_vim/04_ETC/02_vimrc_append_save_macro.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.63.3.3 [vim diff](01_Ubuntu/02_16/63_vim/04_ETC/03_vim_diff.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.63.3.4 [cat ~/.vimrc](01_Ubuntu/02_16/63_vim/04_ETC/04_vimrc.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 1.2.63.3.5 [color](01_Ubuntu/02_16/63_vim/04_ETC/05_vimrc_color.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.64 vncserver, vnc4server  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.64.1 [vnc4server : remote control ubuntu](01_Ubuntu/02_16/64_vnc4server/01_install_config_vnc4server.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.64.2 [vncserver : remote access sharing](01_Ubuntu/02_16/64_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 65_window  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 01_resize_window.md  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 66_xclip  
@@ -246,22 +243,6 @@ UNIX
 
 |OS        | Contents              | Detail                                                                                                                          |
 |----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|          | unicode               | [box char](01_Ubuntu/02_16/60_unicode/01_box_char.md)                                                                           |
-|          | userdel               | [userdel](01_Ubuntu/02_16/61_userdel/01_userdel_hadoop.md)                                                                      |
-|          | usermod               | [add User to Group](01_Ubuntu/02_16/62_usermod/01_add_USER_to_GROUP.md)                                                         |
-|          | vim                   | [Cmd-Mode : Move Cursor](01_Ubuntu/02_16/63_vim/01_cmd-Mode/01_Move_Cursor.md)                                                  |
-|          |                       | [Cmd-Mode : Switch Line Up and Down](01_Ubuntu/02_16/63_vim/01_cmd-Mode/02_Switch_Line_Up_and_Down.md)                          |
-|          |                       | [Edit-Mode Insert-Mode : ]()                                                                                                    |
-|          |                       | [CmdLine-Mode : Move Line Up and Down](01_Ubuntu/02_16/63_vim/03_cmdLine-Mode/01_Move_Line_Up_and_Down.md)                      |
-|          |                       | [CmdLine-Mode : save as other file](01_Ubuntu/02_16/63_vim/03_cmdLine-Mode/02_vim_save_as_other_File.md)                        |
-|          |                       | [CmdLine-Mode : CRLF to LF](01_Ubuntu/02_16/63_vim/03_cmdLine-Mode/03_vim_CRLF_to_LF.md)                                        |
-|          |                       | [ETC : vimrc encoding UTF8 (Korean)](01_Ubuntu/02_16/63_vim/04_ETC/01_vimrc_encoding_korean.md)                                 |
-|          |                       | [ETC : vimrc append and save macro](01_Ubuntu/02_16/63_vim/04_ETC/02_vimrc_append_save_macro.md)                                |
-|          |                       | [ETC : vim diff](01_Ubuntu/02_16/63_vim/04_ETC/03_vim_diff.md)                                                                  |
-|          |                       | [ETC : cat ~/.vimrc](01_Ubuntu/02_16/63_vim/04_ETC/04_vimrc.md)                                                                 |
-|          |                       | [ETC : color](01_Ubuntu/02_16/63_vim/04_ETC/05_vimrc_color.md)                                                                  |
-|          | vnc4server            | [vnc4server : remote control ubuntu](01_Ubuntu/02_16/64_vnc4server/01_install_config_vnc4server.md)                             |
-|          | vncserver             | [vncserver : remote access sharing](01_Ubuntu/02_16/64_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md)                |
 |          | window                | [resize shortcut](01_Ubuntu/02_16/65_window/01_resize_window.md)                                                                |
 |          | xclip                 | [xclip : install and use](01_Ubuntu/02_16/66_xclip/01_install_and_use_xclip.md)                                                 |
 |          | xwininfo              | [xwininfo : get window size](01_Ubuntu/02_16/67_xwininfo/01_use_xwininfo.md)                                                    |
