@@ -72,7 +72,9 @@ UNIX
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.23 [gitlab  : math document](https://khan.github.io/KaTeX/docs/supported.html)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.24 [gzip, gunzip : compress/decompress a file](01_Ubuntu/02_16/23_gzip_gunzip/01_gzip_gunzip_file.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.25 [gnome terminal : execute by CLI with window-size](01_Ubuntu/02_16/24_gnome_terminal/01_run_gnome_terminal_by_CLI.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.26 [GRUB : reset PassWord](01_Ubuntu/02_16/25_GRUB/01_reset_passwd_on_GRUB.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.26 GRUB  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.26.1 [reset PassWord](01_Ubuntu/02_16/25_GRUB/01_reset_passwd_on_GRUB.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.26.2 [enable touchpad](01_Ubuntu/02_16/25_GRUB/02_enable_touchpad_on_GRUB.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.27 Java  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.27.1 [jdk7 : install by apt](01_Ubuntu/02_16/27_Java/01_install_jdk7.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.27.2 [jdk8 : install by apt](01_Ubuntu/02_16/27_Java/02_install_jdk8.md)  
@@ -153,8 +155,7 @@ UNIX
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.64.2 [vncserver : remote access sharing](01_Ubuntu/02_16/64_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.65 [Window : resize shortcut](01_Ubuntu/02_16/65_window/01_resize_window.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.66 [xclip : install and use](01_Ubuntu/02_16/66_xclip/01_install_and_use_xclip.md)   
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 67_xwininfo  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 01_use_xwininfo.md  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.67 [xwininfo : get window size](01_Ubuntu/02_16/67_xwininfo/01_use_xwininfo.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 68_zip  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 01_zip_directory.md  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ reNumberFolder.sh  
@@ -241,7 +242,6 @@ UNIX
 
 |OS        | Contents              | Detail                                                                                                                          |
 |----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|          | xwininfo              | [xwininfo : get window size](01_Ubuntu/02_16/67_xwininfo/01_use_xwininfo.md)                                                    |
 |          | zip                   | [compress and uncompress directory](01_Ubuntu/02_16/68_zip/01_zip_directory.md)                                                 |
 |CentOS6.9 | docker                | [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)                                                             |
 |          | git                   | [yum install git : version 2.x](02_CentOS/01_6.9/02_git/01_yum_install_git.md)                                                  |
