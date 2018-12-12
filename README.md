@@ -120,8 +120,9 @@ UNIX
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.50 ssh  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.50.1 [install](01_Ubuntu/02_16/50_ssh/01_install_ssh.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.50.2 [ssh-key : ssh login without passowrd](01_Ubuntu/02_16/50_ssh/02_add_publicKey_to_server.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.50.3 [pssh install : parallel-ssh](01_Ubuntu/02_16/50_ssh/03_install_pssh.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.50.4 [file rsymc by pssh : rsync and md5sum a file on cluster by pssh](01_Ubuntu/02_16/50_ssh/04_rsync_file_by_pssh.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.50.3 [enable root login](01_Ubuntu/02_16/50_ssh/03_enable_ssh_root_login.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.50.4 [pssh install : parallel-ssh](01_Ubuntu/02_16/50_ssh/04_install_pssh.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.50.5 [file rsymc by pssh : rsync and md5sum a file on cluster by pssh](01_Ubuntu/02_16/50_ssh/05_rsync_file_by_pssh.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.51 [StartUp Applications : add program](01_Ubuntu/02_16/51_Startup_Applications/01_add_programs.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.52 [Steam : Install on Ubuntu16](01_Ubuntu/02_16/52_Steam/01_install_Steam_on_ubuntu16.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.53 [Install Sublime Text 2](01_Ubuntu/02_16/53_sublime_text_2/01_install_sublime_text2.md)  
@@ -154,11 +155,9 @@ UNIX
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.64.1 [vnc4server : remote control ubuntu](01_Ubuntu/02_16/64_vnc4server/01_install_config_vnc4server.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.64.2 [vncserver : remote access sharing](01_Ubuntu/02_16/64_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.65 [Window : resize shortcut](01_Ubuntu/02_16/65_window/01_resize_window.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.66 [xclip : install and use](01_Ubuntu/02_16/66_xclip/01_install_and_use_xclip.md)   
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.66 [xclip : install and use](01_Ubuntu/02_16/66_xclip/01_install_and_use_xclip.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.67 [xwininfo : get window size](01_Ubuntu/02_16/67_xwininfo/01_use_xwininfo.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 68_zip  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 01_zip_directory.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ reNumberFolder.sh  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 1.2.68 [zip : compress and uncompress directory](01_Ubuntu/02_16/68_zip/01_zip_directory.md)  
 ╠══ 02_CentOS  
 ║&ensp;&ensp;&nbsp;╚══ 01_6.9  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 01_docker  
@@ -242,7 +241,6 @@ UNIX
 
 |OS        | Contents              | Detail                                                                                                                          |
 |----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|          | zip                   | [compress and uncompress directory](01_Ubuntu/02_16/68_zip/01_zip_directory.md)                                                 |
 |CentOS6.9 | docker                | [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)                                                             |
 |          | git                   | [yum install git : version 2.x](02_CentOS/01_6.9/02_git/01_yum_install_git.md)                                                  |
 |          | network               | [network : static](02_CentOS/01_6.9/03_network/01_static.md)                                                                    |
