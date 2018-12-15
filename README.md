@@ -158,18 +158,14 @@ UNIX
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.66 [xclip : install and use](01_Ubuntu/02_16/66_xclip/01_install_and_use_xclip.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.67 [xwininfo : get window size](01_Ubuntu/02_16/67_xwininfo/01_use_xwininfo.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 1.2.68 [zip : compress and uncompress directory](01_Ubuntu/02_16/68_zip/01_zip_directory.md)  
-╠══ 02_CentOS  
-║&ensp;&ensp;&nbsp;╚══ 01_6.9  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 01_docker  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 01_install_docker.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 02_git  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 01_yum_install_git.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 03_network  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 01_static.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 02_dhcp.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 04_sed  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 01_sed_string_replace.md  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ reNumberFolder.sh  
+╠══ 2 CentOS  
+║&ensp;&ensp;&nbsp;╚══ 2.1 CentOS 6.9  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 2.1.1 [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 2.1.2 [git : install git(version 2.x) by yum](02_CentOS/01_6.9/02_git/01_yum_install_git.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 2.1.3 network  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 2.1.3.1 [static](02_CentOS/01_6.9/03_network/01_static.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 2.1.3.2 [dhcp](02_CentOS/01_6.9/03_network/02_dhcp.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 2.1.4 [sed : replace string /t to tab character](02_CentOS/01_6.9/04_sed/01_sed_string_replace.md)  
 ╠══ 03_Mac  
 ║&ensp;&ensp;&nbsp;╠══ 01_Battery  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_Charge_Status.md  
@@ -241,11 +237,6 @@ UNIX
 
 |OS        | Contents              | Detail                                                                                                                          |
 |----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|CentOS6.9 | docker                | [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)                                                             |
-|          | git                   | [yum install git : version 2.x](02_CentOS/01_6.9/02_git/01_yum_install_git.md)                                                  |
-|          | network               | [network : static](02_CentOS/01_6.9/03_network/01_static.md)                                                                    |
-|          |                       | [network : dhcp](02_CentOS/01_6.9/03_network/02_dhcp.md)                                                                        |
-|          | sed                   | [replace string /t to tab character](02_CentOS/01_6.9/04_sed/01_sed_string_replace.md)                                          |
 |Mac       | battery               | [Charge Status](03_Mac/01_Battery/01_Charge_Status.md)                                                                          |
 |          | brew                  | [install brew](03_Mac/02_brew/01_install_brew.md)                                                                               |
 |          |                       | [brew install maven](03_Mac/02_brew/02_brew_install_mavern.md)                                                                  |
