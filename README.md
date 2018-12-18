@@ -166,12 +166,11 @@ UNIX
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 2.1.3.1 [static](02_CentOS/01_6.9/03_network/01_static.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 2.1.3.2 [dhcp](02_CentOS/01_6.9/03_network/02_dhcp.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 2.1.4 [sed : replace string /t to tab character](02_CentOS/01_6.9/04_sed/01_sed_string_replace.md)  
-╠══ 03_Mac  
-║&ensp;&ensp;&nbsp;╠══ 01_Battery  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_Charge_Status.md  
-║&ensp;&ensp;&nbsp;╠══ 02_brew  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 01_install_brew.md  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 02_brew_install_mavern.md  
+╠══ 3 Mac  
+║&ensp;&ensp;&nbsp;╠══ 3.1 [Battery : Charge Status](03_Mac/01_Battery/01_Charge_Status.md)  
+║&ensp;&ensp;&nbsp;╠══ 3.2 brew  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.1 [install](03_Mac/02_brew/01_install_brew.md)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.2 [install package : maven](03_Mac/02_brew/02_brew_install_maven.md)  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 03_brew_install_iterm2.md  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 04_brew_install_zsh.md  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 05_brew_install_gnuplot.md  
@@ -237,9 +236,6 @@ UNIX
 
 |OS        | Contents              | Detail                                                                                                                          |
 |----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|Mac       | battery               | [Charge Status](03_Mac/01_Battery/01_Charge_Status.md)                                                                          |
-|          | brew                  | [install brew](03_Mac/02_brew/01_install_brew.md)                                                                               |
-|          |                       | [brew install maven](03_Mac/02_brew/02_brew_install_mavern.md)                                                                  |
 |          |                       | [brew install iterm2](03_Mac/02_brew/03_brew_install_iterm2.md)                                                                 |
 |          |                       | [brew install zsh](03_Mac/02_brew/04_brew_install_zsh.md)                                                                       |
 |          |                       | [brew install gnuplot](03_Mac/02_brew/05_brew_install_gnuplot.md)                                                               |
@@ -260,16 +256,17 @@ UNIX
 |          | Proxy                 | [use proxy](03_Mac/11_Proxy/01_use_proxy.md)                                                                                    |
 |          | Python                | [Python3.5 on conda : Matplotlib Backends RuntimeError](03_Mac/12_Python/01_with_Conda/01_Matplotlib_backends_RuntimeError.md)  |
 |          | sed                   | [move CRLF to LF](03_Mac/13_sed/01_sed_remove_CRLF_to_LF.md)                                                                    |
-|          | tree                  | [install and use tree](03_Mac/14_tree/01_install_use_tree_on_mac.md)                                                            |
-|          | vim                   | [ComLine-Mode : vim move line](03_Mac/15_vim/03_CmdLine-Mode/01_vim_move_line.md)                                               |
-|          |                       | [CmdLine-Mode : vim save as other file](03_Mac/15_vim/03_CmdLine-Mode/02_vim_save_as_other_File.md)                             |
-|          |                       | [ETC : color](03_Mac/15_vim/04_ETC/01_vimrc_color_molokai.md)                                                                   |
-|          |                       | [ETC : vim diff](03_Mac/15_vim/04_ETC/02_vim_diff.md)                                                                           |
-|          |                       | [ETC : vim diff refresh](03_Mac/15_vim/04_ETC/03_vim_diff_refresh.md)                                                           |
-|          |                       | [ETC : cat ~/.vimrc](03_Mac/15_vim/04_ETC/04_vimrc.md)                                                                          |
-|          | vnc                   | [vnc client : Connect to vnc server](03_Mac/16_vnc_client/01_use_vnc_client.md)                                                 |
-|          | zip                   | [zip : compress folder](03_Mac/17_zip/01_zip_folder.md)                                                                         |
-|          |                       | [zip : splited compress](03_Mac/17_zip/02_zip_splited_compress.md)                                                              |
-|          |                       | [zip : exclude](03_Mac/17_zip/03_zip_exclude.md)                                                                                |
-|          | Zsh                   | [~/.bash_profile ~/.bashrc ~/.zshrc : Configure with non-login/login](03_Mac/18_zsh/01_explain_of_bash_profile_bashrc_zshrc.md) |
-|          |                       | [~/.zshrc : example of .zshrc](03_Mac/18_zsh/02_example_of_zshrc.md)                                                            |
+|          | shasum                | [shasum : get checksum sha1](03_Mac/14_shasum/01_use_shasum_for_sha1.md)                                                        |
+|          | tree                  | [install and use tree](03_Mac/15_tree/01_install_use_tree_on_mac.md)                                                            |
+|          | vim                   | [ComLine-Mode : vim move line](03_Mac/16_vim/03_CmdLine-Mode/01_vim_move_line.md)                                               |
+|          |                       | [CmdLine-Mode : vim save as other file](03_Mac/16_vim/03_CmdLine-Mode/02_vim_save_as_other_File.md)                             |
+|          |                       | [ETC : color](03_Mac/16_vim/04_ETC/01_vimrc_color_molokai.md)                                                                   |
+|          |                       | [ETC : vim diff](03_Mac/16_vim/04_ETC/02_vim_diff.md)                                                                           |
+|          |                       | [ETC : vim diff refresh](03_Mac/16_vim/04_ETC/03_vim_diff_refresh.md)                                                           |
+|          |                       | [ETC : cat ~/.vimrc](03_Mac/16_vim/04_ETC/04_vimrc.md)                                                                          |
+|          | vnc                   | [vnc client : Connect to vnc server](03_Mac/17_vnc_client/01_use_vnc_client.md)                                                 |
+|          | zip                   | [zip : compress folder](03_Mac/18_zip/01_zip_folder.md)                                                                         |
+|          |                       | [zip : splited compress](03_Mac/18_zip/02_zip_splited_compress.md)                                                              |
+|          |                       | [zip : exclude](03_Mac/18_zip/03_zip_exclude.md)                                                                                |
+|          | Zsh                   | [~/.bash_profile ~/.bashrc ~/.zshrc : Configure with non-login/login](03_Mac/19_zsh/01_explain_of_bash_profile_bashrc_zshrc.md) |
+|          |                       | [~/.zshrc : example of .zshrc](03_Mac/19_zsh/02_example_of_zshrc.md)                                                            |
