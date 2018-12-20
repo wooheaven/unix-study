@@ -171,13 +171,12 @@ UNIX
 ║&ensp;&ensp;&nbsp;╠══ 3.2 brew  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.1 [install](03_Mac/02_brew/01_install_brew.md)  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.2 [install package : maven](03_Mac/02_brew/02_brew_install_maven.md)  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 03_brew_install_iterm2.md  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 04_brew_install_zsh.md  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 05_brew_install_gnuplot.md  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 06_brew_install_jq.md  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 07_brew_install_tree.md  
-║&ensp;&ensp;&nbsp;╠══ 03_Command_Line_Tools  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_install_Command_Line_Tools.md  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.3 [install package : iterm2](03_Mac/02_brew/03_brew_install_iterm2.md)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.4 [install package : zsh](03_Mac/02_brew/04_brew_install_zsh.md)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.5 [install package : gnuplot](03_Mac/02_brew/05_brew_install_gnuplot.md)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.6 [install package : jq](03_Mac/02_brew/06_brew_install_jq.md)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 3.2.7 [install package : tree](03_Mac/02_brew/07_brew_install_tree.md)  
+║&ensp;&ensp;&nbsp;╠══ 3.3 [Command_Line_Tools : install](03_Mac/03_Command_Line_Tools/01_install_Command_Line_Tools.md)  
 ║&ensp;&ensp;&nbsp;╠══ 04_Disk_Utility  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_Format_usb_on_mac.md  
 ║&ensp;&ensp;&nbsp;╠══ 05_find  
@@ -236,12 +235,6 @@ UNIX
 
 |OS        | Contents              | Detail                                                                                                                          |
 |----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|          |                       | [brew install iterm2](03_Mac/02_brew/03_brew_install_iterm2.md)                                                                 |
-|          |                       | [brew install zsh](03_Mac/02_brew/04_brew_install_zsh.md)                                                                       |
-|          |                       | [brew install gnuplot](03_Mac/02_brew/05_brew_install_gnuplot.md)                                                               |
-|          |                       | [brew install jq](03_Mac/02_brew/06_brew_install_jq.md)                                                                         |
-|          |                       | [brew install tree](03_Mac/02_brew/07_brew_install_tree.md)                                                                     |
-|          | Command Line Tools    | [install](03_Mac/03_Command_Line_Tools/01_install_Command_Line_Tools.md)                                                        |
 |          | Disk Utility          | [Erase and Format](03_Mac/04_Disk_Utility/01_Format_usb_on_mac.md)                                                              |
 |          | find                  | [find : print basename](03_Mac/05_find/01_find_with_basename.md)                                                                |
 |          |                       | [find : sed CRLF to LF](03_Mac/05_find/03_find_and_sed_move_CRLF_to_LF.md)                                                      |
