@@ -114,3 +114,18 @@ Gnome bug happen if the environment for python, python2, python3 is changed.
 So use python3.6 as python3.6 not python and python3.
 ```
 
+# create python3.6 venv
+```{bash}
+$ python3.6 -m venv vnev
+
+$ source venv/bin/activate
+
+(venv) $ which python
+~/venv/bin/python
+
+(venv) $ python -V
+Python 3.6.7
+
+(venv) $ deactivate
+$
+``` 

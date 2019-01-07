@@ -175,9 +175,10 @@ UNIX
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.1.3 [brew install zsh](03_Mac/02_brew/04_brew_install_zsh.md)  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.1.4 [brew install gnuplot](03_Mac/02_brew/05_brew_install_gnuplot.md)  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.1.5 [brew install jq](03_Mac/02_brew/06_brew_install_jq.md)  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 3.2.1.6 [brew install tree](03_Mac/02_brew/07_brew_install_tree.md)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.1.6 [brew install tree](03_Mac/02_brew/07_brew_install_tree.md)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 3.2.1.7 [brew install python3](03_Mac/02_brew/08_brew_install_python3.md)  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 3.2.2 brew uninstall  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 3.2.2.1 [brew uninstall node](03_Mac/02_brew/08_brew_uninstall_node.md)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 3.2.2.1 [brew uninstall node](03_Mac/02_brew/09_brew_uninstall_node.md)  
 ║&ensp;&ensp;&nbsp;╠══ 3.3 [Command_Line_Tools : install](03_Mac/03_Command_Line_Tools/01_install_Command_Line_Tools.md)  
 ║&ensp;&ensp;&nbsp;╠══ 3.4 [Disk_Utility : format usb](03_Mac/04_Disk_Utility/01_Format_usb_on_mac.md)  
 ║&ensp;&ensp;&nbsp;╠══ 3.5 find  
@@ -186,8 +187,7 @@ UNIX
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.5.3 [find : sed CRLF to LF](03_Mac/05_find/03_find_and_sed_move_CRLF_to_LF.md)  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.5.4 [find : sed TAB to 4Spaces](03_Mac/05_find/04_find_and_sed_move_TAB_to_4SPACES.md)  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 3.5.5 [find : file size](03_Mac/05_find/05_find_with_fileSize.md)  
-║&ensp;&ensp;&nbsp;╠══ 06_installer_usb  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_create_installer_usb_for_ubuntu16_server.md  
+║&ensp;&ensp;&nbsp;╠══ 3.6 [hdiutil : create bootable Usb for ubuntu](03_Mac/06_installer_usb/01_create_installer_usb_for_ubuntu16_server.md)  
 ║&ensp;&ensp;&nbsp;╠══ 07_IntelliJ  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_Shortcuts.md  
 ║&ensp;&ensp;&nbsp;╠══ 08_ITerm2  
@@ -236,7 +236,6 @@ UNIX
 
 |OS        | Contents              | Detail                                                                                                                          |
 |----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|          | Installer USB         | [usb : installer for Ubuntu16 server](03_Mac/06_installer_usb/01_create_installer_usb_for_ubuntu16_server.md)                   |
 |          | IntelliJ              | [Shortcut](03_Mac/07_IntelliJ/01_Shortcuts.md)                                                                                  |
 |          | ITerm2                | [ShortKey of Iterm2](03_Mac/08_ITerm2/01_short_key_of_iterm2_on_mac.md)                                                         |
 |          | MatLab                | [MatLab : Install ToolBox wfdb-app-toolbox](03_Mac/09_MatLab/01_install_ToolBox_of_MatLab.md)                                   |
