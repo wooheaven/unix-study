@@ -168,23 +168,24 @@ UNIX
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 2.1.4 [sed : replace string /t to tab character](02_CentOS/01_6.9/04_sed/01_sed_string_replace.md)  
 ╠══ 3 Mac  
 ║&ensp;&ensp;&nbsp;╠══ 3.1 [Battery : Charge Status](03_Mac/01_Battery/01_Charge_Status.md)  
-║&ensp;&ensp;&nbsp;╠══ 3.2 brew  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.1 [install](03_Mac/02_brew/01_install_brew.md)  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.2 [install package : maven](03_Mac/02_brew/02_brew_install_maven.md)  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.3 [install package : iterm2](03_Mac/02_brew/03_brew_install_iterm2.md)  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.4 [install package : zsh](03_Mac/02_brew/04_brew_install_zsh.md)  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.5 [install package : gnuplot](03_Mac/02_brew/05_brew_install_gnuplot.md)  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.6 [install package : jq](03_Mac/02_brew/06_brew_install_jq.md)  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 3.2.7 [install package : tree](03_Mac/02_brew/07_brew_install_tree.md)  
+║&ensp;&ensp;&nbsp;╠══ 3.2 [brew : install brew](03_Mac/02_brew/01_install_brew.md)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.1 brew install  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.1.1 [brew install maven](03_Mac/02_brew/02_brew_install_maven.md)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.1.2 [brew install iterm2](03_Mac/02_brew/03_brew_install_iterm2.md)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.1.3 [brew install zsh](03_Mac/02_brew/04_brew_install_zsh.md)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.1.4 [brew install gnuplot](03_Mac/02_brew/05_brew_install_gnuplot.md)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.1.5 [brew install jq](03_Mac/02_brew/06_brew_install_jq.md)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 3.2.1.6 [brew install tree](03_Mac/02_brew/07_brew_install_tree.md)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 3.2.2 brew uninstall  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 3.2.2.1 [brew uninstall node](03_Mac/02_brew/08_brew_uninstall_node.md)  
 ║&ensp;&ensp;&nbsp;╠══ 3.3 [Command_Line_Tools : install](03_Mac/03_Command_Line_Tools/01_install_Command_Line_Tools.md)  
-║&ensp;&ensp;&nbsp;╠══ 04_Disk_Utility  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_Format_usb_on_mac.md  
-║&ensp;&ensp;&nbsp;╠══ 05_find  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 01_find_with_basename.md  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 02_find_with_maxdepth.md  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 03_find_and_sed_move_CRLF_to_LF.md  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 04_find_and_sed_move_TAB_to_4SPACES.md  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 05_find_with_fileSize.md  
+║&ensp;&ensp;&nbsp;╠══ 3.4 [Disk_Utility : format usb](03_Mac/04_Disk_Utility/01_Format_usb_on_mac.md)  
+║&ensp;&ensp;&nbsp;╠══ 3.5 find  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.5.1 [find : basename](03_Mac/05_find/01_find_with_basename.md)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.5.2 [find : max depth](03_Mac/05_find/02_find_with_maxdepth.md)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.5.3 [find : sed CRLF to LF](03_Mac/05_find/03_find_and_sed_move_CRLF_to_LF.md)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.5.4 [find : sed TAB to 4Spaces](03_Mac/05_find/04_find_and_sed_move_TAB_to_4SPACES.md)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 3.5.5 [find : file size](03_Mac/05_find/05_find_with_fileSize.md)  
 ║&ensp;&ensp;&nbsp;╠══ 06_installer_usb  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_create_installer_usb_for_ubuntu16_server.md  
 ║&ensp;&ensp;&nbsp;╠══ 07_IntelliJ  
@@ -235,12 +236,6 @@ UNIX
 
 |OS        | Contents              | Detail                                                                                                                          |
 |----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|          | Disk Utility          | [Erase and Format](03_Mac/04_Disk_Utility/01_Format_usb_on_mac.md)                                                              |
-|          | find                  | [find : print basename](03_Mac/05_find/01_find_with_basename.md)                                                                |
-|          |                       | [find : sed CRLF to LF](03_Mac/05_find/03_find_and_sed_move_CRLF_to_LF.md)                                                      |
-|          |                       | [find : maxdepth](03_Mac/05_find/02_find_with_maxdepth.md)                                                                      |
-|          |                       | [find : sed TAB to 4SPACES](03_Mac/05_find/04_find_and_sed_move_TAB_to_4SPACES.md)                                              |
-|          |                       | [find : size](03_Mac/05_find/05_find_with_fileSize.md)                                                                          |
 |          | Installer USB         | [usb : installer for Ubuntu16 server](03_Mac/06_installer_usb/01_create_installer_usb_for_ubuntu16_server.md)                   |
 |          | IntelliJ              | [Shortcut](03_Mac/07_IntelliJ/01_Shortcuts.md)                                                                                  |
 |          | ITerm2                | [ShortKey of Iterm2](03_Mac/08_ITerm2/01_short_key_of_iterm2_on_mac.md)                                                         |
