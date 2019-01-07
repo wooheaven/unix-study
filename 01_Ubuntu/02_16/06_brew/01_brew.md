@@ -36,4 +36,5 @@ total 40
 # brew install package
 ```{bash}
 $ brew install tmux
+$ brew cleanup
 ```
