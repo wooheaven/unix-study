@@ -69,12 +69,12 @@ UNIX
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.21.2 [iterate by list](01_Ubuntu/02_16/21_for_statement/02_for_in_list.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.21.3 [iterate by file](01_Ubuntu/02_16/21_for_statement/03_for_read_file.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.22 [frep : activate frep on android](01_Ubuntu/02_16/22_frep/01_use_frep.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.23 [gitlab  : math document](https://khan.github.io/KaTeX/docs/supported.html)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.24 [gzip, gunzip : compress/decompress a file](01_Ubuntu/02_16/23_gzip_gunzip/01_gzip_gunzip_file.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.25 [gnome terminal : execute by CLI with window-size](01_Ubuntu/02_16/24_gnome_terminal/01_run_gnome_terminal_by_CLI.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.23 [gitlab : Official Math Document](01_Ubuntu/02_16/23_GitLab/01_Math_Symbol_Document.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.24 [gzip, gunzip : compress/decompress a file](01_Ubuntu/02_16/24_gzip_gunzip/01_gzip_gunzip_file.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.25 [gnome terminal : execute by CLI with window-size](01_Ubuntu/02_16/25_gnome_terminal/01_run_gnome_terminal_by_CLI.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.26 GRUB  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.26.1 [reset PassWord](01_Ubuntu/02_16/25_GRUB/01_reset_passwd_on_GRUB.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.26.2 [enable touchpad](01_Ubuntu/02_16/25_GRUB/02_enable_touchpad_on_GRUB.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.26.1 [reset PassWord](01_Ubuntu/02_16/26_GRUB/01_reset_passwd_on_GRUB.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.26.2 [enable touchpad](01_Ubuntu/02_16/26_GRUB/02_enable_touchpad_on_GRUB.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.27 Java  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.27.1 [jdk7 : install by apt](01_Ubuntu/02_16/27_Java/01_install_jdk7.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.27.2 [jdk8 : install by apt](01_Ubuntu/02_16/27_Java/02_install_jdk8.md)  
@@ -157,7 +157,10 @@ UNIX
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.65 [Window : resize shortcut](01_Ubuntu/02_16/65_window/01_resize_window.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.66 [xclip : install and use](01_Ubuntu/02_16/66_xclip/01_install_and_use_xclip.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.67 [xwininfo : get window size](01_Ubuntu/02_16/67_xwininfo/01_use_xwininfo.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 1.2.68 [zip : compress and uncompress directory](01_Ubuntu/02_16/68_zip/01_zip_directory.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.68 xz  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.68.1 [xz : compress file](01_Ubuntu/02_16/68_xz/01_xz_compress.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.68.2 [xz : decompress file](01_Ubuntu/02_16/68_xz/02_xz_decompress.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 1.2.69 [zip : compress and uncompress directory](01_Ubuntu/02_16/69_zip/01_zip_directory.md)  
 ╠══ 2 CentOS  
 ║&ensp;&ensp;&nbsp;╚══ 2.1 CentOS 6.9  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 2.1.1 [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)  
@@ -188,8 +191,7 @@ UNIX
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.5.4 [find : sed TAB to 4Spaces](03_Mac/05_find/04_find_and_sed_move_TAB_to_4SPACES.md)  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 3.5.5 [find : file size](03_Mac/05_find/05_find_with_fileSize.md)  
 ║&ensp;&ensp;&nbsp;╠══ 3.6 [hdiutil : create bootable Usb for ubuntu](03_Mac/06_installer_usb/01_create_installer_usb_for_ubuntu16_server.md)  
-║&ensp;&ensp;&nbsp;╠══ 07_IntelliJ  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_Shortcuts.md  
+║&ensp;&ensp;&nbsp;╠══ 3.7 [IntelliJ : Shortcut](03_Mac/07_IntelliJ/01_Shortcuts.md)  
 ║&ensp;&ensp;&nbsp;╠══ 08_ITerm2  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_short_key_of_iterm2_on_mac.md  
 ║&ensp;&ensp;&nbsp;╠══ 09_Picture  
@@ -236,7 +238,6 @@ UNIX
 
 |OS        | Contents              | Detail                                                                                                                          |
 |----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|          | IntelliJ              | [Shortcut](03_Mac/07_IntelliJ/01_Shortcuts.md)                                                                                  |
 |          | ITerm2                | [ShortKey of Iterm2](03_Mac/08_ITerm2/01_short_key_of_iterm2_on_mac.md)                                                         |
 |          | MatLab                | [MatLab : Install ToolBox wfdb-app-toolbox](03_Mac/09_MatLab/01_install_ToolBox_of_MatLab.md)                                   |
 |          | Picture               | [resize picture](03_Mac/10_Picture/01_resize_of_picture.md)                                                                     |
