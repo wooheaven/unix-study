@@ -36,7 +36,9 @@ UNIX
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.6.6 [bash prombt](01_Ubuntu/02_16/06_bash/06_bashrc_PS1_bash_prombt.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.6.7 [redirect : print to null](01_Ubuntu/02_16/06_bash/07_print_to_null_by_redirect.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.6.8 [if : check filePath](01_Ubuntu/02_16/06_bash/08_if_filePath_check.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.7 [brew : install and use](01_Ubuntu/02_16/07_brew/01_brew.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.7 brew   
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.7.1 [brew : install and use](01_Ubuntu/02_16/07_brew/01_install_brew_and_use.md)   
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.7.2 [brew : install python](01_Ubuntu/02_16/07_brew/02_brew_install_python.md)   
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.8 [chrome remote desktop : install and configure](01_Ubuntu/02_16/08_chrome_remote_desktop/01_install_chrome_remote_desktop.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.9 [cpu monitor : cat cpu_info](01_Ubuntu/02_16/09_cpu/01_cpu_info.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.10 [date : with format 24:59:59.999](01_Ubuntu/02_16/10_date/01_date_with_hour_min_sec_nano.md)  
@@ -194,6 +196,7 @@ UNIX
 ║&ensp;&ensp;&nbsp;╠══ 3.6 [hdiutil : create bootable Usb for ubuntu](03_Mac/06_installer_usb/01_create_installer_usb_for_ubuntu16_server.md)  
 ║&ensp;&ensp;&nbsp;╠══ 3.7 [IntelliJ : Shortcut](03_Mac/07_IntelliJ/01_Shortcuts.md)  
 ║&ensp;&ensp;&nbsp;╠══ 3.8 [ITerm2 : ShortKey](03_Mac/08_ITerm2/01_short_key_of_iterm2_on_mac.md)  
+║&ensp;&ensp;&nbsp;╠══ 3.9 [MatLab : Install ToolBox wfdb-app-toolbox](03_Mac/09_MatLab/01_install_ToolBox_of_MatLab.md)  
 ║&ensp;&ensp;&nbsp;╠══ 09_Picture  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_resize_of_picture.md  
 ║&ensp;&ensp;&nbsp;╠══ 10_Proxy  
@@ -238,7 +241,6 @@ UNIX
 
 |OS        | Contents              | Detail                                                                                                                          |
 |----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|          | MatLab                | [MatLab : Install ToolBox wfdb-app-toolbox](03_Mac/09_MatLab/01_install_ToolBox_of_MatLab.md)                                   |
 |          | Picture               | [resize picture](03_Mac/10_Picture/01_resize_of_picture.md)                                                                     |
 |          | Proxy                 | [use proxy](03_Mac/11_Proxy/01_use_proxy.md)                                                                                    |
 |          | Python                | [Python3.5 on conda : Matplotlib Backends RuntimeError](03_Mac/12_Python/01_with_Conda/01_Matplotlib_backends_RuntimeError.md)  |
