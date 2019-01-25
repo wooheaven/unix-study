@@ -38,7 +38,8 @@ UNIX
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.6.8 [if : check filePath](01_Ubuntu/02_16/06_bash/08_if_filePath_check.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.7 brew   
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.7.1 [brew : install and use](01_Ubuntu/02_16/07_brew/01_install_brew_and_use.md)   
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.7.2 [brew : install python](01_Ubuntu/02_16/07_brew/02_brew_install_python.md)   
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.7.2 [brew : install python](01_Ubuntu/02_16/07_brew/02_brew_install_python.md)   
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.7.3 [brew : install git](01_Ubuntu/02_16/07_brew/03_brew_install_git.md)   
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.8 [chrome : install and configure](01_Ubuntu/02_16/08_chrome/01_install_chrome.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.9 [chrome remote desktop : install and configure](01_Ubuntu/02_16/09_chrome_remote_desktop/01_install_chrome_remote_desktop.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.10 [cpu monitor : cat cpu_info](01_Ubuntu/02_16/10_cpu/01_cpu_info.md)  
@@ -200,9 +201,7 @@ UNIX
 ║&ensp;&ensp;&nbsp;╠══ 3.9 [MatLab : Install ToolBox wfdb-app-toolbox](03_Mac/09_MatLab/01_install_ToolBox_of_MatLab.md)  
 ║&ensp;&ensp;&nbsp;╠══ 3.10 [Picture : resize picture](03_Mac/10_Picture/01_resize_of_picture.md)  
 ║&ensp;&ensp;&nbsp;╠══ 3.11 [Proxy : use proxy](03_Mac/11_Proxy/01_use_proxy.md)  
-║&ensp;&ensp;&nbsp;╠══ 11_Python  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_with_Conda  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 01_Matplotlib_backends_RuntimeError.md  
+║&ensp;&ensp;&nbsp;╠══ 3.12 [Python : Matplotlib Backends RuntimeError](03_Mac/12_Python/01_with_Conda/01_Matplotlib_backends_RuntimeError.md)  
 ║&ensp;&ensp;&nbsp;╠══ 12_sed  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_sed_remove_CRLF_to_LF.md  
 ║&ensp;&ensp;&nbsp;╠══ 13_tree  
@@ -240,7 +239,6 @@ UNIX
 
 |OS        | Contents              | Detail                                                                                                                          |
 |----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|          | Python                | [Python3.5 on conda : Matplotlib Backends RuntimeError](03_Mac/12_Python/01_with_Conda/01_Matplotlib_backends_RuntimeError.md)  |
 |          | sed                   | [move CRLF to LF](03_Mac/13_sed/01_sed_remove_CRLF_to_LF.md)                                                                    |
 |          | shasum                | [shasum : get checksum sha1](03_Mac/14_shasum/01_use_shasum_for_sha1.md)                                                        |
 |          | tree                  | [install and use tree](03_Mac/15_tree/01_install_use_tree_on_mac.md)                                                            |
