@@ -199,8 +199,7 @@ UNIX
 ║&ensp;&ensp;&nbsp;╠══ 3.8 [ITerm2 : ShortKey](03_Mac/08_ITerm2/01_short_key_of_iterm2_on_mac.md)  
 ║&ensp;&ensp;&nbsp;╠══ 3.9 [MatLab : Install ToolBox wfdb-app-toolbox](03_Mac/09_MatLab/01_install_ToolBox_of_MatLab.md)  
 ║&ensp;&ensp;&nbsp;╠══ 3.10 [Picture : resize picture](03_Mac/10_Picture/01_resize_of_picture.md)  
-║&ensp;&ensp;&nbsp;╠══ 10_Proxy  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_use_proxy.md  
+║&ensp;&ensp;&nbsp;╠══ 3.11 [Proxy : use proxy](03_Mac/11_Proxy/01_use_proxy.md)  
 ║&ensp;&ensp;&nbsp;╠══ 11_Python  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_with_Conda  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 01_Matplotlib_backends_RuntimeError.md  
@@ -241,7 +240,6 @@ UNIX
 
 |OS        | Contents              | Detail                                                                                                                          |
 |----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|          | Proxy                 | [use proxy](03_Mac/11_Proxy/01_use_proxy.md)                                                                                    |
 |          | Python                | [Python3.5 on conda : Matplotlib Backends RuntimeError](03_Mac/12_Python/01_with_Conda/01_Matplotlib_backends_RuntimeError.md)  |
 |          | sed                   | [move CRLF to LF](03_Mac/13_sed/01_sed_remove_CRLF_to_LF.md)                                                                    |
 |          | shasum                | [shasum : get checksum sha1](03_Mac/14_shasum/01_use_shasum_for_sha1.md)                                                        |
