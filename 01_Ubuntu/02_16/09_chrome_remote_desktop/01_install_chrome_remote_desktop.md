@@ -1,15 +1,6 @@
+# install and configure
 ```{bash}
-$ vi ~/.chrome-remote-desktop-session
-# https://support.google.com/chrome/answer/1649523?hl=en
-DESKTOP_SESSION=ubuntu XDG_CURRENT_DESKTOP=Unity XDG_RUNTIME_DIR=/run/user/$(id -u) exec /usr/sbin/lightdm-session 'gnome-session --session=ubuntu'
-# https://linuxcommando.blogspot.com/2014/08/chrome-remote-desktop-connects-from.html
-# exec gnome-session
-
-# $ cat >> ~/.profile
-# export CHROME_REMOTE_DESKTOP_DEFAULT_DESKTOP_SIZES=1024x768
-
 $ wget http://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
-
 $ sudo dpkg -i chrome-remote-desktop_current_amd64.deb
 ...
 dpkg: dependency problems prevent configuration of chrome-remote-desktop:
@@ -23,4 +14,14 @@ dpkg: dependency problems prevent configuration of chrome-remote-desktop:
 ...
 
 $ sudo apt-get -f install
+
+$ vi ~/.chrome-remote-desktop-session
+DESKTOP_SESSION=ubuntu XDG_CURRENT_DESKTOP=Unity XDG_RUNTIME_DIR=/run/user/$(id -u) exec /usr/sbin/lightdm-session 'gnome-session --session=ubuntu'
+
+$ sudo reboot
+```
+
+# Ref
+```{bash}
+https://support.google.com/chrome/answer/1649523?hl=en
 ```
