@@ -202,8 +202,7 @@ UNIX
 ║&ensp;&ensp;&nbsp;╠══ 3.10 [Picture : resize picture](03_Mac/10_Picture/01_resize_of_picture.md)  
 ║&ensp;&ensp;&nbsp;╠══ 3.11 [Proxy : use proxy](03_Mac/11_Proxy/01_use_proxy.md)  
 ║&ensp;&ensp;&nbsp;╠══ 3.12 [Python : Matplotlib Backends RuntimeError](03_Mac/12_Python/01_with_Conda/01_Matplotlib_backends_RuntimeError.md)  
-║&ensp;&ensp;&nbsp;╠══ 12_sed  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_sed_remove_CRLF_to_LF.md  
+║&ensp;&ensp;&nbsp;╠══ 3.13 [sed : move CRLF to LF](03_Mac/13_sed/01_sed_remove_CRLF_to_LF.md)  
 ║&ensp;&ensp;&nbsp;╠══ 13_tree  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_install_use_tree_on_mac.md  
 ║&ensp;&ensp;&nbsp;╠══ 14_vim  
@@ -239,7 +238,6 @@ UNIX
 
 |OS        | Contents              | Detail                                                                                                                          |
 |----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|          | sed                   | [move CRLF to LF](03_Mac/13_sed/01_sed_remove_CRLF_to_LF.md)                                                                    |
 |          | shasum                | [shasum : get checksum sha1](03_Mac/14_shasum/01_use_shasum_for_sha1.md)                                                        |
 |          | tree                  | [install and use tree](03_Mac/15_tree/01_install_use_tree_on_mac.md)                                                            |
 |          | vim                   | [ComLine-Mode : vim move line](03_Mac/16_vim/03_CmdLine-Mode/01_vim_move_line.md)                                               |
