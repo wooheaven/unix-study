@@ -91,41 +91,8 @@ $ python3 -V
 Python 3.5.2
 ```
 
-# install python3.6
-```{bash}
-$ sudo add-apt-repository ppa:jonathonf/python-3.6
-$ sudo apt-get update
-$ sudo apt-get install python3.6
-$ sudo apt-get install python3.6-venv # for virtual env of python3.6
-
-$ which python3.6
-/usr/bin/python3.6
-
-$ ll /usr/bin/python3.6
--rwxr-xr-x 2 root root 4604416 Oct 26 08:03 /usr/bin/python3.6*
-
-$ python3.6 -V
-Python 3.6.7
-```
-
 # warn python, python2, python3
 ```{text}
 Gnome bug happen if the environment for python, python2, python3 is changed.
-So use python3.6 as python3.6 not python and python3.
+So use other version (such as python3.6) by brew or conda not built in python, python2, python3.
 ```
-
-# create python3.6 venv
-```{bash}
-$ python3.6 -m venv vnev
-
-$ source venv/bin/activate
-
-(venv) $ which python
-~/venv/bin/python
-
-(venv) $ python -V
-Python 3.6.7
-
-(venv) $ deactivate
-$
-``` 

@@ -106,7 +106,7 @@ UNIX
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.44.1 [parted list : check model of attached disks](01_Ubuntu/02_16/44_parted/01_parted_list.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.44.2 [swap partition : remove and create swap partition](01_Ubuntu/02_16/44_parted/02_parted_swap_partition.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.45 [passwd : root passwd update](01_Ubuntu/02_16/45_passwd/01_root_passwd.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.46 [Python : install python3.6 and create virtual env](01_Ubuntu/02_16/46_Python/01_configure_python_env_and_install_python3.6.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.46 [Python : configure python 2.7, 3.5 env](01_Ubuntu/02_16/46_Python/01_configure_python_2.7_3.5_env.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.47 rsync  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.47.1 [folder to folder](01_Ubuntu/02_16/47_rsync/01_rsync_folder_to_folder.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.47.2 [/home to other folder](01_Ubuntu/02_16/47_rsync/02_rsync_home_to_other.md)  
@@ -205,8 +205,7 @@ UNIX
 ║&ensp;&ensp;&nbsp;╠══ 3.12 [Python : Matplotlib Backends RuntimeError](03_Mac/12_Python/01_with_Conda/01_Matplotlib_backends_RuntimeError.md)  
 ║&ensp;&ensp;&nbsp;╠══ 3.13 [sed : move CRLF to LF](03_Mac/13_sed/01_sed_remove_CRLF_to_LF.md)  
 ║&ensp;&ensp;&nbsp;╠══ 3.14 [shasum : get checksum sha1](03_Mac/14_shasum/01_use_shasum_for_sha1.md)  
-║&ensp;&ensp;&nbsp;╠══ 13_tree  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_install_use_tree_on_mac.md  
+║&ensp;&ensp;&nbsp;╠══ 3.15 [tree : install and use](03_Mac/15_tree/01_install_use_tree_on_mac.md)  
 ║&ensp;&ensp;&nbsp;╠══ 14_vim  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 03_CmdLine-Mode  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 01_vim_move_line.md  
@@ -240,7 +239,6 @@ UNIX
 
 |OS        | Contents              | Detail                                                                                                                          |
 |----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|          | tree                  | [install and use tree](03_Mac/15_tree/01_install_use_tree_on_mac.md)                                                            |
 |          | vim                   | [ComLine-Mode : vim move line](03_Mac/16_vim/03_CmdLine-Mode/01_vim_move_line.md)                                               |
 |          |                       | [CmdLine-Mode : vim save as other file](03_Mac/16_vim/03_CmdLine-Mode/02_vim_save_as_other_File.md)                             |
 |          |                       | [ETC : color](03_Mac/16_vim/04_ETC/01_vimrc_color_molokai.md)                                                                   |
