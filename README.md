@@ -162,12 +162,13 @@ UNIX
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.68.1 [vnc4server : remote control ubuntu](01_Ubuntu/02_16/68_vnc4server/01_install_config_vnc4server.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.68.2 [vncserver : remote access sharing](01_Ubuntu/02_16/68_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.69 [Window : resize shortcut](01_Ubuntu/02_16/69_window/01_resize_window.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.70 [xclip : install and use](01_Ubuntu/02_16/70_xclip/01_install_and_use_xclip.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.71 [xwininfo : get window size](01_Ubuntu/02_16/71_xwininfo/01_use_xwininfo.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.72 xz  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.72.1 [xz : compress file](01_Ubuntu/02_16/72_xz/01_xz_compress.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.72.2 [xz : decompress file](01_Ubuntu/02_16/72_xz/02_xz_decompress.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 1.2.73 [zip : compress and uncompress directory](01_Ubuntu/02_16/73_zip/01_zip_directory.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.70 [x2go : install](01_Ubuntu/02_16/70_x2go/01_install_x2go_server_on_ubuntu16.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.71 [xclip : install and use](01_Ubuntu/02_16/71_xclip/01_install_and_use_xclip.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.72 [xwininfo : get window size](01_Ubuntu/02_16/72_xwininfo/01_use_xwininfo.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.73 xz  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.73.1 [xz : compress file](01_Ubuntu/02_16/73_xz/01_xz_compress.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.73.2 [xz : decompress file](01_Ubuntu/02_16/73_xz/02_xz_decompress.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 1.2.74 [zip : compress and uncompress directory](01_Ubuntu/02_16/74_zip/01_zip_directory.md)  
 ╠══ 2 CentOS  
 ║&ensp;&ensp;&nbsp;╚══ 2.1 CentOS 6.9  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 2.1.1 [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)  
@@ -209,8 +210,8 @@ UNIX
 ║&ensp;&ensp;&nbsp;╠══ 3.15 [tree : install and use](03_Mac/15_tree/01_install_use_tree_on_mac.md)  
 ║&ensp;&ensp;&nbsp;╠══ 3.16 vim  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 03_CmdLine-Mode  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ [vim move line](03_Mac/16_vim/03_CmdLine-Mode/01_vim_move_line.md)  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 02_vim_save_as_other_File.md  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ [vim : move line](03_Mac/16_vim/03_CmdLine-Mode/01_vim_move_line.md)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ [vim : save as other file](03_Mac/16_vim/03_CmdLine-Mode/02_vim_save_as_other_File.md)  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 04_ETC  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 01_vimrc_color_molokai.md  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 02_vim_diff.md  
@@ -240,7 +241,6 @@ UNIX
 
 |OS        | Contents              | Detail                                                                                                                          |
 |----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|          |                       | [CmdLine-Mode : vim save as other file](03_Mac/16_vim/03_CmdLine-Mode/02_vim_save_as_other_File.md)                             |
 |          |                       | [ETC : color](03_Mac/16_vim/04_ETC/01_vimrc_color_molokai.md)                                                                   |
 |          |                       | [ETC : vim diff](03_Mac/16_vim/04_ETC/02_vim_diff.md)                                                                           |
 |          |                       | [ETC : vim diff refresh](03_Mac/16_vim/04_ETC/03_vim_diff_refresh.md)                                                           |
