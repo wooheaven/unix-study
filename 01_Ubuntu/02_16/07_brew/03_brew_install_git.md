@@ -16,7 +16,9 @@ $ vi ~/.bashrc
 ...
 # linux brew
 #eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv) # duplicated by below $PATH variable
-PATH="/home/linuxbrew/.linuxbrew/bin:$PATH"
+PATH="$PATH:/home/linuxbrew/.linuxbrew/bin"
+
+# brew git completion
 source /home/linuxbrew/.linuxbrew/Cellar/git/2.20.1/etc/bash_completion.d/git-completion.bash
 
 $ sudo reboot # or log out and log in
