@@ -198,22 +198,23 @@ UNIX
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.5.3 [find : sed CRLF to LF](03_Mac/05_find/03_find_and_sed_move_CRLF_to_LF.md)  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.5.4 [find : sed TAB to 4Spaces](03_Mac/05_find/04_find_and_sed_move_TAB_to_4SPACES.md)  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 3.5.5 [find : file size](03_Mac/05_find/05_find_with_fileSize.md)  
-║&ensp;&ensp;&nbsp;╠══ 3.6 [hdiutil : create bootable Usb for ubuntu](03_Mac/06_installer_usb/01_create_installer_usb_for_ubuntu16_server.md)  
-║&ensp;&ensp;&nbsp;╠══ 3.7 [IntelliJ : Shortcut](03_Mac/07_IntelliJ/01_Shortcuts.md)  
-║&ensp;&ensp;&nbsp;╠══ 3.8 [ITerm2 : ShortKey](03_Mac/08_ITerm2/01_short_key_of_iterm2_on_mac.md)  
-║&ensp;&ensp;&nbsp;╠══ 3.9 [MatLab : Install ToolBox wfdb-app-toolbox](03_Mac/09_MatLab/01_install_ToolBox_of_MatLab.md)  
-║&ensp;&ensp;&nbsp;╠══ 3.10 [Picture : resize picture](03_Mac/10_Picture/01_resize_of_picture.md)  
-║&ensp;&ensp;&nbsp;╠══ 3.11 [Proxy : use proxy](03_Mac/11_Proxy/01_use_proxy.md)  
-║&ensp;&ensp;&nbsp;╠══ 3.12 [Python : Matplotlib Backends RuntimeError](03_Mac/12_Python/01_with_Conda/01_Matplotlib_backends_RuntimeError.md)  
-║&ensp;&ensp;&nbsp;╠══ 3.13 [sed : move CRLF to LF](03_Mac/13_sed/01_sed_remove_CRLF_to_LF.md)  
-║&ensp;&ensp;&nbsp;╠══ 3.14 [shasum : get checksum sha1](03_Mac/14_shasum/01_use_shasum_for_sha1.md)  
-║&ensp;&ensp;&nbsp;╠══ 3.15 [tree : install and use](03_Mac/15_tree/01_install_use_tree_on_mac.md)  
-║&ensp;&ensp;&nbsp;╠══ 3.16 vim  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 03_CmdLine-Mode  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ [vim : move line](03_Mac/16_vim/03_CmdLine-Mode/01_vim_move_line.md)  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ [vim : save as other file](03_Mac/16_vim/03_CmdLine-Mode/02_vim_save_as_other_File.md)  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 04_ETC  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 01_vimrc_color_molokai.md  
+║&ensp;&ensp;&nbsp;╠══ 3.6 [go : install](03_Mac/06_go/01_install_go_on_mac.md)  
+║&ensp;&ensp;&nbsp;╠══ 3.7 [hdiutil : create bootable Usb for ubuntu](03_Mac/07_installer_usb/01_create_installer_usb_for_ubuntu16_server.md)  
+║&ensp;&ensp;&nbsp;╠══ 3.8 [IntelliJ : Shortcut](03_Mac/08_IntelliJ/01_Shortcuts.md)  
+║&ensp;&ensp;&nbsp;╠══ 3.9 [ITerm2 : ShortKey](03_Mac/09_ITerm2/01_short_key_of_iterm2_on_mac.md)  
+║&ensp;&ensp;&nbsp;╠══ 3.10 [MatLab : Install ToolBox wfdb-app-toolbox](03_Mac/10_MatLab/01_install_ToolBox_of_MatLab.md)  
+║&ensp;&ensp;&nbsp;╠══ 3.11 [Picture : resize picture](03_Mac/11_Picture/01_resize_of_picture.md)  
+║&ensp;&ensp;&nbsp;╠══ 3.12 [Proxy : use proxy](03_Mac/12_Proxy/01_use_proxy.md)  
+║&ensp;&ensp;&nbsp;╠══ 3.13 [Python : Matplotlib Backends RuntimeError](03_Mac/13_Python/01_with_Conda/01_Matplotlib_backends_RuntimeError.md)  
+║&ensp;&ensp;&nbsp;╠══ 3.14 [sed : move CRLF to LF](03_Mac/14_sed/01_sed_remove_CRLF_to_LF.md)  
+║&ensp;&ensp;&nbsp;╠══ 3.15 [shasum : get checksum sha1](03_Mac/15_shasum/01_use_shasum_for_sha1.md)  
+║&ensp;&ensp;&nbsp;╠══ 3.16 [tree : install and use](03_Mac/16_tree/01_install_use_tree_on_mac.md)  
+║&ensp;&ensp;&nbsp;╠══ 3.17 vim  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.17.3 CmdLine-Mode  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.17.3.1 [vim : move line](03_Mac/17_vim/03_CmdLine-Mode/01_vim_move_line.md)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 3.17.3.2 [vim : save as other file](03_Mac/17_vim/03_CmdLine-Mode/02_vim_save_as_other_File.md)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 3.17.4 ETC  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 3.17.4.1 [ETC : color molokai](03_Mac/17_vim/04_ETC/01_vimrc_color_molokai.md)  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 02_vim_diff.md  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 03_vim_diff_refresh.md  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 04_vimrc.md  
@@ -241,13 +242,12 @@ UNIX
 
 |OS        | Contents              | Detail                                                                                                                          |
 |----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|          |                       | [ETC : color](03_Mac/16_vim/04_ETC/01_vimrc_color_molokai.md)                                                                   |
-|          |                       | [ETC : vim diff](03_Mac/16_vim/04_ETC/02_vim_diff.md)                                                                           |
-|          |                       | [ETC : vim diff refresh](03_Mac/16_vim/04_ETC/03_vim_diff_refresh.md)                                                           |
-|          |                       | [ETC : cat ~/.vimrc](03_Mac/16_vim/04_ETC/04_vimrc.md)                                                                          |
-|          | vnc                   | [vnc client : Connect to vnc server](03_Mac/17_vnc_client/01_use_vnc_client.md)                                                 |
-|          | zip                   | [zip : compress folder](03_Mac/18_zip/01_zip_folder.md)                                                                         |
-|          |                       | [zip : splited compress](03_Mac/18_zip/02_zip_splited_compress.md)                                                              |
-|          |                       | [zip : exclude](03_Mac/18_zip/03_zip_exclude.md)                                                                                |
-|          | Zsh                   | [~/.bash_profile ~/.bashrc ~/.zshrc : Configure with non-login/login](03_Mac/19_zsh/01_explain_of_bash_profile_bashrc_zshrc.md) |
-|          |                       | [~/.zshrc : example of .zshrc](03_Mac/19_zsh/02_example_of_zshrc.md)                                                            |
+|          |                       | [ETC : vim diff](03_Mac/17_vim/04_ETC/02_vim_diff.md)                                                                           |
+|          |                       | [ETC : vim diff refresh](03_Mac/17_vim/04_ETC/03_vim_diff_refresh.md)                                                           |
+|          |                       | [ETC : cat ~/.vimrc](03_Mac/17_vim/04_ETC/04_vimrc.md)                                                                          |
+|          | vnc                   | [vnc client : Connect to vnc server](03_Mac/18_vnc_client/01_use_vnc_client.md)                                                 |
+|          | zip                   | [zip : compress folder](03_Mac/19_zip/01_zip_folder.md)                                                                         |
+|          |                       | [zip : splited compress](03_Mac/19_zip/02_zip_splited_compress.md)                                                              |
+|          |                       | [zip : exclude](03_Mac/19_zip/03_zip_exclude.md)                                                                                |
+|          | Zsh                   | [~/.bash_profile ~/.bashrc ~/.zshrc : Configure with non-login/login](03_Mac/20_zsh/01_explain_of_bash_profile_bashrc_zshrc.md) |
+|          |                       | [~/.zshrc : example of .zshrc](03_Mac/20_zsh/02_example_of_zshrc.md)                                                            |

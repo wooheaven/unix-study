@@ -1,5 +1,6 @@
-startNum=$1
-endNum=$2
+fieldNum=$1
+startNum=$2
+endNum=$3
 
 for (( lineNum=$endNum; lineNum>=$startNum; lineNum-- )) do
 
@@ -8,7 +9,11 @@ for (( lineNum=$endNum; lineNum>=$startNum; lineNum-- )) do
 
     # save values to variables
     oldStr=`sed -n ${lineNum}p README.md | awk 'BEGIN{FS=OFS=" "} {print $2}'`
-    tmpNum=`sed -n ${lineNum}p README.md | awk 'BEGIN{FS=OFS=" "} {print $2}' | awk 'BEGIN{FS=OFS="."} {print $3}'`
+    if [ $fieldNum == "2" ]; then
+        tmpNum=`sed -n ${lineNum}p README.md | awk 'BEGIN{FS=OFS=" "} {print $2}' | awk 'BEGIN{FS=OFS="."} {print $2}'`
+    elif [ $fieldNum == "3" ]; then
+        tmpNum=`sed -n ${lineNum}p README.md | awk 'BEGIN{FS=OFS=" "} {print $2}' | awk 'BEGIN{FS=OFS="."} {print $3}'`
+    fi
     newNum=`echo $tmpNum | awk '{print $1+1}'`
     newStr=`sed -n ${lineNum}p README.md | awk 'BEGIN{FS=OFS=" "} {print $2}' | sed -e "s/${tmpNum}/${newNum}/"`
 
