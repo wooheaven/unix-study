@@ -217,7 +217,7 @@ UNIX
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 3.17.4 ETC  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 3.17.4.1 [color molokai](03_Mac/17_vim/04_ETC/01_vimrc_color_molokai.md)  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 3.17.4.2 [vim diff](03_Mac/17_vim/04_ETC/02_vim_diff.md)  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 03_vim_diff_refresh.md  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 3.17.4.3 [vim diff refresh](03_Mac/17_vim/04_ETC/03_vim_diff_refresh.md)  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 04_vimrc.md  
 ║&ensp;&ensp;&nbsp;╠══ 15_vnc_client  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_use_vnc_client.md  
@@ -230,20 +230,17 @@ UNIX
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 02_example_of_zshrc.md  
 ║&ensp;&ensp;&nbsp;╚══ reNumberFolder.sh  
 ╠══ 99_Utility  
-║&ensp;&ensp;&nbsp;╠══ 01_modify_README.sh  
-║&ensp;&ensp;&nbsp;╠══ 97_update_README-html.sh  
-║&ensp;&ensp;&nbsp;╠══ Auto_README.html  
-║&ensp;&ensp;&nbsp;╠══ Auto_README.json  
-║&ensp;&ensp;&nbsp;╠══ Auto_README.md  
+║&ensp;&ensp;&nbsp;╠══ 01_tree_to_contents.sh  
+║&ensp;&ensp;&nbsp;╠══ 02_modify_contents.py  
+║&ensp;&ensp;&nbsp;╠══ 03_modify_number_of_file_on_README.sh  
+║&ensp;&ensp;&nbsp;╠══ 04_modify_number_of_head_on_README.sh  
 ║&ensp;&ensp;&nbsp;╠══ change_A_to_B.txt  
-║&ensp;&ensp;&nbsp;╠══ readme-align.py  
-║&ensp;&ensp;&nbsp;╚══ table-of-contents.txt  
+║&ensp;&ensp;&nbsp;╚══ contents.txt  
 ╚══ README.md  
 ( ║ ╠ ═ ╚ )  
 
 |OS        | Contents              | Detail                                                                                                                          |
 |----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|          |                       | [ETC : vim diff refresh](03_Mac/17_vim/04_ETC/03_vim_diff_refresh.md)                                                           |
 |          |                       | [ETC : cat ~/.vimrc](03_Mac/17_vim/04_ETC/04_vimrc.md)                                                                          |
 |          | vnc                   | [vnc client : Connect to vnc server](03_Mac/18_vnc_client/01_use_vnc_client.md)                                                 |
 |          | zip                   | [zip : compress folder](03_Mac/19_zip/01_zip_folder.md)                                                                         |
