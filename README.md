@@ -219,8 +219,7 @@ UNIX
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 3.17.4.2 [vim diff](03_Mac/17_vim/04_ETC/02_vim_diff.md)  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 3.17.4.3 [vim diff refresh](03_Mac/17_vim/04_ETC/03_vim_diff_refresh.md)  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 3.17.4.4 [ETC : cat ~/.vimrc](03_Mac/17_vim/04_ETC/04_vimrc.md)  
-║&ensp;&ensp;&nbsp;╠══ 15_vnc_client  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_use_vnc_client.md  
+║&ensp;&ensp;&nbsp;╠══ 3.18 [vnc client : Connect to vnc server](03_Mac/18_vnc_client/01_use_vnc_client.md)  
 ║&ensp;&ensp;&nbsp;╠══ 16_zip  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 01_zip_folder.md  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 02_zip_splited_compress.md  
@@ -241,7 +240,6 @@ UNIX
 
 |OS        | Contents              | Detail                                                                                                                          |
 |----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|          | vnc                   | [vnc client : Connect to vnc server](03_Mac/18_vnc_client/01_use_vnc_client.md)                                                 |
 |          | zip                   | [zip : compress folder](03_Mac/19_zip/01_zip_folder.md)                                                                         |
 |          |                       | [zip : splited compress](03_Mac/19_zip/02_zip_splited_compress.md)                                                              |
 |          |                       | [zip : exclude](03_Mac/19_zip/03_zip_exclude.md)                                                                                |

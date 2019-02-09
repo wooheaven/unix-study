@@ -4,6 +4,20 @@ http://webnautes.tistory.com/1030
 https://www.learnopencv.com/opencv-installation-on-ubuntu-macos-windows-and-raspberry-pi/
 ```
 
+# remove installed opencv
+```{bash}
+$ pkg-config --modversion opencv
+3.4.0
+
+$ sudo apt-get purge  libopencv* python-opencv
+$ sudo apt-get autoremove
+```
+
+# remove source code of opencv
+```{bash}
+$ rm -rf opencv-3.4.0/ opencv_contrib-3.4.0/ opencv.zip opencv_contrib.zip
+```
+
 # Install package
 ```
 sudo apt-get install build-essential cmake
