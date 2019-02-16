@@ -26,7 +26,8 @@ UNIX
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.5.3 [remove blank line](01_Ubuntu/02_16/05_awk/03_awk_remove_blank_line.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.5.4 [use external argument](01_Ubuntu/02_16/05_awk/04_awk_use_external_argument.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.5.5 [use variable in awk](01_Ubuntu/02_16/05_awk/05_awk_use_variable.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.5.6 [substr](01_Ubuntu/02_16/05_awk/06_awk_substr.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.5.6 [substr](01_Ubuntu/02_16/05_awk/06_awk_substr.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.5.7 [max min](01_Ubuntu/02_16/05_awk/07_awk_max_min.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.6 bash  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.6.1 [while statement](01_Ubuntu/02_16/06_bash/01_While_Statement.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.6.2 [1st argument existence check](01_Ubuntu/02_16/06_bash/02_if_condition_1st_argument_existence_check.md)   
@@ -220,8 +221,8 @@ UNIX
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 3.17.4.3 [vim diff refresh](03_Mac/17_vim/04_ETC/03_vim_diff_refresh.md)  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 3.17.4.4 [ETC : cat ~/.vimrc](03_Mac/17_vim/04_ETC/04_vimrc.md)  
 ║&ensp;&ensp;&nbsp;╠══ 3.18 [vnc client : Connect to vnc server](03_Mac/18_vnc_client/01_use_vnc_client.md)  
-║&ensp;&ensp;&nbsp;╠══ 16_zip  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 01_zip_folder.md  
+║&ensp;&ensp;&nbsp;╠══ 3.19 zip  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.19.1 [zip : compress folder](03_Mac/19_zip/01_zip_folder.md)  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 02_zip_splited_compress.md  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 03_zip_exclude.md  
 ║&ensp;&ensp;&nbsp;╠══ 17_zsh  
@@ -240,7 +241,6 @@ UNIX
 
 |OS        | Contents              | Detail                                                                                                                          |
 |----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|          | zip                   | [zip : compress folder](03_Mac/19_zip/01_zip_folder.md)                                                                         |
 |          |                       | [zip : splited compress](03_Mac/19_zip/02_zip_splited_compress.md)                                                              |
 |          |                       | [zip : exclude](03_Mac/19_zip/03_zip_exclude.md)                                                                                |
 |          | Zsh                   | [~/.bash_profile ~/.bashrc ~/.zshrc : Configure with non-login/login](03_Mac/20_zsh/01_explain_of_bash_profile_bashrc_zshrc.md) |
