@@ -25,3 +25,20 @@ $ sudo reboot
 ```{bash}
 https://support.google.com/chrome/answer/1649523?hl=en
 ```
+
+# reuse same session
+```{bash}
+$ sudo vi /opt/google/chrome-remote-desktop
+...
+# FIRST_X_DISPLAY_NUMBER = 20
+FIRST_X_DISPLAY_NUMBER = 0
+...
+def get_unused_display_number():
+    """Return a candidate display number for which there is currently no
+    X Server lock file"""
+    display = FIRST_X_DISPLAY_NUMBER
+    # while os.path.exists(X_LOCK_FILE_TEMPLATE % display):
+    # display += 1
+    return display
+...
+```
