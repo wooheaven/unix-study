@@ -225,9 +225,9 @@ UNIX
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.19.1 [zip : compress folder](03_Mac/19_zip/01_zip_folder.md)  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.19.2 [zip : splited compress](03_Mac/19_zip/02_zip_splited_compress.md)  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 3.19.3 [zip : exclude](03_Mac/19_zip/03_zip_exclude.md)  
-║&ensp;&ensp;&nbsp;╠══ 17_zsh  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 01_explain_of_bash_profile_bashrc_zshrc.md  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 02_example_of_zshrc.md  
+║&ensp;&ensp;&nbsp;╠══ 3.20 zsh  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.20.1 [~/.bash_profile ~/.bashrc ~/.zshrc : Configure with non-login/login](03_Mac/20_zsh/01_explain_of_bash_profile_bashrc_zshrc.md)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 3.20.2 [~/.zshrc : example of .zshrc](03_Mac/20_zsh/02_example_of_zshrc.md)  
 ║&ensp;&ensp;&nbsp;╚══ reNumberFolder.sh  
 ╠══ 99_Utility  
 ║&ensp;&ensp;&nbsp;╠══ 01_tree_to_contents.sh  
@@ -239,7 +239,3 @@ UNIX
 ╚══ README.md  
 ( ║ ╠ ═ ╚ )  
 
-|OS        | Contents              | Detail                                                                                                                          |
-|----------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|          | Zsh                   | [~/.bash_profile ~/.bashrc ~/.zshrc : Configure with non-login/login](03_Mac/20_zsh/01_explain_of_bash_profile_bashrc_zshrc.md) |
-|          |                       | [~/.zshrc : example of .zshrc](03_Mac/20_zsh/02_example_of_zshrc.md)                                                            |
