@@ -30,4 +30,17 @@ let @t=':s/\t/    /g'
 
 " Python 
 autocmd FileType python exec 'setlocal expandtab ts=4 sw=4 ai nu list'
+
+" vundle
+set nocompatible
+filetype off
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+Plugin 'VundleVim/Vundle.vim'
+Plugin 'scrooloose/nerdtree'
+call vundle#end()
+filetype plugin indent on
+
+" NERD tree shortcut
+nmap <F3> :NERDTreeToggle<CR>
 ```
