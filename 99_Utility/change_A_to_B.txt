@@ -1,3 +1,9 @@
-99_Utility/01_modify_number_of_file_on_README.sh -> 99_Utility/03_modify_number_of_file_on_README.sh
-99_Utility/02_modify_number_of_head_on_README.sh -> 99_Utility/04_modify_number_of_head_on_README.sh
-99_Utility/table-of-contents.txt -> 99_Utility/contents.txt
+03_Mac/02_brew/01_install_brew.md -> 03_Mac/02_brew/00_install_brew_on_mac.md
+03_Mac/02_brew/02_brew_install_maven.md -> 03_Mac/02_brew/01_install/01_brew_install_maven.md
+03_Mac/02_brew/03_brew_install_iterm2.md -> 03_Mac/02_brew/01_install/02_brew_install_iterm2.md
+03_Mac/02_brew/04_brew_install_zsh.md -> 03_Mac/02_brew/01_install/03_brew_install_zsh.md
+03_Mac/02_brew/05_brew_install_gnuplot.md -> 03_Mac/02_brew/01_install/04_brew_install_gnuplot.md
+03_Mac/02_brew/06_brew_install_jq.md -> 03_Mac/02_brew/01_install/05_brew_install_jq.md
+03_Mac/02_brew/07_brew_install_tree.md -> 03_Mac/02_brew/01_install/06_brew_install_tree.md
+03_Mac/02_brew/08_brew_install_python3.md -> 03_Mac/02_brew/01_install/07_brew_install_python3.md
+03_Mac/02_brew/09_brew_uninstall_node.md -> 03_Mac/02_brew/02_uninstall/01_brew_uninstall_node.md
