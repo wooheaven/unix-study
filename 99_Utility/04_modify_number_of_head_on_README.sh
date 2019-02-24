@@ -1,3 +1,5 @@
+#!/bin/bash
+
 fieldNum=$1
 startNum=$2
 endNum=$3
