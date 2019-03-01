@@ -88,90 +88,91 @@ UNIX
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.32.1 [jdk7 : install by apt](01_Ubuntu/02_16/32_Java/01_install_jdk7.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.32.2 [jdk8 : install by apt](01_Ubuntu/02_16/32_Java/02_install_jdk8.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.33 [jenv : java env manage](01_Ubuntu/02_16/33_jenv/01_install_and_use_jenv.md)   
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.34 [Libre Office : remove](01_Ubuntu/02_16/34_LibreOffice/01_remove_LibreOffice.md)   
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.35 LVM : [format and mount attached device](01_Ubuntu/02_16/35_LVM/01_LVM_on_attached_device.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.36 [memory : cat /proc/meminfo](01_Ubuntu/02_16/36_memory/01_memory_info.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.37 mkfs.ext4 : [make filesystem ext4](01_Ubuntu/02_16/37_mkfs.ext4/01_mkfs.ext4_device.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.38 mkfs.xfs : [make filesystem xfs](01_Ubuntu/02_16/38_mkfs.xfs/01_mkfs.xfs_device.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.39 mount  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.39.1 [remount /home to other disk](01_Ubuntu/02_16/39_mount/01_remount_home_to_other_disk.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.39.2 [remount /var to other disk](01_Ubuntu/02_16/39_mount/02_remount_var_to_other_disk.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.40 [mpstat : monitoring CPU's processors](01_Ubuntu/02_16/40_mpstat/01_mpstat.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.41 network  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.41.1 [static](01_Ubuntu/02_16/41_network/01_static/01_configure_static.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.41.2 [dhcp](01_Ubuntu/02_16/41_network/01_static/01_configure_static.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.41.3 [hostname : 127.0.1.1 why use this](01_Ubuntu/02_16/41_network/03_hostname/01_127.0.1.1.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.42 [nmap : port check](01_Ubuntu/02_16/42_nmap/01_install_use_nmap.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.43 [nohup : use](01_Ubuntu/02_16/43_nohup/01_use_nohup.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.44 [nvidia install : nvidia driver to keras](01_Ubuntu/02_16/44_nvidia/01_install_nvidia_driver_to_keras.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.45 [opencv : build and install opencv 3.4.0](01_Ubuntu/02_16/45_OpenCV/01_Build_OpenCV_3.4_with_opencv_contrib.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.46 [opera : save stream video as file](01_Ubuntu/02_16/46_Opera/01_save_stream_video_as_file.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.47 parted  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.47.1 [parted list : check model of attached disks](01_Ubuntu/02_16/47_parted/01_parted_list.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.47.2 [swap partition : remove and create swap partition](01_Ubuntu/02_16/47_parted/02_parted_swap_partition.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.48 [passwd : root passwd update](01_Ubuntu/02_16/48_passwd/01_root_passwd.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.49 [Python : configure python 2.7, 3.5 env](01_Ubuntu/02_16/49_Python/01_configure_python_2.7_3.5_env.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.50 rsync  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.50.1 [folder to folder](01_Ubuntu/02_16/50_rsync/01_rsync_folder_to_folder.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.50.2 [/home to other folder](01_Ubuntu/02_16/50_rsync/02_rsync_home_to_other.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.50.3 [rsync : /var to other folder](01_Ubuntu/02_16/50_rsync/03_rsync_var_to_other.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.51 [run-level : change](01_Ubuntu/02_16/51_run-level/01_change_run-level.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.52 sed  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.52.1 [remove \^M in text file](01_Ubuntu/02_16/52_sed/01_remove_^M_with_sed.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.52.2 [replace every 3rd comma to semicolon](01_Ubuntu/02_16/52_sed/02_replace_every_3rd_comma_to_semicolon.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.52.3 [space regular expression](01_Ubuntu/02_16/52_sed/03_space_regular_expression.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.53 [server : install server](01_Ubuntu/02_16/53_server/01_install_ubuntu16_server.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.54 snap  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.54.1 [snap : example install list refresh remove](01_Ubuntu/02_16/54_snap/01_snap_install_list_changes_refresh_remove.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.54.2 [snap : install and refresh pycharm](01_Ubuntu/02_16/54_snap/02_snap_install_refresh_pycharm.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.54.3 [snap : install anbox](01_Ubuntu/02_16/54_snap/03_snap_install_anbox.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.54.4 [snap : install intellij](01_Ubuntu/02_16/54_snap/04_snap_install_intellij.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.55 [sort : by key with Field and Chracter position](01_Ubuntu/02_16/55_sort/01_sort_key.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.56 ssh  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.56.1 [install](01_Ubuntu/02_16/56_ssh/01_install_ssh.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.56.2 [ssh-key : ssh login without passowrd](01_Ubuntu/02_16/56_ssh/02_add_publicKey_to_server.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.56.3 [enable root login](01_Ubuntu/02_16/56_ssh/03_enable_ssh_root_login.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.56.4 [pssh install : parallel-ssh](01_Ubuntu/02_16/56_ssh/04_install_pssh.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.56.5 [file rsymc by pssh : rsync and md5sum a file on cluster by pssh](01_Ubuntu/02_16/56_ssh/05_rsync_file_by_pssh.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.57 [StartUp Applications : add program](01_Ubuntu/02_16/57_Startup_Applications/01_add_programs.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.58 [Steam : Install on Ubuntu16](01_Ubuntu/02_16/58_Steam/01_install_Steam_on_ubuntu16.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.59 [Install Sublime Text 2](01_Ubuntu/02_16/59_sublime_text_2/01_install_sublime_text2.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.60 [substring : remove from beginning or back + long or short](01_Ubuntu/02_16/60_substring/01_substring_remove.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.61 [tac : read from bottom to top](01_Ubuntu/02_16/61_tac/01_tac.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.62 tar  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.62.1 [uncompress : tgz](01_Ubuntu/02_16/62_tar/01_uncompress_tgz.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.62.2 [compress : folder](01_Ubuntu/02_16/62_tar/02_compress_folder_by_tar.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.63 [tmux : install, configure, use](01_Ubuntu/02_16/63_tmux/01_tmux.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.64 [touch : accessed modified timestamp](01_Ubuntu/02_16/64_touch/01_modify_timestamp.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.65 [tzdata : time zone](01_Ubuntu/02_16/65_tzdata/01_timeZone.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.66 [unicode : box char](01_Ubuntu/02_16/66_unicode/01_box_char.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.67 [userdel](01_Ubuntu/02_16/67_userdel/01_userdel_hadoop.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.68 [usermod : add User to Group](01_Ubuntu/02_16/68_usermod/01_add_USER_to_GROUP.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.69 vim  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.69.1 Cmd-Mode  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.69.1.1 [Move Cursor](01_Ubuntu/02_16/69_vim/01_cmd-Mode/01_Move_Cursor.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 1.2.69.1.2 [Switch Line Up and Down](01_Ubuntu/02_16/69_vim/01_cmd-Mode/02_Switch_Line_Up_and_Down.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.69.2 CmdLine-Mode  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.69.2.1 [Move Line Up and Down](01_Ubuntu/02_16/69_vim/03_cmdLine-Mode/01_Move_Line_Up_and_Down.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.69.2.2 [save as other file](01_Ubuntu/02_16/69_vim/03_cmdLine-Mode/02_vim_save_as_other_File.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 1.2.69.2.3 [CRLF to LF](01_Ubuntu/02_16/69_vim/03_cmdLine-Mode/03_vim_CRLF_to_LF.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.69.3 ETC  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.69.3.1 [vimrc encoding UTF8 (Korean)](01_Ubuntu/02_16/69_vim/04_ETC/01_vimrc_encoding_korean.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.69.3.2 [vimrc append and save macro](01_Ubuntu/02_16/69_vim/04_ETC/02_vimrc_append_save_macro.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.69.3.3 [vim diff](01_Ubuntu/02_16/69_vim/04_ETC/03_vim_diff.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.69.3.4 [cat ~/.vimrc](01_Ubuntu/02_16/69_vim/04_ETC/04_vimrc.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 1.2.69.3.5 [color](01_Ubuntu/02_16/69_vim/04_ETC/05_vimrc_color.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.70 vncserver, vnc4server  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.70.1 [vnc4server : remote control ubuntu](01_Ubuntu/02_16/70_vnc4server/01_install_config_vnc4server.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.70.2 [vncserver : remote access sharing](01_Ubuntu/02_16/70_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.71 [Window : resize shortcut](01_Ubuntu/02_16/71_window/01_resize_window.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.72 [x2go : install](01_Ubuntu/02_16/72_x2go/01_install_x2go_server_on_ubuntu16.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.73 [xclip : install and use](01_Ubuntu/02_16/73_xclip/01_install_and_use_xclip.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.74 [xwininfo : get window size](01_Ubuntu/02_16/74_xwininfo/01_use_xwininfo.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.75 xz  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.75.1 [xz : compress file](01_Ubuntu/02_16/75_xz/01_xz_compress.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.75.2 [xz : decompress file](01_Ubuntu/02_16/75_xz/02_xz_decompress.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 1.2.76 [zip : compress and uncompress directory](01_Ubuntu/02_16/76_zip/01_zip_directory.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.34 [Keyboard : korean](01_Ubuntu/02_16/34_Keyboad/01_ubuntu16_keyboard_korean.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.35 [Libre Office : remove](01_Ubuntu/02_16/35_LibreOffice/01_remove_LibreOffice.md)   
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.36 LVM : [format and mount attached device](01_Ubuntu/02_16/36_LVM/01_LVM_on_attached_device.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.37 [memory : cat /proc/meminfo](01_Ubuntu/02_16/37_memory/01_memory_info.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.38 mkfs.ext4 : [make filesystem ext4](01_Ubuntu/02_16/38_mkfs.ext4/01_mkfs.ext4_device.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.39 mkfs.xfs : [make filesystem xfs](01_Ubuntu/02_16/39_mkfs.xfs/01_mkfs.xfs_device.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.40 mount  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.40.1 [remount /home to other disk](01_Ubuntu/02_16/40_mount/01_remount_home_to_other_disk.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.40.2 [remount /var to other disk](01_Ubuntu/02_16/40_mount/02_remount_var_to_other_disk.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.41 [mpstat : monitoring CPU's processors](01_Ubuntu/02_16/41_mpstat/01_mpstat.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.42 network  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.42.1 [static](01_Ubuntu/02_16/42_network/01_static/01_configure_static.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.42.2 [dhcp](01_Ubuntu/02_16/42_network/01_static/01_configure_static.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.42.3 [hostname : 127.0.1.1 why use this](01_Ubuntu/02_16/42_network/03_hostname/01_127.0.1.1.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.43 [nmap : port check](01_Ubuntu/02_16/43_nmap/01_install_use_nmap.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.44 [nohup : use](01_Ubuntu/02_16/44_nohup/01_use_nohup.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.45 [nvidia install : nvidia driver to keras](01_Ubuntu/02_16/45_nvidia/01_install_nvidia_driver_to_keras.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.46 [opencv : build and install opencv 3.4.0](01_Ubuntu/02_16/46_OpenCV/01_Build_OpenCV_3.4_with_opencv_contrib.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.47 [opera : save stream video as file](01_Ubuntu/02_16/47_Opera/01_save_stream_video_as_file.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.48 parted  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.48.1 [parted list : check model of attached disks](01_Ubuntu/02_16/48_parted/01_parted_list.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.48.2 [swap partition : remove and create swap partition](01_Ubuntu/02_16/48_parted/02_parted_swap_partition.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.49 [passwd : root passwd update](01_Ubuntu/02_16/49_passwd/01_root_passwd.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.50 [Python : configure python 2.7, 3.5 env](01_Ubuntu/02_16/50_Python/01_configure_python_2.7_3.5_env.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.51 rsync  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.51.1 [folder to folder](01_Ubuntu/02_16/51_rsync/01_rsync_folder_to_folder.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.51.2 [/home to other folder](01_Ubuntu/02_16/51_rsync/02_rsync_home_to_other.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.51.3 [rsync : /var to other folder](01_Ubuntu/02_16/51_rsync/03_rsync_var_to_other.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.52 [run-level : change](01_Ubuntu/02_16/52_run-level/01_change_run-level.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.53 sed  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.53.1 [remove \^M in text file](01_Ubuntu/02_16/53_sed/01_remove_^M_with_sed.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.53.2 [replace every 3rd comma to semicolon](01_Ubuntu/02_16/53_sed/02_replace_every_3rd_comma_to_semicolon.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.53.3 [space regular expression](01_Ubuntu/02_16/53_sed/03_space_regular_expression.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.54 [server : install server](01_Ubuntu/02_16/54_server/01_install_ubuntu16_server.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.55 snap  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.55.1 [snap : example install list refresh remove](01_Ubuntu/02_16/55_snap/01_snap_install_list_changes_refresh_remove.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.55.2 [snap : install and refresh pycharm](01_Ubuntu/02_16/55_snap/02_snap_install_refresh_pycharm.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.55.3 [snap : install anbox](01_Ubuntu/02_16/55_snap/03_snap_install_anbox.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.55.4 [snap : install intellij](01_Ubuntu/02_16/55_snap/04_snap_install_intellij.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.56 [sort : by key with Field and Chracter position](01_Ubuntu/02_16/56_sort/01_sort_key.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.57 ssh  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.57.1 [install](01_Ubuntu/02_16/57_ssh/01_install_ssh.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.57.2 [ssh-key : ssh login without passowrd](01_Ubuntu/02_16/57_ssh/02_add_publicKey_to_server.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.57.3 [enable root login](01_Ubuntu/02_16/57_ssh/03_enable_ssh_root_login.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.57.4 [pssh install : parallel-ssh](01_Ubuntu/02_16/57_ssh/04_install_pssh.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.57.5 [file rsymc by pssh : rsync and md5sum a file on cluster by pssh](01_Ubuntu/02_16/57_ssh/05_rsync_file_by_pssh.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.58 [StartUp Applications : add program](01_Ubuntu/02_16/58_Startup_Applications/01_add_programs.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.59 [Steam : Install on Ubuntu16](01_Ubuntu/02_16/59_Steam/01_install_Steam_on_ubuntu16.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.60 [Install Sublime Text 2](01_Ubuntu/02_16/60_sublime_text_2/01_install_sublime_text2.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.61 [substring : remove from beginning or back + long or short](01_Ubuntu/02_16/61_substring/01_substring_remove.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.62 [tac : read from bottom to top](01_Ubuntu/02_16/62_tac/01_tac.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.63 tar  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.63.1 [uncompress : tgz](01_Ubuntu/02_16/63_tar/01_uncompress_tgz.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.63.2 [compress : folder](01_Ubuntu/02_16/63_tar/02_compress_folder_by_tar.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.64 [tmux : install, configure, use](01_Ubuntu/02_16/64_tmux/01_tmux.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.65 [touch : accessed modified timestamp](01_Ubuntu/02_16/65_touch/01_modify_timestamp.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.66 [tzdata : time zone](01_Ubuntu/02_16/66_tzdata/01_timeZone.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.67 [unicode : box char](01_Ubuntu/02_16/67_unicode/01_box_char.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.68 [userdel](01_Ubuntu/02_16/68_userdel/01_userdel_hadoop.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.69 [usermod : add User to Group](01_Ubuntu/02_16/69_usermod/01_add_USER_to_GROUP.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.70 vim  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.70.1 Cmd-Mode  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.70.1.1 [Move Cursor](01_Ubuntu/02_16/70_vim/01_cmd-Mode/01_Move_Cursor.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 1.2.70.1.2 [Switch Line Up and Down](01_Ubuntu/02_16/70_vim/01_cmd-Mode/02_Switch_Line_Up_and_Down.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.70.2 CmdLine-Mode  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.70.2.1 [Move Line Up and Down](01_Ubuntu/02_16/70_vim/03_cmdLine-Mode/01_Move_Line_Up_and_Down.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.70.2.2 [save as other file](01_Ubuntu/02_16/70_vim/03_cmdLine-Mode/02_vim_save_as_other_File.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 1.2.70.2.3 [CRLF to LF](01_Ubuntu/02_16/70_vim/03_cmdLine-Mode/03_vim_CRLF_to_LF.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.70.3 ETC  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.70.3.1 [vimrc encoding UTF8 (Korean)](01_Ubuntu/02_16/70_vim/04_ETC/01_vimrc_encoding_korean.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.70.3.2 [vimrc append and save macro](01_Ubuntu/02_16/70_vim/04_ETC/02_vimrc_append_save_macro.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.70.3.3 [vim diff](01_Ubuntu/02_16/70_vim/04_ETC/03_vim_diff.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.70.3.4 [cat ~/.vimrc](01_Ubuntu/02_16/70_vim/04_ETC/04_vimrc.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 1.2.70.3.5 [color](01_Ubuntu/02_16/70_vim/04_ETC/05_vimrc_color.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.71 vncserver, vnc4server  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.71.1 [vnc4server : remote control ubuntu](01_Ubuntu/02_16/71_vnc4server/01_install_config_vnc4server.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.71.2 [vncserver : remote access sharing](01_Ubuntu/02_16/71_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.72 [Window : resize shortcut](01_Ubuntu/02_16/72_window/01_resize_window.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.73 [x2go : install](01_Ubuntu/02_16/73_x2go/01_install_x2go_server_on_ubuntu16.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.74 [xclip : install and use](01_Ubuntu/02_16/74_xclip/01_install_and_use_xclip.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.75 [xwininfo : get window size](01_Ubuntu/02_16/75_xwininfo/01_use_xwininfo.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.76 xz  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.76.1 [xz : compress file](01_Ubuntu/02_16/76_xz/01_xz_compress.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.76.2 [xz : decompress file](01_Ubuntu/02_16/76_xz/02_xz_decompress.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 1.2.77 [zip : compress and uncompress directory](01_Ubuntu/02_16/77_zip/01_zip_directory.md)  
 ╠══ 2 CentOS  
 ║&ensp;&ensp;&nbsp;╚══ 2.1 CentOS 6.9  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 2.1.1 [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)  
@@ -237,7 +238,7 @@ UNIX
 ╠══ 99_Utility  
 ║&ensp;&ensp;&nbsp;╠══ [tree to contents](99_Utility/01_tree_to_contents.sh)  
 ║&ensp;&ensp;&nbsp;╠══ [modify contents](99_Utility/02_modify_contents.py)  
-║&ensp;&ensp;&nbsp;╠══ 03_modify_number_of_file_on_README.sh  
+║&ensp;&ensp;&nbsp;╠══ [modify README's link filename](99_Utility/03_modify_number_of_file_on_README.sh)  
 ║&ensp;&ensp;&nbsp;╠══ 04_modify_number_of_head_on_README.sh  
 ║&ensp;&ensp;&nbsp;╠══ change_A_to_B.txt  
 ║&ensp;&ensp;&nbsp;╚══ contents.txt  
