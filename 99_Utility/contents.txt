@@ -103,101 +103,105 @@
 ║       ╠══ 30_GRUB  
 ║       ║&ensp;&ensp;&nbsp;╠══ 01_reset_passwd_on_GRUB.md  
 ║       ║&ensp;&ensp;&nbsp;╚══ 02_enable_touchpad_on_GRUB.md  
-║       ╠══ 31_Java  
+║       ╠══ 31_Install  
+║       ║&ensp;&ensp;&nbsp;╚══ 01_Install_Ubuntu_with_UEFI_mode.md  
+║       ╠══ 32_Java  
 ║       ║&ensp;&ensp;&nbsp;╠══ 01_install_jdk7.md  
 ║       ║&ensp;&ensp;&nbsp;╚══ 02_install_jdk8.md  
-║       ╠══ 32_jenv  
+║       ╠══ 33_jenv  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_install_and_use_jenv.md  
-║       ╠══ 33_LibreOffice  
+║       ╠══ 34_Keyboad  
+║       ║&ensp;&ensp;&nbsp;╚══ 01_ubuntu16_keyboard_korean.md  
+║       ╠══ 35_LibreOffice  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_remove_LibreOffice.md  
-║       ╠══ 34_LVM  
+║       ╠══ 36_LVM  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_LVM_on_attached_device.md  
-║       ╠══ 35_memory  
+║       ╠══ 37_memory  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_memory_info.md  
-║       ╠══ 36_mkfs.ext4  
+║       ╠══ 38_mkfs.ext4  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_mkfs.ext4_device.md  
-║       ╠══ 37_mkfs.xfs  
+║       ╠══ 39_mkfs.xfs  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_mkfs.xfs_device.md  
-║       ╠══ 38_mount  
+║       ╠══ 40_mount  
 ║       ║&ensp;&ensp;&nbsp;╠══ 01_remount_home_to_other_disk.md  
 ║       ║&ensp;&ensp;&nbsp;╚══ 02_remount_var_to_other_disk.md  
-║       ╠══ 39_mpstat  
+║       ╠══ 41_mpstat  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_mpstat.md  
-║       ╠══ 40_network  
+║       ╠══ 42_network  
 ║       ║&ensp;&ensp;&nbsp;╠══ 01_static  
 ║       ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_configure_static.md  
 ║       ║&ensp;&ensp;&nbsp;╠══ 02_dhcp  
 ║       ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_configure_dhcp.md  
 ║       ║&ensp;&ensp;&nbsp;╚══ 03_hostname  
 ║       ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 01_127.0.1.1.md  
-║       ╠══ 41_nmap  
+║       ╠══ 43_nmap  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_install_use_nmap.md  
-║       ╠══ 42_nohup  
+║       ╠══ 44_nohup  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_use_nohup.md  
-║       ╠══ 43_nvidia  
+║       ╠══ 45_nvidia  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_install_nvidia_driver_to_keras.md  
-║       ╠══ 44_OpenCV  
+║       ╠══ 46_OpenCV  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_Build_OpenCV_3.4_with_opencv_contrib.md  
-║       ╠══ 45_Opera  
+║       ╠══ 47_Opera  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_save_stream_video_as_file.md  
-║       ╠══ 46_parted  
+║       ╠══ 48_parted  
 ║       ║&ensp;&ensp;&nbsp;╠══ 01_parted_list.md  
 ║       ║&ensp;&ensp;&nbsp;╚══ 02_parted_swap_partition.md  
-║       ╠══ 47_passwd  
+║       ╠══ 49_passwd  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_root_passwd.md  
-║       ╠══ 48_Python  
+║       ╠══ 50_Python  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_configure_python_2.7_3.5_env.md  
-║       ╠══ 49_rsync  
+║       ╠══ 51_rsync  
 ║       ║&ensp;&ensp;&nbsp;╠══ 01_rsync_folder_to_folder.md  
 ║       ║&ensp;&ensp;&nbsp;╠══ 02_rsync_home_to_other.md  
 ║       ║&ensp;&ensp;&nbsp;╚══ 03_rsync_var_to_other.md  
-║       ╠══ 50_run-level  
+║       ╠══ 52_run-level  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_change_run-level.md  
-║       ╠══ 51_sed  
+║       ╠══ 53_sed  
 ║       ║&ensp;&ensp;&nbsp;╠══ 01_remove_^M_with_sed.md  
 ║       ║&ensp;&ensp;&nbsp;╠══ 02_replace_every_3rd_comma_to_semicolon.md  
 ║       ║&ensp;&ensp;&nbsp;╚══ 03_space_regular_expression.md  
-║       ╠══ 52_server  
+║       ╠══ 54_server  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_install_ubuntu16_server.md  
-║       ╠══ 53_snap  
+║       ╠══ 55_snap  
 ║       ║&ensp;&ensp;&nbsp;╠══ 01_snap_install_list_changes_refresh_remove.md  
 ║       ║&ensp;&ensp;&nbsp;╠══ 02_snap_install_refresh_pycharm.md  
 ║       ║&ensp;&ensp;&nbsp;╠══ 03_snap_install_anbox.md  
 ║       ║&ensp;&ensp;&nbsp;╚══ 04_snap_install_intellij.md  
-║       ╠══ 54_sort  
+║       ╠══ 56_sort  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_sort_key.md  
-║       ╠══ 55_ssh  
+║       ╠══ 57_ssh  
 ║       ║&ensp;&ensp;&nbsp;╠══ 01_install_ssh.md  
 ║       ║&ensp;&ensp;&nbsp;╠══ 02_add_publicKey_to_server.md  
 ║       ║&ensp;&ensp;&nbsp;╠══ 03_enable_ssh_root_login.md  
 ║       ║&ensp;&ensp;&nbsp;╠══ 04_install_pssh.md  
 ║       ║&ensp;&ensp;&nbsp;╚══ 05_rsync_file_by_pssh.md  
-║       ╠══ 56_Startup_Applications  
+║       ╠══ 58_Startup_Applications  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_add_programs.md  
-║       ╠══ 57_Steam  
+║       ╠══ 59_Steam  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_install_Steam_on_ubuntu16.md  
-║       ╠══ 58_sublime_text_2  
+║       ╠══ 60_sublime_text_2  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_install_sublime_text2.md  
-║       ╠══ 59_substring  
+║       ╠══ 61_substring  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_substring_remove.md  
-║       ╠══ 60_tac  
+║       ╠══ 62_tac  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_tac.md  
-║       ╠══ 61_tar  
+║       ╠══ 63_tar  
 ║       ║&ensp;&ensp;&nbsp;╠══ 01_uncompress_tgz.md  
 ║       ║&ensp;&ensp;&nbsp;╚══ 02_compress_folder_by_tar.md  
-║       ╠══ 62_tmux  
+║       ╠══ 64_tmux  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_tmux.md  
-║       ╠══ 63_touch  
+║       ╠══ 65_touch  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_modify_timestamp.md  
-║       ╠══ 64_tzdata  
+║       ╠══ 66_tzdata  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_timeZone.md  
-║       ╠══ 65_unicode  
+║       ╠══ 67_unicode  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_box_char.md  
-║       ╠══ 66_userdel  
+║       ╠══ 68_userdel  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_userdel_hadoop.md  
-║       ╠══ 67_usermod  
+║       ╠══ 69_usermod  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_add_USER_to_GROUP.md  
-║       ╠══ 68_vim  
+║       ╠══ 70_vim  
 ║       ║&ensp;&ensp;&nbsp;╠══ 01_cmd-Mode  
 ║       ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 01_Move_Cursor.md  
 ║       ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 02_Switch_Line_Up_and_Down.md  
@@ -211,21 +215,21 @@
 ║       ║       ╠══ 03_vim_diff.md  
 ║       ║       ╠══ 04_vimrc.md  
 ║       ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 05_vimrc_color.md  
-║       ╠══ 69_vnc4server  
+║       ╠══ 71_vnc4server  
 ║       ║&ensp;&ensp;&nbsp;╠══ 01_install_config_vnc4server.md  
 ║       ║&ensp;&ensp;&nbsp;╚══ 02_configure_vncserver_on_ubuntu16_desktop.md  
-║       ╠══ 70_window  
+║       ╠══ 72_window  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_resize_window.md  
-║       ╠══ 71_x2go  
+║       ╠══ 73_x2go  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_install_x2go_server_on_ubuntu16.md  
-║       ╠══ 72_xclip  
+║       ╠══ 74_xclip  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_install_and_use_xclip.md  
-║       ╠══ 73_xwininfo  
+║       ╠══ 75_xwininfo  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_use_xwininfo.md  
-║       ╠══ 74_xz  
+║       ╠══ 76_xz  
 ║       ║&ensp;&ensp;&nbsp;╠══ 01_xz_compress.md  
 ║       ║&ensp;&ensp;&nbsp;╚══ 02_xz_decompress.md  
-║       ╠══ 75_zip  
+║       ╠══ 77_zip  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_zip_directory.md  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ reNumberFolder.sh  
 ╠══ 02_CentOS  
@@ -244,15 +248,18 @@
 ║&ensp;&ensp;&nbsp;╠══ 01_Battery  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_Charge_Status.md  
 ║&ensp;&ensp;&nbsp;╠══ 02_brew  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 01_install_brew.md  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 02_brew_install_maven.md  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 03_brew_install_iterm2.md  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 04_brew_install_zsh.md  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 05_brew_install_gnuplot.md  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 06_brew_install_jq.md  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 07_brew_install_tree.md  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 08_brew_install_python3.md  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 09_brew_uninstall_node.md  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 00_install_brew_on_mac.md  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 01_install  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 01_brew_install_maven.md  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 02_brew_install_iterm2.md  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 03_brew_install_zsh.md  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 04_brew_install_gnuplot.md  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 05_brew_install_jq.md  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 06_brew_install_tree.md  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 07_brew_install_python3.md  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 08_brew_install_macvim.md  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 02_uninstall  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 01_brew_uninstall_node.md  
 ║&ensp;&ensp;&nbsp;╠══ 03_Command_Line_Tools  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_install_Command_Line_Tools.md  
 ║&ensp;&ensp;&nbsp;╠══ 04_Disk_Utility  
@@ -263,30 +270,32 @@
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 03_find_and_sed_move_CRLF_to_LF.md  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 04_find_and_sed_move_TAB_to_4SPACES.md  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 05_find_with_fileSize.md  
-║&ensp;&ensp;&nbsp;╠══ 06_go  
+║&ensp;&ensp;&nbsp;╠══ 06_font  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_download_and_install_font.md  
+║&ensp;&ensp;&nbsp;╠══ 07_go  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_install_go_on_mac.md  
-║&ensp;&ensp;&nbsp;╠══ 07_installer_usb  
+║&ensp;&ensp;&nbsp;╠══ 08_installer_usb  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_create_installer_usb_for_ubuntu16_server.md  
-║&ensp;&ensp;&nbsp;╠══ 08_IntelliJ  
+║&ensp;&ensp;&nbsp;╠══ 09_IntelliJ  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_Shortcuts.md  
-║&ensp;&ensp;&nbsp;╠══ 09_ITerm2  
+║&ensp;&ensp;&nbsp;╠══ 10_ITerm2  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_short_key_of_iterm2_on_mac.md  
-║&ensp;&ensp;&nbsp;╠══ 10_MatLab  
+║&ensp;&ensp;&nbsp;╠══ 11_MatLab  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_install_ToolBox_of_MatLab.md  
-║&ensp;&ensp;&nbsp;╠══ 11_Picture  
+║&ensp;&ensp;&nbsp;╠══ 12_Picture  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_resize_of_picture.md  
-║&ensp;&ensp;&nbsp;╠══ 12_Proxy  
+║&ensp;&ensp;&nbsp;╠══ 13_Proxy  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_use_proxy.md  
-║&ensp;&ensp;&nbsp;╠══ 13_Python  
+║&ensp;&ensp;&nbsp;╠══ 14_Python  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_with_Conda  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 01_Matplotlib_backends_RuntimeError.md  
-║&ensp;&ensp;&nbsp;╠══ 14_sed  
+║&ensp;&ensp;&nbsp;╠══ 15_sed  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_sed_remove_CRLF_to_LF.md  
-║&ensp;&ensp;&nbsp;╠══ 15_shasum  
+║&ensp;&ensp;&nbsp;╠══ 16_shasum  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_use_shasum_for_sha1.md  
-║&ensp;&ensp;&nbsp;╠══ 16_tree  
+║&ensp;&ensp;&nbsp;╠══ 17_tree  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_install_use_tree_on_mac.md  
-║&ensp;&ensp;&nbsp;╠══ 17_vim  
+║&ensp;&ensp;&nbsp;╠══ 18_vim  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 03_CmdLine-Mode  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 01_vim_move_line.md  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 02_vim_save_as_other_File.md  
@@ -294,14 +303,16 @@
 ║&ensp;&ensp;&nbsp;║       ╠══ 01_vimrc_color_molokai.md  
 ║&ensp;&ensp;&nbsp;║       ╠══ 02_vim_diff.md  
 ║&ensp;&ensp;&nbsp;║       ╠══ 03_vim_diff_refresh.md  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 04_vimrc.md  
-║&ensp;&ensp;&nbsp;╠══ 18_vnc_client  
+║&ensp;&ensp;&nbsp;║       ╠══ 04_cat_vimrc.md  
+║&ensp;&ensp;&nbsp;║       ╠══ 05_vim_bundle_vundle.md  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 06_vim_buldle_NERDtree_by_vundle.md  
+║&ensp;&ensp;&nbsp;╠══ 19_vnc_client  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 01_use_vnc_client.md  
-║&ensp;&ensp;&nbsp;╠══ 19_zip  
+║&ensp;&ensp;&nbsp;╠══ 20_zip  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 01_zip_folder.md  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 02_zip_splited_compress.md  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 03_zip_exclude.md  
-║&ensp;&ensp;&nbsp;╠══ 20_zsh  
+║&ensp;&ensp;&nbsp;╠══ 21_zsh  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 01_explain_of_bash_profile_bashrc_zshrc.md  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 02_example_of_zshrc.md  
 ║&ensp;&ensp;&nbsp;╚══ reNumberFolder.sh  
