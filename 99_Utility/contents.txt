@@ -218,18 +218,20 @@
 ║       ╠══ 71_vnc4server  
 ║       ║&ensp;&ensp;&nbsp;╠══ 01_install_config_vnc4server.md  
 ║       ║&ensp;&ensp;&nbsp;╚══ 02_configure_vncserver_on_ubuntu16_desktop.md  
-║       ╠══ 72_window  
+║       ╠══ 72_vpn  
+║       ║&ensp;&ensp;&nbsp;╚══ 01_vpn_gate_client_on_terminal.md  
+║       ╠══ 73_window  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_resize_window.md  
-║       ╠══ 73_x2go  
+║       ╠══ 74_x2go  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_install_x2go_server_on_ubuntu16.md  
-║       ╠══ 74_xclip  
+║       ╠══ 75_xclip  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_install_and_use_xclip.md  
-║       ╠══ 75_xwininfo  
+║       ╠══ 76_xwininfo  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_use_xwininfo.md  
-║       ╠══ 76_xz  
+║       ╠══ 77_xz  
 ║       ║&ensp;&ensp;&nbsp;╠══ 01_xz_compress.md  
 ║       ║&ensp;&ensp;&nbsp;╚══ 02_xz_decompress.md  
-║       ╠══ 77_zip  
+║       ╠══ 78_zip  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_zip_directory.md  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ reNumberFolder.sh  
 ╠══ 02_CentOS  
