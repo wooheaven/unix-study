@@ -126,7 +126,8 @@ UNIX
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.55.1 [snap : example install list refresh remove](01_Ubuntu/02_16/55_snap/01_snap_install_list_changes_refresh_remove.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.55.2 [snap : install and refresh pycharm](01_Ubuntu/02_16/55_snap/02_snap_install_refresh_pycharm.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.55.3 [snap : install anbox](01_Ubuntu/02_16/55_snap/03_snap_install_anbox.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.55.4 [snap : install intellij](01_Ubuntu/02_16/55_snap/04_snap_install_intellij.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.55.4 [snap : install intellij](01_Ubuntu/02_16/55_snap/04_snap_install_intellij.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.55.5 [snap : install sublime-text](01_Ubuntu/02_16/55_snap/05_snap_install_sublime-text.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.56 [sort : by key with Field and Chracter position](01_Ubuntu/02_16/56_sort/01_sort_key.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.57 ssh  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.57.1 [install](01_Ubuntu/02_16/57_ssh/01_install_ssh.md)  
@@ -241,7 +242,7 @@ UNIX
 ║&ensp;&ensp;&nbsp;╠══ [modify contents](99_Utility/02_modify_contents.py)  
 ║&ensp;&ensp;&nbsp;╠══ [modify README's link filename](99_Utility/03_modify_number_of_file_on_README.sh)  
 ║&ensp;&ensp;&nbsp;╠══ [modify README's link title](99_Utility/04_modify_number_of_head_on_README.sh)  
-║&ensp;&ensp;&nbsp;╠══ change_A_to_B.txt  
+║&ensp;&ensp;&nbsp;╠══ [list of changed file_name](99_Utility/change_A_to_B.txt)  
 ║&ensp;&ensp;&nbsp;╚══ contents.txt  
 ╚══ README.md  
 ( ║ ╠ ═ ╚ )  
