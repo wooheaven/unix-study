@@ -14,10 +14,11 @@
 ║       ║&ensp;&ensp;&nbsp;╠══ 01_install  
 ║       ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 01_apt-get_install_graphviz_with_python3.5.md  
 ║       ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 02_apt-get_install_jq.md  
-║       ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 03_apt-get_install_python3-tk.md  
-║       ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 04_apt-get_install_vlc.md  
-║       ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 05_apt-get_install_tree.md  
-║       ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 06_apt-get_install_lock_error.md  
+║       ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 03_apt-get_install_lock_error.md  
+║       ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 04_apt-get_install_mplayer_smplayer.md  
+║       ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 05_apt-get_install_python3-tk.md  
+║       ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 06_apt-get_install_tree.md  
+║       ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 07_apt-get_install_vlc.md  
 ║       ║&ensp;&ensp;&nbsp;╚══ 02_update  
 ║       ║       ╠══ 01_apt-get_Duplicate_sources.list.md  
 ║       ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 02_apt-get_update_hash_sum_error.md  
@@ -167,7 +168,8 @@
 ║       ║&ensp;&ensp;&nbsp;╠══ 01_snap_install_list_changes_refresh_remove.md  
 ║       ║&ensp;&ensp;&nbsp;╠══ 02_snap_install_refresh_pycharm.md  
 ║       ║&ensp;&ensp;&nbsp;╠══ 03_snap_install_anbox.md  
-║       ║&ensp;&ensp;&nbsp;╚══ 04_snap_install_intellij.md  
+║       ║&ensp;&ensp;&nbsp;╠══ 04_snap_install_intellij.md  
+║       ║&ensp;&ensp;&nbsp;╚══ 05_snap_install_sublime-text.md  
 ║       ╠══ 56_sort  
 ║       ║&ensp;&ensp;&nbsp;╚══ 01_sort_key.md  
 ║       ╠══ 57_ssh  

@@ -1,7 +1,4 @@
-01_Ubuntu/02_16/72_window/01_resize_window.md -> 01_Ubuntu/02_16/73_window/01_resize_window.md
-01_Ubuntu/02_16/73_x2go/01_install_x2go_server_on_ubuntu16.md -> 01_Ubuntu/02_16/74_x2go/01_install_x2go_server_on_ubuntu16.md
-01_Ubuntu/02_16/74_xclip/01_install_and_use_xclip.md -> 01_Ubuntu/02_16/75_xclip/01_install_and_use_xclip.md
-01_Ubuntu/02_16/75_xwininfo/01_use_xwininfo.md -> 01_Ubuntu/02_16/76_xwininfo/01_use_xwininfo.md
-01_Ubuntu/02_16/76_xz/01_xz_compress.md -> 01_Ubuntu/02_16/77_xz/01_xz_compress.md
-01_Ubuntu/02_16/76_xz/02_xz_decompress.md -> 01_Ubuntu/02_16/77_xz/02_xz_decompress.md
-01_Ubuntu/02_16/77_zip/01_zip_directory.md -> 01_Ubuntu/02_16/78_zip/01_zip_directory.md
+01_Ubuntu/02_16/03_apt-get/01_install/06_apt-get_install_lock_error.md -> 01_Ubuntu/02_16/03_apt-get/01_install/03_apt-get_install_lock_error.md
+01_Ubuntu/02_16/03_apt-get/01_install/03_apt-get_install_python3-tk.md -> 01_Ubuntu/02_16/03_apt-get/01_install/05_apt-get_install_python3-tk.md
+01_Ubuntu/02_16/03_apt-get/01_install/05_apt-get_install_tree.md -> 01_Ubuntu/02_16/03_apt-get/01_install/06_apt-get_install_tree.md
+01_Ubuntu/02_16/03_apt-get/01_install/04_apt-get_install_vlc.md -> 01_Ubuntu/02_16/03_apt-get/01_install/07_apt-get_install_vlc.md

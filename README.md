@@ -12,10 +12,11 @@ UNIX
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.3.1 install  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.3.1.1 [graphviz](01_Ubuntu/02_16/03_apt-get/01_install/01_apt-get_install_graphviz_with_python3.5.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.3.1.2 [jq](01_Ubuntu/02_16/03_apt-get/01_install/02_apt-get_install_jq.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.3.1.3 [python3-tk, tkinter](01_Ubuntu/02_16/03_apt-get/01_install/03_apt-get_install_python3-tk.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.3.1.4 [vlc](01_Ubuntu/02_16/03_apt-get/01_install/04_apt-get_install_vlc.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.3.1.5 [tree](01_Ubuntu/02_16/03_apt-get/01_install/05_apt-get_install_tree.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 1.2.3.1.6 [lock error](01_Ubuntu/02_16/03_apt-get/01_install/06_apt-get_install_lock_error.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.3.1.3 [lock error](01_Ubuntu/02_16/03_apt-get/01_install/03_apt-get_install_lock_error.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.3.1.4 [mplayer smplayer](01_Ubuntu/02_16/03_apt-get/01_install/04_apt-get_install_mplayer_smplayer.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.3.1.5 [python3-tk, tkinter](01_Ubuntu/02_16/03_apt-get/01_install/05_apt-get_install_python3-tk.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.3.1.6 [tree](01_Ubuntu/02_16/03_apt-get/01_install/06_apt-get_install_tree.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 1.2.3.1.7 [vlc](01_Ubuntu/02_16/03_apt-get/01_install/07_apt-get_install_vlc.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.3.2 update  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.3.2.1 [duplicate sources.list](01_Ubuntu/02_16/03_apt-get/02_update/01_apt-get_Duplicate_sources.list.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 1.2.3.2.2 [hash error](01_Ubuntu/02_16/03_apt-get/02_update/02_apt-get_update_hash_sum_error.md)  
@@ -243,7 +244,7 @@ UNIX
 ║&ensp;&ensp;&nbsp;╠══ [modify README's link filename](99_Utility/03_modify_number_of_file_on_README.sh)  
 ║&ensp;&ensp;&nbsp;╠══ [modify README's link title](99_Utility/04_modify_number_of_head_on_README.sh)  
 ║&ensp;&ensp;&nbsp;╠══ [list of changed file_name](99_Utility/change_A_to_B.txt)  
-║&ensp;&ensp;&nbsp;╚══ contents.txt  
+║&ensp;&ensp;&nbsp;╚══ [auto updated contents by tree](99_Utility/contents.txt)    
 ╚══ README.md  
 ( ║ ╠ ═ ╚ )  
 
