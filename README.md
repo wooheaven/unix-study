@@ -114,7 +114,8 @@ UNIX
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.49 [passwd : root passwd update](01_Ubuntu/02_16/49_passwd/01_root_passwd.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.50 Python  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.50.1 [configure python 2.7, 3.5 env](01_Ubuntu/02_16/50_Python/01_configure_python_2.7_3.5_env.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.50.2 [ImportError : after pip3 install --upgrade pip](01_Ubuntu/02_16/50_Python/02_ImportError.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.50.2 [ImportError : after pip3 install --upgrade pip](01_Ubuntu/02_16/50_Python/02_ImportError.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.50.3 [numpy pandas : as system package with python3.5.2](01_Ubuntu/02_16/50_Python/03_install_numpy_pandas_as_system_package.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.51 rsync  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.51.1 [folder to folder](01_Ubuntu/02_16/51_rsync/01_rsync_folder_to_folder.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.51.2 [/home to other folder](01_Ubuntu/02_16/51_rsync/02_rsync_home_to_other.md)  
