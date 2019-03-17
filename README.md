@@ -16,7 +16,8 @@ UNIX
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.3.1.4 [mplayer smplayer](01_Ubuntu/02_16/03_apt-get/01_install/04_apt-get_install_mplayer_smplayer.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.3.1.5 [python3-tk, tkinter](01_Ubuntu/02_16/03_apt-get/01_install/05_apt-get_install_python3-tk.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.3.1.6 [tree](01_Ubuntu/02_16/03_apt-get/01_install/06_apt-get_install_tree.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 1.2.3.1.7 [vlc](01_Ubuntu/02_16/03_apt-get/01_install/07_apt-get_install_vlc.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.3.1.7 [vlc](01_Ubuntu/02_16/03_apt-get/01_install/07_apt-get_install_vlc.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 1.2.3.1.8 [Hash Sum Error](01_Ubuntu/02_16/03_apt-get/01_install/08_apt-get_install_Hash_Some_Error.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.3.2 update  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.3.2.1 [duplicate sources.list](01_Ubuntu/02_16/03_apt-get/02_update/01_apt-get_Duplicate_sources.list.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 1.2.3.2.2 [hash error](01_Ubuntu/02_16/03_apt-get/02_update/02_apt-get_update_hash_sum_error.md)  
