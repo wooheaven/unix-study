@@ -1,4 +1,5 @@
-01_Ubuntu/02_16/03_apt-get/01_install/06_apt-get_install_lock_error.md -> 01_Ubuntu/02_16/03_apt-get/01_install/03_apt-get_install_lock_error.md
-01_Ubuntu/02_16/03_apt-get/01_install/03_apt-get_install_python3-tk.md -> 01_Ubuntu/02_16/03_apt-get/01_install/05_apt-get_install_python3-tk.md
-01_Ubuntu/02_16/03_apt-get/01_install/05_apt-get_install_tree.md -> 01_Ubuntu/02_16/03_apt-get/01_install/06_apt-get_install_tree.md
-01_Ubuntu/02_16/03_apt-get/01_install/04_apt-get_install_vlc.md -> 01_Ubuntu/02_16/03_apt-get/01_install/07_apt-get_install_vlc.md
+01_Ubuntu/02_16/55_snap/03_snap_install_anbox.md -> 01_Ubuntu/02_16/55_snap/01_snap_install_anbox.md
+01_Ubuntu/02_16/55_snap/04_snap_install_intellij.md -> 01_Ubuntu/02_16/55_snap/02_snap_install_intellij.md
+01_Ubuntu/02_16/55_snap/01_snap_install_list_changes_refresh_remove.md -> 01_Ubuntu/02_16/55_snap/03_snap_install_list_changes_refresh_remove.md
+01_Ubuntu/02_16/55_snap/02_snap_install_refresh_pycharm.md -> 01_Ubuntu/02_16/55_snap/05_snap_install_refresh_pycharm.md
+01_Ubuntu/02_16/55_snap/05_snap_install_sublime-text.md -> 01_Ubuntu/02_16/55_snap/06_snap_install_sublime-text.md
