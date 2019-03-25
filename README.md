@@ -1,12 +1,11 @@
+1.0.0 ╠═1 Ubuntu  
+1.1.0 ║&nbsp;╠═1.1 ubuntu14  
+1.1.1 ║&nbsp;║&nbsp;╠═1.1.1 [apt-get : install nvidia-docker2](01_Ubuntu/01_14.04/01_apt-get/01_install_nvidia_docker_v2.md)  
+1.1.2 ║&nbsp;║&nbsp;╚═1.1.2 [vnc4server : install configure](01_Ubuntu/01_14.04/02_vnc4server/01_install_config_vnc4server.md)  
+1.2.0 ║&nbsp;╠═1.2 ubuntu16  
+1.2.1 ║&nbsp;║&nbsp;╠═1.2.1 [adduser : hadoop user](01_Ubuntu/02_16/01_adduser/01_adduser.md)  
+
 UNIX  
-╠══ 1 Ubuntu  
-║&ensp;&ensp;&nbsp;╠══ 1.1 ubuntu14  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.1.1 apt-get  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 1.1.1.1 [apt-get install : nvidia-docker2](01_Ubuntu/01_14.04/01_apt-get/01_install_nvidia_docker_v2.md)  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 1.1.2 vnc4server  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 1.1.2.1 [vnc4server : install configure](01_Ubuntu/01_14.04/02_vnc4server/01_install_config_vnc4server.md)  
-║&ensp;&ensp;&nbsp;╚══ 1.2 ubuntu16  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.1 [adduser : hadoop user](01_Ubuntu/02_16/01_adduser/01_adduser.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.2 [apt list --installed : check installed packages](01_Ubuntu/02_16/02_apt/01_apt_list.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.3 apt-get  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.3.1 install  
@@ -129,11 +128,13 @@ UNIX
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.53.3 [space regular expression](01_Ubuntu/02_16/53_sed/03_space_regular_expression.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.54 [server : install server](01_Ubuntu/02_16/54_server/01_install_ubuntu16_server.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.55 snap  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.55.1 [snap : example install list refresh remove](01_Ubuntu/02_16/55_snap/01_snap_install_list_changes_refresh_remove.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.55.2 [snap : install and refresh pycharm](01_Ubuntu/02_16/55_snap/02_snap_install_refresh_pycharm.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.55.3 [snap : install anbox](01_Ubuntu/02_16/55_snap/03_snap_install_anbox.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.55.4 [snap : install intellij](01_Ubuntu/02_16/55_snap/04_snap_install_intellij.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.55.5 [snap : install sublime-text](01_Ubuntu/02_16/55_snap/05_snap_install_sublime-text.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.55.1 [snap : install anbox](01_Ubuntu/02_16/55_snap/01_snap_install_anbox.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.55.2 [snap : install intellij](01_Ubuntu/02_16/55_snap/02_snap_install_intellij.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.55.3 [snap : example install list refresh remove](01_Ubuntu/02_16/55_snap/03_snap_install_list_changes_refresh_remove.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.55.4 [snap : install node](01_Ubuntu/02_16/55_snap/04_snap_install_node.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.55.5 [snap : install and refresh pycharm](01_Ubuntu/02_16/55_snap/05_snap_install_refresh_pycharm.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.55.6 [snap : install sublime-text](01_Ubuntu/02_16/55_snap/06_snap_install_sublime-text.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.55.7 [snap : install visualstudiocode](01_Ubuntu/02_16/55_snap/07_snap_install_visualstudiocode.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.56 [sort : by key with Field and Chracter position](01_Ubuntu/02_16/56_sort/01_sort_key.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.57 ssh  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.57.1 [install](01_Ubuntu/02_16/57_ssh/01_install_ssh.md)  
