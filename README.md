@@ -6,22 +6,22 @@
 1.2.1.0.0 ║&nbsp;║&nbsp;╠═1.2.1 [adduser : hadoop user](01_Ubuntu/02_16/01_adduser/01_adduser.md)  
 1.2.2.0.0 ║&nbsp;║&nbsp;╠═1.2.2 [apt list --installed : check installed packages](01_Ubuntu/02_16/02_apt/01_apt_list.md)  
 1.2.3.0.0 ║&nbsp;║&nbsp;╠═1.2.3 apt-get  
-1.2.3.1.0 ║&nbsp;║&nbsp;╠═1.2.3.1 install  
-1.2.3.1.1 ║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.1.1 [graphviz](01_Ubuntu/02_16/03_apt-get/01_install/01_apt-get_install_graphviz_with_python3.5.md)  
+1.2.3.1.0 ║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.1 install  
+1.2.3.1.1 ║&nbsp;║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.1.1 [graphviz](01_Ubuntu/02_16/03_apt-get/01_install/01_apt-get_install_graphviz_with_python3.5.md)  
+1.2.3.1.2 ║&nbsp;║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.1.2 [jq](01_Ubuntu/02_16/03_apt-get/01_install/02_apt-get_install_jq.md)  
+1.2.3.1.3 ║&nbsp;║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.1.3 [lock error](01_Ubuntu/02_16/03_apt-get/01_install/03_apt-get_install_lock_error.md)  
+1.2.3.1.4 ║&nbsp;║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.1.4 [mplayer smplayer](01_Ubuntu/02_16/03_apt-get/01_install/04_apt-get_install_mplayer_smplayer.md)  
+1.2.3.1.5 ║&nbsp;║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.1.5 [python3-tk, tkinter](01_Ubuntu/02_16/03_apt-get/01_install/05_apt-get_install_python3-tk.md)  
+1.2.3.1.6 ║&nbsp;║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.1.6 [tree](01_Ubuntu/02_16/03_apt-get/01_install/06_apt-get_install_tree.md)  
+1.2.3.1.7 ║&nbsp;║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.1.7 [vlc](01_Ubuntu/02_16/03_apt-get/01_install/07_apt-get_install_vlc.md)  
+1.2.3.1.8 ║&nbsp;║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.1.8 [Hash Sum Error](01_Ubuntu/02_16/03_apt-get/01_install/08_apt-get_install_Hash_Some_Error.md)  
+1.2.3.1.9 ║&nbsp;║&nbsp;║&nbsp;║&nbsp;╚═1.2.3.1.9 [handbrake](01_Ubuntu/02_16/03_apt-get/01_install/09_apt-get_install_handbrake-gtk_handbrake-cli.md)  
+1.2.3.2.0 ║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.2 update  
+1.2.3.2.1 ║&nbsp;║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.2.1 [duplicate sources.list](01_Ubuntu/02_16/03_apt-get/02_update/01_apt-get_Duplicate_sources.list.md)  
+1.2.3.2.2 ║&nbsp;║&nbsp;║&nbsp;║&nbsp;╚═1.2.3.2.2 [hash error](01_Ubuntu/02_16/03_apt-get/02_update/02_apt-get_update_hash_sum_error.md)  
+1.2.4.0.0 ║&nbsp;║&nbsp;╠═1.2.4 [Arduino : install](01_Ubuntu/02_16/04_Arduino/01_install_arduino_ide.md)  
 
 UNIX  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.3.1.2 [jq](01_Ubuntu/02_16/03_apt-get/01_install/02_apt-get_install_jq.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.3.1.3 [lock error](01_Ubuntu/02_16/03_apt-get/01_install/03_apt-get_install_lock_error.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.3.1.4 [mplayer smplayer](01_Ubuntu/02_16/03_apt-get/01_install/04_apt-get_install_mplayer_smplayer.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.3.1.5 [python3-tk, tkinter](01_Ubuntu/02_16/03_apt-get/01_install/05_apt-get_install_python3-tk.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.3.1.6 [tree](01_Ubuntu/02_16/03_apt-get/01_install/06_apt-get_install_tree.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.3.1.7 [vlc](01_Ubuntu/02_16/03_apt-get/01_install/07_apt-get_install_vlc.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.3.1.8 [Hash Sum Error](01_Ubuntu/02_16/03_apt-get/01_install/08_apt-get_install_Hash_Some_Error.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 1.2.3.1.9 [handbrake](01_Ubuntu/02_16/03_apt-get/01_install/09_apt-get_install_handbrake-gtk_handbrake-cli.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.3.2 update  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.3.2.1 [duplicate sources.list](01_Ubuntu/02_16/03_apt-get/02_update/01_apt-get_Duplicate_sources.list.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 1.2.3.2.2 [hash error](01_Ubuntu/02_16/03_apt-get/02_update/02_apt-get_update_hash_sum_error.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.4 [Arduino : install](01_Ubuntu/02_16/04_Arduino/01_install_arduino_ide.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.5 awk  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.5.1 [column to rows](01_Ubuntu/02_16/05_awk/01_awk_column_to_rows.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.5.2 [rows to column](01_Ubuntu/02_16/05_awk/02_awk_rows_to_column.md)  
@@ -42,7 +42,8 @@ UNIX
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.7 brew   
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.7.1 [brew : install and use](01_Ubuntu/02_16/07_brew/01_install_brew_and_use.md)   
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.7.2 [brew : install python](01_Ubuntu/02_16/07_brew/02_brew_install_python.md)   
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.7.3 [brew : install git](01_Ubuntu/02_16/07_brew/03_brew_install_git.md)   
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.7.3 [brew : install git](01_Ubuntu/02_16/07_brew/03_brew_install_git.md)   
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.7.4 [brew : install node@10](01_Ubuntu/02_16/07_brew/04_brew_install_node@10.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.8 [chrome : install and configure](01_Ubuntu/02_16/08_chrome/01_install_chrome.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.9 [chrome remote desktop : install and configure](01_Ubuntu/02_16/09_chrome_remote_desktop/01_install_chrome_remote_desktop.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.10 [compiz : Put To Next](01_Ubuntu/02_16/10_compiz/01_compiz.md)  
