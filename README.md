@@ -23,14 +23,14 @@
 1.2.4.0.00 ║&nbsp;║&nbsp;╠═1.2.4 [Arduino : install](01_Ubuntu/02_16/04_Arduino/01_install_arduino_ide.md)  
 1.2.5.0.00 ║&nbsp;║&nbsp;╠═1.2.5 awk  
 1.2.5.1.00 ║&nbsp;║&nbsp;║&nbsp;╠═1.2.5.1 [column to rows](01_Ubuntu/02_16/05_awk/01_awk_column_to_rows.md)  
+1.2.5.2.00 ║&nbsp;║&nbsp;║&nbsp;╠═1.2.5.2 [rows to column](01_Ubuntu/02_16/05_awk/02_awk_rows_to_column.md)  
+1.2.5.3.00 ║&nbsp;║&nbsp;║&nbsp;╠═1.2.5.3 [remove blank line](01_Ubuntu/02_16/05_awk/03_awk_remove_blank_line.md)  
+1.2.5.4.00 ║&nbsp;║&nbsp;║&nbsp;╠═1.2.5.4 [use external argument](01_Ubuntu/02_16/05_awk/04_awk_use_external_argument.md)  
+1.2.5.5.00 ║&nbsp;║&nbsp;║&nbsp;╠═1.2.5.5 [use variable in awk](01_Ubuntu/02_16/05_awk/05_awk_use_variable.md)  
+1.2.5.6.00 ║&nbsp;║&nbsp;║&nbsp;╠═1.2.5.6 [substr](01_Ubuntu/02_16/05_awk/06_awk_substr.md)  
+1.2.5.7.00 ║&nbsp;║&nbsp;║&nbsp;╚═1.2.5.7 [max min](01_Ubuntu/02_16/05_awk/07_awk_max_min.md)  
 
 UNIX  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.5.2 [rows to column](01_Ubuntu/02_16/05_awk/02_awk_rows_to_column.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.5.3 [remove blank line](01_Ubuntu/02_16/05_awk/03_awk_remove_blank_line.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.5.4 [use external argument](01_Ubuntu/02_16/05_awk/04_awk_use_external_argument.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.5.5 [use variable in awk](01_Ubuntu/02_16/05_awk/05_awk_use_variable.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.5.6 [substr](01_Ubuntu/02_16/05_awk/06_awk_substr.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.5.7 [max min](01_Ubuntu/02_16/05_awk/07_awk_max_min.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.6 bash  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.6.1 [while statement](01_Ubuntu/02_16/06_bash/01_While_Statement.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.6.2 [1st argument existence check](01_Ubuntu/02_16/06_bash/02_if_condition_1st_argument_existence_check.md)   
@@ -199,14 +199,15 @@ UNIX
 ║&ensp;&ensp;&nbsp;╠══ 3.1 [Battery : Charge Status](03_Mac/01_Battery/01_Charge_Status.md)  
 ║&ensp;&ensp;&nbsp;╠══ 3.2 [brew : install brew](03_Mac/02_brew/00_install_brew_on_mac.md)  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.1 brew install  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.1.1 [brew install maven](03_Mac/02_brew/01_install/01_brew_install_maven.md)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.1.1 [brew install gnuplot](03_Mac/02_brew/01_install/01_brew_install_gnuplot.md)  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.1.2 [brew install iterm2](03_Mac/02_brew/01_install/02_brew_install_iterm2.md)  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.1.3 [brew install zsh](03_Mac/02_brew/01_install/03_brew_install_zsh.md)  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.1.4 [brew install gnuplot](03_Mac/02_brew/01_install/04_brew_install_gnuplot.md)  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.1.5 [brew install jq](03_Mac/02_brew/01_install/05_brew_install_jq.md)  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.1.6 [brew install tree](03_Mac/02_brew/01_install/06_brew_install_tree.md)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.1.3 [brew install jq](03_Mac/02_brew/01_install/03_brew_install_jq.md)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.1.4 [brew install macvim](03_Mac/02_brew/01_install/04_brew_install_macvim.md)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.1.5 [brew install maven](03_Mac/02_brew/01_install/05_brew_install_maven.md)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.1.6 [brew install node](03_Mac/02_brew/01_install/06_brew_install_node.md)  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.1.7 [brew install python3](03_Mac/02_brew/01_install/07_brew_install_python3.md)  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 3.2.1.8 [brew install macvim](03_Mac/02_brew/01_install/08_brew_install_macvim.md)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.2.1.8 [brew install tree](03_Mac/02_brew/01_install/08_brew_install_tree.md)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 3.2.1.3 [brew install zsh](03_Mac/02_brew/01_install/09_brew_install_zsh.md)  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 3.2.2 brew uninstall  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 3.2.2.1 [brew uninstall node](03_Mac/02_brew/02_uninstall/09_brew_uninstall_node.md)  
 ║&ensp;&ensp;&nbsp;╠══ 3.3 [Command_Line_Tools : install](03_Mac/03_Command_Line_Tools/01_install_Command_Line_Tools.md)  

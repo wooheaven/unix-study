@@ -1,9 +1,6 @@
-01_Ubuntu/02_16/03_apt-get/01_install/01_apt-get_install_graphviz_with_python3.5.md -> 01_Ubuntu/02_16/03_apt-get/01_install/02_apt-get_install_graphviz_with_python3.5.md
-01_Ubuntu/02_16/03_apt-get/01_install/09_apt-get_install_handbrake-gtk_handbrake-cli.md -> 01_Ubuntu/02_16/03_apt-get/01_install/03_apt-get_install_handbrake-gtk_handbrake-cli.md
-01_Ubuntu/02_16/03_apt-get/01_install/08_apt-get_install_Hash_Some_Error.md -> 01_Ubuntu/02_16/03_apt-get/01_install/04_apt-get_install_Hash_Some_Error.md
-01_Ubuntu/02_16/03_apt-get/01_install/02_apt-get_install_jq.md -> 01_Ubuntu/02_16/03_apt-get/01_install/05_apt-get_install_jq.md
-01_Ubuntu/02_16/03_apt-get/01_install/03_apt-get_install_lock_error.md -> 01_Ubuntu/02_16/03_apt-get/01_install/06_apt-get_install_lock_error.md
-01_Ubuntu/02_16/03_apt-get/01_install/04_apt-get_install_mplayer_smplayer.md -> 01_Ubuntu/02_16/03_apt-get/01_install/07_apt-get_install_mplayer_smplayer.md
-01_Ubuntu/02_16/03_apt-get/01_install/05_apt-get_install_python3-tk.md -> 01_Ubuntu/02_16/03_apt-get/01_install/08_apt-get_install_python3-tk.md
-01_Ubuntu/02_16/03_apt-get/01_install/06_apt-get_install_tree.md -> 01_Ubuntu/02_16/03_apt-get/01_install/09_apt-get_install_tree.md
-01_Ubuntu/02_16/03_apt-get/01_install/07_apt-get_install_vlc.md -> 01_Ubuntu/02_16/03_apt-get/01_install/10_apt-get_install_vlc.md
+03_Mac/02_brew/01_install/04_brew_install_gnuplot.md -> 03_Mac/02_brew/01_install/01_brew_install_gnuplot.md
+03_Mac/02_brew/01_install/05_brew_install_jq.md -> 03_Mac/02_brew/01_install/03_brew_install_jq.md
+03_Mac/02_brew/01_install/08_brew_install_macvim.md -> 03_Mac/02_brew/01_install/04_brew_install_macvim.md
+03_Mac/02_brew/01_install/01_brew_install_maven.md -> 03_Mac/02_brew/01_install/05_brew_install_maven.md
+03_Mac/02_brew/01_install/06_brew_install_tree.md -> 03_Mac/02_brew/01_install/08_brew_install_tree.md
+03_Mac/02_brew/01_install/03_brew_install_zsh.md -> 03_Mac/02_brew/01_install/09_brew_install_zsh.md
