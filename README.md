@@ -1,29 +1,30 @@
-1.0.0.0.0 ╠═1 Ubuntu  
-1.1.0.0.0 ║&nbsp;╠═1.1 ubuntu14  
-1.1.1.0.0 ║&nbsp;║&nbsp;╠═1.1.1 [apt-get : install nvidia-docker2](01_Ubuntu/01_14.04/01_apt-get/01_install_nvidia_docker_v2.md)  
-1.1.2.0.0 ║&nbsp;║&nbsp;╚═1.1.2 [vnc4server : install configure](01_Ubuntu/01_14.04/02_vnc4server/01_install_config_vnc4server.md)  
-1.2.0.0.0 ║&nbsp;╠═1.2 ubuntu16  
-1.2.1.0.0 ║&nbsp;║&nbsp;╠═1.2.1 [adduser : hadoop user](01_Ubuntu/02_16/01_adduser/01_adduser.md)  
-1.2.2.0.0 ║&nbsp;║&nbsp;╠═1.2.2 [apt list --installed : check installed packages](01_Ubuntu/02_16/02_apt/01_apt_list.md)  
-1.2.3.0.0 ║&nbsp;║&nbsp;╠═1.2.3 apt-get  
-1.2.3.1.0 ║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.1 install  
-1.2.3.1.1 ║&nbsp;║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.1.1 [graphviz](01_Ubuntu/02_16/03_apt-get/01_install/01_apt-get_install_graphviz_with_python3.5.md)  
-1.2.3.1.2 ║&nbsp;║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.1.2 [jq](01_Ubuntu/02_16/03_apt-get/01_install/02_apt-get_install_jq.md)  
-1.2.3.1.3 ║&nbsp;║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.1.3 [lock error](01_Ubuntu/02_16/03_apt-get/01_install/03_apt-get_install_lock_error.md)  
-1.2.3.1.4 ║&nbsp;║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.1.4 [mplayer smplayer](01_Ubuntu/02_16/03_apt-get/01_install/04_apt-get_install_mplayer_smplayer.md)  
-1.2.3.1.5 ║&nbsp;║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.1.5 [python3-tk, tkinter](01_Ubuntu/02_16/03_apt-get/01_install/05_apt-get_install_python3-tk.md)  
-1.2.3.1.6 ║&nbsp;║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.1.6 [tree](01_Ubuntu/02_16/03_apt-get/01_install/06_apt-get_install_tree.md)  
-1.2.3.1.7 ║&nbsp;║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.1.7 [vlc](01_Ubuntu/02_16/03_apt-get/01_install/07_apt-get_install_vlc.md)  
-1.2.3.1.8 ║&nbsp;║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.1.8 [Hash Sum Error](01_Ubuntu/02_16/03_apt-get/01_install/08_apt-get_install_Hash_Some_Error.md)  
-1.2.3.1.9 ║&nbsp;║&nbsp;║&nbsp;║&nbsp;╚═1.2.3.1.9 [handbrake](01_Ubuntu/02_16/03_apt-get/01_install/09_apt-get_install_handbrake-gtk_handbrake-cli.md)  
-1.2.3.2.0 ║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.2 update  
-1.2.3.2.1 ║&nbsp;║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.2.1 [duplicate sources.list](01_Ubuntu/02_16/03_apt-get/02_update/01_apt-get_Duplicate_sources.list.md)  
-1.2.3.2.2 ║&nbsp;║&nbsp;║&nbsp;║&nbsp;╚═1.2.3.2.2 [hash error](01_Ubuntu/02_16/03_apt-get/02_update/02_apt-get_update_hash_sum_error.md)  
-1.2.4.0.0 ║&nbsp;║&nbsp;╠═1.2.4 [Arduino : install](01_Ubuntu/02_16/04_Arduino/01_install_arduino_ide.md)  
+1.0.0.0.00 ╠═1 Ubuntu  
+1.1.0.0.00 ║&nbsp;╠═1.1 ubuntu14  
+1.1.1.0.00 ║&nbsp;║&nbsp;╠═1.1.1 [apt-get : install nvidia-docker2](01_Ubuntu/01_14.04/01_apt-get/01_install_nvidia_docker_v2.md)  
+1.1.2.0.00 ║&nbsp;║&nbsp;╚═1.1.2 [vnc4server : install configure](01_Ubuntu/01_14.04/02_vnc4server/01_install_config_vnc4server.md)  
+1.2.0.0.00 ║&nbsp;╠═1.2 ubuntu16  
+1.2.1.0.00 ║&nbsp;║&nbsp;╠═1.2.1 [adduser : hadoop user](01_Ubuntu/02_16/01_adduser/01_adduser.md)  
+1.2.2.0.00 ║&nbsp;║&nbsp;╠═1.2.2 [apt list --installed : check installed packages](01_Ubuntu/02_16/02_apt/01_apt_list.md)  
+1.2.3.0.00 ║&nbsp;║&nbsp;╠═1.2.3 apt-get  
+1.2.3.1.00 ║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.1 install  
+1.2.3.1.01 ║&nbsp;║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.1.1 [dilon](01_Ubuntu/02_16/03_apt-get/01_install/01_apt-get_install_dildon.md)  
+1.2.3.1.02 ║&nbsp;║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.1.2 [graphviz](01_Ubuntu/02_16/03_apt-get/01_install/02_apt-get_install_graphviz_with_python3.5.md)  
+1.2.3.1.03 ║&nbsp;║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.1.3 [handbrake](01_Ubuntu/02_16/03_apt-get/01_install/03_apt-get_install_handbrake-gtk_handbrake-cli.md)  
+1.2.3.1.04 ║&nbsp;║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.1.4 [Hash Sum Error](01_Ubuntu/02_16/03_apt-get/01_install/04_apt-get_install_Hash_Some_Error.md)  
+1.2.3.1.05 ║&nbsp;║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.1.5 [jq](01_Ubuntu/02_16/03_apt-get/01_install/05_apt-get_install_jq.md)  
+1.2.3.1.06 ║&nbsp;║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.1.6 [lock error](01_Ubuntu/02_16/03_apt-get/01_install/06_apt-get_install_lock_error.md)  
+1.2.3.1.07 ║&nbsp;║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.1.7 [mplayer smplayer](01_Ubuntu/02_16/03_apt-get/01_install/07_apt-get_install_mplayer_smplayer.md)  
+1.2.3.1.08 ║&nbsp;║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.1.8 [python3-tk, tkinter](01_Ubuntu/02_16/03_apt-get/01_install/08_apt-get_install_python3-tk.md)  
+1.2.3.1.09 ║&nbsp;║&nbsp;║&nbsp;║&nbsp;╠═1.2.3.1.9 [tree](01_Ubuntu/02_16/03_apt-get/01_install/09_apt-get_install_tree.md)  
+1.2.3.1.10 ║&nbsp;║&nbsp;║&nbsp;║&nbsp;╚═1.2.3.1.10 [vlc](01_Ubuntu/02_16/03_apt-get/01_install/10_apt-get_install_vlc.md)  
+1.2.3.2.00 ║&nbsp;║&nbsp;║&nbsp;╚═1.2.3.2 update  
+1.2.3.2.01 ║&nbsp;║&nbsp;║&nbsp;&nbsp;&nbsp;╠═1.2.3.2.1 [duplicate sources.list](01_Ubuntu/02_16/03_apt-get/02_update/01_apt-get_Duplicate_sources.list.md)  
+1.2.3.2.02 ║&nbsp;║&nbsp;║&nbsp;&nbsp;&nbsp;╚═1.2.3.2.2 [hash error](01_Ubuntu/02_16/03_apt-get/02_update/02_apt-get_update_hash_sum_error.md)  
+1.2.4.0.00 ║&nbsp;║&nbsp;╠═1.2.4 [Arduino : install](01_Ubuntu/02_16/04_Arduino/01_install_arduino_ide.md)  
+1.2.5.0.00 ║&nbsp;║&nbsp;╠═1.2.5 awk  
+1.2.5.1.00 ║&nbsp;║&nbsp;║&nbsp;╠═1.2.5.1 [column to rows](01_Ubuntu/02_16/05_awk/01_awk_column_to_rows.md)  
 
 UNIX  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.5 awk  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.5.1 [column to rows](01_Ubuntu/02_16/05_awk/01_awk_column_to_rows.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.5.2 [rows to column](01_Ubuntu/02_16/05_awk/02_awk_rows_to_column.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.5.3 [remove blank line](01_Ubuntu/02_16/05_awk/03_awk_remove_blank_line.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.5.4 [use external argument](01_Ubuntu/02_16/05_awk/04_awk_use_external_argument.md)  
