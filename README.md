@@ -14,9 +14,10 @@
 1.2.3.1.05 ║ ║ ║ ║ ╠═1.2.3.1.5 [jq](01_Ubuntu/02_16/03_apt-get/01_install/05_apt-get_install_jq.md)  
 1.2.3.1.06 ║ ║ ║ ║ ╠═1.2.3.1.6 [lock error](01_Ubuntu/02_16/03_apt-get/01_install/06_apt-get_install_lock_error.md)  
 1.2.3.1.07 ║ ║ ║ ║ ╠═1.2.3.1.7 [mplayer smplayer](01_Ubuntu/02_16/03_apt-get/01_install/07_apt-get_install_mplayer_smplayer.md)  
-1.2.3.1.08 ║ ║ ║ ║ ╠═1.2.3.1.8 [python3-tk, tkinter](01_Ubuntu/02_16/03_apt-get/01_install/08_apt-get_install_python3-tk.md)  
-1.2.3.1.09 ║ ║ ║ ║ ╠═1.2.3.1.9 [tree](01_Ubuntu/02_16/03_apt-get/01_install/09_apt-get_install_tree.md)  
-1.2.3.1.10 ║ ║ ║ ║ ╚═1.2.3.1.10 [vlc](01_Ubuntu/02_16/03_apt-get/01_install/10_apt-get_install_vlc.md)  
+1.2.3.1.08 ║ ║ ║ ║ ╠═1.2.3.1.8 [openshot-qt](01_Ubuntu/02_16/03_apt-get/01_install/08_apt-get_install_openshot-qt.md)  
+1.2.3.1.09 ║ ║ ║ ║ ╠═1.2.3.1.9 [python3-tk, tkinter](01_Ubuntu/02_16/03_apt-get/01_install/09_apt-get_install_python3-tk.md)  
+1.2.3.1.10 ║ ║ ║ ║ ╠═1.2.3.1.10 [tree](01_Ubuntu/02_16/03_apt-get/01_install/10_apt-get_install_tree.md)  
+1.2.3.1.11 ║ ║ ║ ║ ╚═1.2.3.1.11 [vlc](01_Ubuntu/02_16/03_apt-get/01_install/11_apt-get_install_vlc.md)  
 1.2.3.2.00 ║ ║ ║ ╚═1.2.3.2 update  
 1.2.3.2.01 ║ ║ ║ - ╠═1.2.3.2.1 [duplicate sources.list](01_Ubuntu/02_16/03_apt-get/02_update/01_apt-get_Duplicate_sources.list.md)  
 1.2.3.2.02 ║ ║ ║ - ╚═1.2.3.2.2 [hash error](01_Ubuntu/02_16/03_apt-get/02_update/02_apt-get_update_hash_sum_error.md)  
@@ -38,13 +39,13 @@
 1.2.6.6.00 ║ ║ ║ ╠═1.2.6.6 [bash prombt](01_Ubuntu/02_16/06_bash/06_bashrc_PS1_bash_prombt.md)  
 1.2.6.7.00 ║ ║ ║ ╠═1.2.6.7 [redirect : print to null](01_Ubuntu/02_16/06_bash/07_print_to_null_by_redirect.md)  
 1.2.6.8.00 ║ ║ ║ ╚═1.2.6.8 [if : check filePath](01_Ubuntu/02_16/06_bash/08_if_filePath_check.md)  
+1.2.7.0.00 ║ ║ ╠═1.2.7 brew   
+1.2.7.1.00 ║ ║ ║ ╠═1.2.7.1 [brew : install and use](01_Ubuntu/02_16/07_brew/01_install_brew_and_use.md)   
+1.2.7.2.00 ║ ║ ║ ╠═1.2.7.2 [brew : install python](01_Ubuntu/02_16/07_brew/02_brew_install_python.md)   
+1.2.7.3.00 ║ ║ ║ ╠═1.2.7.3 [brew : install git](01_Ubuntu/02_16/07_brew/03_brew_install_git.md)   
+1.2.7.4.00 ║ ║ ║ ╚═1.2.7.4 [brew : install node@10](01_Ubuntu/02_16/07_brew/04_brew_install_node@10.md)  
 
 UNIX  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.7 brew   
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.7.1 [brew : install and use](01_Ubuntu/02_16/07_brew/01_install_brew_and_use.md)   
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.7.2 [brew : install python](01_Ubuntu/02_16/07_brew/02_brew_install_python.md)   
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.7.3 [brew : install git](01_Ubuntu/02_16/07_brew/03_brew_install_git.md)   
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.7.4 [brew : install node@10](01_Ubuntu/02_16/07_brew/04_brew_install_node@10.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.8 [chrome : install and configure](01_Ubuntu/02_16/08_chrome/01_install_chrome.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.9 [chrome remote desktop : install and configure](01_Ubuntu/02_16/09_chrome_remote_desktop/01_install_chrome_remote_desktop.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.10 [compiz : Put To Next](01_Ubuntu/02_16/10_compiz/01_compiz.md)  
