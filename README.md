@@ -1,54 +1,54 @@
-1.0.0.0.00 ╠═1 Ubuntu  
-1.1.0.0.00 ║ ╠═1.1 ubuntu14  
-1.1.1.0.00 ║ ║ ╠═1.1.1 [apt-get : install nvidia-docker2](01_Ubuntu/01_14.04/01_apt-get/01_install_nvidia_docker_v2.md)  
-1.1.2.0.00 ║ ║ ╚═1.1.2 [vnc4server : install configure](01_Ubuntu/01_14.04/02_vnc4server/01_install_config_vnc4server.md)  
-1.2.0.0.00 ║ ╠═1.2 ubuntu16  
-1.2.1.0.00 ║ ║ ╠═1.2.1 [adduser : hadoop user](01_Ubuntu/02_16/01_adduser/01_adduser.md)  
-1.2.2.0.00 ║ ║ ╠═1.2.2 [apt list --installed : check installed packages](01_Ubuntu/02_16/02_apt/01_apt_list.md)  
-1.2.3.0.00 ║ ║ ╠═1.2.3 apt-get  
-1.2.3.1.00 ║ ║ ║ ╠═1.2.3.1 install  
-1.2.3.1.01 ║ ║ ║ ║ ╠═1.2.3.1.1 [dilon](01_Ubuntu/02_16/03_apt-get/01_install/01_apt-get_install_dildon.md)  
-1.2.3.1.02 ║ ║ ║ ║ ╠═1.2.3.1.2 [graphviz](01_Ubuntu/02_16/03_apt-get/01_install/02_apt-get_install_graphviz_with_python3.5.md)  
-1.2.3.1.03 ║ ║ ║ ║ ╠═1.2.3.1.3 [handbrake](01_Ubuntu/02_16/03_apt-get/01_install/03_apt-get_install_handbrake-gtk_handbrake-cli.md)  
-1.2.3.1.04 ║ ║ ║ ║ ╠═1.2.3.1.4 [Hash Sum Error](01_Ubuntu/02_16/03_apt-get/01_install/04_apt-get_install_Hash_Some_Error.md)  
-1.2.3.1.05 ║ ║ ║ ║ ╠═1.2.3.1.5 [jq](01_Ubuntu/02_16/03_apt-get/01_install/05_apt-get_install_jq.md)  
-1.2.3.1.06 ║ ║ ║ ║ ╠═1.2.3.1.6 [lock error](01_Ubuntu/02_16/03_apt-get/01_install/06_apt-get_install_lock_error.md)  
-1.2.3.1.07 ║ ║ ║ ║ ╠═1.2.3.1.7 [mplayer smplayer](01_Ubuntu/02_16/03_apt-get/01_install/07_apt-get_install_mplayer_smplayer.md)  
-1.2.3.1.08 ║ ║ ║ ║ ╠═1.2.3.1.8 [openshot-qt](01_Ubuntu/02_16/03_apt-get/01_install/08_apt-get_install_openshot-qt.md)  
-1.2.3.1.09 ║ ║ ║ ║ ╠═1.2.3.1.9 [python3-tk, tkinter](01_Ubuntu/02_16/03_apt-get/01_install/09_apt-get_install_python3-tk.md)  
-1.2.3.1.10 ║ ║ ║ ║ ╠═1.2.3.1.10 [tree](01_Ubuntu/02_16/03_apt-get/01_install/10_apt-get_install_tree.md)  
-1.2.3.1.11 ║ ║ ║ ║ ╚═1.2.3.1.11 [vlc](01_Ubuntu/02_16/03_apt-get/01_install/11_apt-get_install_vlc.md)  
-1.2.3.2.00 ║ ║ ║ ╚═1.2.3.2 update  
-1.2.3.2.01 ║ ║ ║ - ╠═1.2.3.2.1 [duplicate sources.list](01_Ubuntu/02_16/03_apt-get/02_update/01_apt-get_Duplicate_sources.list.md)  
-1.2.3.2.02 ║ ║ ║ - ╚═1.2.3.2.2 [hash error](01_Ubuntu/02_16/03_apt-get/02_update/02_apt-get_update_hash_sum_error.md)  
-1.2.4.0.00 ║ ║ ╠═1.2.4 [Arduino : install](01_Ubuntu/02_16/04_Arduino/01_install_arduino_ide.md)  
-1.2.5.0.00 ║ ║ ╠═1.2.5 awk  
-1.2.5.1.00 ║ ║ ║ ╠═1.2.5.1 [column to rows](01_Ubuntu/02_16/05_awk/01_awk_column_to_rows.md)  
-1.2.5.2.00 ║ ║ ║ ╠═1.2.5.2 [rows to column](01_Ubuntu/02_16/05_awk/02_awk_rows_to_column.md)  
-1.2.5.3.00 ║ ║ ║ ╠═1.2.5.3 [remove blank line](01_Ubuntu/02_16/05_awk/03_awk_remove_blank_line.md)  
-1.2.5.4.00 ║ ║ ║ ╠═1.2.5.4 [use external argument](01_Ubuntu/02_16/05_awk/04_awk_use_external_argument.md)  
-1.2.5.5.00 ║ ║ ║ ╠═1.2.5.5 [use variable in awk](01_Ubuntu/02_16/05_awk/05_awk_use_variable.md)  
-1.2.5.6.00 ║ ║ ║ ╠═1.2.5.6 [substr](01_Ubuntu/02_16/05_awk/06_awk_substr.md)  
-1.2.5.7.00 ║ ║ ║ ╚═1.2.5.7 [max min](01_Ubuntu/02_16/05_awk/07_awk_max_min.md)  
-1.2.6.0.00 ║ ║ ╠═1.2.6 bash  
-1.2.6.1.00 ║ ║ ║ ╠═1.2.6.1 [while statement](01_Ubuntu/02_16/06_bash/01_While_Statement.md)  
-1.2.6.2.00 ║ ║ ║ ╠═1.2.6.2 [1st argument existence check](01_Ubuntu/02_16/06_bash/02_if_condition_1st_argument_existence_check.md)   
-1.2.6.3.00 ║ ║ ║ ╠═1.2.6.3 [count of arguments check](01_Ubuntu/02_16/06_bash/03_if_condition_count_of_arguments_check.md)  
-1.2.6.4.00 ║ ║ ║ ╠═1.2.6.4 [check current shell](01_Ubuntu/02_16/06_bash/04_check_current_shell.md)  
-1.2.6.5.00 ║ ║ ║ ╠═1.2.6.5 [Multiplication](01_Ubuntu/02_16/06_bash/05_Multiplication_on_Bash.md)  
-1.2.6.6.00 ║ ║ ║ ╠═1.2.6.6 [bash prombt](01_Ubuntu/02_16/06_bash/06_bashrc_PS1_bash_prombt.md)  
-1.2.6.7.00 ║ ║ ║ ╠═1.2.6.7 [redirect : print to null](01_Ubuntu/02_16/06_bash/07_print_to_null_by_redirect.md)  
-1.2.6.8.00 ║ ║ ║ ╚═1.2.6.8 [if : check filePath](01_Ubuntu/02_16/06_bash/08_if_filePath_check.md)  
-1.2.7.0.00 ║ ║ ╠═1.2.7 brew   
-1.2.7.1.00 ║ ║ ║ ╠═1.2.7.1 [brew : install and use](01_Ubuntu/02_16/07_brew/01_install_brew_and_use.md)   
-1.2.7.2.00 ║ ║ ║ ╠═1.2.7.2 [brew : install python](01_Ubuntu/02_16/07_brew/02_brew_install_python.md)   
-1.2.7.3.00 ║ ║ ║ ╠═1.2.7.3 [brew : install git](01_Ubuntu/02_16/07_brew/03_brew_install_git.md)   
-1.2.7.4.00 ║ ║ ║ ╚═1.2.7.4 [brew : install node@10](01_Ubuntu/02_16/07_brew/04_brew_install_node@10.md)  
+1.0.00.0.00 ╠═1 Ubuntu  
+1.1.00.0.00 ║ ╠═1.1 ubuntu14  
+1.1.01.0.00 ║ ║ ╠═1.1.1 [apt-get : install nvidia-docker2](01_Ubuntu/01_14.04/01_apt-get/01_install_nvidia_docker_v2.md)  
+1.1.02.0.00 ║ ║ ╚═1.1.2 [vnc4server : install configure](01_Ubuntu/01_14.04/02_vnc4server/01_install_config_vnc4server.md)  
+1.2.00.0.00 ║ ╠═1.2 ubuntu16  
+1.2.01.0.00 ║ ║ ╠═1.2.1 [adduser : hadoop user](01_Ubuntu/02_16/01_adduser/01_adduser.md)  
+1.2.02.0.00 ║ ║ ╠═1.2.2 [apt list --installed : check installed packages](01_Ubuntu/02_16/02_apt/01_apt_list.md)  
+1.2.03.0.00 ║ ║ ╠═1.2.3 apt-get  
+1.2.03.1.00 ║ ║ ║ ╠═1.2.3.1 install  
+1.2.03.1.01 ║ ║ ║ ║ ╠═1.2.3.1.1 [dilon](01_Ubuntu/02_16/03_apt-get/01_install/01_apt-get_install_dildon.md)  
+1.2.03.1.02 ║ ║ ║ ║ ╠═1.2.3.1.2 [graphviz](01_Ubuntu/02_16/03_apt-get/01_install/02_apt-get_install_graphviz_with_python3.5.md)  
+1.2.03.1.03 ║ ║ ║ ║ ╠═1.2.3.1.3 [handbrake](01_Ubuntu/02_16/03_apt-get/01_install/03_apt-get_install_handbrake-gtk_handbrake-cli.md)  
+1.2.03.1.04 ║ ║ ║ ║ ╠═1.2.3.1.4 [Hash Sum Error](01_Ubuntu/02_16/03_apt-get/01_install/04_apt-get_install_Hash_Some_Error.md)  
+1.2.03.1.05 ║ ║ ║ ║ ╠═1.2.3.1.5 [jq](01_Ubuntu/02_16/03_apt-get/01_install/05_apt-get_install_jq.md)  
+1.2.03.1.06 ║ ║ ║ ║ ╠═1.2.3.1.6 [lock error](01_Ubuntu/02_16/03_apt-get/01_install/06_apt-get_install_lock_error.md)  
+1.2.03.1.07 ║ ║ ║ ║ ╠═1.2.3.1.7 [mplayer smplayer](01_Ubuntu/02_16/03_apt-get/01_install/07_apt-get_install_mplayer_smplayer.md)  
+1.2.03.1.08 ║ ║ ║ ║ ╠═1.2.3.1.8 [openshot-qt](01_Ubuntu/02_16/03_apt-get/01_install/08_apt-get_install_openshot-qt.md)  
+1.2.03.1.09 ║ ║ ║ ║ ╠═1.2.3.1.9 [python3-tk, tkinter](01_Ubuntu/02_16/03_apt-get/01_install/09_apt-get_install_python3-tk.md)  
+1.2.03.1.10 ║ ║ ║ ║ ╠═1.2.3.1.10 [tree](01_Ubuntu/02_16/03_apt-get/01_install/10_apt-get_install_tree.md)  
+1.2.03.1.11 ║ ║ ║ ║ ╚═1.2.3.1.11 [vlc](01_Ubuntu/02_16/03_apt-get/01_install/11_apt-get_install_vlc.md)  
+1.2.03.2.00 ║ ║ ║ ╚═1.2.3.2 update  
+1.2.03.2.01 ║ ║ ║ - ╠═1.2.3.2.1 [duplicate sources.list](01_Ubuntu/02_16/03_apt-get/02_update/01_apt-get_Duplicate_sources.list.md)  
+1.2.03.2.02 ║ ║ ║ - ╚═1.2.3.2.2 [hash error](01_Ubuntu/02_16/03_apt-get/02_update/02_apt-get_update_hash_sum_error.md)  
+1.2.04.0.00 ║ ║ ╠═1.2.4 [Arduino : install](01_Ubuntu/02_16/04_Arduino/01_install_arduino_ide.md)  
+1.2.05.0.00 ║ ║ ╠═1.2.5 awk  
+1.2.05.1.00 ║ ║ ║ ╠═1.2.5.1 [column to rows](01_Ubuntu/02_16/05_awk/01_awk_column_to_rows.md)  
+1.2.05.2.00 ║ ║ ║ ╠═1.2.5.2 [rows to column](01_Ubuntu/02_16/05_awk/02_awk_rows_to_column.md)  
+1.2.05.3.00 ║ ║ ║ ╠═1.2.5.3 [remove blank line](01_Ubuntu/02_16/05_awk/03_awk_remove_blank_line.md)  
+1.2.05.4.00 ║ ║ ║ ╠═1.2.5.4 [use external argument](01_Ubuntu/02_16/05_awk/04_awk_use_external_argument.md)  
+1.2.05.5.00 ║ ║ ║ ╠═1.2.5.5 [use variable in awk](01_Ubuntu/02_16/05_awk/05_awk_use_variable.md)  
+1.2.05.6.00 ║ ║ ║ ╠═1.2.5.6 [substr](01_Ubuntu/02_16/05_awk/06_awk_substr.md)  
+1.2.05.7.00 ║ ║ ║ ╚═1.2.5.7 [max min](01_Ubuntu/02_16/05_awk/07_awk_max_min.md)  
+1.2.06.0.00 ║ ║ ╠═1.2.6 bash  
+1.2.06.1.00 ║ ║ ║ ╠═1.2.6.1 [while statement](01_Ubuntu/02_16/06_bash/01_While_Statement.md)  
+1.2.06.2.00 ║ ║ ║ ╠═1.2.6.2 [1st argument existence check](01_Ubuntu/02_16/06_bash/02_if_condition_1st_argument_existence_check.md)   
+1.2.06.3.00 ║ ║ ║ ╠═1.2.6.3 [count of arguments check](01_Ubuntu/02_16/06_bash/03_if_condition_count_of_arguments_check.md)  
+1.2.06.4.00 ║ ║ ║ ╠═1.2.6.4 [check current shell](01_Ubuntu/02_16/06_bash/04_check_current_shell.md)  
+1.2.06.5.00 ║ ║ ║ ╠═1.2.6.5 [Multiplication](01_Ubuntu/02_16/06_bash/05_Multiplication_on_Bash.md)  
+1.2.06.6.00 ║ ║ ║ ╠═1.2.6.6 [bash prombt](01_Ubuntu/02_16/06_bash/06_bashrc_PS1_bash_prombt.md)  
+1.2.06.7.00 ║ ║ ║ ╠═1.2.6.7 [redirect : print to null](01_Ubuntu/02_16/06_bash/07_print_to_null_by_redirect.md)  
+1.2.06.8.00 ║ ║ ║ ╚═1.2.6.8 [if : check filePath](01_Ubuntu/02_16/06_bash/08_if_filePath_check.md)  
+1.2.07.0.00 ║ ║ ╠═1.2.7 brew   
+1.2.07.1.00 ║ ║ ║ ╠═1.2.7.1 [brew : install and use](01_Ubuntu/02_16/07_brew/01_install_brew_and_use.md)   
+1.2.07.2.00 ║ ║ ║ ╠═1.2.7.2 [brew : install python](01_Ubuntu/02_16/07_brew/02_brew_install_python.md)   
+1.2.07.3.00 ║ ║ ║ ╠═1.2.7.3 [brew : install git](01_Ubuntu/02_16/07_brew/03_brew_install_git.md)   
+1.2.07.4.00 ║ ║ ║ ╚═1.2.7.4 [brew : install node@10](01_Ubuntu/02_16/07_brew/04_brew_install_node@10.md)  
+1.2.08.0.00 ║ ║ ╠═1.2.8 [chrome : install and configure](01_Ubuntu/02_16/08_chrome/01_install_chrome.md)  
+1.2.09.0.00 ║ ║ ╠═1.2.9 [chrome remote desktop : install and configure](01_Ubuntu/02_16/09_chrome_remote_desktop/01_install_chrome_remote_desktop.md)  
+1.2.10.0.00 ║ ║ ╠═1.2.10 [compiz : Put To Next](01_Ubuntu/02_16/10_compiz/01_compiz.md)  
 
 UNIX  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.8 [chrome : install and configure](01_Ubuntu/02_16/08_chrome/01_install_chrome.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.9 [chrome remote desktop : install and configure](01_Ubuntu/02_16/09_chrome_remote_desktop/01_install_chrome_remote_desktop.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.10 [compiz : Put To Next](01_Ubuntu/02_16/10_compiz/01_compiz.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.11 [cpu : cat /proc/cpuinfo](01_Ubuntu/02_16/11_cpu/01_cpu_info.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.12 [date : with format 24:59:59.999](01_Ubuntu/02_16/12_date/01_date_with_hour_min_sec_nano.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.13 desktop   
@@ -171,11 +171,11 @@ UNIX
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 1.2.71.2.2 [save as other file](01_Ubuntu/02_16/71_vim/03_cmdLine-Mode/02_vim_save_as_other_File.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╚══ 1.2.71.2.3 [CRLF to LF](01_Ubuntu/02_16/71_vim/03_cmdLine-Mode/03_vim_CRLF_to_LF.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.71.3 ETC  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.71.3.1 [vimrc encoding UTF8 (Korean)](01_Ubuntu/02_16/71_vim/04_ETC/01_vimrc_encoding_korean.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.71.3.1 [vim diff](01_Ubuntu/02_16/71_vim/04_ETC/01_vim_diff.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.71.3.2 [vimrc append and save macro](01_Ubuntu/02_16/71_vim/04_ETC/02_vimrc_append_save_macro.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.71.3.3 [vim diff](01_Ubuntu/02_16/71_vim/04_ETC/03_vim_diff.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.71.3.4 [cat ~/.vimrc](01_Ubuntu/02_16/71_vim/04_ETC/04_vimrc.md)  
-║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 1.2.71.3.5 [color](01_Ubuntu/02_16/71_vim/04_ETC/05_vimrc_color.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.71.3.3 [color](01_Ubuntu/02_16/71_vim/04_ETC/03_vimrc_color.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.71.3.4 [vimrc encoding UTF8 (Korean)](01_Ubuntu/02_16/71_vim/04_ETC/04_vimrc_encoding_korean.md)  
+║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 1.2.71.3.5 [cat ~/.vimrc](01_Ubuntu/02_16/71_vim/04_ETC/05_vimrc.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 1.2.72 vncserver, vnc4server  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╠══ 1.2.72.1 [vnc4server : remote control ubuntu](01_Ubuntu/02_16/72_vnc4server/01_install_config_vnc4server.md)  
 ║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;║&ensp;&ensp;&nbsp;╚══ 1.2.72.2 [vncserver : remote access sharing](01_Ubuntu/02_16/72_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md)  
@@ -242,7 +242,8 @@ UNIX
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 3.19.4.3 [vim diff refresh](03_Mac/19_vim/04_ETC/03_vim_diff_refresh.md)  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 3.19.4.4 [cat ~/.vimrc](03_Mac/19_vim/04_ETC/04_cat_vimrc.md)  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 3.19.4.5 [bundle vundle install](03_Mac/19_vim/04_ETC/05_vim_bundle_vundle.md)  
-║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 3.19.4.6 [bundle NERD tree install](03_Mac/19_vim/04_ETC/06_vim_buldle_NERDtree_by_vundle.md)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╠══ 3.19.4.6 [bundle NERD tree install](03_Mac/19_vim/04_ETC/06_vim_buldle_NERDtree_by_vundle.md)  
+║&ensp;&ensp;&nbsp;║&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;╚══ 3.19.4.7 [vimrc tab option](03_Mac/19_vim/04_ETC/07_vimrc_tab_option.md)  
 ║&ensp;&ensp;&nbsp;╠══ 3.20 [vnc client : Connect to vnc server](03_Mac/20_vnc_client/01_use_vnc_client.md)  
 ║&ensp;&ensp;&nbsp;╠══ 3.21 zip  
 ║&ensp;&ensp;&nbsp;║&ensp;&ensp;&nbsp;╠══ 3.21.1 [zip : compress folder](03_Mac/21_zip/01_zip_folder.md)  

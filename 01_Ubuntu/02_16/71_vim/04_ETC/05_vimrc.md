@@ -27,4 +27,11 @@ let @t=':s/\t/    /g'
 autocmd FileType python exec 'setlocal expandtab ts=4 sw=4 ai nu list'
 
 set tabstop=4
+
+" html
+autocmd FileType html exec 'setlocal ts=2 sts=2 sw=2 expandtab nu list'
+
+" javascript
+autocmd FileType javascript  exec 'setlocal ts=2 sts=2 sw=2 expandtab nu list'
+
 ```
