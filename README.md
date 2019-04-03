@@ -66,15 +66,15 @@
 1.2.21.0.00 ║ ║ ╠═1.2.21 fdisk   
 1.2.21.1.00 ║ ║ ║ ╠═1.2.21.1 [partioning disk](01_Ubuntu/02_16/21_fdisk/01_fdisk_partioning_disk.md)  
 1.2.21.2.00 ║ ║ ║ ╠═1.2.21.2 [partioning and format USB as FAT32 limit 32GB](01_Ubuntu/02_16/21_fdisk/02_format_USB_as_FAT32.md)   
+1.2.21.3.00 ║ ║ ║ ╠═1.2.21.3 [list partitions of attached disks](01_Ubuntu/02_16/21_fdisk/03_fdisk_list_disks.md)   
+1.2.21.4.00 ║ ║ ║ ╚═1.2.21.4 [delete and create swap partition](01_Ubuntu/02_16/21_fdisk/04_fdisk_swap_partition.md)  
+1.2.22.0.00 ║ ║ ╠═1.2.22 find  
+1.2.22.1.00 ║ ║ ║ ╠═1.2.22.1 [find with basename](01_Ubuntu/02_16/22_find/01_find_with_basename.md)  
+1.2.22.2.00 ║ ║ ║ ╠═1.2.22.2 [find with maxdepth](01_Ubuntu/02_16/22_find/02_find_with_maxdepth.md)  
+1.2.22.3.00 ║ ║ ║ ╠═1.2.22.3 [find file and sed CRLF to LF](01_Ubuntu/02_16/22_find/03_find_and_sed_move_CRLF_to_LF.md)  
+1.2.22.4.00 ║ ║ ║ ╠═1.2.22.4 [find file and sed TAB to 4SPACES](01_Ubuntu/02_16/22_find/04_find_and_sed_move_TAB_to_4SPACES.md)  
+1.2.22.5.00 ║ ║ ║ ╚═1.2.22.5 [find with size](01_Ubuntu/02_16/22_find/05_find_with_fileSize.md)  
  
-║ ║ ║ ╠═1.2.21.3 [list partitions of attached disks](01_Ubuntu/02_16/21_fdisk/03_fdisk_list_disks.md)   
-║ ║ ║ ╚═1.2.21.4 [delete and create swap partition](01_Ubuntu/02_16/21_fdisk/04_fdisk_swap_partition.md)  
-║ ║ ╠═1.2.22 find  
-║ ║ ║ ╠═1.2.22.1 [find with basename](01_Ubuntu/02_16/22_find/01_find_with_basename.md)  
-║ ║ ║ ╠═1.2.22.2 [find with maxdepth](01_Ubuntu/02_16/22_find/02_find_with_maxdepth.md)  
-║ ║ ║ ╠═1.2.22.3 [find file and sed CRLF to LF](01_Ubuntu/02_16/22_find/03_find_and_sed_move_CRLF_to_LF.md)  
-║ ║ ║ ╠═1.2.22.4 [find file and sed TAB to 4SPACES](01_Ubuntu/02_16/22_find/04_find_and_sed_move_TAB_to_4SPACES.md)  
-║ ║ ║ ╚═1.2.22.5 [find with size](01_Ubuntu/02_16/22_find/05_find_with_fileSize.md)  
 ║ ║ ╠═1.2.23 firefox  
 ║ ║ ║ ╠═1.2.23.1 [downgrade and upgrade](01_Ubuntu/02_16/23_firefox/01_firefox_downgrade_57_to_45.md)  
 ║ ║ ║ ╚═1.2.23.2 [font change](01_Ubuntu/02_16/23_firefox/02_font.md)  
@@ -172,11 +172,12 @@
 ║ ║ ║ ║ ╠═1.2.72.2.2 [save as other file](01_Ubuntu/02_16/71_vim/03_cmdLine-Mode/02_vim_save_as_other_File.md)  
 ║ ║ ║ ║ ╚═1.2.72.2.3 [CRLF to LF](01_Ubuntu/02_16/71_vim/03_cmdLine-Mode/03_vim_CRLF_to_LF.md)  
 ║ ║ ║ ╚═1.2.72.3 ETC  
-║ ║ ║ &nbsp;╠═1.2.72.3.1 [vim diff](01_Ubuntu/02_16/71_vim/04_ETC/01_vim_diff.md)  
-║ ║ ║ &nbsp;╠═1.2.72.3.2 [vimrc append and save macro](01_Ubuntu/02_16/71_vim/04_ETC/02_vimrc_append_save_macro.md)  
-║ ║ ║ &nbsp;╠═1.2.72.3.3 [color](01_Ubuntu/02_16/71_vim/04_ETC/03_vimrc_color.md)  
-║ ║ ║ &nbsp;╠═1.2.72.3.4 [vimrc encoding UTF8 (Korean)](01_Ubuntu/02_16/71_vim/04_ETC/04_vimrc_encoding_korean.md)  
-║ ║ ║ &nbsp;╚═1.2.72.3.5 [cat ~/.vimrc](01_Ubuntu/02_16/71_vim/04_ETC/05_vimrc.md)  
+║ ║ ║ - ╠═1.2.72.3.1 [vim diff](01_Ubuntu/02_16/71_vim/04_ETC/01_vim_diff.md)  
+║ ║ ║ - ╠═1.2.72.3.2 [vim split command](01_Ubuntu/02_16/71_vim/04_ETC/02_vim_split.md)  
+║ ║ ║ - ╠═1.2.72.3.3 [vimrc append and save macro](01_Ubuntu/02_16/71_vim/04_ETC/03_vimrc_append_save_macro.md)  
+║ ║ ║ - ╠═1.2.72.3.4 [color](01_Ubuntu/02_16/71_vim/04_ETC/04_vimrc_color.md)  
+║ ║ ║ - ╠═1.2.72.3.5 [vimrc encoding UTF8 (Korean)](01_Ubuntu/02_16/71_vim/04_ETC/05_vimrc_encoding_korean.md)  
+║ ║ ║ - ╚═1.2.72.3.6 [cat ~/.vimrc](01_Ubuntu/02_16/71_vim/04_ETC/06_vimrc.md)  
 ║ ║ ╠═1.2.73 vncserver, vnc4server  
 ║ ║ ║ ╠═1.2.73.1 [vnc4server : remote control ubuntu](01_Ubuntu/02_16/72_vnc4server/01_install_config_vnc4server.md)  
 ║ ║ ║ ╚═1.2.73.2 [vncserver : remote access sharing](01_Ubuntu/02_16/72_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md)  
