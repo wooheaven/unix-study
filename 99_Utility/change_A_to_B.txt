@@ -1,4 +1,5 @@
-01_Ubuntu/02_16/07_brew/03_brew_install_git.md -> 01_Ubuntu/02_16/07_brew/01_brew_install_git.md
-01_Ubuntu/02_16/07_brew/04_brew_install_node@10.md -> 01_Ubuntu/02_16/07_brew/02_brew_install_node@10.md
-01_Ubuntu/02_16/07_brew/02_brew_install_python.md -> 01_Ubuntu/02_16/07_brew/03_brew_install_python.md
-01_Ubuntu/02_16/07_brew/01_install_brew_and_use.md -> 01_Ubuntu/02_16/07_brew/05_install_brew_and_use.md
+01_Ubuntu/02_16/71_vim/04_ETC/02_vimrc_append_save_macro.md -> 01_Ubuntu/02_16/71_vim/04_ETC/03_vimrc_append_save_macro.md
+01_Ubuntu/02_16/71_vim/04_ETC/03_vimrc_color.md -> 01_Ubuntu/02_16/71_vim/04_ETC/04_vimrc_color.md
+01_Ubuntu/02_16/71_vim/04_ETC/04_vimrc_encoding_korean.md -> 01_Ubuntu/02_16/71_vim/04_ETC/05_vimrc_encoding_korean.md
+01_Ubuntu/02_16/71_vim/04_ETC/05_vimrc.md -> 01_Ubuntu/02_16/71_vim/04_ETC/06_vimrc.md
+01_Ubuntu/02_16/71_vim/04_ETC/06_vimrc_tab_option.md -> 01_Ubuntu/02_16/71_vim/04_ETC/07_vimrc_tab_option.md
