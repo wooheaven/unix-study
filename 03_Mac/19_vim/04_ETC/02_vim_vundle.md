@@ -1,6 +1,6 @@
 # install vim bundle vundle
 ```{bash}
-$ git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/vundle
+$ git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 $ vi ~/.vimrc
 ...
