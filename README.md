@@ -74,10 +74,10 @@
 1.2.22.3.00 ║ ║ ║ ╠═1.2.22.3 [find file and sed CRLF to LF](01_Ubuntu/02_16/22_find/03_find_and_sed_move_CRLF_to_LF.md)  
 1.2.22.4.00 ║ ║ ║ ╠═1.2.22.4 [find file and sed TAB to 4SPACES](01_Ubuntu/02_16/22_find/04_find_and_sed_move_TAB_to_4SPACES.md)  
 1.2.22.5.00 ║ ║ ║ ╚═1.2.22.5 [find with size](01_Ubuntu/02_16/22_find/05_find_with_fileSize.md)  
- 
-║ ║ ╠═1.2.23 firefox  
-║ ║ ║ ╠═1.2.23.1 [downgrade and upgrade](01_Ubuntu/02_16/23_firefox/01_firefox_downgrade_57_to_45.md)  
-║ ║ ║ ╚═1.2.23.2 [font change](01_Ubuntu/02_16/23_firefox/02_font.md)  
+1.2.23.0.00 ║ ║ ╠═1.2.23 firefox  
+1.2.23.1.00 ║ ║ ║ ╠═1.2.23.1 [downgrade and upgrade](01_Ubuntu/02_16/23_firefox/01_firefox_downgrade_57_to_45.md)  
+1.2.23.2.00 ║ ║ ║ ╚═1.2.23.2 [font change](01_Ubuntu/02_16/23_firefox/02_font.md)  
+
 ║ ║ ╠═1.2.24 [font : apply D2Coding](01_Ubuntu/02_16/24_font/01_D2Coding_font.md)  
 ║ ║ ╠═1.2.25 for  
 ║ ║ ║ ╠═1.2.25.1 [iterate by num++](01_Ubuntu/02_16/25_for_statement/01_for_num++.md)  
@@ -173,11 +173,12 @@
 ║ ║ ║ ║ ╚═1.2.72.2.3 [CRLF to LF](01_Ubuntu/02_16/71_vim/03_cmdLine-Mode/03_vim_CRLF_to_LF.md)  
 ║ ║ ║ ╚═1.2.72.3 ETC  
 ║ ║ ║ - ╠═1.2.72.3.1 [vim diff](01_Ubuntu/02_16/71_vim/04_ETC/01_vim_diff.md)  
-║ ║ ║ - ╠═1.2.72.3.2 [vim split command](01_Ubuntu/02_16/71_vim/04_ETC/02_vim_split.md)  
-║ ║ ║ - ╠═1.2.72.3.3 [vimrc append and save macro](01_Ubuntu/02_16/71_vim/04_ETC/03_vimrc_append_save_macro.md)  
-║ ║ ║ - ╠═1.2.72.3.4 [color](01_Ubuntu/02_16/71_vim/04_ETC/04_vimrc_color.md)  
-║ ║ ║ - ╠═1.2.72.3.5 [vimrc encoding UTF8 (Korean)](01_Ubuntu/02_16/71_vim/04_ETC/05_vimrc_encoding_korean.md)  
-║ ║ ║ - ╚═1.2.72.3.6 [cat ~/.vimrc](01_Ubuntu/02_16/71_vim/04_ETC/06_vimrc.md)  
+║ ║ ║ - ╠═1.2.72.3.2 [vim split](01_Ubuntu/02_16/71_vim/04_ETC/02_vim_split.md)  
+║ ║ ║ - ╠═1.2.72.3.3 [cat ~/.vimrc](01_Ubuntu/02_16/71_vim/04_ETC/03_vimrc.md)  
+║ ║ ║ - ╠═1.2.72.3.4 [vimrc macro](01_Ubuntu/02_16/71_vim/04_ETC/04_vimrc_append_save_macro.md)  
+║ ║ ║ - ╠═1.2.72.3.5 [colorscheme jellybeans](01_Ubuntu/02_16/71_vim/04_ETC/05_vimrc_color_jellybeans.md)  
+║ ║ ║ - ╠═1.2.72.3.6 [vimrc encoding UTF8 (Korean)](01_Ubuntu/02_16/71_vim/04_ETC/06_vimrc_encoding_korean.md)  
+║ ║ ║ - ╚═1.2.72.3.7 [vim tab option](01_Ubuntu/02_16/71_vim/04_ETC/07_vimrc_tab_option.md)   
 ║ ║ ╠═1.2.73 vncserver, vnc4server  
 ║ ║ ║ ╠═1.2.73.1 [vnc4server : remote control ubuntu](01_Ubuntu/02_16/72_vnc4server/01_install_config_vnc4server.md)  
 ║ ║ ║ ╚═1.2.73.2 [vncserver : remote access sharing](01_Ubuntu/02_16/72_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md)  
@@ -239,13 +240,12 @@
 ║ ║ ║ ║ ╠═3.19.3.1 [vim : move line](03_Mac/19_vim/03_CmdLine-Mode/01_vim_move_line.md)  
 ║ ║ ║ ║ ╚═3.19.3.2 [vim : save as other file](03_Mac/19_vim/03_CmdLine-Mode/02_vim_save_as_other_File.md)  
 ║ ║ ║ ╚═3.19.4 ETC  
-║ ║ ║ ╠═3.19.4.1 [vundle install NERD-tree](03_Mac/19_vim/04_ETC/01_vim_vuldle_install_NERD-tree.md)  
-║ ║ ║ ╠═3.19.4.2 [vundle install](03_Mac/19_vim/04_ETC/02_vim_vundle.md)  
-║ ║ ║ ╠═3.19.4.3 [vim diff](03_Mac/19_vim/04_ETC/03_vim_diff.md)  
-║ ║ ║ ╠═3.19.4.4 [vim diff refresh](03_Mac/19_vim/04_ETC/04_vim_diff_refresh.md)  
-║ ║ ║ ╠═3.19.4.5 [color molokai](03_Mac/19_vim/04_ETC/05_vimrc_color_molokai.md)  
-║ ║ ║ ╠═3.19.4.6 [cat ~/.vimrc](03_Mac/19_vim/04_ETC/06_vimrc.md)  
-║ ║ ║ ╚═3.19.4.7 [vimrc tab option](03_Mac/19_vim/04_ETC/07_vimrc_tab_option.md)  
+║ ║ ║ ╠═3.19.4.1 [vim diff](03_Mac/19_vim/04_ETC/01_vim_diff.md)  
+║ ║ ║ ╠═3.19.4.2 [vim diff refresh](03_Mac/19_vim/04_ETC/02_vim_diff_refresh.md)  
+║ ║ ║ ╠═3.19.4.3 [install NERD-tree by vundle](03_Mac/19_vim/04_ETC/03_vim_vuldle_install_NERD-tree.md)  
+║ ║ ║ ╠═3.19.4.4 [install vundle](03_Mac/19_vim/04_ETC/04_vim_vundle.md)  
+║ ║ ║ ╠═3.19.4.5 [cat ~/.vimrc](03_Mac/19_vim/04_ETC/05_vimrc.md)  
+║ ║ ║ ╚═3.19.4.6 [vimrc tab option](03_Mac/19_vim/04_ETC/06_vimrc_tab_option.md)  
 ║ ║ ╠═3.20 [vnc client : Connect to vnc server](03_Mac/20_vnc_client/01_use_vnc_client.md)  
 ║ ║ ╠═3.21 zip  
 ║ ║ ║ ╠═3.21.1 [zip : compress folder](03_Mac/21_zip/01_zip_folder.md)  
