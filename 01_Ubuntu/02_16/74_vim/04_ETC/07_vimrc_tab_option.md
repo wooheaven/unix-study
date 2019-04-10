@@ -9,4 +9,10 @@ $ vi ~/.vimrc
 " sw = Number of spaces to use for each step of (auto)indent
 " et ref http://vimdoc.sourceforge.net/htmldoc/options.html#'expandtab'
 " et = In Insert mode, Use the appropriate number of spaces to insert a <Tab>
+
+" html
+autocmd FileType html exec 'setlocal ts=2 sts=2 sw=2 expandtab nu list'
+
+" javascript
+autocmd FileType javascript  exec 'setlocal ts=2 sts=2 sw=2 expandtab nu list'
 ```
