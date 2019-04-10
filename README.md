@@ -144,7 +144,9 @@
 01.2.58.5.00 ║ ║ ║ ╠═1.2.58.5 [snap : install and refresh pycharm](01_Ubuntu/02_16/58_snap/05_snap_install_refresh_pycharm.md)  
 01.2.58.6.00 ║ ║ ║ ╠═1.2.58.6 [snap : install sublime-text](01_Ubuntu/02_16/58_snap/06_snap_install_sublime-text.md)  
 01.2.58.7.00 ║ ║ ║ ╚═1.2.58.7 [snap : install visualstudiocode](01_Ubuntu/02_16/58_snap/07_snap_install_visualstudiocode.md)  
-01.2.59.0.00 ║ ║ ╠═1.2.59 [sort : by key with Field and Chracter position](01_Ubuntu/02_16/59_sort/01_sort_key.md)  
+01.2.59.0.00 ║ ║ ╠═1.2.59 sort  
+01.2.59.1.00 ║ ║ ║ ╠═1.2.59.1 [by key as string or number, substring or subnumber](01_Ubuntu/02_16/59_sort/01_sort_by_key_as_string_number_substring_subnumber.md)  
+01.2.59.2.00 ║ ║ ║ ╚═1.2.59.2 [--ignore-case : Upper/Lower case](01_Ubuntu/02_16/59_sort/02_sort_ignore-case.md)  
 01.2.60.0.00 ║ ║ ╠═1.2.60 ssh  
 01.2.60.1.00 ║ ║ ║ ╠═1.2.60.1 [install](01_Ubuntu/02_16/60_ssh/01_install_ssh.md)  
 01.2.60.2.00 ║ ║ ║ ╠═1.2.60.2 [ssh-key : ssh login without passowrd](01_Ubuntu/02_16/60_ssh/02_add_publicKey_to_server.md)  
@@ -194,75 +196,74 @@
 01.2.81.1.00 ║ ║ ║ ╠═1.2.81.1 [xz : compress file](01_Ubuntu/02_16/81_xz/01_xz_compress.md)  
 01.2.81.2.00 ║ ║ ║ ╚═1.2.81.2 [xz : decompress file](01_Ubuntu/02_16/81_xz/02_xz_decompress.md)  
 01.2.82.0.00 ║ ║ ╚═1.2.82 [zip : compress and uncompress directory](01_Ubuntu/02_16/82_zip/01_zip_directory.md)  
-02.0.00.0.00 ║ ╠═2 CentOS  
-02.1.00.0.00 ║ ║ ╚═2.1 CentOS 6.9  
-02.1.01.0.00 ║ ║ - ╠═2.1.1 [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)  
-02.1.02.0.00 ║ ║ - ╠═2.1.2 [git : install git(version 2.x) by yum](02_CentOS/01_6.9/02_git/01_yum_install_git.md)  
-02.1.03.0.00 ║ ║ - ╠═2.1.3 network  
-02.1.03.1.00 ║ ║ - ║ ╠═2.1.3.1 [static](02_CentOS/01_6.9/03_network/01_static.md)  
-02.1.03.2.00 ║ ║ - ║ ╚═2.1.3.2 [dhcp](02_CentOS/01_6.9/03_network/02_dhcp.md)  
-02.1.04.0.00 ║ ║ - ╚═2.1.4 [sed : replace string /t to tab character](02_CentOS/01_6.9/04_sed/01_sed_string_replace.md)  
-03.0.00.0.00 ║ ╠═3 Mac  
-03.1.00.0.00 ║ ║ ╚═3.1 Sierra  
-03.1.01.0.00 ║ ║ - ╠═3.1.1 [Battery : Charge Status](03_Mac/01_Battery/01_Charge_Status.md)  
-03.1.02.0.00 ║ ║ - ╠═3.1.2 [brew : install brew](03_Mac/02_brew/00_install_brew_on_mac.md)  
-03.1.02.2.00 ║ ║ - ║ ╠═3.1.2.2 brew install  
-03.1.02.2.01 ║ ║ - ║ ║ ╠═3.1.2.2.1 [brew install gnuplot](03_Mac/02_brew/01_install/01_brew_install_gnuplot.md)  
-03.1.02.2.02 ║ ║ - ║ ║ ╠═3.1.2.2.2 [brew install iterm2](03_Mac/02_brew/01_install/02_brew_install_iterm2.md)  
-03.1.02.2.03 ║ ║ - ║ ║ ╠═3.1.2.2.3 [brew install jq](03_Mac/02_brew/01_install/03_brew_install_jq.md)  
-03.1.02.2.04 ║ ║ - ║ ║ ╠═3.1.2.2.4 [brew install macvim](03_Mac/02_brew/01_install/04_brew_install_macvim.md)  
-03.1.02.2.05 ║ ║ - ║ ║ ╠═3.1.2.2.5 [brew install maven](03_Mac/02_brew/01_install/05_brew_install_maven.md)  
-03.1.02.2.06 ║ ║ - ║ ║ ╠═3.1.2.2.6 [brew install node](03_Mac/02_brew/01_install/06_brew_install_node.md)  
-03.1.02.2.07 ║ ║ - ║ ║ ╠═3.1.2.2.7 [brew install python3](03_Mac/02_brew/01_install/07_brew_install_python3.md)  
-03.1.02.2.08 ║ ║ - ║ ║ ╠═3.1.2.2.8 [brew install tree](03_Mac/02_brew/01_install/08_brew_install_tree.md)  
-03.1.02.2.09 ║ ║ - ║ ║ ╚═3.1.2.2.9 [brew install zsh](03_Mac/02_brew/01_install/09_brew_install_zsh.md)  
-03.1.02.3.00 ║ ║ - ║ ╚═3.1.2.3 brew uninstall  
-03.1.02.3.01 ║ ║ - ║ - ╚═3.1.2.3.1 [brew uninstall node](03_Mac/02_brew/02_uninstall/09_brew_uninstall_node.md)  
-03.1.03.0.00 ║ ║ - ╠═3.1.3 [Command_Line_Tools : install](03_Mac/03_Command_Line_Tools/01_install_Command_Line_Tools.md)  
-03.1.04.0.00 ║ ║ - ╠═3.1.4 [Disk_Utility : format usb](03_Mac/04_Disk_Utility/01_Format_usb_on_mac.md)  
-03.1.05.0.00 ║ ║ - ╠═3.1.5 find  
-03.1.05.1.00 ║ ║ - ║ ╠═3.1.5.1 [find : basename](03_Mac/05_find/01_find_with_basename.md)  
-03.1.05.2.00 ║ ║ - ║ ╠═3.1.5.2 [find : max depth](03_Mac/05_find/02_find_with_maxdepth.md)  
-03.1.05.3.00 ║ ║ - ║ ╠═3.1.5.3 [find : sed CRLF to LF](03_Mac/05_find/03_find_and_sed_move_CRLF_to_LF.md)  
-03.1.05.4.00 ║ ║ - ║ ╠═3.1.5.4 [find : sed TAB to 4Spaces](03_Mac/05_find/04_find_and_sed_move_TAB_to_4SPACES.md)  
-03.1.05.5.00 ║ ║ - ║ ╚═3.1.5.5 [find : file size](03_Mac/05_find/05_find_with_fileSize.md)  
-03.1.06.0.00 ║ ║ - ╠═3.1.6 [font : download and install](03_Mac/06_font/01_download_and_install_font.md)  
-03.1.07.0.00 ║ ║ - ╠═3.1.7 [go : install](03_Mac/07_go/01_install_go_on_mac.md)  
-03.1.08.0.00 ║ ║ - ╠═3.1.8 [hdiutil : create bootable Usb for ubuntu](03_Mac/08_installer_usb/01_create_installer_usb_for_ubuntu16_server.md)  
-03.1.09.0.00 ║ ║ - ╠═3.1.9 [IntelliJ : Shortcut](03_Mac/09_IntelliJ/01_Shortcuts.md)  
-03.1.10.0.00 ║ ║ - ╠═3.1.10 [ITerm2 : ShortKey](03_Mac/10_ITerm2/01_short_key_of_iterm2_on_mac.md)  
-03.1.11.0.00 ║ ║ - ╠═3.1.11 [MatLab : Install ToolBox wfdb-app-toolbox](03_Mac/11_MatLab/01_install_ToolBox_of_MatLab.md)  
-03.1.12.0.00 ║ ║ - ╠═3.1.12 [Picture : resize picture](03_Mac/12_Picture/01_resize_of_picture.md)  
-03.1.13.0.00 ║ ║ - ╠═3.1.13 [Proxy : use proxy](03_Mac/13_Proxy/01_use_proxy.md)  
-03.1.14.0.00 ║ ║ - ╠═3.1.14 [Python : Matplotlib Backends RuntimeError](03_Mac/14_Python/01_with_Conda/01_Matplotlib_backends_RuntimeError.md)  
-03.1.15.0.00 ║ ║ - ╠═3.1.15 [rsync : exclude](03_Mac/15_rsync/01_rsync_option_exclude.md)  
-03.1.16.0.00 ║ ║ - ╠═3.1.16 [sed : move CRLF to LF](03_Mac/16_sed/01_sed_remove_CRLF_to_LF.md)  
-03.1.17.0.00 ║ ║ - ╠═3.1.17 [shasum : get checksum sha1](03_Mac/17_shasum/01_use_shasum_for_sha1.md)  
-03.1.18.0.00 ║ ║ - ╠═3.1.18 [tree : install and use](03_Mac/18_tree/01_install_use_tree_on_mac.md)  
-03.1.19.0.00 ║ ║ - ╠═3.1.19 vim  
-03.1.19.4.00 ║ ║ - ║ ╠═3.1.19.4 CmdLine-Mode  
-03.1.19.4.01 ║ ║ - ║ ║ ╠═3.1.19.4.1 [vim : move line](03_Mac/19_vim/03_CmdLine-Mode/01_vim_move_line.md)  
-03.1.19.4.02 ║ ║ - ║ ║ ╚═3.1.19.4.2 [vim : save as other file](03_Mac/19_vim/03_CmdLine-Mode/02_vim_save_as_other_File.md)  
-03.1.19.5.00 ║ ║ - ║ ╚═3.1.19.5 ETC  
-03.1.19.5.01 ║ ║ - ║ ╠═3.1.19.5.1 [vim diff](03_Mac/19_vim/04_ETC/01_vim_diff.md)  
-03.1.19.5.02 ║ ║ - ║ ╠═3.1.19.5.2 [vim diff refresh](03_Mac/19_vim/04_ETC/02_vim_diff_refresh.md)  
-03.1.19.5.03 ║ ║ - ║ ╠═3.1.19.5.3 [install NERD-tree by vundle](03_Mac/19_vim/04_ETC/03_vim_vuldle_install_NERD-tree.md)  
-03.1.19.5.04 ║ ║ - ║ ╠═3.1.19.5.4 [install vundle](03_Mac/19_vim/04_ETC/04_vim_vundle.md)  
-03.1.19.5.05 ║ ║ - ║ ╠═3.1.19.5.5 [cat ~/.vimrc](03_Mac/19_vim/04_ETC/05_vimrc.md)  
-03.1.19.5.06 ║ ║ - ║ ╚═3.1.19.5.6 [vimrc tab option](03_Mac/19_vim/04_ETC/06_vimrc_tab_option.md)  
-03.1.20.0.00 ║ ║ - ╠═3.1.20 [vnc client : Connect to vnc server](03_Mac/20_vnc_client/01_use_vnc_client.md)  
-03.1.21.0.00 ║ ║ - ╠═3.1.21 zip  
-03.1.21.1.00 ║ ║ - ║ ╠═3.1.21.1 [zip : compress folder](03_Mac/21_zip/01_zip_folder.md)  
-03.1.21.2.00 ║ ║ - ║ ╠═3.1.21.2 [zip : splited compress](03_Mac/21_zip/02_zip_splited_compress.md)  
-03.1.21.3.00 ║ ║ - ║ ╚═3.1.21.3 [zip : exclude](03_Mac/21_zip/03_zip_exclude.md)  
-03.1.22.0.00 ║ ║ - ╚═3.1.22 zsh  
-03.1.22.1.00 ║ ║ - - ╠═3.1.22.1 [~/.bash_profile ~/.bashrc ~/.zshrc : Configure with non-login/login](03_Mac/22_zsh/01_explain_of_bash_profile_bashrc_zshrc.md)  
-03.1.22.2.00 ║ ║ - - ╚═3.1.22.2 [~/.zshrc : example of .zshrc](03_Mac/22_zsh/02_example_of_zshrc.md)  
-99.0.00.0.00 ║ ╚═99_Utility  
-99.1.00.0.00 ║ - ╠═99.1 [tree to contents](99_Utility/01_tree_to_contents.sh)  
-99.2.00.0.00 ║ - ╠═99.2 [modify contents](99_Utility/02_modify_contents.py)  
-99.3.00.0.00 ║ - ╠═99.3 [modify README's link filename](99_Utility/03_modify_number_of_file_on_README.sh)  
-99.4.00.0.00 ║ - ╠═99.4 [modify README's link title](99_Utility/04_modify_number_of_head_on_README.sh)  
-99.5.00.0.00 ║ - ╠═99.5 [list of changed file_name](99_Utility/change_A_to_B.txt)  
-99.6.00.0.00 ║ - ╚═99.6 [auto updated contents by tree](99_Utility/contents.txt)  
-( ║ ╠ ═ ╚ )  
+02.0.00.0.00 ╠═2 CentOS  
+02.1.00.0.00 ║ ╚═2.1 CentOS 6.9  
+02.1.01.0.00 ║ - ╠═2.1.1 [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)  
+02.1.02.0.00 ║ - ╠═2.1.2 [git : install git(version 2.x) by yum](02_CentOS/01_6.9/02_git/01_yum_install_git.md)  
+02.1.03.0.00 ║ - ╠═2.1.3 network  
+02.1.03.1.00 ║ - ║ ╠═2.1.3.1 [static](02_CentOS/01_6.9/03_network/01_static.md)  
+02.1.03.2.00 ║ - ║ ╚═2.1.3.2 [dhcp](02_CentOS/01_6.9/03_network/02_dhcp.md)  
+02.1.04.0.00 ║ - ╚═2.1.4 [sed : replace string /t to tab character](02_CentOS/01_6.9/04_sed/01_sed_string_replace.md)  
+03.0.00.0.00 ╠═3 Mac  
+03.1.00.0.00 ║ ╚═3.1 Sierra  
+03.1.01.0.00 ║ - ╠═3.1.1 [Battery : Charge Status](03_Mac/01_Battery/01_Charge_Status.md)  
+03.1.02.0.00 ║ - ╠═3.1.2 [brew : install brew](03_Mac/02_brew/00_install_brew_on_mac.md)  
+03.1.02.2.00 ║ - ║ ╠═3.1.2.2 brew install  
+03.1.02.2.01 ║ - ║ ║ ╠═3.1.2.2.1 [brew install gnuplot](03_Mac/02_brew/01_install/01_brew_install_gnuplot.md)  
+03.1.02.2.02 ║ - ║ ║ ╠═3.1.2.2.2 [brew install iterm2](03_Mac/02_brew/01_install/02_brew_install_iterm2.md)  
+03.1.02.2.03 ║ - ║ ║ ╠═3.1.2.2.3 [brew install jq](03_Mac/02_brew/01_install/03_brew_install_jq.md)  
+03.1.02.2.04 ║ - ║ ║ ╠═3.1.2.2.4 [brew install macvim](03_Mac/02_brew/01_install/04_brew_install_macvim.md)  
+03.1.02.2.05 ║ - ║ ║ ╠═3.1.2.2.5 [brew install maven](03_Mac/02_brew/01_install/05_brew_install_maven.md)  
+03.1.02.2.06 ║ - ║ ║ ╠═3.1.2.2.6 [brew install node](03_Mac/02_brew/01_install/06_brew_install_node.md)  
+03.1.02.2.07 ║ - ║ ║ ╠═3.1.2.2.7 [brew install python3](03_Mac/02_brew/01_install/07_brew_install_python3.md)  
+03.1.02.2.08 ║ - ║ ║ ╠═3.1.2.2.8 [brew install tree](03_Mac/02_brew/01_install/08_brew_install_tree.md)  
+03.1.02.2.09 ║ - ║ ║ ╚═3.1.2.2.9 [brew install zsh](03_Mac/02_brew/01_install/09_brew_install_zsh.md)  
+03.1.02.3.00 ║ - ║ ╚═3.1.2.3 brew uninstall  
+03.1.02.3.01 ║ - ║ - ╚═3.1.2.3.1 [brew uninstall node](03_Mac/02_brew/02_uninstall/09_brew_uninstall_node.md)  
+03.1.03.0.00 ║ - ╠═3.1.3 [Command_Line_Tools : install](03_Mac/03_Command_Line_Tools/01_install_Command_Line_Tools.md)  
+03.1.04.0.00 ║ - ╠═3.1.4 [Disk_Utility : format usb](03_Mac/04_Disk_Utility/01_Format_usb_on_mac.md)  
+03.1.05.0.00 ║ - ╠═3.1.5 find  
+03.1.05.1.00 ║ - ║ ╠═3.1.5.1 [find : basename](03_Mac/05_find/01_find_with_basename.md)  
+03.1.05.2.00 ║ - ║ ╠═3.1.5.2 [find : max depth](03_Mac/05_find/02_find_with_maxdepth.md)  
+03.1.05.3.00 ║ - ║ ╠═3.1.5.3 [find : sed CRLF to LF](03_Mac/05_find/03_find_and_sed_move_CRLF_to_LF.md)  
+03.1.05.4.00 ║ - ║ ╠═3.1.5.4 [find : sed TAB to 4Spaces](03_Mac/05_find/04_find_and_sed_move_TAB_to_4SPACES.md)  
+03.1.05.5.00 ║ - ║ ╚═3.1.5.5 [find : file size](03_Mac/05_find/05_find_with_fileSize.md)  
+03.1.06.0.00 ║ - ╠═3.1.6 [font : download and install](03_Mac/06_font/01_download_and_install_font.md)  
+03.1.07.0.00 ║ - ╠═3.1.7 [go : install](03_Mac/07_go/01_install_go_on_mac.md)  
+03.1.08.0.00 ║ - ╠═3.1.8 [hdiutil : create bootable Usb for ubuntu](03_Mac/08_installer_usb/01_create_installer_usb_for_ubuntu16_server.md)  
+03.1.09.0.00 ║ - ╠═3.1.9 [IntelliJ : Shortcut](03_Mac/09_IntelliJ/01_Shortcuts.md)  
+03.1.10.0.00 ║ - ╠═3.1.10 [ITerm2 : ShortKey](03_Mac/10_ITerm2/01_short_key_of_iterm2_on_mac.md)  
+03.1.11.0.00 ║ - ╠═3.1.11 [MatLab : Install ToolBox wfdb-app-toolbox](03_Mac/11_MatLab/01_install_ToolBox_of_MatLab.md)  
+03.1.12.0.00 ║ - ╠═3.1.12 [Picture : resize picture](03_Mac/12_Picture/01_resize_of_picture.md)  
+03.1.13.0.00 ║ - ╠═3.1.13 [Proxy : use proxy](03_Mac/13_Proxy/01_use_proxy.md)  
+03.1.14.0.00 ║ - ╠═3.1.14 [Python : Matplotlib Backends RuntimeError](03_Mac/14_Python/01_with_Conda/01_Matplotlib_backends_RuntimeError.md)  
+03.1.15.0.00 ║ - ╠═3.1.15 [rsync : exclude](03_Mac/15_rsync/01_rsync_option_exclude.md)  
+03.1.16.0.00 ║ - ╠═3.1.16 [sed : move CRLF to LF](03_Mac/16_sed/01_sed_remove_CRLF_to_LF.md)  
+03.1.17.0.00 ║ - ╠═3.1.17 [shasum : get checksum sha1](03_Mac/17_shasum/01_use_shasum_for_sha1.md)  
+03.1.18.0.00 ║ - ╠═3.1.18 [tree : install and use](03_Mac/18_tree/01_install_use_tree_on_mac.md)  
+03.1.19.0.00 ║ - ╠═3.1.19 vim  
+03.1.19.4.00 ║ - ║ ╠═3.1.19.4 CmdLine-Mode  
+03.1.19.4.01 ║ - ║ ║ ╠═3.1.19.4.1 [vim : move line](03_Mac/19_vim/03_CmdLine-Mode/01_vim_move_line.md)  
+03.1.19.4.02 ║ - ║ ║ ╚═3.1.19.4.2 [vim : save as other file](03_Mac/19_vim/03_CmdLine-Mode/02_vim_save_as_other_File.md)  
+03.1.19.5.00 ║ - ║ ╚═3.1.19.5 ETC  
+03.1.19.5.01 ║ - ║ ╠═3.1.19.5.1 [vim diff](03_Mac/19_vim/04_ETC/01_vim_diff.md)  
+03.1.19.5.02 ║ - ║ ╠═3.1.19.5.2 [vim diff refresh](03_Mac/19_vim/04_ETC/02_vim_diff_refresh.md)  
+03.1.19.5.03 ║ - ║ ╠═3.1.19.5.3 [install NERD-tree by vundle](03_Mac/19_vim/04_ETC/03_vim_vuldle_install_NERD-tree.md)  
+03.1.19.5.04 ║ - ║ ╠═3.1.19.5.4 [install vundle](03_Mac/19_vim/04_ETC/04_vim_vundle.md)  
+03.1.19.5.05 ║ - ║ ╚═3.1.19.5.5 [cat ~/.vimrc](03_Mac/19_vim/04_ETC/05_vimrc.md)  
+03.1.20.0.00 ║ - ╠═3.1.20 [vnc client : Connect to vnc server](03_Mac/20_vnc_client/01_use_vnc_client.md)  
+03.1.21.0.00 ║ - ╠═3.1.21 zip  
+03.1.21.1.00 ║ - ║ ╠═3.1.21.1 [zip : compress folder](03_Mac/21_zip/01_zip_folder.md)  
+03.1.21.2.00 ║ - ║ ╠═3.1.21.2 [zip : splited compress](03_Mac/21_zip/02_zip_splited_compress.md)  
+03.1.21.3.00 ║ - ║ ╚═3.1.21.3 [zip : exclude](03_Mac/21_zip/03_zip_exclude.md)  
+03.1.22.0.00 ║ - ╚═3.1.22 zsh  
+03.1.22.1.00 ║ - - ╠═3.1.22.1 [~/.bash_profile ~/.bashrc ~/.zshrc : Configure with non-login/login](03_Mac/22_zsh/01_explain_of_bash_profile_bashrc_zshrc.md)  
+03.1.22.2.00 ║ - - ╚═3.1.22.2 [~/.zshrc : example of .zshrc](03_Mac/22_zsh/02_example_of_zshrc.md)  
+99.0.00.0.00 ╚═99_Utility  
+99.1.00.0.00 - ╠═99.1 [tree to contents](99_Utility/01_tree_to_contents.sh)  
+99.2.00.0.00 - ╠═99.2 [modify contents](99_Utility/02_modify_contents.py)  
+99.3.00.0.00 - ╠═99.3 [modify README's link filename](99_Utility/03_modify_number_of_file_on_README.sh)  
+99.4.00.0.00 - ╠═99.4 [modify README's link title](99_Utility/04_modify_number_of_head_on_README.sh)  
+99.5.00.0.00 - ╠═99.5 [list of changed file_name](99_Utility/change_A_to_B.txt)  
+99.6.00.0.00 - ╚═99.6 [auto updated contents by tree](99_Utility/contents.txt)  
+( ╠ ═ ╚ )  
