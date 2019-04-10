@@ -196,6 +196,8 @@
 01.2.81.1.00 ║ ║ ║ ╠═1.2.81.1 [xz : compress file](01_Ubuntu/02_16/81_xz/01_xz_compress.md)  
 01.2.81.2.00 ║ ║ ║ ╚═1.2.81.2 [xz : decompress file](01_Ubuntu/02_16/81_xz/02_xz_decompress.md)  
 01.2.82.0.00 ║ ║ ╚═1.2.82 [zip : compress and uncompress directory](01_Ubuntu/02_16/82_zip/01_zip_directory.md)  
+01.3.00.0.00 ║ ╚═1.3 ubuntu18.04  
+01.3.01.0.00 ║ - ╚═1.3.1 [vnc : activate](01_Ubuntu/03_18.04/01_vnc/01_vnc_activate.md)  
 02.0.00.0.00 ╠═2 CentOS  
 02.1.00.0.00 ║ ╚═2.1 CentOS 6.9  
 02.1.01.0.00 ║ - ╠═2.1.1 [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)  
@@ -249,8 +251,7 @@
 03.1.19.5.01 ║ - ║ ╠═3.1.19.5.1 [vim diff](03_Mac/19_vim/04_ETC/01_vim_diff.md)  
 03.1.19.5.02 ║ - ║ ╠═3.1.19.5.2 [vim diff refresh](03_Mac/19_vim/04_ETC/02_vim_diff_refresh.md)  
 03.1.19.5.03 ║ - ║ ╠═3.1.19.5.3 [install NERD-tree by vundle](03_Mac/19_vim/04_ETC/03_vim_vuldle_install_NERD-tree.md)  
-03.1.19.5.04 ║ - ║ ╠═3.1.19.5.4 [install vundle](03_Mac/19_vim/04_ETC/04_vim_vundle.md)  
-03.1.19.5.05 ║ - ║ ╚═3.1.19.5.5 [cat ~/.vimrc](03_Mac/19_vim/04_ETC/05_vimrc.md)  
+03.1.19.5.04 ║ - ║ ╚═3.1.19.5.4 [install vundle](03_Mac/19_vim/04_ETC/04_vim_vundle.md)  
 03.1.20.0.00 ║ - ╠═3.1.20 [vnc client : Connect to vnc server](03_Mac/20_vnc_client/01_use_vnc_client.md)  
 03.1.21.0.00 ║ - ╠═3.1.21 zip  
 03.1.21.1.00 ║ - ║ ╠═3.1.21.1 [zip : compress folder](03_Mac/21_zip/01_zip_folder.md)  
