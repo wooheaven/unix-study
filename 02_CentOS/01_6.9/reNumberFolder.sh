@@ -7,7 +7,7 @@ fi
 ls -l \
 | grep "^d" \
 | awk 'BEGIN{FS=" ";OFS="\t"} {if(NF > 8) print $9,substr($9,4); next}' \
-| sort -k2,2 \
+| sort -f -k2,2 \
 | cat -n \
 | sed -e 's/ //g' \
 | awk 'BEGIN{FS=OFS="\t"} {if(length($1) < 2) print 0$1,$2,$3 ;else print $0}' \
