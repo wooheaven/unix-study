@@ -145,8 +145,9 @@
 01.2.60.3.00 ║ ║ ║ ╠═1.2.60.3 [snap : example install list refresh remove](01_Ubuntu/02_16/60_snap/03_snap_install_list_changes_refresh_remove.md)  
 01.2.60.4.00 ║ ║ ║ ╠═1.2.60.4 [snap : install node](01_Ubuntu/02_16/60_snap/04_snap_install_node.md)  
 01.2.60.5.00 ║ ║ ║ ╠═1.2.60.5 [snap : install and refresh pycharm](01_Ubuntu/02_16/60_snap/05_snap_install_refresh_pycharm.md)  
-01.2.60.6.00 ║ ║ ║ ╠═1.2.60.6 [snap : install sublime-text](01_Ubuntu/02_16/60_snap/06_snap_install_sublime-text.md)  
-01.2.60.7.00 ║ ║ ║ ╚═1.2.60.7 [snap : install visualstudiocode](01_Ubuntu/02_16/60_snap/07_snap_install_visualstudiocode.md)  
+01.2.60.6.00 ║ ║ ║ ╠═1.2.60.6 [snap : install slack](01_Ubuntu/02_16/60_snap/06_snap_install_slack.md)  
+01.2.60.7.00 ║ ║ ║ ╠═1.2.60.7 [snap : install sublime-text](01_Ubuntu/02_16/60_snap/07_snap_install_sublime-text.md)  
+01.2.60.8.00 ║ ║ ║ ╚═1.2.60.8 [snap : install visualstudiocode](01_Ubuntu/02_16/60_snap/08_snap_install_visualstudiocode.md)  
 01.2.61.0.00 ║ ║ ╠═1.2.61 sort  
 01.2.61.1.00 ║ ║ ║ ╠═1.2.61.1 [by key as string or number, substring or subnumber](01_Ubuntu/02_16/61_sort/01_sort_by_key_as_string_number_substring_subnumber.md)  
 01.2.61.2.00 ║ ║ ║ ╚═1.2.61.2 [--ignore-case : Upper/Lower case](01_Ubuntu/02_16/61_sort/02_sort_ignore-case.md)  
@@ -251,8 +252,7 @@
 03.1.18.0.00 ║ - ╠═3.1.18 [tree : install and use](03_Mac/18_tree/01_install_use_tree_on_mac.md)  
 03.1.19.0.00 ║ - ╠═3.1.19 vim  
 03.1.19.4.00 ║ - ║ ╚═3.1.19.4 CmdLine-Mode  
-03.1.19.4.01 ║ - ║ - ╠═3.1.19.4.1 [vim : move line](03_Mac/19_vim/03_CmdLine-Mode/01_vim_move_line.md)  
-03.1.19.4.02 ║ - ║ - ╚═3.1.19.4.2 [vim : save as other file](03_Mac/19_vim/03_CmdLine-Mode/02_vim_save_as_other_File.md)  
+03.1.19.4.01 ║ - ║ - ╚═3.1.19.4.1 [vim : move line](03_Mac/19_vim/03_CmdLine-Mode/01_vim_move_line.md)  
 03.1.20.0.00 ║ - ╠═3.1.20 [vnc client : Connect to vnc server](03_Mac/20_vnc_client/01_use_vnc_client.md)  
 03.1.21.0.00 ║ - ╠═3.1.21 zip  
 03.1.21.1.00 ║ - ║ ╠═3.1.21.1 [zip : compress folder](03_Mac/21_zip/01_zip_folder.md)  
