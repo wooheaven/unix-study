@@ -1,4 +1,4 @@
-# create, search, restore a session of screen
+# create, search, restore, stop a session of screen
 ```bash
 $ screen -S mp
 
@@ -8,6 +8,8 @@ There is a screen on:
 1 Socket in /var/run/screen/S-ubuntu.
 
 $ screen -r 31476
+
+$ screen -X -S 31476.mp quit
 ```
 
 # screen cmd

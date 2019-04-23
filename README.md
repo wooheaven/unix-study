@@ -181,14 +181,15 @@
 01.2.76.2.03 ║ ║ ║ ║ ╚═1.2.76.2.3 [CRLF to LF](01_Ubuntu/02_16/76_vim/03_cmdLine-Mode/03_vim_CRLF_to_LF.md)  
 01.2.76.3.00 ║ ║ ║ ╚═1.2.76.3 ETC  
 01.2.76.3.01 ║ ║ ║ - ╠═1.2.76.3.1 [vim diff](01_Ubuntu/02_16/76_vim/04_ETC/01_vim_diff.md)  
-01.2.76.3.02 ║ ║ ║ - ╠═1.2.76.3.2 [vim install use nerdtree](01_Ubuntu/02_16/76_vim/04_ETC/02_vim_install_nerdtree_by_vundle.md)  
-01.2.76.3.03 ║ ║ ║ - ╠═1.2.76.3.3 [vim install vundle](01_Ubuntu/02_16/76_vim/04_ETC/03_vim_install_use_vundle.md)  
-01.2.76.3.04 ║ ║ ║ - ╠═1.2.76.3.4 [vimrc macro](01_Ubuntu/02_16/76_vim/04_ETC/04_vimrc_append_save_macro.md)  
-01.2.76.3.05 ║ ║ ║ - ╠═1.2.76.3.5 [vim colorscheme jellybeans](01_Ubuntu/02_16/76_vim/04_ETC/05_vimrc_color_jellybeans.md)  
-01.2.76.3.06 ║ ║ ║ - ╠═1.2.76.3.6 [vimrc encoding UTF8 (Korean)](01_Ubuntu/02_16/76_vim/04_ETC/06_vimrc_encoding_korean.md)  
-01.2.76.3.07 ║ ║ ║ - ╠═1.2.76.3.7 [cat ~/.vimrc](01_Ubuntu/02_16/76_vim/04_ETC/07_vimrc.md)  
-01.2.76.3.08 ║ ║ ║ - ╠═1.2.76.3.8 [vim tab option](01_Ubuntu/02_16/76_vim/04_ETC/08_vimrc_tab_option.md)   
-01.2.76.3.09 ║ ║ ║ - ╚═1.2.76.3.9 [vim split](01_Ubuntu/02_16/76_vim/04_ETC/09_vim_split.md)  
+01.2.76.3.02 ║ ║ ║ - ╠═1.2.76.3.2 [vim diff refresh](01_Ubuntu/02_16/76_vim/04_ETC/02_vim_diff_refresh.md)  
+01.2.76.3.03 ║ ║ ║ - ╠═1.2.76.3.3 [vim install use nerdtree](01_Ubuntu/02_16/76_vim/04_ETC/03_vim_install_nerdtree_by_vundle.md)  
+01.2.76.3.04 ║ ║ ║ - ╠═1.2.76.3.4 [vim install vundle](01_Ubuntu/02_16/76_vim/04_ETC/04_vim_install_use_vundle.md)  
+01.2.76.3.05 ║ ║ ║ - ╠═1.2.76.3.5 [vim split](01_Ubuntu/02_16/76_vim/04_ETC/05_vim_split.md)  
+01.2.76.3.06 ║ ║ ║ - ╠═1.2.76.3.6 [cat ~/.vimrc](01_Ubuntu/02_16/76_vim/04_ETC/06_vimrc.md)  
+01.2.76.3.07 ║ ║ ║ - ╠═1.2.76.3.7 [vimrc macro](01_Ubuntu/02_16/76_vim/04_ETC/07_vimrc_append_save_macro.md)  
+01.2.76.3.08 ║ ║ ║ - ╠═1.2.76.3.8 [vim colorscheme jellybeans](01_Ubuntu/02_16/76_vim/04_ETC/08_vimrc_color_jellybeans.md)  
+01.2.76.3.09 ║ ║ ║ - ╠═1.2.76.3.9 [vimrc encoding UTF8 (Korean)](01_Ubuntu/02_16/76_vim/04_ETC/09_vimrc_encoding_korean.md)  
+01.2.76.3.10 ║ ║ ║ - ╚═1.2.76.3.10 [vim tab option](01_Ubuntu/02_16/76_vim/04_ETC/10_vimrc_tab_option.md)   
 01.2.77.0.00 ║ ║ ╠═1.2.77 vncserver, vnc4server  
 01.2.77.1.00 ║ ║ ║ ╠═1.2.77.1 [vnc4server : remote control ubuntu](01_Ubuntu/02_16/77_vnc4server/01_install_config_vnc4server.md)  
 01.2.77.2.00 ║ ║ ║ ╚═1.2.77.2 [vncserver : remote access sharing](01_Ubuntu/02_16/77_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md)  
@@ -249,12 +250,9 @@
 03.1.17.0.00 ║ - ╠═3.1.17 [shasum : get checksum sha1](03_Mac/17_shasum/01_use_shasum_for_sha1.md)  
 03.1.18.0.00 ║ - ╠═3.1.18 [tree : install and use](03_Mac/18_tree/01_install_use_tree_on_mac.md)  
 03.1.19.0.00 ║ - ╠═3.1.19 vim  
-03.1.19.4.00 ║ - ║ ╠═3.1.19.4 CmdLine-Mode  
-03.1.19.4.01 ║ - ║ ║ ╠═3.1.19.4.1 [vim : move line](03_Mac/19_vim/03_CmdLine-Mode/01_vim_move_line.md)  
-03.1.19.4.02 ║ - ║ ║ ╚═3.1.19.4.2 [vim : save as other file](03_Mac/19_vim/03_CmdLine-Mode/02_vim_save_as_other_File.md)  
-03.1.19.5.00 ║ - ║ ╚═3.1.19.5 ETC  
-03.1.19.5.01 ║ - ║ ╠═3.1.19.5.1 [vim diff](03_Mac/19_vim/04_ETC/01_vim_diff.md)  
-03.1.19.5.02 ║ - ║ ╚═3.1.19.5.2 [vim diff refresh](03_Mac/19_vim/04_ETC/02_vim_diff_refresh.md)  
+03.1.19.4.00 ║ - ║ ╚═3.1.19.4 CmdLine-Mode  
+03.1.19.4.01 ║ - ║ - ╠═3.1.19.4.1 [vim : move line](03_Mac/19_vim/03_CmdLine-Mode/01_vim_move_line.md)  
+03.1.19.4.02 ║ - ║ - ╚═3.1.19.4.2 [vim : save as other file](03_Mac/19_vim/03_CmdLine-Mode/02_vim_save_as_other_File.md)  
 03.1.20.0.00 ║ - ╠═3.1.20 [vnc client : Connect to vnc server](03_Mac/20_vnc_client/01_use_vnc_client.md)  
 03.1.21.0.00 ║ - ╠═3.1.21 zip  
 03.1.21.1.00 ║ - ║ ╠═3.1.21.1 [zip : compress folder](03_Mac/21_zip/01_zip_folder.md)  
