@@ -1,7 +1,9 @@
-03_Mac/19_vim/04_ETC/03_vim_vuldle_install_NERD-tree.md -> 01_Ubuntu/02_16/76_vim/04_ETC/02_vim_install_nerdtree_by_vundle.md
-01_Ubuntu/02_16/76_vim/04_ETC/03_vim_vundle.md -> 01_Ubuntu/02_16/76_vim/04_ETC/03_vim_install_use_vundle.md
-01_Ubuntu/02_16/76_vim/04_ETC/05_vimrc_append_save_macro.md -> 01_Ubuntu/02_16/76_vim/04_ETC/04_vimrc_append_save_macro.md
-01_Ubuntu/02_16/76_vim/04_ETC/06_vimrc_color_jellybeans.md -> 01_Ubuntu/02_16/76_vim/04_ETC/05_vimrc_color_jellybeans.md
-01_Ubuntu/02_16/76_vim/04_ETC/07_vimrc_encoding_korean.md -> 01_Ubuntu/02_16/76_vim/04_ETC/06_vimrc_encoding_korean.md
-01_Ubuntu/02_16/76_vim/04_ETC/04_vimrc.md -> 01_Ubuntu/02_16/76_vim/04_ETC/07_vimrc.md
-01_Ubuntu/02_16/76_vim/04_ETC/02_vim_split.md -> 01_Ubuntu/02_16/76_vim/04_ETC/09_vim_split.md
+01_Ubuntu/02_16/76_vim/04_ETC/10_vim_diff_refresh.md -> 01_Ubuntu/02_16/76_vim/04_ETC/02_vim_diff_refresh.md
+01_Ubuntu/02_16/76_vim/04_ETC/02_vim_install_nerdtree_by_vundle.md -> 01_Ubuntu/02_16/76_vim/04_ETC/03_vim_install_nerdtree_by_vundle.md
+01_Ubuntu/02_16/76_vim/04_ETC/03_vim_install_use_vundle.md -> 01_Ubuntu/02_16/76_vim/04_ETC/04_vim_install_use_vundle.md
+01_Ubuntu/02_16/76_vim/04_ETC/09_vim_split.md -> 01_Ubuntu/02_16/76_vim/04_ETC/05_vim_split.md
+01_Ubuntu/02_16/76_vim/04_ETC/07_vimrc.md -> 01_Ubuntu/02_16/76_vim/04_ETC/06_vimrc.md
+01_Ubuntu/02_16/76_vim/04_ETC/04_vimrc_append_save_macro.md -> 01_Ubuntu/02_16/76_vim/04_ETC/07_vimrc_append_save_macro.md
+01_Ubuntu/02_16/76_vim/04_ETC/05_vimrc_color_jellybeans.md -> 01_Ubuntu/02_16/76_vim/04_ETC/08_vimrc_color_jellybeans.md
+01_Ubuntu/02_16/76_vim/04_ETC/06_vimrc_encoding_korean.md -> 01_Ubuntu/02_16/76_vim/04_ETC/09_vimrc_encoding_korean.md
+01_Ubuntu/02_16/76_vim/04_ETC/08_vimrc_tab_option.md -> 01_Ubuntu/02_16/76_vim/04_ETC/10_vimrc_tab_option.md
