@@ -1,6 +1,18 @@
+# rsync option -aqxP
+```bash
+$ rsync --help | egrep "\-a,|\-q,|\-x,|\-P"
+ -a, --archive               archive mode; same as -rlptgoD (no -H)
+ -q, --quiet                 suppress non-error messages
+ -x, --one-file-system       don't cross filesystem boundaries
+ -P                          same as --partial --progress
+```
+
 # rsync for /var
 ```{bash}
+# on Azure /var folder to another disk
+
 $ rsync -aqxP /var/* /srv/var/
+
 $ blkid | grep vda9
 /dev/vda9: UUID="8f3616ca-a3a8-4339-b8f8-fbba97c15ceb" TYPE="ext4" PARTUUID="5d53dc53-09"
 
