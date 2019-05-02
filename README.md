@@ -129,9 +129,9 @@
 01.2.54.2.00 ║ ║ ║ ╠═1.2.54.2 [ImportError : after pip3 install --upgrade pip](01_Ubuntu/02_16/54_Python/02_ImportError.md)  
 01.2.54.3.00 ║ ║ ║ ╚═1.2.54.3 [numpy pandas : as system package with python3.5.2](01_Ubuntu/02_16/54_Python/03_install_numpy_pandas_as_system_package.md)  
 01.2.55.0.00 ║ ║ ╠═1.2.55 rsync  
-01.2.55.1.00 ║ ║ ║ ╠═1.2.55.1 [folder to folder](01_Ubuntu/02_16/55_rsync/01_rsync_folder_to_folder.md)  
-01.2.55.2.00 ║ ║ ║ ╠═1.2.55.2 [/home to other folder](01_Ubuntu/02_16/55_rsync/02_rsync_home_to_other.md)  
-01.2.55.3.00 ║ ║ ║ ╚═1.2.55.3 [rsync : /var to other folder](01_Ubuntu/02_16/55_rsync/03_rsync_var_to_other.md)  
+01.2.55.1.00 ║ ║ ║ ╠═1.2.55.1 [option -avh : folder to folder](01_Ubuntu/02_16/55_rsync/01_rsync_-avh_folder_to_folder.md)  
+01.2.55.2.00 ║ ║ ║ ╠═1.2.55.2 [option -aqxP : /var to other folder](01_Ubuntu/02_16/55_rsync/02_rsync_-aqxP_var_to_other.md)  
+01.2.55.3.00 ║ ║ ║ ╚═1.2.55.3 [option --remove-source-files : folder to folder](01_Ubuntu/02_16/55_rsync/03_rsync_--remove-source-files_folder_to_folder.md)  
 01.2.56.0.00 ║ ║ ╠═1.2.56 [run-level : change](01_Ubuntu/02_16/56_run-level/01_change_run-level.md)  
 01.2.57.0.00 ║ ║ ╠═1.2.57 [screen : use](01_Ubuntu/02_16/57_screen/01_use_screen.md)  
 01.2.58.0.00 ║ ║ ╠═1.2.58 sed  
@@ -177,7 +177,7 @@
 01.2.76.1.01 ║ ║ ║ ║ ╠═1.2.76.1.1 [Move Cursor](01_Ubuntu/02_16/76_vim/01_cmd-Mode/01_Move_Cursor.md)  
 01.2.76.1.02 ║ ║ ║ ║ ╚═1.2.76.1.2 [Switch Line Up and Down](01_Ubuntu/02_16/76_vim/01_cmd-Mode/02_Switch_Line_Up_and_Down.md)  
 01.2.76.2.00 ║ ║ ║ ╠═1.2.76.2 CmdLine-Mode  
-01.2.76.2.01 ║ ║ ║ ║ ╠═1.2.76.2.1 [Move Line Up and Down](01_Ubuntu/02_16/76_vim/03_cmdLine-Mode/01_Move_Line_Up_and_Down.md)  
+01.2.76.2.01 ║ ║ ║ ║ ╠═1.2.76.2.1 [Move Line](01_Ubuntu/02_16/76_vim/03_cmdLine-Mode/01_Move_Line_Up_and_Down.md)  
 01.2.76.2.02 ║ ║ ║ ║ ╠═1.2.76.2.2 [save as other file](01_Ubuntu/02_16/76_vim/03_cmdLine-Mode/02_vim_save_as_other_File.md)  
 01.2.76.2.03 ║ ║ ║ ║ ╚═1.2.76.2.3 [CRLF to LF](01_Ubuntu/02_16/76_vim/03_cmdLine-Mode/03_vim_CRLF_to_LF.md)  
 01.2.76.3.00 ║ ║ ║ ╚═1.2.76.3 ETC  
@@ -250,17 +250,14 @@
 03.1.16.0.00 ║ - ╠═3.1.16 [sed : move CRLF to LF](03_Mac/16_sed/01_sed_remove_CRLF_to_LF.md)  
 03.1.17.0.00 ║ - ╠═3.1.17 [shasum : get checksum sha1](03_Mac/17_shasum/01_use_shasum_for_sha1.md)  
 03.1.18.0.00 ║ - ╠═3.1.18 [tree : install and use](03_Mac/18_tree/01_install_use_tree_on_mac.md)  
-03.1.19.0.00 ║ - ╠═3.1.19 vim  
-03.1.19.4.00 ║ - ║ ╚═3.1.19.4 CmdLine-Mode  
-03.1.19.4.01 ║ - ║ - ╚═3.1.19.4.1 [vim : move line](03_Mac/19_vim/03_CmdLine-Mode/01_vim_move_line.md)  
-03.1.20.0.00 ║ - ╠═3.1.20 [vnc client : Connect to vnc server](03_Mac/20_vnc_client/01_use_vnc_client.md)  
-03.1.21.0.00 ║ - ╠═3.1.21 zip  
-03.1.21.1.00 ║ - ║ ╠═3.1.21.1 [zip : compress folder](03_Mac/21_zip/01_zip_folder.md)  
-03.1.21.2.00 ║ - ║ ╠═3.1.21.2 [zip : splited compress](03_Mac/21_zip/02_zip_splited_compress.md)  
-03.1.21.3.00 ║ - ║ ╚═3.1.21.3 [zip : exclude](03_Mac/21_zip/03_zip_exclude.md)  
-03.1.22.0.00 ║ - ╚═3.1.22 zsh  
-03.1.22.1.00 ║ - - ╠═3.1.22.1 [~/.bash_profile ~/.bashrc ~/.zshrc : Configure with non-login/login](03_Mac/22_zsh/01_explain_of_bash_profile_bashrc_zshrc.md)  
-03.1.22.2.00 ║ - - ╚═3.1.22.2 [~/.zshrc : example of .zshrc](03_Mac/22_zsh/02_example_of_zshrc.md)  
+03.1.19.0.00 ║ - ╠═3.1.19 [vnc client : Connect to vnc server](03_Mac/19_vnc_client/01_use_vnc_client.md)  
+03.1.20.0.00 ║ - ╠═3.1.20 zip  
+03.1.20.1.00 ║ - ║ ╠═3.1.20.1 [zip : compress folder](03_Mac/20_zip/01_zip_folder.md)  
+03.1.20.2.00 ║ - ║ ╠═3.1.20.2 [zip : splited compress](03_Mac/20_zip/02_zip_splited_compress.md)  
+03.1.20.3.00 ║ - ║ ╚═3.1.20.3 [zip : exclude](03_Mac/20_zip/03_zip_exclude.md)  
+03.1.21.0.00 ║ - ╚═3.1.21 zsh  
+03.1.21.1.00 ║ - - ╠═3.1.21.1 [~/.bash_profile ~/.bashrc ~/.zshrc : Configure with non-login/login](03_Mac/21_zsh/01_explain_of_bash_profile_bashrc_zshrc.md)  
+03.1.21.2.00 ║ - - ╚═3.1.21.2 [~/.zshrc : example of .zshrc](03_Mac/21_zsh/02_example_of_zshrc.md)  
 99.0.00.0.00 ╚═99_Utility  
 99.1.00.0.00 - ╠═99.1 [tree to contents](99_Utility/01_tree_to_contents.sh)  
 99.2.00.0.00 - ╠═99.2 [modify contents](99_Utility/02_modify_contents.py)  

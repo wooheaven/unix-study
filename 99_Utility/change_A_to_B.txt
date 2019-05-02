@@ -1,2 +1,6 @@
-01_Ubuntu/02_16/60_snap/06_snap_install_sublime-text.md -> 01_Ubuntu/02_16/60_snap/07_snap_install_sublime-text.md
-01_Ubuntu/02_16/60_snap/07_snap_install_visualstudiocode.md -> 01_Ubuntu/02_16/60_snap/08_snap_install_visualstudiocode.md
+03_Mac/20_vnc_client/01_use_vnc_client.md -> 03_Mac/19_vnc_client/01_use_vnc_client.md
+03_Mac/21_zip/01_zip_folder.md -> 03_Mac/20_zip/01_zip_folder.md
+03_Mac/21_zip/02_zip_splited_compress.md -> 03_Mac/20_zip/02_zip_splited_compress.md
+03_Mac/21_zip/03_zip_exclude.md -> 03_Mac/20_zip/03_zip_exclude.md
+03_Mac/22_zsh/01_explain_of_bash_profile_bashrc_zshrc.md -> 03_Mac/21_zsh/01_explain_of_bash_profile_bashrc_zshrc.md
+03_Mac/22_zsh/02_example_of_zshrc.md -> 03_Mac/21_zsh/02_example_of_zshrc.md
