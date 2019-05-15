@@ -167,42 +167,43 @@
 01.2.68.2.00 ║ ║ ║ ╚═1.2.68.2 [compress : folder](01_Ubuntu/02_16/68_tar/02_compress_folder_by_tar.md)  
 01.2.69.0.00 ║ ║ ╠═1.2.69 [tmux : install, configure, use](01_Ubuntu/02_16/69_tmux/01_tmux.md)  
 01.2.70.0.00 ║ ║ ╠═1.2.70 [touch : accessed modified timestamp](01_Ubuntu/02_16/70_touch/01_modify_timestamp.md)  
-01.2.71.0.00 ║ ║ ╠═1.2.71 [tzdata : time zone](01_Ubuntu/02_16/71_tzdata/01_timeZone.md)  
-01.2.72.0.00 ║ ║ ╠═1.2.72 [unicode : box char](01_Ubuntu/02_16/72_unicode/01_box_char.md)  
-01.2.73.0.00 ║ ║ ╠═1.2.73 [update-alternatives : vim vi](01_Ubuntu/02_16/73_update-alternatives/01_update-alternatives_vim_and_vi.md)  
-01.2.74.0.00 ║ ║ ╠═1.2.74 [userdel](01_Ubuntu/02_16/74_userdel/01_userdel_hadoop.md)  
-01.2.75.0.00 ║ ║ ╠═1.2.75 [usermod : add User to Group](01_Ubuntu/02_16/75_usermod/01_add_USER_to_GROUP.md)  
-01.2.76.0.00 ║ ║ ╠═1.2.76 vim  
-01.2.76.1.00 ║ ║ ║ ╠═1.2.76.1 Cmd-Mode  
-01.2.76.1.01 ║ ║ ║ ║ ╠═1.2.76.1.1 [Move Cursor](01_Ubuntu/02_16/76_vim/01_cmd-Mode/01_Move_Cursor.md)  
-01.2.76.1.02 ║ ║ ║ ║ ╚═1.2.76.1.2 [Switch Line Up and Down](01_Ubuntu/02_16/76_vim/01_cmd-Mode/02_Switch_Line_Up_and_Down.md)  
-01.2.76.2.00 ║ ║ ║ ╠═1.2.76.2 CmdLine-Mode  
-01.2.76.2.01 ║ ║ ║ ║ ╠═1.2.76.2.1 [Move Line](01_Ubuntu/02_16/76_vim/03_cmdLine-Mode/01_Move_Line_Up_and_Down.md)  
-01.2.76.2.02 ║ ║ ║ ║ ╠═1.2.76.2.2 [save as other file](01_Ubuntu/02_16/76_vim/03_cmdLine-Mode/02_vim_save_as_other_File.md)  
-01.2.76.2.03 ║ ║ ║ ║ ╚═1.2.76.2.3 [CRLF to LF](01_Ubuntu/02_16/76_vim/03_cmdLine-Mode/03_vim_CRLF_to_LF.md)  
-01.2.76.3.00 ║ ║ ║ ╚═1.2.76.3 ETC  
-01.2.76.3.01 ║ ║ ║ - ╠═1.2.76.3.1 [vim diff](01_Ubuntu/02_16/76_vim/04_ETC/01_vim_diff.md)  
-01.2.76.3.02 ║ ║ ║ - ╠═1.2.76.3.2 [vim diff refresh](01_Ubuntu/02_16/76_vim/04_ETC/02_vim_diff_refresh.md)  
-01.2.76.3.03 ║ ║ ║ - ╠═1.2.76.3.3 [vim install use nerdtree](01_Ubuntu/02_16/76_vim/04_ETC/03_vim_install_nerdtree_by_vundle.md)  
-01.2.76.3.04 ║ ║ ║ - ╠═1.2.76.3.4 [vim install vundle](01_Ubuntu/02_16/76_vim/04_ETC/04_vim_install_use_vundle.md)  
-01.2.76.3.05 ║ ║ ║ - ╠═1.2.76.3.5 [vim split](01_Ubuntu/02_16/76_vim/04_ETC/05_vim_split.md)  
-01.2.76.3.06 ║ ║ ║ - ╠═1.2.76.3.6 [cat ~/.vimrc](01_Ubuntu/02_16/76_vim/04_ETC/06_vimrc.md)  
-01.2.76.3.07 ║ ║ ║ - ╠═1.2.76.3.7 [vimrc macro](01_Ubuntu/02_16/76_vim/04_ETC/07_vimrc_append_save_macro.md)  
-01.2.76.3.08 ║ ║ ║ - ╠═1.2.76.3.8 [vim colorscheme jellybeans](01_Ubuntu/02_16/76_vim/04_ETC/08_vimrc_color_jellybeans.md)  
-01.2.76.3.09 ║ ║ ║ - ╠═1.2.76.3.9 [vimrc encoding UTF8 (Korean)](01_Ubuntu/02_16/76_vim/04_ETC/09_vimrc_encoding_korean.md)  
-01.2.76.3.10 ║ ║ ║ - ╚═1.2.76.3.10 [vim tab option](01_Ubuntu/02_16/76_vim/04_ETC/10_vimrc_tab_option.md)   
-01.2.77.0.00 ║ ║ ╠═1.2.77 vncserver, vnc4server  
-01.2.77.1.00 ║ ║ ║ ╠═1.2.77.1 [vnc4server : remote control ubuntu](01_Ubuntu/02_16/77_vnc4server/01_install_config_vnc4server.md)  
-01.2.77.2.00 ║ ║ ║ ╚═1.2.77.2 [vncserver : remote access sharing](01_Ubuntu/02_16/77_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md)  
-01.2.78.0.00 ║ ║ ╠═1.2.78 [vpn : vpn gate client on terminal](01_Ubuntu/02_16/78_vpn/01_vpn_gate_client_on_terminal.md)    
-01.2.79.0.00 ║ ║ ╠═1.2.79 [Window : resize shortcut](01_Ubuntu/02_16/79_window/01_resize_window.md)  
-01.2.80.0.00 ║ ║ ╠═1.2.80 [x2go : install](01_Ubuntu/02_16/80_x2go/01_install_x2go_server_on_ubuntu16.md)  
-01.2.81.0.00 ║ ║ ╠═1.2.81 [xclip : install and use](01_Ubuntu/02_16/81_xclip/01_install_and_use_xclip.md)  
-01.2.82.0.00 ║ ║ ╠═1.2.82 [xwininfo : get window size](01_Ubuntu/02_16/82_xwininfo/01_use_xwininfo.md)  
-01.2.83.0.00 ║ ║ ╠═1.2.83 xz  
-01.2.83.1.00 ║ ║ ║ ╠═1.2.83.1 [xz : compress file](01_Ubuntu/02_16/83_xz/01_xz_compress.md)  
-01.2.83.2.00 ║ ║ ║ ╚═1.2.83.2 [xz : decompress file](01_Ubuntu/02_16/83_xz/02_xz_decompress.md)  
-01.2.84.0.00 ║ ║ ╚═1.2.84 [zip : compress and uncompress directory](01_Ubuntu/02_16/84_zip/01_zip_directory.md)  
+01.2.71.0.00 ║ ║ ╠═1.2.71 [tr : replace string](01_Ubuntu/02_16/71_tr/01_tr_replace_string.md)  
+01.2.72.0.00 ║ ║ ╠═1.2.72 [tzdata : time zone](01_Ubuntu/02_16/72_tzdata/01_timeZone.md)  
+01.2.73.0.00 ║ ║ ╠═1.2.73 [unicode : box char](01_Ubuntu/02_16/73_unicode/01_box_char.md)  
+01.2.74.0.00 ║ ║ ╠═1.2.74 [update-alternatives : vim vi](01_Ubuntu/02_16/74_update-alternatives/01_update-alternatives_vim_and_vi.md)  
+01.2.75.0.00 ║ ║ ╠═1.2.75 [userdel](01_Ubuntu/02_16/75_userdel/01_userdel_hadoop.md)  
+01.2.76.0.00 ║ ║ ╠═1.2.76 [usermod : add User to Group](01_Ubuntu/02_16/76_usermod/01_add_USER_to_GROUP.md)  
+01.2.77.0.00 ║ ║ ╠═1.2.77 vim  
+01.2.77.1.00 ║ ║ ║ ╠═1.2.77.1 Cmd-Mode  
+01.2.77.1.01 ║ ║ ║ ║ ╠═1.2.77.1.1 [Move Cursor](01_Ubuntu/02_16/77_vim/01_cmd-Mode/01_Move_Cursor.md)  
+01.2.77.1.02 ║ ║ ║ ║ ╚═1.2.77.1.2 [Switch Line Up and Down](01_Ubuntu/02_16/77_vim/01_cmd-Mode/02_Switch_Line_Up_and_Down.md)  
+01.2.77.2.00 ║ ║ ║ ╠═1.2.77.2 CmdLine-Mode  
+01.2.77.2.01 ║ ║ ║ ║ ╠═1.2.77.2.1 [Move Line](01_Ubuntu/02_16/77_vim/03_cmdLine-Mode/01_Move_Line_Up_and_Down.md)  
+01.2.77.2.02 ║ ║ ║ ║ ╠═1.2.77.2.2 [save as other file](01_Ubuntu/02_16/77_vim/03_cmdLine-Mode/02_vim_save_as_other_File.md)  
+01.2.77.2.03 ║ ║ ║ ║ ╚═1.2.77.2.3 [CRLF to LF](01_Ubuntu/02_16/77_vim/03_cmdLine-Mode/03_vim_CRLF_to_LF.md)  
+01.2.77.3.00 ║ ║ ║ ╚═1.2.77.3 ETC  
+01.2.77.3.01 ║ ║ ║ - ╠═1.2.77.3.1 [vim diff](01_Ubuntu/02_16/77_vim/04_ETC/01_vim_diff.md)  
+01.2.77.3.02 ║ ║ ║ - ╠═1.2.77.3.2 [vim diff refresh](01_Ubuntu/02_16/77_vim/04_ETC/02_vim_diff_refresh.md)  
+01.2.77.3.03 ║ ║ ║ - ╠═1.2.77.3.3 [vim install use nerdtree](01_Ubuntu/02_16/77_vim/04_ETC/03_vim_install_nerdtree_by_vundle.md)  
+01.2.77.3.04 ║ ║ ║ - ╠═1.2.77.3.4 [vim install vundle](01_Ubuntu/02_16/77_vim/04_ETC/04_vim_install_use_vundle.md)  
+01.2.77.3.05 ║ ║ ║ - ╠═1.2.77.3.5 [vim split](01_Ubuntu/02_16/77_vim/04_ETC/05_vim_split.md)  
+01.2.77.3.06 ║ ║ ║ - ╠═1.2.77.3.6 [cat ~/.vimrc](01_Ubuntu/02_16/77_vim/04_ETC/06_vimrc.md)  
+01.2.77.3.07 ║ ║ ║ - ╠═1.2.77.3.7 [vimrc macro](01_Ubuntu/02_16/77_vim/04_ETC/07_vimrc_append_save_macro.md)  
+01.2.77.3.08 ║ ║ ║ - ╠═1.2.77.3.8 [vim colorscheme jellybeans](01_Ubuntu/02_16/77_vim/04_ETC/08_vimrc_color_jellybeans.md)  
+01.2.77.3.09 ║ ║ ║ - ╠═1.2.77.3.9 [vimrc encoding UTF8 (Korean)](01_Ubuntu/02_16/77_vim/04_ETC/09_vimrc_encoding_korean.md)  
+01.2.77.3.10 ║ ║ ║ - ╚═1.2.77.3.10 [vim tab option](01_Ubuntu/02_16/77_vim/04_ETC/10_vimrc_tab_option.md)   
+01.2.78.0.00 ║ ║ ╠═1.2.78 vncserver, vnc4server  
+01.2.78.1.00 ║ ║ ║ ╠═1.2.78.1 [vnc4server : remote control ubuntu](01_Ubuntu/02_16/78_vnc4server/01_install_config_vnc4server.md)  
+01.2.78.2.00 ║ ║ ║ ╚═1.2.78.2 [vncserver : remote access sharing](01_Ubuntu/02_16/78_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md)  
+01.2.79.0.00 ║ ║ ╠═1.2.79 [vpn : vpn gate client on terminal](01_Ubuntu/02_16/79_vpn/01_vpn_gate_client_on_terminal.md)    
+01.2.80.0.00 ║ ║ ╠═1.2.80 [Window : resize shortcut](01_Ubuntu/02_16/80_window/01_resize_window.md)  
+01.2.81.0.00 ║ ║ ╠═1.2.81 [x2go : install](01_Ubuntu/02_16/81_x2go/01_install_x2go_server_on_ubuntu16.md)  
+01.2.82.0.00 ║ ║ ╠═1.2.82 [xclip : install and use](01_Ubuntu/02_16/82_xclip/01_install_and_use_xclip.md)  
+01.2.83.0.00 ║ ║ ╠═1.2.83 [xwininfo : get window size](01_Ubuntu/02_16/83_xwininfo/01_use_xwininfo.md)  
+01.2.84.0.00 ║ ║ ╠═1.2.84 xz  
+01.2.84.1.00 ║ ║ ║ ╠═1.2.84.1 [xz : compress file](01_Ubuntu/02_16/84_xz/01_xz_compress.md)  
+01.2.84.2.00 ║ ║ ║ ╚═1.2.84.2 [xz : decompress file](01_Ubuntu/02_16/84_xz/02_xz_decompress.md)  
+01.2.85.0.00 ║ ║ ╚═1.2.85 [zip : compress and uncompress directory](01_Ubuntu/02_16/85_zip/01_zip_directory.md)  
 01.3.00.0.00 ║ ╚═1.3 ubuntu18.04  
 01.3.01.0.00 ║ - ╚═1.3.1 [vnc : activate](01_Ubuntu/03_18.04/01_vnc/01_vnc_activate.md)  
 02.0.00.0.00 ╠═2 CentOS  
@@ -251,15 +252,16 @@
 03.1.15.0.00 ║ - ╠═3.1.15 [rsync : exclude](03_Mac/15_rsync/01_rsync_option_exclude.md)  
 03.1.16.0.00 ║ - ╠═3.1.16 [sed : move CRLF to LF](03_Mac/16_sed/01_sed_remove_CRLF_to_LF.md)  
 03.1.17.0.00 ║ - ╠═3.1.17 [shasum : get checksum sha1](03_Mac/17_shasum/01_use_shasum_for_sha1.md)  
-03.1.18.0.00 ║ - ╠═3.1.18 [tree : install and use](03_Mac/18_tree/01_install_use_tree_on_mac.md)  
-03.1.19.0.00 ║ - ╠═3.1.19 [vnc client : Connect to vnc server](03_Mac/19_vnc_client/01_use_vnc_client.md)  
-03.1.20.0.00 ║ - ╠═3.1.20 zip  
-03.1.20.1.00 ║ - ║ ╠═3.1.20.1 [zip : compress folder](03_Mac/20_zip/01_zip_folder.md)  
-03.1.20.2.00 ║ - ║ ╠═3.1.20.2 [zip : splited compress](03_Mac/20_zip/02_zip_splited_compress.md)  
-03.1.20.3.00 ║ - ║ ╚═3.1.20.3 [zip : exclude](03_Mac/20_zip/03_zip_exclude.md)  
-03.1.21.0.00 ║ - ╚═3.1.21 zsh  
-03.1.21.1.00 ║ - - ╠═3.1.21.1 [~/.bash_profile ~/.bashrc ~/.zshrc : Configure with non-login/login](03_Mac/21_zsh/01_explain_of_bash_profile_bashrc_zshrc.md)  
-03.1.21.2.00 ║ - - ╚═3.1.21.2 [~/.zshrc : example of .zshrc](03_Mac/21_zsh/02_example_of_zshrc.md)  
+03.1.18.0.00 ║ - ╠═3.1.18 [tr : replace string](03_Mac/18_tr/01_tr_replace_string.md)  
+03.1.19.0.00 ║ - ╠═3.1.19 [tree : install and use](03_Mac/19_tree/01_install_use_tree_on_mac.md)  
+03.1.20.0.00 ║ - ╠═3.1.20 [vnc client : Connect to vnc server](03_Mac/20_vnc_client/01_use_vnc_client.md)  
+03.1.21.0.00 ║ - ╠═3.1.21 zip  
+03.1.21.1.00 ║ - ║ ╠═3.1.21.1 [zip : compress folder](03_Mac/21_zip/01_zip_folder.md)  
+03.1.21.2.00 ║ - ║ ╠═3.1.21.2 [zip : splited compress](03_Mac/21_zip/02_zip_splited_compress.md)  
+03.1.21.3.00 ║ - ║ ╚═3.1.21.3 [zip : exclude](03_Mac/21_zip/03_zip_exclude.md)  
+03.1.22.0.00 ║ - ╚═3.1.22 zsh  
+03.1.22.1.00 ║ - - ╠═3.1.22.1 [~/.bash_profile ~/.bashrc ~/.zshrc : Configure with non-login/login](03_Mac/22_zsh/01_explain_of_bash_profile_bashrc_zshrc.md)  
+03.1.22.2.00 ║ - - ╚═3.1.22.2 [~/.zshrc : example of .zshrc](03_Mac/22_zsh/02_example_of_zshrc.md)  
 99.0.00.0.00 ╚═99_Utility  
 99.1.00.0.00 - ╠═99.1 [tree to contents](99_Utility/01_tree_to_contents.sh)  
 99.2.00.0.00 - ╠═99.2 [modify contents](99_Utility/02_modify_contents.py)  
