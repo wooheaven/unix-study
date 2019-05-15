@@ -135,9 +135,10 @@
 01.2.56.0.00 ║ ║ ╠═1.2.56 [run-level : change](01_Ubuntu/02_16/56_run-level/01_change_run-level.md)  
 01.2.57.0.00 ║ ║ ╠═1.2.57 [screen : use](01_Ubuntu/02_16/57_screen/01_use_screen.md)  
 01.2.58.0.00 ║ ║ ╠═1.2.58 sed  
-01.2.58.1.00 ║ ║ ║ ╠═1.2.58.1 [remove \^M in text file](01_Ubuntu/02_16/58_sed/01_remove_^M_with_sed.md)  
-01.2.58.2.00 ║ ║ ║ ╠═1.2.58.2 [replace every 3rd comma to semicolon](01_Ubuntu/02_16/58_sed/02_replace_every_3rd_comma_to_semicolon.md)  
-01.2.58.3.00 ║ ║ ║ ╚═1.2.58.3 [space regular expression](01_Ubuntu/02_16/58_sed/03_space_regular_expression.md)  
+01.2.58.1.00 ║ ║ ║ ╠═1.2.58.1 [remove \^M in text file](01_Ubuntu/02_16/58_sed/01_sed_remove_^M.md)  
+01.2.58.2.00 ║ ║ ║ ╠═1.2.58.2 [replace every 3rd comma to semicolon](01_Ubuntu/02_16/58_sed/02_sed_replace_every_3rd_comma_to_semicolon.md)  
+01.2.58.3.00 ║ ║ ║ ╠═1.2.58.3 [space regular expression](01_Ubuntu/02_16/58_sed/03_sed_space_regular_expression.md)  
+01.2.58.4.00 ║ ║ ║ ╚═1.2.58.4 [replace last string](01_Ubuntu/02_16/58_sed/04_sed_replace_last_string.md)  
 01.2.59.0.00 ║ ║ ╠═1.2.59 [server : install server](01_Ubuntu/02_16/59_server/01_install_ubuntu16_server.md)  
 01.2.60.0.00 ║ ║ ╠═1.2.60 snap  
 01.2.60.1.00 ║ ║ ║ ╠═1.2.60.1 [snap : install anbox](01_Ubuntu/02_16/60_snap/01_snap_install_anbox.md)  
