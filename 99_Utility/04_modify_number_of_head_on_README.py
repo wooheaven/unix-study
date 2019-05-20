@@ -5,10 +5,11 @@ import argparse
 
 
 class Rename():
-    def __init__(self, field_num, start_num, end_num):
+    def __init__(self, field_num, start_num, end_num, diff_num):
         self.field_num = field_num
         self.start_num = start_num
         self.end_num = end_num
+        self.diff_num = diff_num
 
     def do(self):
         cwd = os.getcwd()
@@ -51,7 +52,7 @@ class Rename():
                         new_full_head = ''
                         for j, tmp in enumerate(full_head.split('.')):
                             if j+1 == self.field_num:
-                                tmp = int(tmp) + 1
+                                tmp = int(tmp) + self.diff_num
                                 if tmp < 10:
                                     tmp = '0' + str(tmp)
                                 else:
@@ -63,7 +64,7 @@ class Rename():
                         new_short_head = ''
                         for k, tmp in enumerate(short_head.split('.')):
                             if k+1 == self.field_num:
-                                tmp = str(int(tmp) + 1)
+                                tmp = str(int(tmp) + self.diff_num)
                             new_short_head += tmp + '.'
                         new_short_head = new_short_head[:-1]
 
@@ -84,10 +85,12 @@ if __name__ == "__main__":
     p.add_argument('FILED_NUM', type=int, metavar='Field Number')
     p.add_argument('START_NUM', type=int, metavar='Start Number')
     p.add_argument('END_NUM', type=int, metavar='End Number')
+    p.add_argument('DIFF_NUM', type=int, metavar='Diff Number')
     args = p.parse_args()
     filed_num = args.FILED_NUM
     start_num = args.START_NUM
     end_num = args.END_NUM
-    r = Rename(filed_num, start_num, end_num)
+    diff_num = args.DIFF_NUM
+    r = Rename(filed_num, start_num, end_num, diff_num)
     r.do()
 
