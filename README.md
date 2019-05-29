@@ -221,21 +221,23 @@
 03.1.00.0.00 ║ ╚═3.1 Sierra  
 03.1.01.0.00 ║ - ╠═3.1.1 [Battery : Charge Status](03_Mac/01_Battery/01_Charge_Status.md)  
 03.1.02.0.00 ║ - ╠═3.1.2 [brew : install brew](03_Mac/02_brew/00_install_brew_on_mac.md)  
-03.1.02.2.00 ║ - ║ ╠═3.1.2.2 brew install / brew cask install  
-03.1.02.2.01 ║ - ║ ║ ╠═3.1.2.2.1 [brew cask install p4v # p4merge for git diff.tool](03_Mac/02_brew/01_install/01_brew_cask_install_p4v.md)  
-03.1.02.2.02 ║ - ║ ║ ╠═3.1.2.2.2 [brew cask install sublime-text](03_Mac/02_brew/01_install/02_brew_cask_install_sublime-text.md)  
-03.1.02.2.03 ║ - ║ ║ ╠═3.1.2.2.3 [brew install cask](03_Mac/02_brew/01_install/03_brew_install_cask.md)  
-03.1.02.2.04 ║ - ║ ║ ╠═3.1.2.2.4 [brew install gnuplot](03_Mac/02_brew/01_install/04_brew_install_gnuplot.md)  
-03.1.02.2.05 ║ - ║ ║ ╠═3.1.2.2.5 [brew install iterm2](03_Mac/02_brew/01_install/05_brew_install_iterm2.md)  
-03.1.02.2.06 ║ - ║ ║ ╠═3.1.2.2.6 [brew install jq](03_Mac/02_brew/01_install/06_brew_install_jq.md)  
-03.1.02.2.07 ║ - ║ ║ ╠═3.1.2.2.7 [brew install macvim](03_Mac/02_brew/01_install/07_brew_install_macvim.md)  
-03.1.02.2.08 ║ - ║ ║ ╠═3.1.2.2.8 [brew install maven](03_Mac/02_brew/01_install/08_brew_install_maven.md)  
-03.1.02.2.09 ║ - ║ ║ ╠═3.1.2.2.9 [brew install node](03_Mac/02_brew/01_install/09_brew_install_node.md)  
-03.1.02.2.10 ║ - ║ ║ ╠═3.1.2.2.10 [brew install python3](03_Mac/02_brew/01_install/10_brew_install_python3.md)  
-03.1.02.2.11 ║ - ║ ║ ╠═3.1.2.2.11 [brew install tree](03_Mac/02_brew/01_install/11_brew_install_tree.md)  
-03.1.02.2.12 ║ - ║ ║ ╚═3.1.2.2.12 [brew install zsh](03_Mac/02_brew/01_install/12_brew_install_zsh.md)  
-03.1.02.3.00 ║ - ║ ╚═3.1.2.3 brew uninstall  
-03.1.02.3.01 ║ - ║ - ╚═3.1.2.3.1 [brew uninstall node](03_Mac/02_brew/02_uninstall/09_brew_uninstall_node.md)  
+03.1.02.1.00 ║ - ║ ╠═3.1.2.1 brew install / brew cask install  
+03.1.02.1.01 ║ - ║ ║ ╠═3.1.2.1.1 [brew cask install p4v # p4merge for git diff.tool](03_Mac/02_brew/01_install/01_brew_cask_install_p4v.md)  
+03.1.02.1.02 ║ - ║ ║ ╠═3.1.2.1.2 [brew cask install sublime-text](03_Mac/02_brew/01_install/02_brew_cask_install_sublime-text.md)  
+03.1.02.1.03 ║ - ║ ║ ╠═3.1.2.1.3 [brew install cask](03_Mac/02_brew/01_install/03_brew_install_cask.md)  
+03.1.02.1.04 ║ - ║ ║ ╠═3.1.2.1.4 [brew install gnuplot](03_Mac/02_brew/01_install/04_brew_install_gnuplot.md)  
+03.1.02.1.05 ║ - ║ ║ ╠═3.1.2.1.5 [brew install iterm2](03_Mac/02_brew/01_install/05_brew_install_iterm2.md)  
+03.1.02.1.06 ║ - ║ ║ ╠═3.1.2.1.6 [brew install jq](03_Mac/02_brew/01_install/06_brew_install_jq.md)  
+03.1.02.1.07 ║ - ║ ║ ╠═3.1.2.1.7 [brew install macvim](03_Mac/02_brew/01_install/07_brew_install_macvim.md)  
+03.1.02.1.08 ║ - ║ ║ ╠═3.1.2.1.8 [brew install maven](03_Mac/02_brew/01_install/08_brew_install_maven.md)  
+03.1.02.1.09 ║ - ║ ║ ╠═3.1.2.1.9 [brew install node](03_Mac/02_brew/01_install/09_brew_install_node.md)  
+03.1.02.1.10 ║ - ║ ║ ╠═3.1.2.1.10 [brew install python3](03_Mac/02_brew/01_install/10_brew_install_python3.md)  
+03.1.02.1.11 ║ - ║ ║ ╠═3.1.2.1.11 [brew install tree](03_Mac/02_brew/01_install/11_brew_install_tree.md)  
+03.1.02.1.12 ║ - ║ ║ ╚═3.1.2.1.12 [brew install zsh](03_Mac/02_brew/01_install/12_brew_install_zsh.md)  
+03.1.02.2.00 ║ - ║ ╠═3.1.2.2 brew uninstall  
+03.1.02.2.01 ║ - ║ ║ ╚═3.1.2.2.1 [brew uninstall node](03_Mac/02_brew/02_uninstall/09_brew_uninstall_node.md)  
+03.1.02.3.00 ║ - ║ ╚═3.1.2.3 brew upgrade  
+03.1.02.3.01 ║ - ║ - ╚═3.1.2.3.1 [brew upgrade go](03_Mac/02_brew/03_upgrade/01_brew_upgrade_go.md)  
 03.1.03.0.00 ║ - ╠═3.1.3 [Command_Line_Tools : install](03_Mac/03_Command_Line_Tools/01_install_Command_Line_Tools.md)  
 03.1.04.0.00 ║ - ╠═3.1.4 [Disk_Utility : format usb](03_Mac/04_Disk_Utility/01_Format_usb_on_mac.md)  
 03.1.05.0.00 ║ - ╠═3.1.5 find  
