@@ -7,16 +7,19 @@ rsync --help | egrep "\-a,|remove-source-files"
 
 # rsync a to b with remove-source-files
 ```bash
-$ rsync -a --remove-source-files a/ b/
+$ ll a/
+total 0
+-rw-r--r-- 1 석수 197121 0 6월   1 23:51 1.txt
 
-$ tree a
-a
+$ ll b/
+total 0
 
-0 directories, 0 files
+$ rsync -a --remove-source-files a/* b/
 
-$ tree b
-b
-└── 1.txt
+$ ll a/
+total 0
 
-0 directories, 1 file
+$ ll b/
+total 0
+-rw-r--r-- 1 석수 197121 0 6월   1 23:51 1.txt
 ```
