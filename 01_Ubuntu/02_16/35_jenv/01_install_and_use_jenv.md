@@ -11,6 +11,7 @@ $ jenv add /usr/lib/jvm/java-8-oracle
 oracle64-1.8.0.181 added
 1.8.0.181 added
 1.8 added
+
 $ jenv add /usr/lib/jvm/jdk1.7.0_80
 oracle64-1.7.0.80 added
 1.7.0.80 added
@@ -30,7 +31,18 @@ $ jenv versions
 ```{bash}
 $ jenv local
 jenv: no local version configured for this directory
+
 $ jenv local oracle64-1.7.0.80
 $ jenv local
+oracle64-1.7.0.80
+```
+
+# set global java to jenv
+```{bash}
+$ jenv global 
+jenv: no global version configured for this directory
+
+$ jenv global oracle64-1.7.0.80
+$ jenv global
 oracle64-1.7.0.80
 ```
