@@ -178,12 +178,14 @@
 01.2.74.0.00 ║ ║ ╠═1.2.74 [usermod : add User to Group](01_Ubuntu/02_16/74_usermod/01_add_USER_to_GROUP.md)  
 01.2.75.0.00 ║ ║ ╠═1.2.75 vim  
 01.2.75.1.00 ║ ║ ║ ╠═1.2.75.1 Cmd-Mode  
-01.2.75.1.01 ║ ║ ║ ║ ╠═1.2.75.1.1 [Move Cursor](01_Ubuntu/02_16/75_vim/01_cmd-Mode/01_Move_Cursor.md)  
-01.2.75.1.02 ║ ║ ║ ║ ╚═1.2.75.1.2 [Switch Line Up and Down](01_Ubuntu/02_16/75_vim/01_cmd-Mode/02_Switch_Line_Up_and_Down.md)  
+01.2.75.1.01 ║ ║ ║ ║ ╠═1.2.75.1.1 [Move Cursor](01_Ubuntu/02_16/75_vim/01_Cmd-Mode/01_Move_Cursor.md)  
+01.2.75.1.02 ║ ║ ║ ║ ╠═1.2.75.1.2 [Switch Line Up and Down](01_Ubuntu/02_16/75_vim/01_Cmd-Mode/02_Switch_Line_Up_and_Down.md)  
+01.2.75.1.03 ║ ║ ║ ║ ╚═1.2.75.1.3 [Repeat lastest command on Cmd-Mode](01_Ubuntu/02_16/75_vim/01_Cmd-Mode/03_Repeat_Lastest.md)  
 01.2.75.2.00 ║ ║ ║ ╠═1.2.75.2 CmdLine-Mode  
-01.2.75.2.01 ║ ║ ║ ║ ╠═1.2.75.2.1 [Move Line](01_Ubuntu/02_16/75_vim/03_cmdLine-Mode/01_Move_Line_Up_and_Down.md)  
-01.2.75.2.02 ║ ║ ║ ║ ╠═1.2.75.2.2 [save as other file](01_Ubuntu/02_16/75_vim/03_cmdLine-Mode/02_vim_save_as_other_File.md)  
-01.2.75.2.03 ║ ║ ║ ║ ╚═1.2.75.2.3 [CRLF to LF](01_Ubuntu/02_16/75_vim/03_cmdLine-Mode/03_vim_CRLF_to_LF.md)  
+01.2.75.2.01 ║ ║ ║ ║ ╠═1.2.75.2.1 [Move Line](01_Ubuntu/02_16/75_vim/03_CmdLine-Mode/01_Move_Line_Up_and_Down.md)  
+01.2.75.2.02 ║ ║ ║ ║ ╠═1.2.75.2.2 [save as other file](01_Ubuntu/02_16/75_vim/03_CmdLine-Mode/02_vim_save_as_other_File.md)  
+01.2.75.2.03 ║ ║ ║ ║ ╠═1.2.75.2.3 [CRLF to LF](01_Ubuntu/02_16/75_vim/03_CmdLine-Mode/03_vim_CRLF_to_LF.md)  
+01.2.75.2.04 ║ ║ ║ ║ ╚═1.2.75.2.4 [Repeat latest command on CmdLine-Mode](01_Ubuntu/02_16/75_vim/03_CmdLine-Mode/04_Repeat_Latest.md)  
 01.2.75.3.00 ║ ║ ║ ╚═1.2.75.3 ETC  
 01.2.75.3.01 ║ ║ ║ - ╠═1.2.75.3.1 [vim diff](01_Ubuntu/02_16/75_vim/04_ETC/01_vim_diff.md)  
 01.2.75.3.02 ║ ║ ║ - ╠═1.2.75.3.2 [vim diff refresh](01_Ubuntu/02_16/75_vim/04_ETC/02_vim_diff_refresh.md)  
