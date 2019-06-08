@@ -120,7 +120,9 @@
 01.2.45.3.00 ║ ║ ║ ╚═1.2.45.3 [hostname : 127.0.1.1 why use this](01_Ubuntu/02_16/45_network/03_hostname/01_127.0.1.1.md)  
 01.2.46.0.00 ║ ║ ╠═1.2.46 [nmap : port check](01_Ubuntu/02_16/46_nmap/01_install_use_nmap.md)  
 01.2.47.0.00 ║ ║ ╠═1.2.47 [nohup : use](01_Ubuntu/02_16/47_nohup/01_use_nohup.md)  
-01.2.48.0.00 ║ ║ ╠═1.2.48 [nvidia install : nvidia driver to keras](01_Ubuntu/02_16/48_nvidia/01_install_nvidia_driver_to_keras.md)  
+01.2.48.0.00 ║ ║ ╠═1.2.48 nvidia install  
+01.2.48.1.00 ║ ║ ║ ╠═1.2.48.1 [nvidia driver410 cuda9 cudnn7.4 to keras](01_Ubuntu/02_16/48_nvidia/01_install_nvidia_driver410_cuda9_cudnn7.4_to_keras.md)  
+01.2.48.2.00 ║ ║ ║ ╚═1.2.48.2 [nvidia driver418 cuda10 cudnn7.4 to keras](01_Ubuntu/02_16/48_nvidia/02_install_nvidia_driver418_cuda10_cudnn7.4_to_keras.md)  
 01.2.49.0.00 ║ ║ ╠═1.2.49 [opencv : build and install opencv 3.4.0](01_Ubuntu/02_16/49_OpenCV/01_Build_OpenCV_3.4_with_opencv_contrib.md)  
 01.2.50.0.00 ║ ║ ╠═1.2.50 [opera : save stream video as file](01_Ubuntu/02_16/50_Opera/01_save_stream_video_as_file.md)  
 01.2.51.0.00 ║ ║ ╠═1.2.51 [p4v p4merge : install](01_Ubuntu/02_16/51_p4v_p4merge/01_install_p4v_p4merge.md)  
