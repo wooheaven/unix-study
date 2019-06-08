@@ -18,23 +18,21 @@ https://developer.nvidia.com/cuda-80-ga2-download-archive
 https://developer.nvidia.com/cuda-90-download-archive?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu
 # Nvidia CUDA = Ubuntu
 # 9.0     = 16.04
-# 8.0 GA2 = 16.04, 14.04
 ```
-
 
 # find CUDA SDK and cuDNN and Tensorflow
 ```
 https://www.tensorflow.org/install/source#tested_source_configurations
-# CUDA SDK 8 = cuDNN 6 = tensorflow_gpu-1.4.0
-# CUDA SDK 9 = cuDNN 7 = tensorflow_gpu-1.11.0
+# CUDA SDK  8 = cuDNN 6  = tensorflow_gpu-1.4.0
+# CUDA SDK  9 = cuDNN 7  = tensorflow_gpu-1.11.0
 ```
 
 # find Tensorflow and Keras and Python
 ```{text}
 https://www.tensorflow.org/install/gpu  
 https://docs.floydhub.com/guides/environments/  
-# tensorflow_gpu-1.4.0  = Keras 2.0.8 = Python 3.6
-# tensorflow_gpu-1.11.0 = Keras 2.2.0 = Python 3.6
+# tensorflow_gpu-1.4.0  = Keras 2.0.8 = Python 3.3~3.6
+# tensorflow_gpu-1.11.0 = Keras 2.2.0 = Python 3.3~3.6
 ```
 
 # overview
@@ -57,7 +55,7 @@ $ sudo add-apt-repository ppa:graphics-drivers/ppa
 $ sudo apt-get update
 $ apt-cache search nvidia
 $ sudo ubuntu-drivers autoinstall
-$ ubuntu@ubuntu:~$ nvidia-smi
+$ nvidia-smi
 Mon Nov 12 18:38:29 2018
 +-----------------------------------------------------------------------------+
 | NVIDIA-SMI 410.73       Driver Version: 410.73       CUDA Version: 10.0     |
