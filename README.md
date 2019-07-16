@@ -226,7 +226,7 @@
 ║░░░║░╚═2 [dhcp](02_CentOS/01_6.9/03_network/02_dhcp.md)  
 ║░░░╚═4 [sed : replace string /t to tab character](02_CentOS/01_6.9/04_sed/01_sed_string_replace.md)  
 ╠═3 Mac  
-║░╚═1 Sierra  
+║░╚═1 Sierra, Mojave  
 ║░░░╠═1 [Battery : Charge Status](03_Mac/01_Battery/01_Charge_Status.md)  
 ║░░░╠═2 [brew : install brew](03_Mac/02_brew/00_install_brew_on_mac.md)  
 ║░░░║░╠═1 brew install / brew cask install  
@@ -244,8 +244,10 @@
 ║░░░║░║░╚═12 [brew install zsh](03_Mac/02_brew/01_install/12_brew_install_zsh.md)  
 ║░░░║░╠═2 brew uninstall  
 ║░░░║░║░╚═1 [brew uninstall node](03_Mac/02_brew/02_uninstall/09_brew_uninstall_node.md)  
-║░░░║░╚═3 brew upgrade  
-║░░░║░░░╚═1 [brew upgrade go](03_Mac/02_brew/03_upgrade/01_brew_upgrade_go.md)  
+║░░░║░╠═3 brew upgdate  
+║░░░║░║░╚═1 [brew update](03_Mac/02_brew/03_update/01_brew_update.md)  
+║░░░║░╚═4 brew upgrade  
+║░░░║░░░╚═1 [brew upgrade go](03_Mac/02_brew/04_upgrade/01_brew_upgrade_go.md)  
 ║░░░╠═3 [Command_Line_Tools : install](03_Mac/03_Command_Line_Tools/01_install_Command_Line_Tools.md)  
 ║░░░╠═4 [Disk_Utility : format usb](03_Mac/04_Disk_Utility/01_Format_usb_on_mac.md)  
 ║░░░╠═5 find  
