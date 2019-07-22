@@ -1,11 +1,11 @@
-# count of arguments check 
+# argument count check 
 ```{bash}
 $ vi run.sh
 #!/bin/bash
-if [ $# -eq 0 ] ; then
-    echo "No argument"
+if [ $# -gt 0 ] ; then
+    echo $#" arguments inserted"
 else
-    echo "argument inserted"
+    echo "No argument"
 fi
 
 $ chmod 755 run.sh

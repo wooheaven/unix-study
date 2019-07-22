@@ -1,4 +1,4 @@
-# 1st argument existence check 
+# argument existence check 
 ```{bash}
 $ vi run.sh
 #!/bin/bash
