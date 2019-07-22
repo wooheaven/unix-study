@@ -1,4 +1,4 @@
-# if check filePath 
+# filePath check 
 ```{bash}
 $ vi do.sh
 #!/bin/bash
@@ -7,6 +7,8 @@ if [ -f $1 ]; then
 else
 	echo "no"
 fi
+
+$ chmod 755 do.sh
 
 $ ./do.sh do.sh
 exists
