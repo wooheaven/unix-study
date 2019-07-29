@@ -226,7 +226,12 @@
 ║░░░╠═3 network  
 ║░░░║░╠═1 [static](02_CentOS/01_6.9/03_network/01_static.md)  
 ║░░░║░╚═2 [dhcp](02_CentOS/01_6.9/03_network/02_dhcp.md)  
-║░░░╚═4 [sed : replace string /t to tab character](02_CentOS/01_6.9/04_sed/01_sed_string_replace.md)  
+║░░░╠═4 sar  
+║░░░║░╠═1 [install and configure sar](02_CentOS/01_6.9/04_sar/01_install_configure_sar.md)  
+║░░░║░╠═2 [sar cpu](02_CentOS/01_6.9/04_sar/02_sar_cpu.md)  
+║░░░║░╠═3 [sar memory](02_CentOS/01_6.9/04_sar/03_sar_memory.md)  
+║░░░║░╚═4 [sar start end](02_CentOS/01_6.9/04_sar/04_sar_start_end.md)  
+║░░░╚═5 [sed : replace string /t to tab character](02_CentOS/01_6.9/05_sed/01_sed_string_replace.md)  
 ╠═3 Mac  
 ║░╚═1 Sierra, Mojave  
 ║░░░╠═1 [Battery : Charge Status](03_Mac/01_Battery/01_Charge_Status.md)  
