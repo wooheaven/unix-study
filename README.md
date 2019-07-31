@@ -272,18 +272,19 @@
 ║░░░╠═15 [Proxy : use proxy](03_Mac/15_Proxy/01_use_proxy.md)  
 ║░░░╠═16 [Python : Matplotlib Backends RuntimeError](03_Mac/16_Python/01_with_Conda/01_Matplotlib_backends_RuntimeError.md)  
 ║░░░╠═17 [rsync : exclude](03_Mac/17_rsync/01_rsync_option_exclude.md)  
-║░░░╠═18 [sed : move CRLF to LF](03_Mac/18_sed/01_sed_remove_CRLF_to_LF.md)  
-║░░░╠═19 [shasum : get checksum sha1](03_Mac/19_shasum/01_use_shasum_for_sha1.md)  
-║░░░╠═20 [tr : replace string](03_Mac/20_tr/01_tr_replace_string.md)  
-║░░░╠═21 [tree : install and use](03_Mac/21_tree/01_install_use_tree_on_mac.md)  
-║░░░╠═22 [vnc client : Connect to vnc server](03_Mac/22_vnc_client/01_use_vnc_client.md)  
-║░░░╠═23 zip  
-║░░░║░╠═1 [zip : compress folder](03_Mac/23_zip/01_zip_folder.md)  
-║░░░║░╠═2 [zip : splited compress](03_Mac/23_zip/02_zip_splited_compress.md)  
-║░░░║░╚═3 [zip : exclude](03_Mac/23_zip/03_zip_exclude.md)  
-║░░░╚═24 sh  
-║░░░░░╠═1 [~/.bash_profile ~/.bashrc ~/.zshrc : Configure with non-login/login](03_Mac/24_zsh/01_explain_of_bash_profile_bashrc_zshrc.md)  
-║░░░░░╚═2 [~/.zshrc : example of .zshrc](03_Mac/24_zsh/02_example_of_zshrc.md)  
+║░░░╠═18 [ruby : install and configure ruby, it's env, install package](03_Mac/18_ruby/01_install_configure_ruby_rbenv.md)  
+║░░░╠═19 [sed : move CRLF to LF](03_Mac/19_sed/01_sed_remove_CRLF_to_LF.md)  
+║░░░╠═20 [shasum : get checksum sha1](03_Mac/20_shasum/01_use_shasum_for_sha1.md)  
+║░░░╠═21 [tr : replace string](03_Mac/21_tr/01_tr_replace_string.md)  
+║░░░╠═22 [tree : install and use](03_Mac/22_tree/01_install_use_tree_on_mac.md)  
+║░░░╠═23 [vnc client : Connect to vnc server](03_Mac/23_vnc_client/01_use_vnc_client.md)  
+║░░░╠═24 zip  
+║░░░║░╠═1 [zip : compress folder](03_Mac/24_zip/01_zip_folder.md)  
+║░░░║░╠═2 [zip : splited compress](03_Mac/24_zip/02_zip_splited_compress.md)  
+║░░░║░╚═3 [zip : exclude](03_Mac/24_zip/03_zip_exclude.md)  
+║░░░╚═25 sh  
+║░░░░░╠═1 [~/.bash_profile ~/.bashrc ~/.zshrc : Configure with non-login/login](03_Mac/25_zsh/01_explain_of_bash_profile_bashrc_zshrc.md)  
+║░░░░░╚═2 [~/.zshrc : example of .zshrc](03_Mac/25_zsh/02_example_of_zshrc.md)  
 ╚═99_Utility  
 ░░╠═1 [tree to contents](99_Utility/01_tree_to_contents.sh)  
 ░░╠═2 [modify contents](99_Utility/02_modify_contents.py)  
