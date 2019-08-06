@@ -21,8 +21,9 @@
 ║░║░║░║░╠═12 [python3-tk, tkinter](01_Ubuntu/02_16/03_apt-get/01_install/12_apt-get_install_python3-tk.md)  
 ║░║░║░║░╠═13 [python3-venv python3-pip](01_Ubuntu/02_16/03_apt-get/01_install/13_apt-get_install_python3-venv_python3-pip.md)  
 ║░║░║░║░╠═14 [screen](01_Ubuntu/02_16/03_apt-get/01_install/14_apt-get_install_screen.md)  
-║░║░║░║░╠═15 [tree](01_Ubuntu/02_16/03_apt-get/01_install/15_apt-get_install_tree.md)  
-║░║░║░║░╚═16 [vlc](01_Ubuntu/02_16/03_apt-get/01_install/16_apt-get_install_vlc.md)  
+║░║░║░║░╠═15 [texlive-full, texmaker](01_Ubuntu/02_16/03_apt-get/01_install/15_apt-get_install_texlive-full_texmaker.md)  
+║░║░║░║░╠═16 [tree](01_Ubuntu/02_16/03_apt-get/01_install/16_apt-get_install_tree.md)  
+║░║░║░║░╚═17 [vlc](01_Ubuntu/02_16/03_apt-get/01_install/17_apt-get_install_vlc.md)  
 ║░║░║░╚═2 update  
 ║░║░║░░░╠═1 [duplicate sources.list](01_Ubuntu/02_16/03_apt-get/02_update/01_apt-get_Duplicate_sources.list.md)  
 ║░║░║░░░╚═2 [hash error](01_Ubuntu/02_16/03_apt-get/02_update/02_apt-get_update_hash_sum_error.md)  
