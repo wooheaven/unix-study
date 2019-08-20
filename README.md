@@ -105,8 +105,9 @@
 ║░║░╠═34 [gzip, gunzip : compress/decompress a file](01_Ubuntu/02_16/34_gzip_gunzip/01_gzip_gunzip_file.md)  
 ║░║░╠═35 [Install : with UEFI mode](01_Ubuntu/02_16/35_Install/01_Install_Ubuntu_with_UEFI_mode.md)   
 ║░║░╠═36 Java  
-║░║░║░╠═1 [jdk7 : install by apt](01_Ubuntu/02_16/36_Java/01_install_jdk7.md)  
-║░║░║░╚═2 [jdk8 : install by apt](01_Ubuntu/02_16/36_Java/02_install_jdk8.md)  
+║░║░║░╠═1 [jdk7 : install by manually](01_Ubuntu/02_16/36_Java/01_install_jdk7_by_manually.md)  
+║░║░║░╠═2 [jdk8 : install by apt](01_Ubuntu/02_16/36_Java/02_install_jdk8_by_apt.md)  
+║░║░║░╚═3 [jdk8 : install by manually](01_Ubuntu/02_16/36_Java/03_install_jdk8_by_manually.md)  
 ║░║░╠═37 [jenv : java env manage](01_Ubuntu/02_16/37_jenv/01_install_and_use_jenv.md)   
 ║░║░╠═38 [join : merge by 1st column with two files](01_Ubuntu/02_16/38_join/01_join.md)  
 ║░║░╠═39 [Keyboard : korean](01_Ubuntu/02_16/39_Keyboad/01_ubuntu16_keyboard_korean.md)  

@@ -1,13 +1,2 @@
-03_Mac/02_brew/01_install/01_brew_cask_install_p4v.md -> 03_Mac/02_brew/01_install/02_brew_cask_install_p4v.md
-03_Mac/02_brew/01_install/02_brew_cask_install_sublime-text.md -> 03_Mac/02_brew/01_install/03_brew_cask_install_sublime-text.md
-03_Mac/02_brew/01_install/03_brew_install_cask.md -> 03_Mac/02_brew/01_install/04_brew_install_cask.md
-03_Mac/02_brew/01_install/04_brew_install_gnuplot.md -> 03_Mac/02_brew/01_install/05_brew_install_gnuplot.md
-03_Mac/02_brew/01_install/05_brew_install_iterm2.md -> 03_Mac/02_brew/01_install/06_brew_install_iterm2.md
-03_Mac/02_brew/01_install/06_brew_install_jenv.md -> 03_Mac/02_brew/01_install/07_brew_install_jenv.md
-03_Mac/02_brew/01_install/07_brew_install_jq.md -> 03_Mac/02_brew/01_install/08_brew_install_jq.md
-03_Mac/02_brew/01_install/08_brew_install_macvim.md -> 03_Mac/02_brew/01_install/09_brew_install_macvim.md
-03_Mac/02_brew/01_install/09_brew_install_maven.md -> 03_Mac/02_brew/01_install/10_brew_install_maven.md
-03_Mac/02_brew/01_install/10_brew_install_node.md -> 03_Mac/02_brew/01_install/11_brew_install_node.md
-03_Mac/02_brew/01_install/11_brew_install_python3.md -> 03_Mac/02_brew/01_install/12_brew_install_python3.md
-03_Mac/02_brew/01_install/12_brew_install_tree.md -> 03_Mac/02_brew/01_install/14_brew_install_tree.md
-03_Mac/02_brew/01_install/13_brew_install_zsh.md -> 03_Mac/02_brew/01_install/15_brew_install_zsh.md
+01_Ubuntu/02_16/36_Java/01_install_jdk7.md -> 01_Ubuntu/02_16/36_Java/01_install_jdk7_by_manually.md
+01_Ubuntu/02_16/36_Java/02_install_jdk8.md -> 01_Ubuntu/02_16/36_Java/02_install_jdk8_by_apt.md
