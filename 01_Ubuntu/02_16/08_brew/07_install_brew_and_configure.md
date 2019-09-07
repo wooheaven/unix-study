@@ -1,4 +1,4 @@
-# install and path for linux brew
+# install brew and configure
 ```{bash}
 $ sh -c "$(curl -fsSL https://raw.githubusercontent.com/Linuxbrew/install/master/install.sh)"
 $ vi ~/.bashrc
@@ -31,10 +31,4 @@ total 40
 4 drwxrwxr-x  3 rwoo rwoo 4096  9월 10  2017 patchelf
 4 drwxrwxr-x  3 rwoo rwoo 4096  9월 10  2017 springboot
 4 drwxrwxr-x  3 rwoo rwoo 4096  9월 10  2017 zlib
-```
-
-# brew install package
-```{bash}
-$ brew install tmux
-$ brew cleanup
 ```
