@@ -91,7 +91,11 @@
 ║░║░║░╚═6 [find with maxdepth](01_Ubuntu/02_16/24_find/06_find_with_maxdepth.md)  
 ║░║░╠═25 firefox  
 ║░║░║░╠═1 [downgrade and upgrade](01_Ubuntu/02_16/25_firefox/01_firefox_downgrade_57_to_45.md)  
-║░║░║░╚═2 [font change](01_Ubuntu/02_16/25_firefox/02_font.md)  
+║░║░║░╠═2 [font change](01_Ubuntu/02_16/25_firefox/02_font.md)  
+║░║░║░╚═3 Add-on  
+║░║░║░░░╚═1 [Vimium-FF : install as a firefox's add-on](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/)  
+║░║░║░░░░░╠═1 [Vimium-FF : Github source](https://github.com/philc/vimium)  
+║░║░║░░░░░╚═2 [Vimium-FF : document for exclude](https://github.com/philc/vimium/wiki/Disabling-Vimium)  
 ║░║░╠═26 [font : apply D2Coding](01_Ubuntu/02_16/26_font/01_D2Coding_font.md)  
 ║░║░╠═27 for  
 ║░║░║░╠═1 [iterate by num++](01_Ubuntu/02_16/27_for_statement/01_for_num++.md)  
