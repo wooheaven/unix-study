@@ -93,7 +93,9 @@
 ║░║░║░╠═1 [downgrade and upgrade](01_Ubuntu/02_16/25_firefox/01_firefox_downgrade_57_to_45.md)  
 ║░║░║░╠═2 [font change](01_Ubuntu/02_16/25_firefox/02_font.md)  
 ║░║░║░╚═3 Add-on  
-║░║░║░░░╚═1 [Vimium-FF : install as a firefox's add-on](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/)  
+║░║░║░░░╠═1 [Open Link with New Tab : install as a firefox's add-on](https://addons.mozilla.org/ko/firefox/addon/open-link-with-new-tab/)  
+║░║░║░░░║░╚═1 [Open Link with New Tab : guide url](https://smallbusiness.chron.com/make-firefox-open-new-tab-opening-within-59439.html)  
+║░║░║░░░╚═2 [Vimium-FF : install as a firefox's add-on](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/)  
 ║░║░║░░░░░╠═1 [Vimium-FF : Github source](https://github.com/philc/vimium)  
 ║░║░║░░░░░╚═2 [Vimium-FF : document for exclude](https://github.com/philc/vimium/wiki/Disabling-Vimium)  
 ║░║░╠═26 [font : apply D2Coding](01_Ubuntu/02_16/26_font/01_D2Coding_font.md)  
