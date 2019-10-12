@@ -1,19 +1,17 @@
-# install
+# install and configure oracle JDK8 by manual
 ```
-$ mkdir /usr/lib/jvm
-$ tar -zxf jdk-8u221-linux-x64.tar.gz -C /usr/lib/jvm
+$ sudo tar -zxf jdk-8u221-linux-x64.tar.gz -C /usr/lib/jvm
 $ vi ~/.bashrc
 ...
-# JAVA"
+# JDK8 
 JAVA_HOME=/usr/lib/jvm/jdk1.8.0_221
 PATH=$PATH:$JAVA_HOME/bin
+
 $ source ~/.bashrc
 ```
+
 # check
 ```
-$ which java
-/usr/lib/jvm/jdk1.8.0_221/bin/java
-
 $ java -version
 java version "1.8.0_221"
 Java(TM) SE Runtime Environment (build 1.8.0_221-b11)

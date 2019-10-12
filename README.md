@@ -115,9 +115,11 @@
 ║░║░╠═35 [Install : with UEFI mode](01_Ubuntu/02_16/35_Install/01_Install_Ubuntu_with_UEFI_mode.md)   
 ║░║░╠═36 [IntelliJ : standalone install](01_Ubuntu/02_16/36_IntelliJ/01_standalone_installation_of_IntelliJ.md)  
 ║░║░╠═37 Java  
-║░║░║░╠═1 [jdk7 : install by manually](01_Ubuntu/02_16/37_Java/01_install_jdk7_by_manually.md)  
-║░║░║░╠═2 [jdk8 : install by apt](01_Ubuntu/02_16/37_Java/02_install_jdk8_by_apt.md)  
-║░║░║░╚═3 [jdk8 : install by manually](01_Ubuntu/02_16/37_Java/03_install_jdk8_by_manually.md)  
+║░║░║░╠═1 [amazon corretto open JDK8 : install by manually](01_Ubuntu/02_16/37_Java/01_install_amazon_corretto_open_jdk8_by_manual.md)  
+║░║░║░╠═2 [oracle JDK7 : install by manually](01_Ubuntu/02_16/37_Java/02_install_oracle_jdk7_by_manually.md)  
+║░║░║░╠═3 [oracle JDK8 : install by apt](01_Ubuntu/02_16/37_Java/03_install_oracle_jdk8_by_apt.md)  
+║░║░║░╠═4 [oracle JDK8 : install by manually](01_Ubuntu/02_16/37_Java/04_install_oracle_jdk8_by_manually.md)  
+║░║░║░╚═5 [ubuntu open JDK8 : install by apt](01_Ubuntu/02_16/37_Java/05_install_ubuntu_open_jdk8_by_apt.md)  
 ║░║░╠═38 [jenv : java env manage](01_Ubuntu/02_16/38_jenv/01_install_and_use_jenv.md)   
 ║░║░╠═39 [join : merge by 1st column with two files](01_Ubuntu/02_16/39_join/01_join.md)  
 ║░║░╠═40 [Keyboard : korean](01_Ubuntu/02_16/40_Keyboad/01_ubuntu16_keyboard_korean.md)  
@@ -200,7 +202,9 @@
 ║░║░╠═77 [tr : replace string](01_Ubuntu/02_16/77_tr/01_tr_replace_string.md)  
 ║░║░╠═78 [tzdata : time zone](01_Ubuntu/02_16/78_tzdata/01_timeZone.md)  
 ║░║░╠═79 [unicode : box char](01_Ubuntu/02_16/79_unicode/01_box_char.md)  
-║░║░╠═80 [update-alternatives : vim vi](01_Ubuntu/02_16/80_update-alternatives/01_update-alternatives_vim_and_vi.md)  
+║░║░╠═80 update-alternatives  
+║░║░║░╠═1 [--install : java, javac](01_Ubuntu/02_16/80_update-alternatives/01_install_java_and_javac.md)  
+║░║░║░╚═2 [--install : vi, vim](01_Ubuntu/02_16/80_update-alternatives/02_install_vim_and_vi.md)  
 ║░║░╠═81 [userdel](01_Ubuntu/02_16/81_userdel/01_userdel_hadoop.md)  
 ║░║░╠═82 [usermod : add User to Group](01_Ubuntu/02_16/82_usermod/01_add_USER_to_GROUP.md)  
 ║░║░╠═83 vim  
