@@ -166,6 +166,7 @@
 ║░║░╠═63 [screen : use](01_Ubuntu/02_16/63_screen/01_use_screen.md)  
 ║░║░╠═64 sdk  
 ║░║░║░╠═1 [insall sdk](01_Ubuntu/02_16/64_sdk/01_install_sdk.md)  
+║░║░║░╚═2 [sdk install jdk](01_Ubuntu/02_16/64_sdk/02_sdk_install_jdk.md)  
 ║░║░╠═65 sed  
 ║░║░║░╠═1 [remove \^M in text file](01_Ubuntu/02_16/65_sed/01_sed_remove_^M.md)  
 ║░║░║░╠═2 [replace every 3rd comma to semicolon](01_Ubuntu/02_16/65_sed/02_sed_replace_every_3rd_comma_to_semicolon.md)  
