@@ -1,1 +1,7 @@
-
+01_Ubuntu/02_16/08_brew/02_brew_install_maven.sh -> 01_Ubuntu/02_16/08_brew/03_brew_install_maven.md
+01_Ubuntu/02_16/08_brew/03_brew_install_node@10.md -> 01_Ubuntu/02_16/08_brew/04_brew_install_node@10.md
+01_Ubuntu/02_16/08_brew/04_brew_install_python.md -> 01_Ubuntu/02_16/08_brew/05_brew_install_python.md
+01_Ubuntu/02_16/08_brew/05_brew_install_ruby.md -> 01_Ubuntu/02_16/08_brew/06_brew_install_ruby.md
+01_Ubuntu/02_16/08_brew/06_brew_install_vim.md -> 01_Ubuntu/02_16/08_brew/07_brew_install_vim.md
+01_Ubuntu/02_16/08_brew/08_brew_upgrade.sh -> 01_Ubuntu/02_16/08_brew/09_brew_upgrade.sh
+01_Ubuntu/02_16/08_brew/07_install_brew_and_configure.md -> 01_Ubuntu/02_16/08_brew/10_install_brew_and_configure.md
