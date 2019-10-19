@@ -47,7 +47,8 @@
 ║░║░║░╠═6 if statement : [Tutorial Link](https://ryanstutorials.net/bash-scripting-tutorial/bash-if-statements.php)  
 ║░║░║░║░╠═1 [condition argument count check](01_Ubuntu/02_16/07_bash/06_if_statement/01_if_condition_argument_count_check.md)  
 ║░║░║░║░╠═2 [condition argument existence check](01_Ubuntu/02_16/07_bash/06_if_statement/02_if_condition_argument_existence_check.md)   
-║░║░║░║░╚═3 [condition filepath check](01_Ubuntu/02_16/07_bash/06_if_statement/03_if_condition_filePath_check.md)  
+║░║░║░║░╠═3 [condition check file exist](01_Ubuntu/02_16/07_bash/06_if_statement/03_if_condition_check_file_exist.md)  
+║░║░║░║░╚═4 [condition check file exist and not empty](01_Ubuntu/02_16/07_bash/06_if_statement/04_if_condition_check_file_exist_and_not_empty.md)  
 ║░║░║░╚═7 string function : [remove backwards short matched string of original string](01_Ubuntu/02_16/07_bash/07_string_function/01_remove_backwards_short_matched_string_of_original_string.md)  
 ║░║░╠═8 brew  
 ║░║░║░╠═1 [brew : install git](01_Ubuntu/02_16/08_brew/01_brew_install_git.md)  
