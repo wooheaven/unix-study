@@ -60,7 +60,7 @@
 ║░║░║░╠═7 [brew : install scala2.11](01_Ubuntu/02_16/08_brew/07_brew_install_scala.md)  
 ║░║░║░╠═8 [brew : install vim](01_Ubuntu/02_16/08_brew/08_brew_install_vim.md)  
 ║░║░║░╠═9 [brew upgrade : from outdated packages](01_Ubuntu/02_16/08_brew/09_brew_outdated_formula_to_upgrade.md)  
-║░║░║░╠═10 [brew upgrade : from outdated packages script](10_brew_upgrade.sh)   
+║░║░║░╠═10 [brew upgrade : from outdated packages script](01_Ubuntu/02_16/08_brew/10_brew_upgrade.sh)   
 ║░║░║░╚═11 [install brew and configure](01_Ubuntu/02_16/08_brew/11_install_brew_and_configure.md)  
 ║░║░╠═9 [chrome : install and configure](01_Ubuntu/02_16/09_chrome/01_install_chrome.md)  
 ║░║░╠═10 [chrome remote desktop : install and configure](01_Ubuntu/02_16/10_chrome_remote_desktop/01_install_chrome_remote_desktop.md)  
