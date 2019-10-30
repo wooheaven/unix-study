@@ -1,4 +1,2 @@
-01_Ubuntu/02_16/08_brew/07_brew_install_vim.md -> 01_Ubuntu/02_16/08_brew/08_brew_install_vim.md
-01_Ubuntu/02_16/08_brew/08_brew_outdated_formula_to_upgrade.md -> 01_Ubuntu/02_16/08_brew/09_brew_outdated_formula_to_upgrade.md
-01_Ubuntu/02_16/08_brew/09_brew_upgrade.sh -> 01_Ubuntu/02_16/08_brew/10_brew_upgrade.sh
-01_Ubuntu/02_16/08_brew/10_install_brew_and_configure.md -> 01_Ubuntu/02_16/08_brew/11_install_brew_and_configure.md
+01_Ubuntu/02_16/27_for_statement/02_for_in_list.md -> 01_Ubuntu/02_16/07_bash/08_for_statement/01_for_in_list.md
+01_Ubuntu/02_16/27_for_statement/01_for_num++.md -> 01_Ubuntu/02_16/07_bash/08_for_statement/02_for_num++.md
