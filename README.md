@@ -110,7 +110,9 @@
 ║░║░╠═28 [frep : activate frep on android](01_Ubuntu/02_16/28_frep/01_use_frep.md)  
 ║░║░╠═29 [git : purge built in git](01_Ubuntu/02_16/29_Git/01_purge_built_in_git.md)  
 ║░║░╠═30 [gitlab : Official Math Document](01_Ubuntu/02_16/30_GitLab/01_Math_Symbol_Document.md)  
-║░║░╠═31 [gnome terminal : execute by CLI with window-size](01_Ubuntu/02_16/31_gnome_terminal/01_run_gnome_terminal_by_CLI.md)  
+║░║░╠═31 gnome  
+║░║░║░╠═1 [gnome terminal : execute by CLI with window-size](01_Ubuntu/02_16/31_gnome/02_terminal/01_run_gnome_terminal_by_CLI.md)  
+║░║░║░╚═2 [gnome desktop icon : create](01_Ubuntu/02_16/31_gnome/01_desktop_icon/01_gnome_desktop_icon_create.md)  
 ║░║░╠═32 [Google Drive : ocamlfuse = unofficial client](01_Ubuntu/02_16/32_Google_Drive/01_install_configure_ocamlfuse.md)  
 ║░║░╠═33 GRUB  
 ║░║░║░╠═1 [reset PassWord](01_Ubuntu/02_16/33_GRUB/01_reset_passwd_on_GRUB.md)  

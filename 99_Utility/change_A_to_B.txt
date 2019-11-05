@@ -1,2 +1,1 @@
-01_Ubuntu/02_16/27_for_statement/02_for_in_list.md -> 01_Ubuntu/02_16/07_bash/08_for_statement/01_for_in_list.md
-01_Ubuntu/02_16/27_for_statement/01_for_num++.md -> 01_Ubuntu/02_16/07_bash/08_for_statement/02_for_num++.md
+01_Ubuntu/02_16/31_gnome_terminal/01_run_gnome_terminal_by_CLI.md -> 01_Ubuntu/02_16/31_gnome/02_terminal/01_run_gnome_terminal_by_CLI.md
