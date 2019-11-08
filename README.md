@@ -107,7 +107,11 @@
 ║░║░║░░░░░╠═1 [Vimium-FF : Github source](https://github.com/philc/vimium)  
 ║░║░║░░░░░╚═2 [Vimium-FF : document for exclude](https://github.com/philc/vimium/wiki/Disabling-Vimium)  
 ║░║░╠═26 [font : apply D2Coding](01_Ubuntu/02_16/26_font/01_D2Coding_font.md)  
-║░║░╠═28 [frep : activate frep on android](01_Ubuntu/02_16/28_frep/01_use_frep.md)  
+║░║░╠═27 [frep : activate frep on android](01_Ubuntu/02_16/27_frep/01_use_frep.md)  
+║░║░╠═28 ghostscript  
+║░║░║░╚═1 resize pdf  
+║░║░║░░░╠═1 [log](01_Ubuntu/02_16/28_ghostscript/01_resise_pdf.md)  
+║░║░║░░░╚═2 [script source](01_Ubuntu/02_16/28_ghostscript/99_Utility/01_resize_pdf.sh)  
 ║░║░╠═29 [git : purge built in git](01_Ubuntu/02_16/29_Git/01_purge_built_in_git.md)  
 ║░║░╠═30 [gitlab : Official Math Document](01_Ubuntu/02_16/30_GitLab/01_Math_Symbol_Document.md)  
 ║░║░╠═31 gnome  
