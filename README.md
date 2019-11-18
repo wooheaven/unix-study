@@ -171,11 +171,13 @@
 ║░║░║░╠═1 [Excel to PDF](01_Ubuntu/02_16/57_pdf/01_Excel_to_PDF.md)  
 ║░║░║░╠═2 ghostscript  
 ║░║░║░║░╠═1 log  
-║░║░║░║░║░╠═1 [split  on log](01_Ubuntu/02_16/57_pdf/02_ghostscript/01_split_pdf.md)  
-║░║░║░║░║░╚═2 [resize on log](01_Ubuntu/02_16/57_pdf/02_ghostscript/02_resize_pdf.md)  
+║░║░║░║░║░╠═1 [merge  on log](01_Ubuntu/02_16/57_pdf/02_ghostscript/01_merge_pdf.md)  
+║░║░║░║░║░╠═2 [resize on log](01_Ubuntu/02_16/57_pdf/02_ghostscript/02_resize_pdf.md)  
+║░║░║░║░║░╚═3 [split  on log](01_Ubuntu/02_16/57_pdf/02_ghostscript/03_split_pdf.md)  
 ║░║░║░║░╚═2 source  
-║░║░║░║░░░╠═1 [split  on source](01_Ubuntu/02_16/57_pdf/02_ghostscript/99_Utility/01_split_pdf.sh)  
-║░║░║░║░░░╚═2 [resize on source](01_Ubuntu/02_16/57_pdf/02_ghostscript/99_Utility/02_resize_pdf.sh)  
+║░║░║░║░░░╠═1 [merge  on source](01_Ubuntu/02_16/57_pdf/02_ghostscript/99_Utility/01_merge_pdf.sh)  
+║░║░║░║░░░╠═2 [resize on source](01_Ubuntu/02_16/57_pdf/02_ghostscript/99_Utility/02_resize_pdf.sh)  
+║░║░║░║░░░╚═3 [split  on source](01_Ubuntu/02_16/57_pdf/02_ghostscript/99_Utility/03_split_pdf.sh)  
 ║░║░║░╠═3 [LaTex : GitLab Link](https://gitlab.com/wooheaven/latex-study)  
 ║░║░║░╚═4 [Word to PDF](01_Ubuntu/02_16/57_pdf/04_Word_to_PDF.md)  
 ║░║░╠═58 Python  

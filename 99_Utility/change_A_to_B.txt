@@ -1,1 +1,2 @@
-01_Ubuntu/02_16/57_pdf/02_ghostscript/99_Utility/01_resize_pdf.sh -> 01_Ubuntu/02_16/57_pdf/02_ghostscript/99_Utility/02_resize_pdf.sh
+01_Ubuntu/02_16/57_pdf/02_ghostscript/01_split_pdf.md -> 01_Ubuntu/02_16/57_pdf/02_ghostscript/03_split_pdf.md
+01_Ubuntu/02_16/57_pdf/02_ghostscript/99_Utility/01_split_pdf.sh -> 01_Ubuntu/02_16/57_pdf/02_ghostscript/99_Utility/03_split_pdf.sh
