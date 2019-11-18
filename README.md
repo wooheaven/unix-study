@@ -113,64 +113,68 @@
 ║░║░║░╠═1 [D2Coding](01_Ubuntu/02_16/26_font/01_D2Coding_font.md)  
 ║░║░║░╚═2 [Malgun Gothic](01_Ubuntu/02_16/26_font/02_Malgun_Gothic_font.md)  
 ║░║░╠═27 [frep : activate frep on android](01_Ubuntu/02_16/27_frep/01_use_frep.md)  
-║░║░╠═28 ghostscript  
-║░║░║░╚═1 resize pdf  
-║░║░║░░░╠═1 [log](01_Ubuntu/02_16/28_ghostscript/01_resise_pdf.md)  
-║░║░║░░░╚═2 [script source](01_Ubuntu/02_16/28_ghostscript/99_Utility/01_resize_pdf.sh)  
-║░║░╠═29 [git : purge built in git](01_Ubuntu/02_16/29_Git/01_purge_built_in_git.md)  
-║░║░╠═30 [gitlab : Official Math Document](01_Ubuntu/02_16/30_GitLab/01_Math_Symbol_Document.md)  
-║░║░╠═31 gnome  
-║░║░║░╠═1 [gnome desktop icon : create](01_Ubuntu/02_16/31_gnome/01_desktop_icon/01_gnome_desktop_icon_create.md)  
-║░║░║░╚═2 [gnome terminal : execute by CLI with window-size](01_Ubuntu/02_16/31_gnome/02_terminal/01_run_gnome_terminal_by_CLI.md)  
-║░║░╠═32 Google  
-║░║░║░╠═1 [Google Drive : ocamlfuse = unofficial client](01_Ubuntu/02_16/32_Google/01_Google_Drive/01_install_configure_ocamlfuse.md)  
-║░║░║░╚═2 [Google SpreadSheet : unlock sheet of excel xslx file without password](01_Ubuntu/02_16/32_Google/02_SpreadSheet/01_unlock_sheet_of_excel_xslx_file_without_password.md)  
-║░║░╠═33 GRUB  
-║░║░║░╠═1 [reset PassWord](01_Ubuntu/02_16/33_GRUB/01_reset_passwd_on_GRUB.md)  
-║░║░║░╚═2 [enable touchpad](01_Ubuntu/02_16/33_GRUB/02_enable_touchpad_on_GRUB.md)  
-║░║░╠═34 [gzip, gunzip : compress/decompress a file](01_Ubuntu/02_16/34_gzip_gunzip/01_gzip_gunzip_file.md)  
-║░║░╠═35 [Install : with UEFI mode](01_Ubuntu/02_16/35_Install/01_Install_Ubuntu_with_UEFI_mode.md)   
-║░║░╠═36 IntelliJ  
-║░║░║░╠═1 [standalone install](01_Ubuntu/02_16/36_IntelliJ/01_standalone_installation_of_IntelliJ.md)  
-║░║░║░╚═2 [IBus Config](01_Ubuntu/02_16/36_IntelliJ/02_IBus_Config_for_IntelliJ.md)  
-║░║░╠═37 Java  
-║░║░║░╠═1 [amazon corretto open JDK8 : install by manually](01_Ubuntu/02_16/37_Java/01_install_amazon_corretto_open_jdk8_by_manual.md)  
-║░║░║░╠═2 [oracle JDK7 : install by manually](01_Ubuntu/02_16/37_Java/02_install_oracle_jdk7_by_manually.md)  
-║░║░║░╠═3 [oracle JDK8 : install by apt](01_Ubuntu/02_16/37_Java/03_install_oracle_jdk8_by_apt.md)  
-║░║░║░╠═4 [oracle JDK8 : install by manually](01_Ubuntu/02_16/37_Java/04_install_oracle_jdk8_by_manually.md)  
-║░║░║░╚═5 [ubuntu open JDK8 : install by apt](01_Ubuntu/02_16/37_Java/05_install_ubuntu_open_jdk8_by_apt.md)  
-║░║░╠═38 [jenv : java env manage](01_Ubuntu/02_16/38_jenv/01_install_and_use_jenv.md)   
-║░║░╠═39 [join : merge by 1st column with two files](01_Ubuntu/02_16/39_join/01_join.md)  
-║░║░╠═40 [Keyboard : korean](01_Ubuntu/02_16/40_Keyboad/01_ubuntu16_keyboard_korean.md)  
-║░║░╠═41 [Libre Office : remove](01_Ubuntu/02_16/41_LibreOffice/01_remove_LibreOffice.md)   
-║░║░╠═42 [lid switch : handle lid switch on as lock](01_Ubuntu/02_16/42_lid_switch_of_notebook/01_handle_lid_switch.md)  
-║░║░╠═43 linux-firmware: [intel cpu warnings](01_Ubuntu/02_16/43_linux_firmware/01_intel_cpu_warning.md)  
-║░║░╠═44 LVM : [format and mount attached device](01_Ubuntu/02_16/44_LVM/01_LVM_on_attached_device.md)  
-║░║░╠═45 [memory : cat /proc/meminfo](01_Ubuntu/02_16/45_memory/01_memory_info.md)  
-║░║░╠═46 mkfs  
-║░║░║░╠═1 mkfs.exfat : [make filesystem exfat](01_Ubuntu/02_16/46_mkfs/01_mkfs.exfat_device.md)  
-║░║░║░╠═2 mkfs.ext4 : [make filesystem ext4](01_Ubuntu/02_16/46_mkfs/02_mkfs.ext4_device.md)  
-║░║░║░╚═3 mkfs.xfs : [make filesystem xfs](01_Ubuntu/02_16/46_mkfs/03_mkfs.xfs_device.md)  
-║░║░╠═47 mount  
-║░║░║░╠═1 [remount /home to other disk](01_Ubuntu/02_16/47_mount/01_remount_home_to_other_disk.md)  
-║░║░║░╚═2 [remount /var to other disk](01_Ubuntu/02_16/47_mount/02_remount_var_to_other_disk.md)  
-║░║░╠═48 [mpstat : monitoring CPU's processors](01_Ubuntu/02_16/48_mpstat/01_mpstat.md)  
-║░║░╠═49 network  
-║░║░║░╠═1 [static](01_Ubuntu/02_16/49_network/01_static/01_configure_static.md)  
-║░║░║░╠═2 [dhcp](01_Ubuntu/02_16/49_network/01_static/01_configure_static.md)  
-║░║░║░╚═3 [hostname : 127.0.1.1 why use this](01_Ubuntu/02_16/49_network/03_hostname/01_127.0.1.1.md)  
-║░║░╠═50 [nmap : port check](01_Ubuntu/02_16/50_nmap/01_install_use_nmap.md)  
-║░║░╠═51 [nohup : use](01_Ubuntu/02_16/51_nohup/01_use_nohup.md)  
-║░║░╠═52 nvidia install  
-║░║░║░╠═1 [nvidia driver410 cuda9 cudnn7.4 to keras](01_Ubuntu/02_16/52_nvidia/01_install_nvidia_driver410_cuda9_cudnn7.4_to_keras.md)  
-║░║░║░╚═2 [nvidia driver418 cuda10 cudnn7.4 to keras](01_Ubuntu/02_16/52_nvidia/02_install_nvidia_driver418_cuda10_cudnn7.4_to_keras.md)  
-║░║░╠═53 [opencv : build and install opencv 3.4.0](01_Ubuntu/02_16/53_OpenCV/01_Build_OpenCV_3.4_with_opencv_contrib.md)  
-║░║░╠═54 [opera : save stream video as file](01_Ubuntu/02_16/54_Opera/01_save_stream_video_as_file.md)  
-║░║░╠═55 [p4v p4merge : install](01_Ubuntu/02_16/55_p4v_p4merge/01_install_p4v_p4merge.md)  
-║░║░╠═56 parted  
-║░║░║░╠═1 [parted list : check model of attached disks](01_Ubuntu/02_16/56_parted/01_parted_list.md)  
-║░║░║░╚═2 [swap partition : remove and create swap partition](01_Ubuntu/02_16/56_parted/02_parted_swap_partition.md)  
-║░║░╠═57 [passwd : root passwd update](01_Ubuntu/02_16/57_passwd/01_root_passwd.md)  
+║░║░╠═28 [git : purge built in git](01_Ubuntu/02_16/28_Git/01_purge_built_in_git.md)  
+║░║░╠═29 [gitlab : Official Math Document](01_Ubuntu/02_16/29_GitLab/01_Math_Symbol_Document.md)  
+║░║░╠═30 gnome  
+║░║░║░╠═1 [gnome desktop icon : create](01_Ubuntu/02_16/30_gnome/01_desktop_icon/01_gnome_desktop_icon_create.md)  
+║░║░║░╚═2 [gnome terminal : execute by CLI with window-size](01_Ubuntu/02_16/30_gnome/02_terminal/01_run_gnome_terminal_by_CLI.md)  
+║░║░╠═31 Google  
+║░║░║░╠═1 [Google Drive : ocamlfuse = unofficial client](01_Ubuntu/02_16/31_Google/01_Google_Drive/01_install_configure_ocamlfuse.md)  
+║░║░║░╚═2 [Google SpreadSheet : unlock sheet of excel xslx file without password](01_Ubuntu/02_16/31_Google/02_SpreadSheet/01_unlock_sheet_of_excel_xslx_file_without_password.md)  
+║░║░╠═32 GRUB  
+║░║░║░╠═1 [reset PassWord](01_Ubuntu/02_16/32_GRUB/01_reset_passwd_on_GRUB.md)  
+║░║░║░╚═2 [enable touchpad](01_Ubuntu/02_16/32_GRUB/02_enable_touchpad_on_GRUB.md)  
+║░║░╠═33 [gzip, gunzip : compress/decompress a file](01_Ubuntu/02_16/33_gzip_gunzip/01_gzip_gunzip_file.md)  
+║░║░╠═34 [Install : with UEFI mode](01_Ubuntu/02_16/34_Install/01_Install_Ubuntu_with_UEFI_mode.md)   
+║░║░╠═35 IntelliJ  
+║░║░║░╠═1 [standalone install](01_Ubuntu/02_16/35_IntelliJ/01_standalone_installation_of_IntelliJ.md)  
+║░║░║░╚═2 [IBus Config](01_Ubuntu/02_16/35_IntelliJ/02_IBus_Config_for_IntelliJ.md)  
+║░║░╠═36 Java  
+║░║░║░╠═1 [amazon corretto open JDK8 : install by manually](01_Ubuntu/02_16/36_Java/01_install_amazon_corretto_open_jdk8_by_manual.md)  
+║░║░║░╠═2 [oracle JDK7 : install by manually](01_Ubuntu/02_16/36_Java/02_install_oracle_jdk7_by_manually.md)  
+║░║░║░╠═3 [oracle JDK8 : install by apt](01_Ubuntu/02_16/36_Java/03_install_oracle_jdk8_by_apt.md)  
+║░║░║░╠═4 [oracle JDK8 : install by manually](01_Ubuntu/02_16/36_Java/04_install_oracle_jdk8_by_manually.md)  
+║░║░║░╚═5 [ubuntu open JDK8 : install by apt](01_Ubuntu/02_16/36_Java/05_install_ubuntu_open_jdk8_by_apt.md)  
+║░║░╠═37 [jenv : java env manage](01_Ubuntu/02_16/37_jenv/01_install_and_use_jenv.md)   
+║░║░╠═38 [join : merge by 1st column with two files](01_Ubuntu/02_16/38_join/01_join.md)  
+║░║░╠═39 [Keyboard : korean](01_Ubuntu/02_16/39_Keyboad/01_ubuntu16_keyboard_korean.md)  
+║░║░╠═40 [Libre Office : remove](01_Ubuntu/02_16/40_LibreOffice/01_remove_LibreOffice.md)   
+║░║░╠═41 [lid switch : handle lid switch on as lock](01_Ubuntu/02_16/41_lid_switch_of_notebook/01_handle_lid_switch.md)  
+║░║░╠═42 linux-firmware: [intel cpu warnings](01_Ubuntu/02_16/42_linux_firmware/01_intel_cpu_warning.md)  
+║░║░╠═43 LVM : [format and mount attached device](01_Ubuntu/02_16/43_LVM/01_LVM_on_attached_device.md)  
+║░║░╠═44 [memory : cat /proc/meminfo](01_Ubuntu/02_16/44_memory/01_memory_info.md)  
+║░║░╠═45 mkfs  
+║░║░║░╠═1 mkfs.exfat : [make filesystem exfat](01_Ubuntu/02_16/45_mkfs/01_mkfs.exfat_device.md)  
+║░║░║░╠═2 mkfs.ext4 : [make filesystem ext4](01_Ubuntu/02_16/45_mkfs/02_mkfs.ext4_device.md)  
+║░║░║░╚═3 mkfs.xfs : [make filesystem xfs](01_Ubuntu/02_16/45_mkfs/03_mkfs.xfs_device.md)  
+║░║░╠═46 mount  
+║░║░║░╠═1 [remount /home to other disk](01_Ubuntu/02_16/46_mount/01_remount_home_to_other_disk.md)  
+║░║░║░╚═2 [remount /var to other disk](01_Ubuntu/02_16/46_mount/02_remount_var_to_other_disk.md)  
+║░║░╠═47 [mpstat : monitoring CPU's processors](01_Ubuntu/02_16/47_mpstat/01_mpstat.md)  
+║░║░╠═48 network  
+║░║░║░╠═1 [static](01_Ubuntu/02_16/48_network/01_static/01_configure_static.md)  
+║░║░║░╠═2 [dhcp](01_Ubuntu/02_16/48_network/01_static/01_configure_static.md)  
+║░║░║░╚═3 [hostname : 127.0.1.1 why use this](01_Ubuntu/02_16/48_network/03_hostname/01_127.0.1.1.md)  
+║░║░╠═49 [nmap : port check](01_Ubuntu/02_16/49_nmap/01_install_use_nmap.md)  
+║░║░╠═50 [nohup : use](01_Ubuntu/02_16/50_nohup/01_use_nohup.md)  
+║░║░╠═51 nvidia install  
+║░║░║░╠═1 [nvidia driver410 cuda9 cudnn7.4 to keras](01_Ubuntu/02_16/51_nvidia/01_install_nvidia_driver410_cuda9_cudnn7.4_to_keras.md)  
+║░║░║░╚═2 [nvidia driver418 cuda10 cudnn7.4 to keras](01_Ubuntu/02_16/51_nvidia/02_install_nvidia_driver418_cuda10_cudnn7.4_to_keras.md)  
+║░║░╠═52 [opencv : build and install opencv 3.4.0](01_Ubuntu/02_16/52_OpenCV/01_Build_OpenCV_3.4_with_opencv_contrib.md)  
+║░║░╠═53 [opera : save stream video as file](01_Ubuntu/02_16/53_Opera/01_save_stream_video_as_file.md)  
+║░║░╠═54 [p4v p4merge : install](01_Ubuntu/02_16/54_p4v_p4merge/01_install_p4v_p4merge.md)  
+║░║░╠═55 parted  
+║░║░║░╠═1 [parted list : check model of attached disks](01_Ubuntu/02_16/55_parted/01_parted_list.md)  
+║░║░║░╚═2 [swap partition : remove and create swap partition](01_Ubuntu/02_16/55_parted/02_parted_swap_partition.md)  
+║░║░╠═56 [passwd : root passwd update](01_Ubuntu/02_16/56_passwd/01_root_passwd.md)  
+║░║░╠═57 pdf  
+║░║░║░╠═1 [Excel to PDF](01_Ubuntu/02_16/57_pdf/01_Excel_to_PDF.md)  
+║░║░║░╠═2 ghostscript  
+║░║░║░║░╚═1 resize pdf  
+║░║░║░║░░░╠═1 [log](01_Ubuntu/02_16/57_pdf/02_ghostscript/01_resise_pdf.md)  
+║░║░║░║░░░╚═2 [script source](01_Ubuntu/02_16/57_pdf/02_ghostscript/99_Utility/01_resize_pdf.sh)  
+║░║░║░╠═3 [LaTex : GitLab Link](https://gitlab.com/wooheaven/latex-study)  
+║░║░║░╚═4 [Word to PDF](01_Ubuntu/02_16/57_pdf/04_Word_to_PDF.md)  
 ║░║░╠═58 Python  
 ║░║░║░╠═1 [configure python 2.7, 3.5 env](01_Ubuntu/02_16/58_Python/01_configure_python_2.7_3.5_env.md)  
 ║░║░║░╠═2 [ImportError : after pip3 install --upgrade pip](01_Ubuntu/02_16/58_Python/02_ImportError.md)  
