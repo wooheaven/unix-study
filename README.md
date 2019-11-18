@@ -46,9 +46,10 @@
 ║░║░║░╠═4 [check current shell](01_Ubuntu/02_16/07_bash/04_check_current_shell.md)  
 ║░║░║░╠═5 [redirect : print to null](01_Ubuntu/02_16/07_bash/05_print_to_null_by_redirect.md)  
 ║░║░║░╠═6 for  
-║░║░║░║░╠═1 [iterate by list](01_Ubuntu/02_16/07_bash/06_for_statement/01_for_in_list.md)  
-║░║░║░║░╠═2 [iterate by num++](01_Ubuntu/02_16/07_bash/06_for_statement/02_for_num++.md)  
-║░║░║░║░╚═3 [iterate by file](01_Ubuntu/02_16/07_bash/06_for_statement/03_for_read_file.md)  
+║░║░║░║░╠═1 [iterate by argument](01_Ubuntu/02_16/07_bash/06_for_statement/01_for_loop_on_argument.md)  
+║░║░║░║░╠═2 [iterate by list](01_Ubuntu/02_16/07_bash/06_for_statement/02_for_loop_on_list.md)  
+║░║░║░║░╠═3 [iterate by num++](01_Ubuntu/02_16/07_bash/06_for_statement/03_for_loop_on_num++.md)  
+║░║░║░║░╚═4 [iterate by file](01_Ubuntu/02_16/07_bash/06_for_statement/04_for_loop_on_read_file.md)  
 ║░║░║░╠═7 if statement : [Tutorial Link](https://ryanstutorials.net/bash-scripting-tutorial/bash-if-statements.php)  
 ║░║░║░║░╠═1 [condition argument count check](01_Ubuntu/02_16/07_bash/07_if_statement/01_if_condition_argument_count_check.md)  
 ║░║░║░║░╠═2 [condition argument existence check](01_Ubuntu/02_16/07_bash/07_if_statement/02_if_condition_argument_existence_check.md)   
