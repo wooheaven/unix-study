@@ -1,2 +1,3 @@
-01_Ubuntu/02_16/57_pdf/02_ghostscript/01_split_pdf.md -> 01_Ubuntu/02_16/57_pdf/02_ghostscript/03_split_pdf.md
-01_Ubuntu/02_16/57_pdf/02_ghostscript/99_Utility/01_split_pdf.sh -> 01_Ubuntu/02_16/57_pdf/02_ghostscript/99_Utility/03_split_pdf.sh
+01_Ubuntu/02_16/07_bash/06_for_statement/01_for_in_list.md -> 01_Ubuntu/02_16/07_bash/06_for_statement/02_for_loop_on_list.md
+01_Ubuntu/02_16/07_bash/06_for_statement/02_for_num++.md -> 01_Ubuntu/02_16/07_bash/06_for_statement/03_for_loop_on_num++.md
+01_Ubuntu/02_16/07_bash/06_for_statement/03_for_read_file.md -> 01_Ubuntu/02_16/07_bash/06_for_statement/04_for_loop_on_read_file.md
