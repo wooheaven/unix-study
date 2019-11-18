@@ -119,8 +119,8 @@
 ║░║░╠═28 [git : purge built in git](01_Ubuntu/02_16/28_Git/01_purge_built_in_git.md)  
 ║░║░╠═29 [gitlab : Official Math Document](01_Ubuntu/02_16/29_GitLab/01_Math_Symbol_Document.md)  
 ║░║░╠═30 gnome  
-║░║░║░╠═1 [gnome terminal : execute by CLI with window-size](01_Ubuntu/02_16/30_gnome/02_terminal/01_run_gnome_terminal_by_CLI.md)  
-║░║░║░╚═2 [gnome desktop icon : create](01_Ubuntu/02_16/30_gnome/01_desktop_icon/01_gnome_desktop_icon_create.md)  
+║░║░║░╠═1 [gnome desktop icon : create](01_Ubuntu/02_16/30_gnome/01_desktop_icon/01_gnome_desktop_icon_create.md)  
+║░║░║░╚═2 [gnome terminal : execute by CLI with window-size](01_Ubuntu/02_16/30_gnome/02_terminal/01_run_gnome_terminal_by_CLI.md)  
 ║░║░╠═31 Google  
 ║░║░║░╠═1 [Google Drive : ocamlfuse = unofficial client](01_Ubuntu/02_16/31_Google/01_Google_Drive/01_install_configure_ocamlfuse.md)  
 ║░║░║░╚═2 [Google SpreadSheet : unlock sheet of excel xslx file without password](01_Ubuntu/02_16/31_Google/02_SpreadSheet/01_unlock_sheet_of_excel_xslx_file_without_password.md)  
