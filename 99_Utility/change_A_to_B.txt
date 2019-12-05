@@ -1,3 +1,2 @@
-01_Ubuntu/02_16/07_bash/08_variable/01_string/01_assign_file_path_string_to_variable.md -> 01_Ubuntu/02_16/07_bash/08_variable/02_string/01_assign_file_path_string_to_variable.md
-01_Ubuntu/02_16/07_bash/08_variable/01_string/02_remove_backwards_short_matched_substring_of_string.md -> 01_Ubuntu/02_16/07_bash/08_variable/02_string/02_remove_backwards_short_matched_substring_of_string.md
-01_Ubuntu/02_16/07_bash/08_variable/01_string/03_substring_with_position_and_length_of_string.md -> 01_Ubuntu/02_16/07_bash/08_variable/02_string/03_substring_with_position_and_length_of_string.md
+01_Ubuntu/02_16/07_bash/08_variable/02_string/02_remove_backwards_short_matched_substring_of_string.md -> 01_Ubuntu/02_16/07_bash/08_variable/02_string/03_remove_backwards_short_matched_substring_of_string.md
+01_Ubuntu/02_16/07_bash/08_variable/02_string/03_substring_with_position_and_length_of_string.md -> 01_Ubuntu/02_16/07_bash/08_variable/02_string/04_substring_with_position_and_length_of_string.md
