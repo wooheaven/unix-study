@@ -1,2 +1,5 @@
-01_Ubuntu/02_16/07_bash/08_variable/02_string/02_remove_backwards_short_matched_substring_of_string.md -> 01_Ubuntu/02_16/07_bash/08_variable/02_string/03_remove_backwards_short_matched_substring_of_string.md
-01_Ubuntu/02_16/07_bash/08_variable/02_string/03_substring_with_position_and_length_of_string.md -> 01_Ubuntu/02_16/07_bash/08_variable/02_string/04_substring_with_position_and_length_of_string.md
+01_Ubuntu/02_16/07_bash/04_loop/01_for_statement/01_for_loop_on_argument.md -> 01_Ubuntu/02_16/07_bash/04_loop/02_for_statement/01_for_loop_on_argument.md
+01_Ubuntu/02_16/07_bash/04_loop/01_for_statement/02_for_loop_on_list.md -> 01_Ubuntu/02_16/07_bash/04_loop/02_for_statement/02_for_loop_on_list.md
+01_Ubuntu/02_16/07_bash/04_loop/01_for_statement/03_for_loop_on_num++.md -> 01_Ubuntu/02_16/07_bash/04_loop/02_for_statement/03_for_loop_on_num++.md
+01_Ubuntu/02_16/07_bash/04_loop/01_for_statement/04_for_loop_on_read_file.md -> 01_Ubuntu/02_16/07_bash/04_loop/02_for_statement/04_for_loop_on_read_file.md
+01_Ubuntu/02_16/07_bash/04_loop/02_while_statement/01_While_Statement.md -> 01_Ubuntu/02_16/07_bash/04_loop/03_while_statement/01_While_Statement.md
