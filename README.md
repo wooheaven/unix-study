@@ -55,9 +55,11 @@
 ║░║░║░║░╠═2 [condition argument existence check](01_Ubuntu/02_16/07_bash/07_if_statement/02_if_condition_argument_existence_check.md)   
 ║░║░║░║░╠═3 [condition check file exist](01_Ubuntu/02_16/07_bash/07_if_statement/03_if_condition_check_file_exist.md)  
 ║░║░║░║░╚═4 [condition check file exist and not empty](01_Ubuntu/02_16/07_bash/07_if_statement/04_if_condition_check_file_exist_and_not_empty.md)  
-║░║░║░╠═8 string function : [remove backwards short matched string of original string](01_Ubuntu/02_16/07_bash/08_string_function/01_remove_backwards_short_matched_string_of_original_string.md)  
-║░║░║░╚═9 variable  
-║░║░║░░░╚═1 [assign file path to variable](01_Ubuntu/02_16/07_bash/09_variable/01_assign_file_path_to_variable.md)  
+║░║░║░╚═8 variable  
+║░║░║░░░╚═1 string  
+║░║░║░░░░░╠═1 [assign file path string to variable](01_Ubuntu/02_16/07_bash/08_variable/01_string/01_assign_file_path_string_to_variable.md)  
+║░║░║░░░░░╠═2 [remove backwards short matched substring of string](01_Ubuntu/02_16/07_bash/08_variable/01_string/02_remove_backwards_short_matched_substring_of_string.md)  
+║░║░║░░░░░╚═3 [substring with position and length of string](01_Ubuntu/02_16/07_bash/08_variable/01_string/03_substring_with_position_and_length_of_string.md)  
 ║░║░╠═8 brew  
 ║░║░║░╠═1 [brew : install git](01_Ubuntu/02_16/08_brew/01_brew_install_git.md)  
 ║░║░║░╠═2 [brew : install go](01_Ubuntu/02_16/08_brew/02_brew_install_go.md)  
