@@ -40,29 +40,32 @@
 ║░║░║░╠═6 [substr](01_Ubuntu/02_16/06_awk/06_awk_substr.md)  
 ║░║░║░╚═7 [max min](01_Ubuntu/02_16/06_awk/07_awk_max_min.md)  
 ║░║░╠═7 bash  
-║░║░║░╠═1 [Multiplication](01_Ubuntu/02_16/07_bash/01_Multiplication_on_Bash.md)  
-║░║░║░╠═2 [while statement](01_Ubuntu/02_16/07_bash/02_While_Statement.md)  
-║░║░║░╠═3 [bash prombt](01_Ubuntu/02_16/07_bash/03_bashrc_PS1_bash_prombt.md)  
-║░║░║░╠═4 [check current shell](01_Ubuntu/02_16/07_bash/04_check_current_shell.md)  
-║░║░║░╠═5 [redirect : print to null](01_Ubuntu/02_16/07_bash/05_print_to_null_by_redirect.md)  
-║░║░║░╠═6 for  
-║░║░║░║░╠═1 [iterate by argument](01_Ubuntu/02_16/07_bash/06_for_statement/01_for_loop_on_argument.md)  
-║░║░║░║░╠═2 [iterate by list](01_Ubuntu/02_16/07_bash/06_for_statement/02_for_loop_on_list.md)  
-║░║░║░║░╠═3 [iterate by num++](01_Ubuntu/02_16/07_bash/06_for_statement/03_for_loop_on_num++.md)  
-║░║░║░║░╚═4 [iterate by file](01_Ubuntu/02_16/07_bash/06_for_statement/04_for_loop_on_read_file.md)  
-║░║░║░╠═7 if statement : [Tutorial Link](https://ryanstutorials.net/bash-scripting-tutorial/bash-if-statements.php)  
-║░║░║░║░╠═1 [condition argument count check](01_Ubuntu/02_16/07_bash/07_if_statement/01_if_condition_argument_count_check.md)  
-║░║░║░║░╠═2 [condition argument existence check](01_Ubuntu/02_16/07_bash/07_if_statement/02_if_condition_argument_existence_check.md)   
-║░║░║░║░╠═3 [condition check file exist](01_Ubuntu/02_16/07_bash/07_if_statement/03_if_condition_check_file_exist.md)  
-║░║░║░║░╚═4 [condition check file exist and not empty](01_Ubuntu/02_16/07_bash/07_if_statement/04_if_condition_check_file_exist_and_not_empty.md)  
-║░║░║░╚═8 variable  
+║░║░║░╠═1 [bash prombt](01_Ubuntu/02_16/07_bash/01_bashrc_PS1_bash_prombt.md)  
+║░║░║░╠═2 [check current shell](01_Ubuntu/02_16/07_bash/02_check_current_shell.md)  
+║░║░║░╠═3 [redirect : print to null](01_Ubuntu/02_16/07_bash/03_print_to_null_by_redirect.md)  
+║░║░║░╠═4 Loop Statement  
+║░║░║░║░╠═1 break  
+║░║░║░║░║░╚═1 [break for loop statement](01_Ubuntu/02_16/07_bash/04_loop/01_break/01_break_of_loop_statement.md)  
+║░║░║░║░╠═2 for statement  
+║░║░║░║░║░╠═1 [iterate by argument](01_Ubuntu/02_16/07_bash/04_loop/02_for_statement/01_for_loop_on_argument.md)  
+║░║░║░║░║░╠═2 [iterate by list](01_Ubuntu/02_16/07_bash/04_loop/02_for_statement/02_for_loop_on_list.md)  
+║░║░║░║░║░╠═3 [iterate by num++](01_Ubuntu/02_16/07_bash/04_loop/02_for_statement/03_for_loop_on_num++.md)  
+║░║░║░║░║░╚═4 [iterate by file](01_Ubuntu/02_16/07_bash/04_loop/02_for_statement/04_for_loop_on_read_file.md)  
+║░║░║░║░╚═3 [while statement](01_Ubuntu/02_16/07_bash/04_loop/03_while_statement/01_While_Statement.md)  
+║░║░║░╠═5 if statement : [Tutorial Link](https://ryanstutorials.net/bash-scripting-tutorial/bash-if-statements.php)  
+║░║░║░║░╠═1 [condition argument count check](01_Ubuntu/02_16/07_bash/05_if_statement/01_if_condition_argument_count_check.md)  
+║░║░║░║░╠═2 [condition argument existence check](01_Ubuntu/02_16/07_bash/05_if_statement/02_if_condition_argument_existence_check.md)   
+║░║░║░║░╠═3 [condition check file exist](01_Ubuntu/02_16/07_bash/05_if_statement/03_if_condition_check_file_exist.md)  
+║░║░║░║░╚═4 [condition check file exist and not empty](01_Ubuntu/02_16/07_bash/05_if_statement/04_if_condition_check_file_exist_and_not_empty.md)  
+║░║░║░╚═6 variable  
 ║░║░║░░░╠═1 number  
-║░║░║░░░║░╚═1 [convert string to number of variable](01_Ubuntu/02_16/07_bash/08_variable/01_number/01_convert_string_to_number_of_variable.md)  
+║░║░║░░░║░╠═1 [convert string to number of variable](01_Ubuntu/02_16/07_bash/06_variable/01_number/01_convert_string_to_number_of_variable.md)  
+║░║░║░░░║░╚═2 [Multiplication](01_Ubuntu/02_16/07_bash/06_variable/01_number/02_Multiplication_on_Bash.md)  
 ║░║░║░░░╚═2 string  
-║░║░║░░░░░╠═1 [assign file path string to variable](01_Ubuntu/02_16/07_bash/08_variable/02_string/01_assign_file_path_string_to_variable.md)  
-║░║░║░░░░░╠═2 [convert number to string of variable](01_Ubuntu/02_16/07_bash/08_variable/02_string/02_convert_number_to_string_of_variable.md)  
-║░║░║░░░░░╠═3 [remove backwards short matched substring of string](01_Ubuntu/02_16/07_bash/08_variable/02_string/03_remove_backwards_short_matched_substring_of_string.md)  
-║░║░║░░░░░╚═4 [substring with position and length of string](01_Ubuntu/02_16/07_bash/08_variable/02_string/04_substring_with_position_and_length_of_string.md)  
+║░║░║░░░░░╠═1 [assign file path string to variable](01_Ubuntu/02_16/07_bash/06_variable/02_string/01_assign_file_path_string_to_variable.md)  
+║░║░║░░░░░╠═2 [convert number to string of variable](01_Ubuntu/02_16/07_bash/06_variable/02_string/02_convert_number_to_string_of_variable.md)  
+║░║░║░░░░░╠═3 [remove backwards short matched substring of string](01_Ubuntu/02_16/07_bash/06_variable/02_string/03_remove_backwards_short_matched_substring_of_string.md)  
+║░║░║░░░░░╚═4 [substring with position and length of string](01_Ubuntu/02_16/07_bash/06_variable/02_string/04_substring_with_position_and_length_of_string.md)  
 ║░║░╠═8 brew  
 ║░║░║░╠═1 [brew : install git](01_Ubuntu/02_16/08_brew/01_brew_install_git.md)  
 ║░║░║░╠═2 [brew : install go](01_Ubuntu/02_16/08_brew/02_brew_install_go.md)  
