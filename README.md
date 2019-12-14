@@ -67,17 +67,21 @@
 ║░║░║░░░░░╠═3 [remove backwards short matched substring of string](01_Ubuntu/02_16/07_bash/06_variable/02_string/03_remove_backwards_short_matched_substring_of_string.md)  
 ║░║░║░░░░░╚═4 [substring with position and length of string](01_Ubuntu/02_16/07_bash/06_variable/02_string/04_substring_with_position_and_length_of_string.md)  
 ║░║░╠═8 brew  
-║░║░║░╠═1 [brew : install git](01_Ubuntu/02_16/08_brew/01_brew_install_git.md)  
-║░║░║░╠═2 [brew : install go](01_Ubuntu/02_16/08_brew/02_brew_install_go.md)  
-║░║░║░╠═3 [brew : install maven](01_Ubuntu/02_16/08_brew/03_brew_install_maven.md)  
-║░║░║░╠═4 [brew : install node@10](01_Ubuntu/02_16/08_brew/04_brew_install_node@10.md)  
-║░║░║░╠═5 [brew : install python](01_Ubuntu/02_16/08_brew/05_brew_install_python.md)  
-║░║░║░╠═6 [brew : install ruby](01_Ubuntu/02_16/08_brew/06_brew_install_ruby.md)  
-║░║░║░╠═7 [brew : install scala2.11](01_Ubuntu/02_16/08_brew/07_brew_install_scala.md)  
-║░║░║░╠═8 [brew : install vim](01_Ubuntu/02_16/08_brew/08_brew_install_vim.md)  
-║░║░║░╠═9 [brew upgrade : from outdated packages](01_Ubuntu/02_16/08_brew/09_brew_outdated_formula_to_upgrade.md)  
-║░║░║░╠═10 [brew upgrade : from outdated packages script](01_Ubuntu/02_16/08_brew/10_brew_upgrade.sh)   
-║░║░║░╚═11 [install brew and configure](01_Ubuntu/02_16/08_brew/11_install_brew_and_configure.md)  
+║░║░║░╠═1 [install brew](01_Ubuntu/02_16/08_brew/01_install_brew/01_install_brew_and_configure.md)  
+║░║░║░╠═2 brew install package  
+║░║░║░║░╠═1 [brew install git](01_Ubuntu/02_16/08_brew/02_install_package/01_brew_install_git.md)  
+║░║░║░║░╠═2 [brew install go](01_Ubuntu/02_16/08_brew/02_install_package/02_brew_install_go.md)  
+║░║░║░║░╠═3 [brew install maven](01_Ubuntu/02_16/08_brew/02_install_package/03_brew_install_maven.md)  
+║░║░║░║░╠═4 [brew install node@10](01_Ubuntu/02_16/08_brew/02_install_package/04_brew_install_node@10.md)  
+║░║░║░║░╠═5 [brew install python](01_Ubuntu/02_16/08_brew/02_install_package/05_brew_install_python.md)  
+║░║░║░║░╠═6 [brew install ruby](01_Ubuntu/02_16/08_brew/02_install_package/06_brew_install_ruby.md)  
+║░║░║░║░╠═7 [brew install scala2.11](01_Ubuntu/02_16/08_brew/02_install_package/07_brew_install_scala.md)  
+║░║░║░║░╚═8 [brew install vim](01_Ubuntu/02_16/08_brew/02_install_package/08_brew_install_vim.md)  
+║░║░║░╠═3 brew uninstall package  
+║░║░║░║░╚═1 [brew uninstall scala2.11](01_Ubuntu/02_16/08_brew/03_uninstall_package/01_brew_uninstall_scala@2.11.md)   
+║░║░║░╚═4 brew upgrade package  
+║░║░║░░░╠═1 [brew upgrade package](01_Ubuntu/02_16/08_brew/04_upgrade_package/09_brew_outdated_formula_to_upgrade.md)  
+║░║░║░░░╚═2 [brew upgrade packages script](01_Ubuntu/02_16/08_brew/04_upgrade_package/10_brew_upgrade.sh)   
 ║░║░╠═9 chrome  
 ║░║░║░╠═1 [install and configure](01_Ubuntu/02_16/09_chrome/01_chrome/01_install_chrome.md)  
 ║░║░║░╚═2 [chrome remote desktop : install and configure](01_Ubuntu/02_16/09_chrome/02_chrome_remote_desktop/01_install_chrome_remote_desktop.md)  
