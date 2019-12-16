@@ -69,14 +69,7 @@
 ║░║░╠═8 brew  
 ║░║░║░╠═1 [install brew](01_Ubuntu/02_16/08_brew/01_install_brew/01_install_brew_and_configure.md)  
 ║░║░║░╠═2 brew install package  
-║░║░║░║░╠═1 [brew install git](01_Ubuntu/02_16/08_brew/02_install_package/01_brew_install_git.md)  
-║░║░║░║░╠═2 [brew install go](01_Ubuntu/02_16/08_brew/02_install_package/02_brew_install_go.md)  
-║░║░║░║░╠═3 [brew install maven](01_Ubuntu/02_16/08_brew/02_install_package/03_brew_install_maven.md)  
-║░║░║░║░╠═4 [brew install node@10](01_Ubuntu/02_16/08_brew/02_install_package/04_brew_install_node@10.md)  
-║░║░║░║░╠═5 [brew install python](01_Ubuntu/02_16/08_brew/02_install_package/05_brew_install_python.md)  
-║░║░║░║░╠═6 [brew install ruby](01_Ubuntu/02_16/08_brew/02_install_package/06_brew_install_ruby.md)  
-║░║░║░║░╠═7 [brew install scala2.11](01_Ubuntu/02_16/08_brew/02_install_package/07_brew_install_scala.md)  
-║░║░║░║░╚═8 [brew install vim](01_Ubuntu/02_16/08_brew/02_install_package/08_brew_install_vim.md)  
+║░║░║░║░╠═1 brew install [git](01_Ubuntu/02_16/08_brew/02_install_package/01_brew_install_git.md) [go](01_Ubuntu/02_16/08_brew/02_install_package/02_brew_install_go.md) [maven](01_Ubuntu/02_16/08_brew/02_install_package/03_brew_install_maven.md) [node@10](01_Ubuntu/02_16/08_brew/02_install_package/04_brew_install_node@10.md) [python](01_Ubuntu/02_16/08_brew/02_install_package/05_brew_install_python.md) [ruby](01_Ubuntu/02_16/08_brew/02_install_package/06_brew_install_ruby.md) [sbt](01_Ubuntu/02_16/08_brew/02_install_package/07_brew_install_sbt.md) [scala2.11](01_Ubuntu/02_16/08_brew/02_install_package/07_brew_install_scala.md) [vim](01_Ubuntu/02_16/08_brew/02_install_package/08_brew_install_vim.md)  
 ║░║░║░╠═3 brew uninstall package  
 ║░║░║░║░╚═1 [brew uninstall scala2.11](01_Ubuntu/02_16/08_brew/03_uninstall_package/01_brew_uninstall_scala@2.11.md)   
 ║░║░║░╚═4 brew upgrade package  
