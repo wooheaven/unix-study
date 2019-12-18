@@ -95,7 +95,16 @@
 ║░║░╠═19 [du : fileSize of folder](01_Ubuntu/02_16/19_du/01_du_file_size_of_folder.md)  
 ║░║░╠═20 echo  
 ║░║░║░╚═1 [-e : use escape on echo](01_Ubuntu/02_16/20_echo/01_use_escape_on_echo.md)  
-║░║░╠═21 [egrep : search A or B of file.txt](01_Ubuntu/02_16/21_egrep/01_egrep_A_or_B_example.md)  
+║░║░╠═21 egrep  
+║░║░║░╠═1 meta char for regular expression  
+║░║░║░║░╠═1 [any char : .](01_Ubuntu/02_16/21_egrep/01_meta_char_for_regular_expression/01_egrep_any_char.md)  
+║░║░║░║░╠═2 [OR operation : |](01_Ubuntu/02_16/21_egrep/01_meta_char_for_regular_expression/02_egrep_A_or_B_example.md)  
+║░║░║░║░╠═3 [disable meta char : \](01_Ubuntu/02_16/21_egrep/01_meta_char_for_regular_expression/03_egrep_disable_meta_char.md)  
+║░║░║░║░╠═4 [end char : $](01_Ubuntu/02_16/21_egrep/01_meta_char_for_regular_expression/04_egrep_end_char.md)  
+║░║░║░║░╚═5 [start char : ^](01_Ubuntu/02_16/21_egrep/01_meta_char_for_regular_expression/05_egrep_start_char.md)  
+║░║░║░╚═2 option  
+║░║░║░░░╠═1 [-n : print line number with output lines](01_Ubuntu/02_16/21_egrep/02_option/01_egrep_line_number.md)  
+║░║░║░░░╚═2 [-H : print the file name for each match](01_Ubuntu/02_16/21_egrep/02_option/02_egrep_with_fileName.md)  
 ║░║░╠═22 [fallocate : create swap file](01_Ubuntu/02_16/22_fallocate/01_swap_file_by_fallocate.md)  
 ║░║░╠═23 [fcitx : virtual keyboard](01_Ubuntu/02_16/23_fcitx/01_disable_fcitx.md)  
 ║░║░╠═24 fdisk   
