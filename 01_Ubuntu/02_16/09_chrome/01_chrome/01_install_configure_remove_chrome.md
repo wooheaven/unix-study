@@ -15,3 +15,9 @@ $ vi ~/.local/share/applications/google-chrome.desktop
 Exec=/usr/bin/google-chrome-stable --password-store=basic %U
 ...
 ```
+
+# remove
+```
+$ sudo apt-get purge google-chrome-stable
+$ sudo apt-get autoremove
+```

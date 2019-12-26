@@ -76,7 +76,7 @@
 ║░║░║░░░╠═1 [brew upgrade package](01_Ubuntu/02_16/08_brew/04_upgrade_package/09_brew_outdated_formula_to_upgrade.md)  
 ║░║░║░░░╚═2 [brew upgrade packages script](01_Ubuntu/02_16/08_brew/04_upgrade_package/10_brew_upgrade.sh)   
 ║░║░╠═9 chrome  
-║░║░║░╠═1 [install and configure](01_Ubuntu/02_16/09_chrome/01_chrome/01_install_chrome.md)  
+║░║░║░╠═1 [install, configure, remove](01_Ubuntu/02_16/09_chrome/01_chrome/01_install_configure_remove_chrome.md)  
 ║░║░║░╚═2 [chrome remote desktop : install and configure](01_Ubuntu/02_16/09_chrome/02_chrome_remote_desktop/01_install_chrome_remote_desktop.md)  
 ║░║░╠═10 [clang-format : apply for c,cpp file on vim](01_Ubuntu/02_16/10_clang-format/01_configure_clang-format_on_vim.md)  
 ║░║░╠═11 [compiz : Put To Next](01_Ubuntu/02_16/11_compiz/01_compiz.md)  
