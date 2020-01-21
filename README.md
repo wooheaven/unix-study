@@ -4,7 +4,9 @@
 ║░║░╚═2 [vnc4server : install configure](01_Ubuntu/01_14.04/02_vnc4server/01_install_config_vnc4server.md)  
 ║░╠═2 ubuntu16  
 ║░║░╠═1 [adduser : hadoop user](01_Ubuntu/02_16/01_adduser/01_adduser.md)  
-║░║░╠═2 [apt list --installed : check installed packages](01_Ubuntu/02_16/02_apt/01_apt_list.md)  
+║░║░╠═2 apt  
+║░║░║░╠═1 [apt add remove repository](01_Ubuntu/02_16/02_apt/01_apt_add_remove_repository.md)  
+║░║░║░╚═2 [apt list --installed : check installed packages](01_Ubuntu/02_16/02_apt/02_apt_list.md)  
 ║░║░╠═3 apt-get  
 ║░║░║░╠═1 install  
 ║░║░║░║░╠═1 [Hash Sum Error](01_Ubuntu/02_16/03_apt-get/01_install/01_apt-get_install_Hash_Some_Error.md)  

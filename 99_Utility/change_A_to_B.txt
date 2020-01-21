@@ -1,1 +1,1 @@
-01_Ubuntu/02_16/09_chrome/01_chrome/01_install_chrome.md -> 01_Ubuntu/02_16/09_chrome/01_chrome/01_install_configure_remove_chrome.md
+01_Ubuntu/02_16/02_apt/01_apt_list.md -> 01_Ubuntu/02_16/02_apt/02_apt_list.md
