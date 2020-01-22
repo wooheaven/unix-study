@@ -75,8 +75,10 @@
 ║░║░║░╠═3 brew uninstall package  
 ║░║░║░║░╚═1 [brew uninstall scala2.11](01_Ubuntu/02_16/08_brew/03_uninstall_package/01_brew_uninstall_scala@2.11.md)   
 ║░║░║░╚═4 brew upgrade package  
-║░║░║░░░╠═1 [brew upgrade package](01_Ubuntu/02_16/08_brew/04_upgrade_package/09_brew_outdated_formula_to_upgrade.md)  
-║░║░║░░░╚═2 [brew upgrade packages script](01_Ubuntu/02_16/08_brew/04_upgrade_package/10_brew_upgrade.sh)   
+║░║░║░░░╠═1 [brew upgrade packages : shell script](01_Ubuntu/02_16/08_brew/04_upgrade_package/01_brew_upgrade.sh)   
+║░║░║░░░╠═2 [brew upgrade package : log](01_Ubuntu/02_16/08_brew/04_upgrade_package/02_brew_outdated_formula_to_upgrade.md)  
+║░║░║░░░╠═3 [brew upgrade maven : configure after upgrade](01_Ubuntu/02_16/08_brew/04_upgrade_package/03_brew_upgrade_maven.md)  
+║░║░║░░░╚═4 [brew upgrade python : configure after upgrade](01_Ubuntu/02_16/08_brew/04_upgrade_package/04_brew_upgrade_python.md)  
 ║░║░╠═9 chrome  
 ║░║░║░╠═1 [install, configure, remove](01_Ubuntu/02_16/09_chrome/01_chrome/01_install_configure_remove_chrome.md)  
 ║░║░║░╚═2 [chrome remote desktop : install and configure](01_Ubuntu/02_16/09_chrome/02_chrome_remote_desktop/01_install_chrome_remote_desktop.md)  
