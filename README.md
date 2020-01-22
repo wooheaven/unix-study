@@ -106,7 +106,8 @@
 ║░║░║░║░╚═5 [start char : ^](01_Ubuntu/02_16/21_egrep/01_meta_char_for_regular_expression/05_egrep_start_char.md)  
 ║░║░║░╚═2 option  
 ║░║░║░░░╠═1 [-n : print line number with output lines](01_Ubuntu/02_16/21_egrep/02_option/01_egrep_line_number.md)  
-║░║░║░░░╚═2 [-H : print the file name for each match](01_Ubuntu/02_16/21_egrep/02_option/02_egrep_with_fileName.md)  
+║░║░║░░░╠═2 [-r : recursive folder](01_Ubuntu/02_16/21_egrep/02_option/02_egrep_recursive_folder.md)  
+║░║░║░░░╚═3 [-H : print the file name for each match](01_Ubuntu/02_16/21_egrep/02_option/03_egrep_with_fileName.md)  
 ║░║░╠═22 [fallocate : create swap file](01_Ubuntu/02_16/22_fallocate/01_swap_file_by_fallocate.md)  
 ║░║░╠═23 [fcitx : virtual keyboard](01_Ubuntu/02_16/23_fcitx/01_disable_fcitx.md)  
 ║░║░╠═24 fdisk   
