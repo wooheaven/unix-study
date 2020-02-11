@@ -299,7 +299,8 @@
 ║░╚═3 ubuntu18.04  
 ║░░░╠═1 [server : install Ubuntu 18 server ref](01_Ubuntu/03_18.04/01_server/01_install_ubuntu18_server.md)  
 ║░░░╠═2 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/03_18.04/02_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
-║░░░╚═3 [vnc : activate](01_Ubuntu/03_18.04/03_vnc/01_vnc_activate.md)  
+║░░░╠═3 [update : automatic security update](01_Ubuntu/03_18.04/03_updates/01_AutomaticSecurityUpdates.md)  
+║░░░╚═4 [vnc : activate](01_Ubuntu/03_18.04/04_vnc/01_vnc_activate.md)  
 ╠═2 CentOS  
 ║░╚═1 CentOS 6.9  
 ║░░░╠═1 [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)  
