@@ -5,8 +5,7 @@
 ║░╠═2 ubuntu16  
 ║░║░╠═1 [adduser : hadoop user](01_Ubuntu/02_16/01_adduser/01_adduser.md)  
 ║░║░╠═2 apt  
-║░║░║░╠═1 [apt add remove repository](01_Ubuntu/02_16/02_apt/01_apt_add_remove_repository.md)  
-║░║░║░╚═2 [apt list --installed : check installed packages](01_Ubuntu/02_16/02_apt/02_apt_list.md)  
+║░║░║░╚═1 [apt list --installed : check installed packages](01_Ubuntu/02_16/02_apt/01_apt_list.md)  
 ║░║░╠═3 apt-get  
 ║░║░║░╠═1 install  
 ║░║░║░║░╠═1 [Hash Sum Error](01_Ubuntu/02_16/03_apt-get/01_install/01_apt-get_install_Hash_Some_Error.md)  
@@ -297,10 +296,12 @@
 ║░║░║░╚═85.2 [xz : decompress file](01_Ubuntu/02_16/92_xz/02_xz_decompress.md)  
 ║░║░╚═93 [zip : compress and uncompress directory](01_Ubuntu/02_16/93_zip/01_zip_directory.md)  
 ║░╚═3 ubuntu18.04  
-║░░░╠═1 [server : install Ubuntu 18 server ref](01_Ubuntu/03_18.04/01_server/01_install_ubuntu18_server.md)  
-║░░░╠═2 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/03_18.04/02_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
-║░░░╠═3 [update : automatic security update](01_Ubuntu/03_18.04/03_updates/01_AutomaticSecurityUpdates.md)  
-║░░░╚═4 [vnc : activate](01_Ubuntu/03_18.04/04_vnc/01_vnc_activate.md)  
+║░░░╠═1 apt  
+║░░░║░╚═1 [apt repository : add remove change](01_Ubuntu/03_18.04/01_apt/01_apt_add_remove_change_repository.md)  
+║░░░╠═2 [server : install Ubuntu 18 server ref](01_Ubuntu/03_18.04/02_server/01_install_ubuntu18_server.md)  
+║░░░╠═3 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/03_18.04/03_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
+║░░░╠═4 [update : automatic security update](01_Ubuntu/03_18.04/04_updates/01_AutomaticSecurityUpdates.md)  
+║░░░╚═5 [vnc : activate](01_Ubuntu/03_18.04/05_vnc/01_vnc_activate.md)  
 ╠═2 CentOS  
 ║░╚═1 CentOS 6.9  
 ║░░░╠═1 [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)  
