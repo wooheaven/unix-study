@@ -240,7 +240,7 @@
 ║░║░║░╚═2 [--ignore-case : Upper/Lower case](01_Ubuntu/02_16/69_sort/02_sort_ignore-case.md)  
 ║░║░╠═70 ssh  
 ║░║░║░╠═1 [install](01_Ubuntu/02_16/70_ssh/01_install_ssh.md)  
-║░║░║░╠═2 [ssh-key : ssh login without passowrd](01_Ubuntu/02_16/70_ssh/02_add_publicKey_to_server.md)  
+║░║░║░╠═2 [ssh-key : ssh login without passowrd](01_Ubuntu/02_16/70_ssh/02_ssh-keygen_and_add_publicKey_to_server.md)  
 ║░║░║░╠═3 [enable root login](01_Ubuntu/02_16/70_ssh/03_enable_ssh_root_login.md)  
 ║░║░║░╠═4 [pssh install : parallel-ssh](01_Ubuntu/02_16/70_ssh/04_install_pssh.md)  
 ║░║░║░╚═5 [file rsymc by pssh : rsync and md5sum a file on cluster by pssh](01_Ubuntu/02_16/70_ssh/05_rsync_file_by_pssh.md)  
@@ -299,9 +299,10 @@
 ║░░░╠═1 apt  
 ║░░░║░╚═1 [apt repository : add remove change](01_Ubuntu/03_18.04/01_apt/01_apt_add_remove_change_repository.md)  
 ║░░░╠═2 [server : install Ubuntu 18 server ref](01_Ubuntu/03_18.04/02_server/01_install_ubuntu18_server.md)  
-║░░░╠═3 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/03_18.04/03_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
-║░░░╠═4 [update : automatic security update](01_Ubuntu/03_18.04/04_updates/01_AutomaticSecurityUpdates.md)  
-║░░░╚═5 [vnc : activate](01_Ubuntu/03_18.04/05_vnc/01_vnc_activate.md)  
+║░░░╠═3 [ssh : ssh-keygen](01_Ubuntu/03_18.04/03_ssh/01_ssh-keygen.md)  
+║░░░╠═4 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/03_18.04/04_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
+║░░░╠═5 [update : automatic security update](01_Ubuntu/03_18.04/05_updates/01_AutomaticSecurityUpdates.md)  
+║░░░╚═6 [vnc : activate](01_Ubuntu/03_18.04/06_vnc/01_vnc_activate.md)  
 ╠═2 CentOS  
 ║░╚═1 CentOS 6.9  
 ║░░░╠═1 [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)  

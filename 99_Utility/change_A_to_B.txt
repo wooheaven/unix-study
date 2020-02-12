@@ -1,4 +1,4 @@
-01_Ubuntu/03_18.04/01_server/01_install_ubuntu18_server.md -> 01_Ubuntu/03_18.04/02_server/01_install_ubuntu18_server.md
-01_Ubuntu/03_18.04/02_Startup_Disk_Creator/01_create_bootable_usb_disk.md -> 01_Ubuntu/03_18.04/03_Startup_Disk_Creator/01_create_bootable_usb_disk.md
-01_Ubuntu/03_18.04/03_updates/01_AutomaticSecurityUpdates.md -> 01_Ubuntu/03_18.04/04_updates/01_AutomaticSecurityUpdates.md
-01_Ubuntu/03_18.04/04_vnc/01_vnc_activate.md -> 01_Ubuntu/03_18.04/05_vnc/01_vnc_activate.md
+01_Ubuntu/02_16/70_ssh/02_add_publicKey_to_server.md -> 01_Ubuntu/02_16/70_ssh/02_ssh-keygen_and_add_publicKey_to_server.md
+01_Ubuntu/03_18.04/03_Startup_Disk_Creator/01_create_bootable_usb_disk.md -> 01_Ubuntu/03_18.04/04_Startup_Disk_Creator/01_create_bootable_usb_disk.md
+01_Ubuntu/03_18.04/04_updates/01_AutomaticSecurityUpdates.md -> 01_Ubuntu/03_18.04/05_updates/01_AutomaticSecurityUpdates.md
+01_Ubuntu/03_18.04/05_vnc/01_vnc_activate.md -> 01_Ubuntu/03_18.04/06_vnc/01_vnc_activate.md

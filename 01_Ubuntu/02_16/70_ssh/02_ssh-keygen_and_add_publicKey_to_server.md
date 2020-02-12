@@ -7,6 +7,8 @@ cat ~/.ssh/*.pub
 # Create Private/Public Key on Client
 ```{bash}
 ssh-keygen -t rsa
+or
+ssh-keygen -t rsa -C "wooheaven79@gmail.com"
 ```
 
 # Create ~/.ssh folder on Server
