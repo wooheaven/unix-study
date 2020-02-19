@@ -5,9 +5,25 @@ $ brew cleanup
 
 $ ll /home/linuxbrew/.linuxbrew/Cellar/git
 total 12
-drwxrwxr-x  3 ubuntu ubuntu 4096  1월 25 21:40 ./
-drwxrwxr-x 18 ubuntu ubuntu 4096  1월 25 21:42 ../
-drwxr-xr-x  7 ubuntu ubuntu 4096  1월 25 21:41 2.20.1/
+drwxr-xr-x  3 bigdata bigdata 4096  2월 19 10:26 ./
+drwxrwxr-x 27 bigdata bigdata 4096  2월 19 10:26 ../
+drwxr-xr-x  8 bigdata bigdata 4096  2월 19 10:26 2.25.0_1/
+
+$ which git # Ubuntu18 installed git by apt-get
+/usr/bin/git
+
+$ git --version
+git version 2.17.1
+
+$ sudo apt-get purge git
+$ sudo apt autoremove
+
+$ which git
+/home/linuxbrew/.linuxbrew/bin/git
+
+$ source ~/.bashrc
+$ git --version
+git version 2.25.0
 ```
 
 # configure
@@ -24,8 +40,8 @@ export INFOPATH="$INFOPATH:$LINUXBREW_HOME/share/info"
 git_link=`which git`
 git_path=`realpath $git_link`
 git_auto=`echo ${git_path%/bin/git}"/etc/bash_completion.d/git-completion.bash"`
+echo "on ~/.bashrc : "$git_auto
 source $git_auto
-# /home/linuxbrew/.linuxbrew/Cellar/git/2.21.0/etc/bash_completion.d/git-completion.bash
 unset git_path
 unset git_link
 unset git_auto
@@ -37,5 +53,5 @@ $ which git
 /home/linuxbrew/.linuxbrew/bin/git
 
 $ git --version
-git version 2.21.0
+git version 2.25.0
 ```
