@@ -304,7 +304,9 @@
 ║░░░║░╠═1 [install brew : on Ubuntu18](01_Ubuntu/03_18.04/03_brew/01_install_brew/01_install_brew_and_configure.md)  
 ║░░░║░╚═2 brew install package  
 ║░░░║░░░╚═1 brew install [git](01_Ubuntu/03_18.04/03_brew/02_install_package/01_brew_install_git.md)  
-║░░░╠═4 [server : install Ubuntu 18 server ref](01_Ubuntu/03_18.04/04_server/01_install_ubuntu18_server.md)  
+║░░░╠═4 desktop  
+║░░░║░╠═1 [install Ubuntu18 desktop ref](01_Ubuntu/03_18.04/04_desktop/01_install_ubuntu18_desktop.md)  
+║░░░║░╚═2 [partition ref](01_Ubuntu/03_18.04/04_desktop/02_install_ubuntu18_partition.md)  
 ║░░░╠═5 [ssh : ssh-keygen](01_Ubuntu/03_18.04/05_ssh/01_ssh-keygen.md)  
 ║░░░╠═6 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/03_18.04/06_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
 ║░░░╠═7 [update : automatic security update](01_Ubuntu/03_18.04/07_updates/01_AutomaticSecurityUpdates.md)  
