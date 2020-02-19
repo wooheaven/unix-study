@@ -3,12 +3,12 @@
 $ sudo apt-get install build-essential curl file git
 ```
 
-# install brew and configure
+# install brew 
 ```{bash}
 $ sh -c "$(curl -fsSL https://raw.githubusercontent.com/Linuxbrew/install/master/install.sh)"
 $ vi ~/.bashrc
 ...
-# LINUX BREW Env
+# LINUX brew
 export LINUXBREW_HOME="/home/linuxbrew/.linuxbrew"
 export PATH="$PATH:$LINUXBREW_HOME/bin"
 export MANPATH="$MANPATH:$LINUXBREW_HOME/share/man"

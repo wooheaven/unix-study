@@ -301,11 +301,12 @@
 ║░░░╠═2 apt-get  
 ║░░░║░╚═1 install  
 ║░░░║░░░╚═1 [libreoffice](01_Ubuntu/03_18.04/02_apt-get/01_install/01_apt-get_install_libreoffice.md)  
-║░░░╠═3 [server : install Ubuntu 18 server ref](01_Ubuntu/03_18.04/03_server/01_install_ubuntu18_server.md)  
-║░░░╠═4 [ssh : ssh-keygen](01_Ubuntu/03_18.04/04_ssh/01_ssh-keygen.md)  
-║░░░╠═5 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/03_18.04/05_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
-║░░░╠═6 [update : automatic security update](01_Ubuntu/03_18.04/06_updates/01_AutomaticSecurityUpdates.md)  
-║░░░╚═7 [vnc : activate](01_Ubuntu/03_18.04/07_vnc/01_vnc_activate.md)  
+║░░░╠═3 [brew : install on Ubuntu18](01_Ubuntu/03_18.04/03_brew/01_install_brew_and_configure.md)  
+║░░░╠═4 [server : install Ubuntu 18 server ref](01_Ubuntu/03_18.04/04_server/01_install_ubuntu18_server.md)  
+║░░░╠═5 [ssh : ssh-keygen](01_Ubuntu/03_18.04/05_ssh/01_ssh-keygen.md)  
+║░░░╠═6 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/03_18.04/06_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
+║░░░╠═7 [update : automatic security update](01_Ubuntu/03_18.04/07_updates/01_AutomaticSecurityUpdates.md)  
+║░░░╚═8 [vnc : activate](01_Ubuntu/03_18.04/08_vnc/01_vnc_activate.md)  
 ╠═2 CentOS  
 ║░╚═1 CentOS 6.9  
 ║░░░╠═1 [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)  
