@@ -1,5 +1,9 @@
-01_Ubuntu/03_18.04/03_server/01_install_ubuntu18_server.md -> 01_Ubuntu/03_18.04/04_server/01_install_ubuntu18_server.md
-01_Ubuntu/03_18.04/04_ssh/01_ssh-keygen.md -> 01_Ubuntu/03_18.04/05_ssh/01_ssh-keygen.md
-01_Ubuntu/03_18.04/05_Startup_Disk_Creator/01_create_bootable_usb_disk.md -> 01_Ubuntu/03_18.04/06_Startup_Disk_Creator/01_create_bootable_usb_disk.md
-01_Ubuntu/03_18.04/06_updates/01_AutomaticSecurityUpdates.md -> 01_Ubuntu/03_18.04/07_updates/01_AutomaticSecurityUpdates.md
-01_Ubuntu/03_18.04/07_vnc/01_vnc_activate.md -> 01_Ubuntu/03_18.04/08_vnc/01_vnc_activate.md
+01_Ubuntu/02_16/08_brew/01_install_package/02_brew_install_go.md -> 01_Ubuntu/02_16/08_brew/01_install_package/01_brew_install_go.md
+01_Ubuntu/02_16/08_brew/01_install_package/03_brew_install_maven.md -> 01_Ubuntu/02_16/08_brew/01_install_package/02_brew_install_maven.md
+01_Ubuntu/02_16/08_brew/01_install_package/04_brew_install_node@10.md -> 01_Ubuntu/02_16/08_brew/01_install_package/03_brew_install_node@10.md
+01_Ubuntu/02_16/08_brew/01_install_package/05_brew_install_python.md -> 01_Ubuntu/02_16/08_brew/01_install_package/04_brew_install_python.md
+01_Ubuntu/02_16/08_brew/01_install_package/06_brew_install_ruby.md -> 01_Ubuntu/02_16/08_brew/01_install_package/05_brew_install_ruby.md
+01_Ubuntu/02_16/08_brew/01_install_package/07_brew_install_sbt.md -> 01_Ubuntu/02_16/08_brew/01_install_package/06_brew_install_sbt.md
+01_Ubuntu/02_16/08_brew/01_install_package/08_brew_install_scala.md -> 01_Ubuntu/02_16/08_brew/01_install_package/07_brew_install_scala.md
+01_Ubuntu/02_16/08_brew/01_install_package/09_brew_install_tomcat.md -> 01_Ubuntu/02_16/08_brew/01_install_package/08_brew_install_tomcat.md
+01_Ubuntu/02_16/08_brew/01_install_package/10_brew_install_vim.md -> 01_Ubuntu/02_16/08_brew/01_install_package/09_brew_install_vim.md

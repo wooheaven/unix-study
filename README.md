@@ -68,15 +68,14 @@
 ║░║░║░░░░░╠═3 [remove backwards short matched substring of string](01_Ubuntu/02_16/07_bash/06_variable/02_string/03_remove_backwards_short_matched_substring_of_string.md)  
 ║░║░║░░░░░╚═4 [substring with position and length of string](01_Ubuntu/02_16/07_bash/06_variable/02_string/04_substring_with_position_and_length_of_string.md)  
 ║░║░╠═8 brew  
-║░║░║░╠═1 [install brew](01_Ubuntu/02_16/08_brew/01_install_brew/01_install_brew_and_configure.md)  
-║░║░║░╠═2 brew install package  
-║░║░║░║░╚═1 brew install [git](01_Ubuntu/02_16/08_brew/02_install_package/01_brew_install_git.md) [go](01_Ubuntu/02_16/08_brew/02_install_package/02_brew_install_go.md) [maven](01_Ubuntu/02_16/08_brew/02_install_package/03_brew_install_maven.md) [node@10](01_Ubuntu/02_16/08_brew/02_install_package/04_brew_install_node@10.md) [python](01_Ubuntu/02_16/08_brew/02_install_package/05_brew_install_python.md) [ruby](01_Ubuntu/02_16/08_brew/02_install_package/06_brew_install_ruby.md) [sbt](01_Ubuntu/02_16/08_brew/02_install_package/07_brew_install_sbt.md) [scala2.11](01_Ubuntu/02_16/08_brew/02_install_package/08_brew_install_scala.md) [tomcat](01_Ubuntu/02_16/08_brew/02_install_package/09_brew_install_tomcat.md) [vim](01_Ubuntu/02_16/08_brew/02_install_package/10_brew_install_vim.md)  
-║░║░║░╠═3 brew uninstall package  
-║░║░║░║░╚═1 [brew uninstall scala2.11](01_Ubuntu/02_16/08_brew/03_uninstall_package/01_brew_uninstall_scala@2.11.md)   
-║░║░║░╚═4 brew upgrade package  
-║░║░║░░░╠═1 [brew upgrade packages : python file](01_Ubuntu/02_16/08_brew/04_upgrade_package/01_brew_upgrade.py)   
-║░║░║░░░╠═2 [brew upgrade maven : configure after upgrade](01_Ubuntu/02_16/08_brew/04_upgrade_package/02_brew_upgrade_maven.md)  
-║░║░║░░░╚═3 [brew upgrade python : configure after upgrade](01_Ubuntu/02_16/08_brew/04_upgrade_package/03_brew_upgrade_python.md)  
+║░║░║░╠═1 brew install package  
+║░║░║░║░╚═1 brew install [go](01_Ubuntu/02_16/08_brew/01_install_package/01_brew_install_go.md) [maven](01_Ubuntu/02_16/08_brew/01_install_package/02_brew_install_maven.md) [node@10](01_Ubuntu/02_16/08_brew/01_install_package/03_brew_install_node@10.md) [python](01_Ubuntu/02_16/08_brew/01_install_package/04_brew_install_python.md) [ruby](01_Ubuntu/02_16/08_brew/01_install_package/05_brew_install_ruby.md) [sbt](01_Ubuntu/02_16/08_brew/01_install_package/06_brew_install_sbt.md) [scala2.11](01_Ubuntu/02_16/08_brew/01_install_package/07_brew_install_scala.md) [tomcat](01_Ubuntu/02_16/08_brew/01_install_package/08_brew_install_tomcat.md) [vim](01_Ubuntu/02_16/08_brew/01_install_package/09_brew_install_vim.md)  
+║░║░║░╠═2 brew uninstall package  
+║░║░║░║░╚═1 [brew uninstall scala2.11](01_Ubuntu/02_16/08_brew/02_uninstall_package/01_brew_uninstall_scala@2.11.md)   
+║░║░║░╚═3 brew upgrade package  
+║░║░║░░░╠═1 [brew upgrade packages : python file](01_Ubuntu/02_16/08_brew/03_upgrade_package/01_brew_upgrade.py)   
+║░║░║░░░╠═2 [brew upgrade maven : configure after upgrade](01_Ubuntu/02_16/08_brew/03_upgrade_package/02_brew_upgrade_maven.md)  
+║░║░║░░░╚═3 [brew upgrade python : configure after upgrade](01_Ubuntu/02_16/08_brew/03_upgrade_package/03_brew_upgrade_python.md)  
 ║░║░╠═9 chrome  
 ║░║░║░╠═1 [install, configure, remove](01_Ubuntu/02_16/09_chrome/01_chrome/01_install_configure_remove_chrome.md)  
 ║░║░║░╚═2 [chrome remote desktop : install and configure](01_Ubuntu/02_16/09_chrome/02_chrome_remote_desktop/01_install_chrome_remote_desktop.md)  
@@ -301,7 +300,10 @@
 ║░░░╠═2 apt-get  
 ║░░░║░╚═1 install  
 ║░░░║░░░╚═1 [libreoffice](01_Ubuntu/03_18.04/02_apt-get/01_install/01_apt-get_install_libreoffice.md)  
-║░░░╠═3 [brew : install on Ubuntu18](01_Ubuntu/03_18.04/03_brew/01_install_brew_and_configure.md)  
+║░░░╠═3 brew  
+║░░░║░╠═1 [install brew : on Ubuntu18](01_Ubuntu/03_18.04/03_brew/01_install_brew/01_install_brew_and_configure.md)  
+║░░░║░╚═2 brew install package  
+║░░░║░░░╚═1 brew install [git](01_Ubuntu/03_18.04/03_brew/02_install_package/01_brew_install_git.md)  
 ║░░░╠═4 [server : install Ubuntu 18 server ref](01_Ubuntu/03_18.04/04_server/01_install_ubuntu18_server.md)  
 ║░░░╠═5 [ssh : ssh-keygen](01_Ubuntu/03_18.04/05_ssh/01_ssh-keygen.md)  
 ║░░░╠═6 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/03_18.04/06_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
