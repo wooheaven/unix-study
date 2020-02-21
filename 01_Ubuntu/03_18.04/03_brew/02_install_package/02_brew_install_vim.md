@@ -51,6 +51,11 @@ Compilation: gcc-5 -c -I. -Iproto -DHAVE_CONFIG_H     -g -O2 -U_FORTIFY_SOURCE -
 Linking: gcc-5   -L. -fstack-protector-strong -rdynamic -Wl,-export-dynamic -L/home/linuxbrew/.linuxbrew/opt/libyaml/lib  -Wl,-rpath,/home/linuxbrew/.linuxbrew/opt/libyaml/lib -L/home/linuxbrew/.linuxbrew/opt/openssl/lib  -Wl,-rpath,/home/linuxbrew/.linuxbrew/opt/openssl/lib -L/home/linuxbrew/.linuxbrew/opt/readline/lib  -Wl,-rpath,/home/linuxbrew/.linuxbrew/opt/readline/lib -Wl,-E -Wl,-rpath,/home/linuxbrew/.linuxbrew/Cellar/perl/5.28.1/lib/perl5/5.28.1/x86_64-linux-thread-multi/CORE   -L/usr/local/lib -Wl,--as-needed -o vim        -lm -lnsl   -lncurses -ldl   -Wl,-E -Wl,-rpath,/home/linuxbrew/.linuxbrew/Cellar/perl/5.28.1/lib/perl5/5.28.1/x86_64-linux-thread-multi/CORE  -fstack-protector-strong -L/usr/local/lib  -L/home/linuxbrew/.linuxbrew/Cellar/perl/5.28.1/lib/perl5/5.28.1/x86_64-linux-thread-multi/CORE -lperl -lpthread -lnsl -ldl -lm -lcrypt -lutil -lc  -L/home/linuxbrew/.linuxbrew/Cellar/python/3.7.3/lib/python3.7/config-3.7m-x86_64-linux-gnu -lpython3.7m -lcrypt -lpthread -ldl -lutil -lm  -Wl,-rpath,/home/linuxbrew/.linuxbrew/Cellar/ruby/2.6.2/lib -L/home/linuxbrew/.linuxbrew/Cellar/ruby/2.6.2/lib -lruby -lm
 ```
 
+# remove default vim
+```
+$ sudo apt-get remove vim.tiny
+```
+
 # update-alternatives vim vi
 ```bash
 $ sudo update-alternatives --install /usr/bin/vim vim /home/linuxbrew/.linuxbrew/bin/vim 31
