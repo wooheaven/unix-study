@@ -69,7 +69,7 @@
 ║░║░║░░░░░╚═4 [substring with position and length of string](01_Ubuntu/02_16/07_bash/06_variable/02_string/04_substring_with_position_and_length_of_string.md)  
 ║░║░╠═8 brew  
 ║░║░║░╠═1 brew install package  
-║░║░║░║░╚═1 brew install [go](01_Ubuntu/02_16/08_brew/01_install_package/01_brew_install_go.md) [maven](01_Ubuntu/02_16/08_brew/01_install_package/02_brew_install_maven.md) [node@10](01_Ubuntu/02_16/08_brew/01_install_package/03_brew_install_node@10.md) [python](01_Ubuntu/02_16/08_brew/01_install_package/04_brew_install_python.md) [ruby](01_Ubuntu/02_16/08_brew/01_install_package/05_brew_install_ruby.md) [sbt](01_Ubuntu/02_16/08_brew/01_install_package/06_brew_install_sbt.md) [scala2.11](01_Ubuntu/02_16/08_brew/01_install_package/07_brew_install_scala.md) [tomcat](01_Ubuntu/02_16/08_brew/01_install_package/08_brew_install_tomcat.md) [vim](01_Ubuntu/02_16/08_brew/01_install_package/09_brew_install_vim.md)  
+║░║░║░║░╚═1 brew install [go](01_Ubuntu/02_16/08_brew/01_install_package/01_brew_install_go.md) [maven](01_Ubuntu/02_16/08_brew/01_install_package/02_brew_install_maven.md) [node@10](01_Ubuntu/02_16/08_brew/01_install_package/03_brew_install_node@10.md) [python](01_Ubuntu/02_16/08_brew/01_install_package/04_brew_install_python.md) [ruby](01_Ubuntu/02_16/08_brew/01_install_package/05_brew_install_ruby.md) [sbt](01_Ubuntu/02_16/08_brew/01_install_package/06_brew_install_sbt.md) [scala2.11](01_Ubuntu/02_16/08_brew/01_install_package/07_brew_install_scala.md) [tomcat](01_Ubuntu/02_16/08_brew/01_install_package/08_brew_install_tomcat.md)  
 ║░║░║░╠═2 brew uninstall package  
 ║░║░║░║░╚═1 [brew uninstall scala2.11](01_Ubuntu/02_16/08_brew/02_uninstall_package/01_brew_uninstall_scala@2.11.md)   
 ║░║░║░╚═3 brew upgrade package  
@@ -303,7 +303,7 @@
 ║░░░╠═3 brew  
 ║░░░║░╠═1 [install brew : on Ubuntu18](01_Ubuntu/03_18.04/03_brew/01_install_brew/01_install_brew_and_configure.md)  
 ║░░░║░╚═2 brew install package  
-║░░░║░░░╚═1 brew install [git](01_Ubuntu/03_18.04/03_brew/02_install_package/01_brew_install_git.md)  
+║░░░║░░░╚═1 brew install [git](01_Ubuntu/03_18.04/03_brew/02_install_package/01_brew_install_git.md) [vim](01_Ubuntu/03_18.04/03_brew/02_install_package/02_brew_install_vim.md)  
 ║░░░╠═4 desktop  
 ║░░░║░╠═1 [install Ubuntu18 desktop ref](01_Ubuntu/03_18.04/04_desktop/01_install_ubuntu18_desktop.md)  
 ║░░░║░╚═2 [partition ref](01_Ubuntu/03_18.04/04_desktop/02_install_ubuntu18_partition.md)  
