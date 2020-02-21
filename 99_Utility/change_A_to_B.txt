@@ -1,1 +1,4 @@
-01_Ubuntu/03_18.04/04_server/01_install_ubuntu18_server.md -> 01_Ubuntu/03_18.04/04_desktop/01_install_ubuntu18_desktop.md
+01_Ubuntu/03_18.04/05_ssh/01_ssh-keygen.md -> 01_Ubuntu/03_18.04/06_ssh/01_ssh-keygen.md
+01_Ubuntu/03_18.04/06_Startup_Disk_Creator/01_create_bootable_usb_disk.md -> 01_Ubuntu/03_18.04/07_Startup_Disk_Creator/01_create_bootable_usb_disk.md
+01_Ubuntu/03_18.04/07_updates/01_AutomaticSecurityUpdates.md -> 01_Ubuntu/03_18.04/08_updates/01_AutomaticSecurityUpdates.md
+01_Ubuntu/03_18.04/08_vnc/01_vnc_activate.md -> 01_Ubuntu/03_18.04/09_vnc/01_vnc_activate.md
