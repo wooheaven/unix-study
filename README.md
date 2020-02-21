@@ -307,10 +307,11 @@
 ║░░░╠═4 desktop  
 ║░░░║░╠═1 [install Ubuntu18 desktop ref](01_Ubuntu/03_18.04/04_desktop/01_install_ubuntu18_desktop.md)  
 ║░░░║░╚═2 [partition ref](01_Ubuntu/03_18.04/04_desktop/02_install_ubuntu18_partition.md)  
-║░░░╠═5 [ssh : ssh-keygen](01_Ubuntu/03_18.04/05_ssh/01_ssh-keygen.md)  
-║░░░╠═6 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/03_18.04/06_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
-║░░░╠═7 [update : automatic security update](01_Ubuntu/03_18.04/07_updates/01_AutomaticSecurityUpdates.md)  
-║░░░╚═8 [vnc : activate](01_Ubuntu/03_18.04/08_vnc/01_vnc_activate.md)  
+║░░░╠═5 [settings : enable korean](01_Ubuntu/03_18.04/05_Settings/01_Region_Language/01_Enable_Korean_Input.png)  
+║░░░╠═6 [ssh : ssh-keygen](01_Ubuntu/03_18.04/06_ssh/01_ssh-keygen.md)  
+║░░░╠═7 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/03_18.04/07_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
+║░░░╠═8 [update : automatic security update](01_Ubuntu/03_18.04/08_updates/01_AutomaticSecurityUpdates.md)  
+║░░░╚═9 [vnc : activate](01_Ubuntu/03_18.04/09_vnc/01_vnc_activate.md)  
 ╠═2 CentOS  
 ║░╚═1 CentOS 6.9  
 ║░░░╠═1 [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)  
