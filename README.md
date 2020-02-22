@@ -307,8 +307,9 @@
 ║░░░╠═4 desktop  
 ║░░░║░╠═1 [guide Ubuntu18 partition for directory](01_Ubuntu/03_18.04/04_desktop/01_guide_ubuntu18_partition_for_directory.md)  
 ║░░░║░╠═2 [install Ubuntu18 desktop ref](01_Ubuntu/03_18.04/04_desktop/02_install_ubuntu18_desktop.md)  
-║░░░║░╠═3 [partition and HDD structure](01_Ubuntu/03_18.04/04_desktop/03_install_ubuntu18_partition.md)  
-║░░░║░╚═4 [partition for dual boot](01_Ubuntu/03_18.04/04_desktop/04_install_ubuntu18_with_dual_windows10.md)  
+║░░░║░╠═3 [Ubuntu18 hardware](01_Ubuntu/03_18.04/04_desktop/03_install_ubuntu18_hardware.md)  
+║░░░║░╠═4 [partition and HDD structure](01_Ubuntu/03_18.04/04_desktop/04_install_ubuntu18_partition.md)  
+║░░░║░╚═5 [partition for dual boot](01_Ubuntu/03_18.04/04_desktop/05_install_ubuntu18_with_dual_windows10.md)  
 ║░░░╠═5 [settings : enable korean](01_Ubuntu/03_18.04/05_Settings/01_Region_Language/01_Enable_Korean_Input.png)  
 ║░░░╠═6 [ssh : ssh-keygen](01_Ubuntu/03_18.04/06_ssh/01_ssh-keygen.md)  
 ║░░░╠═7 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/03_18.04/07_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
