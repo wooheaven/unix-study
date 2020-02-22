@@ -53,7 +53,7 @@ Linking: gcc-5   -L. -fstack-protector-strong -rdynamic -Wl,-export-dynamic -L/h
 
 # remove default vim
 ```
-$ sudo apt-get remove vim.tiny
+$ sudo apt-get remove --auto-remove vim.tiny vim
 ```
 
 # update-alternatives vim vi
