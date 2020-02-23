@@ -1,1 +1,1 @@
-01_Ubuntu/02_16/08_brew/01_install_package/09_brew_install_vim.md -> 01_Ubuntu/03_18.04/03_brew/02_install_package/02_brew_install_vim.md
+01_Ubuntu/03_18.04/09_vnc/01_vnc_activate.md -> 01_Ubuntu/03_18.04/10_vnc/01_vnc_activate.md
