@@ -314,7 +314,8 @@
 ║░░░╠═6 [ssh : ssh-keygen](01_Ubuntu/03_18.04/06_ssh/01_ssh-keygen.md)  
 ║░░░╠═7 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/03_18.04/07_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
 ║░░░╠═8 [update : automatic security update](01_Ubuntu/03_18.04/08_updates/01_AutomaticSecurityUpdates.md)  
-║░░░╚═9 [vnc : activate](01_Ubuntu/03_18.04/09_vnc/01_vnc_activate.md)  
+║░░░╠═9 [vimrc : non-recurcive normal mode key mapping](01_Ubuntu/03_18.04/09_vim/03_ETC/01_vimrc_key_mapping.md)  
+║░░░╚═10 [vnc : activate](01_Ubuntu/03_18.04/10_vnc/01_vnc_activate.md)  
 ╠═2 CentOS  
 ║░╚═1 CentOS 6.9  
 ║░░░╠═1 [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)  

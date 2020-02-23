@@ -12,10 +12,7 @@ let @n=':set nu! nu?'
 set nu
 
 " GitLab Commit Message
-let @c='5Go```:5,5s/; On branch /#/:10,$s/;\t//:$,$s/;/```/'
-
-" GitLab Renamed list by git status
-let @r=':1,$s/\trenamed:    //'
+nnoremap.@c.<Esc>:5,5s/;.On.branch./#/<Enter>o```<Esc>:10,$s/;\t//<Enter><Esc>:$,$s/;/```/<Enter><Esc>$
 
 " encoding
 set encoding=utf8
