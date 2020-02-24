@@ -1,1 +1,6 @@
-01_Ubuntu/03_18.04/02_apt-get/01_install/01_apt-get_install_libreoffice.md -> 01_Ubuntu/03_18.04/02_apt-get/02_install/01_apt-get_install_libreoffice.md
+01_Ubuntu/03_18.04/05_Settings/01_Region_Language/01_Enable_Korean_Input.png -> 01_Ubuntu/03_18.04/06_Settings/01_Region_Language/01_Enable_Korean_Input.png
+01_Ubuntu/03_18.04/06_ssh/01_ssh-keygen.md -> 01_Ubuntu/03_18.04/07_ssh/01_ssh-keygen.md
+01_Ubuntu/03_18.04/07_Startup_Disk_Creator/01_create_bootable_usb_disk.md -> 01_Ubuntu/03_18.04/08_Startup_Disk_Creator/01_create_bootable_usb_disk.md
+01_Ubuntu/03_18.04/08_updates/01_AutomaticSecurityUpdates.md -> 01_Ubuntu/03_18.04/09_updates/01_AutomaticSecurityUpdates.md
+01_Ubuntu/03_18.04/09_vim/03_ETC/01_vimrc_key_mapping.md -> 01_Ubuntu/03_18.04/10_vim/03_ETC/01_vimrc_key_mapping.md
+01_Ubuntu/03_18.04/10_vnc/01_vnc_activate.md -> 01_Ubuntu/03_18.04/11_vnc/01_vnc_activate.md
