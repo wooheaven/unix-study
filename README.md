@@ -298,8 +298,9 @@
 ║░░░╠═1 apt  
 ║░░░║░╚═1 [apt repository : add remove change](01_Ubuntu/03_18.04/01_apt/01_apt_add_remove_change_repository.md)  
 ║░░░╠═2 apt-get  
-║░░░║░╚═1 install  
-║░░░║░░░╚═1 [libreoffice](01_Ubuntu/03_18.04/02_apt-get/01_install/01_apt-get_install_libreoffice.md)  
+║░░░║░╠═1 error : [dpkg was interrupted](01_Ubuntu/03_18.04/02_apt-get/01_error/01_apt-get_error_dpkg_was_interrupted.md)  
+║░░░║░╚═2 install  
+║░░░║░░░╚═1 [libreoffice](01_Ubuntu/03_18.04/02_apt-get/02_install/01_apt-get_install_libreoffice.md)  
 ║░░░╠═3 brew  
 ║░░░║░╠═1 [install brew : on Ubuntu18](01_Ubuntu/03_18.04/03_brew/01_install_brew/01_install_brew_and_configure.md)  
 ║░░░║░╚═2 brew install package  
