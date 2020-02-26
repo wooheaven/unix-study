@@ -312,8 +312,10 @@
 ║░░░║░╠═4 [partition and HDD structure](01_Ubuntu/03_18.04/04_desktop/04_install_ubuntu18_partition.md)  
 ║░░░║░╚═5 [partition for dual boot](01_Ubuntu/03_18.04/04_desktop/05_install_ubuntu18_with_dual_windows10.md)  
 ║░░░╠═5 GIMP  
-║░░░║░╠═1 install GIMP [by snap](01_Ubuntu/03_18.04/05_Gimp/01_install_GIMP/01_install_Gimp.md)  
-║░░░║░╚═2 use GIMP [Export As PNG image file](01_Ubuntu/03_18.04/05_Gimp/02_use_GIMP/01_export_as_png.md)  
+║░░░║░╠═1 install GIMP [by snap](01_Ubuntu/03_18.04/05_GIMP/01_install_GIMP/01_install_Gimp.md)  
+║░░░║░╚═2 use GIMP  
+║░░░║░░░╠═1 [add box on PNG image file](01_Ubuntu/03_18.04/05_GIMP/02_use_GIMP/01_add_box_on_png.md)  
+║░░░║░░░╚═2 [Export As PNG image file](01_Ubuntu/03_18.04/05_GIMP/02_use_GIMP/02_export_as_png.md)  
 ║░░░╠═6 [settings : enable korean](01_Ubuntu/03_18.04/06_Settings/01_Region_Language/01_Enable_Korean_Input.md)  
 ║░░░╠═7 [ssh : ssh-keygen](01_Ubuntu/03_18.04/07_ssh/01_ssh-keygen.md)  
 ║░░░╠═8 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/03_18.04/08_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  

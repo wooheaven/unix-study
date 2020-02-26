@@ -1,1 +1,2 @@
-01_Ubuntu/03_18.04/05_Gimp/01_install_Gimp.md -> 01_Ubuntu/03_18.04/05_Gimp/01_install_GIMP/01_install_Gimp.md
+01_Ubuntu/03_18.04/05_Gimp/01_install_GIMP/01_install_Gimp.md -> 01_Ubuntu/03_18.04/05_GIMP/01_install_GIMP/01_install_Gimp.md
+01_Ubuntu/03_18.04/05_Gimp/02_use_GIMP/01_export_as_png.md -> 01_Ubuntu/03_18.04/05_GIMP/02_use_GIMP/01_export_as_png.md
