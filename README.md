@@ -150,8 +150,7 @@
 ║░║░║░╚═1 [convert : resize width, height](01_Ubuntu/02_16/35_Image/01_resize_jpg.md)  
 ║░║░╠═36 [Install : with UEFI mode](01_Ubuntu/02_16/36_Install/01_Install_Ubuntu_with_UEFI_mode.md)   
 ║░║░╠═37 IntelliJ  
-║░║░║░╠═1 [standalone install](01_Ubuntu/02_16/37_IntelliJ/01_standalone_installation_of_IntelliJ.md)  
-║░║░║░╚═2 [IBus Config](01_Ubuntu/02_16/37_IntelliJ/02_IBus_Config_for_IntelliJ.md)  
+║░║░║░╚═1 [IBus Config](01_Ubuntu/02_16/37_IntelliJ/01_IBus_Config_for_IntelliJ.md)  
 ║░║░╠═38 Java  
 ║░║░║░╠═1 [amazon corretto open JDK8 : install by manually](01_Ubuntu/02_16/38_Java/01_install_amazon_corretto_open_jdk8_by_manual.md)  
 ║░║░║░╠═2 [oracle JDK7 : install by manually](01_Ubuntu/02_16/38_Java/02_install_oracle_jdk7_by_manually.md)  
@@ -316,12 +315,13 @@
 ║░░░║░╚═2 use GIMP  
 ║░░░║░░░╠═1 [add box on PNG image file](01_Ubuntu/03_18.04/05_GIMP/02_use_GIMP/01_add_box_on_png.md)  
 ║░░░║░░░╚═2 [Export As PNG image file](01_Ubuntu/03_18.04/05_GIMP/02_use_GIMP/02_export_as_png.md)  
-║░░░╠═6 [settings : enable korean](01_Ubuntu/03_18.04/06_Settings/01_Region_Language/01_Enable_Korean_Input.md)  
-║░░░╠═7 [ssh : ssh-keygen](01_Ubuntu/03_18.04/07_ssh/01_ssh-keygen.md)  
-║░░░╠═8 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/03_18.04/08_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
-║░░░╠═9 [update : automatic security update](01_Ubuntu/03_18.04/09_updates/01_AutomaticSecurityUpdates.md)  
-║░░░╠═10 [vimrc : non-recurcive normal mode key mapping](01_Ubuntu/03_18.04/10_vim/03_ETC/01_vimrc_key_mapping.md)  
-║░░░╚═11 [vnc : activate](01_Ubuntu/03_18.04/11_vnc/01_vnc_activate.md)  
+║░░░╠═6 IDE IntelliJ : [munual install](01_Ubuntu/03_18.04/06_IDE/01_IntelliJ/01_standalone_installation_of_IntelliJ.md)  
+║░░░╠═7 [settings : enable korean](01_Ubuntu/03_18.04/07_Settings/01_Region_Language/01_Enable_Korean_Input.md)  
+║░░░╠═8 [ssh : ssh-keygen](01_Ubuntu/03_18.04/08_ssh/01_ssh-keygen.md)  
+║░░░╠═9 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/03_18.04/09_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
+║░░░╠═10 [update : automatic security update](01_Ubuntu/03_18.04/10_updates/01_AutomaticSecurityUpdates.md)  
+║░░░╠═11 [vimrc : non-recurcive normal mode key mapping](01_Ubuntu/03_18.04/11_vim/03_ETC/01_vimrc_key_mapping.md)  
+║░░░╚═12 [vnc : activate](01_Ubuntu/03_18.04/12_vnc/01_vnc_activate.md)  
 ╠═2 CentOS  
 ║░╚═1 CentOS 6.9  
 ║░░░╠═1 [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)  

@@ -25,3 +25,21 @@ export IDEA_JDK="/usr/lib/jvm/java-8-openjdk-amd64/"
 
 $ ./usr/local/IntelliJ/latest/bin/idea.sh
 ```
+
+# If Cannot start IntelliJ IDEA : No JDK found. Please validate either IDEA_JDK ... points to JDK installation.
+```
+$ cat /usr/local/IntelliJ/latest/bin/idea.sh
+...
+if [ -z "$JDK" ] && [ -s "$HOME/.IdeaIC2019.3/config/idea.jdk" ]; then
+  USER_JRE=$("$CAT" "$HOME/.IdeaIC2019.3/config/idea.jdk")
+  if [ ! -d "$USER_JRE" ]; then
+    USER_JRE="$IDE_HOME/$USER_JRE"
+  fi
+  if [ -x "$USER_JRE/bin/java" ]; then
+    JDK="$USER_JRE"
+  fi
+fi
+
+$ vi ~/.IdeaIC2019.3/config$ idea.jdk
+/usr/lib/jvm/zulu8.44.0.11-ca-jdk8.0.242-linux_x64
+```
