@@ -315,13 +315,14 @@
 ║░░░║░╚═2 use GIMP  
 ║░░░║░░░╠═1 [add box on PNG image file](01_Ubuntu/03_18.04/05_GIMP/02_use_GIMP/01_add_box_on_png.md)  
 ║░░░║░░░╚═2 [Export As PNG image file](01_Ubuntu/03_18.04/05_GIMP/02_use_GIMP/02_export_as_png.md)  
-║░░░╠═6 IDE IntelliJ : [munual install](01_Ubuntu/03_18.04/06_IDE/01_IntelliJ/01_standalone_installation_of_IntelliJ.md)  
-║░░░╠═7 [settings : enable korean](01_Ubuntu/03_18.04/07_Settings/01_Region_Language/01_Enable_Korean_Input.md)  
-║░░░╠═8 [ssh : ssh-keygen](01_Ubuntu/03_18.04/08_ssh/01_ssh-keygen.md)  
-║░░░╠═9 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/03_18.04/09_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
-║░░░╠═10 [update : automatic security update](01_Ubuntu/03_18.04/10_updates/01_AutomaticSecurityUpdates.md)  
-║░░░╠═11 [vimrc : non-recurcive normal mode key mapping](01_Ubuntu/03_18.04/11_vim/03_ETC/01_vimrc_key_mapping.md)  
-║░░░╚═12 [vnc : activate](01_Ubuntu/03_18.04/12_vnc/01_vnc_activate.md)  
+║░░░╠═6 GNOME [Mouse Right Click to create Empty Document](01_Ubuntu/03_18.04/06_GNOME/01_add_right_click_menu_by_Template.md)  
+║░░░╠═7 IDE IntelliJ : [munual install](01_Ubuntu/03_18.04/07_IDE/01_IntelliJ/01_standalone_installation_of_IntelliJ.md)  
+║░░░╠═8 [settings : enable korean](01_Ubuntu/03_18.04/08_Settings/01_Region_Language/01_Enable_Korean_Input.md)  
+║░░░╠═9 [ssh : ssh-keygen](01_Ubuntu/03_18.04/09_ssh/01_ssh-keygen.md)  
+║░░░╠═10 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/03_18.04/10_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
+║░░░╠═11 [update : automatic security update](01_Ubuntu/03_18.04/11_updates/01_AutomaticSecurityUpdates.md)  
+║░░░╠═12 [vimrc : non-recurcive normal mode key mapping](01_Ubuntu/03_18.04/12_vim/03_ETC/01_vimrc_key_mapping.md)  
+║░░░╚═13 [vnc : activate](01_Ubuntu/03_18.04/13_vnc/01_vnc_activate.md)  
 ╠═2 CentOS  
 ║░╚═1 CentOS 6.9  
 ║░░░╠═1 [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)  
