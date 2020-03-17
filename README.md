@@ -179,7 +179,7 @@
 ║░║░║░╚═3 [hostname : 127.0.1.1 why use this](01_Ubuntu/02_16/50_network/03_hostname/01_127.0.1.1.md)  
 ║░║░╠═51 [nmap : port check](01_Ubuntu/02_16/51_nmap/01_install_use_nmap.md)  
 ║░║░╠═52 [nohup : use](01_Ubuntu/02_16/52_nohup/01_use_nohup.md)  
-║░║░╠═53 nvidia install  
+║░║░╠═53 NVIDIA driver, CUDA, cuDNN, Tensorflow, Keras  
 ║░║░║░╠═1 [nvidia driver410 cuda9 cudnn7.4 to keras](01_Ubuntu/02_16/53_nvidia/01_install_nvidia_driver410_cuda9_cudnn7.4_to_keras.md)  
 ║░║░║░╚═2 [nvidia driver418 cuda10 cudnn7.4 to keras](01_Ubuntu/02_16/53_nvidia/02_install_nvidia_driver418_cuda10_cudnn7.4_to_keras.md)  
 ║░║░╠═54 [opencv : build and install opencv 3.4.0](01_Ubuntu/02_16/54_OpenCV/01_Build_OpenCV_3.4_with_opencv_contrib.md)  
@@ -317,12 +317,13 @@
 ║░░░║░░░╚═2 [Export As PNG image file](01_Ubuntu/03_18.04/05_GIMP/02_use_GIMP/02_export_as_png.md)  
 ║░░░╠═6 GNOME [Mouse Right Click to create Empty Document](01_Ubuntu/03_18.04/06_GNOME/01_add_right_click_menu_by_Template.md)  
 ║░░░╠═7 IDE IntelliJ : [munual install](01_Ubuntu/03_18.04/07_IDE/01_IntelliJ/01_standalone_installation_of_IntelliJ.md)  
-║░░░╠═8 [settings : enable korean](01_Ubuntu/03_18.04/08_Settings/01_Region_Language/01_Enable_Korean_Input.md)  
-║░░░╠═9 [ssh : ssh-keygen](01_Ubuntu/03_18.04/09_ssh/01_ssh-keygen.md)  
-║░░░╠═10 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/03_18.04/10_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
-║░░░╠═11 [update : automatic security update](01_Ubuntu/03_18.04/11_updates/01_AutomaticSecurityUpdates.md)  
-║░░░╠═12 [vimrc : non-recurcive normal mode key mapping](01_Ubuntu/03_18.04/12_vim/03_ETC/01_vimrc_key_mapping.md)  
-║░░░╚═13 [vnc : activate](01_Ubuntu/03_18.04/13_vnc/01_vnc_activate.md)  
+║░░░╠═8 NVIDIA : [install nvidia driver and CUDA](01_Ubuntu/03_18.04/08_NVIDIA/01_install_nvidia_driver_cuda.md)  
+║░░░╠═9 [settings : enable korean](01_Ubuntu/03_18.04/09_Settings/01_Region_Language/01_Enable_Korean_Input.md)  
+║░░░╠═10 [ssh : ssh-keygen](01_Ubuntu/03_18.04/10_ssh/01_ssh-keygen.md)  
+║░░░╠═11 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/03_18.04/11_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
+║░░░╠═12 [update : automatic security update](01_Ubuntu/03_18.04/12_updates/01_AutomaticSecurityUpdates.md)  
+║░░░╠═13 [vimrc : non-recurcive normal mode key mapping](01_Ubuntu/03_18.04/13_vim/03_ETC/01_vimrc_key_mapping.md)  
+║░░░╚═14 [vnc : activate](01_Ubuntu/03_18.04/14_vnc/01_vnc_activate.md)  
 ╠═2 CentOS  
 ║░╚═1 CentOS 6.9  
 ║░░░╠═1 [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)  
