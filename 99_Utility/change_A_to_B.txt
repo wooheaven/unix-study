@@ -1,7 +1,7 @@
-01_Ubuntu/03_18.04/08_Settings/01_Region_Language/01_Enable_Korean_Input.md -> 01_Ubuntu/03_18.04/09_Settings/01_Region_Language/01_Enable_Korean_Input.md
-01_Ubuntu/03_18.04/08_Settings/01_Region_Language/01_Enable_Korean_Input.png -> 01_Ubuntu/03_18.04/09_Settings/01_Region_Language/01_Enable_Korean_Input.png
-01_Ubuntu/03_18.04/09_ssh/01_ssh-keygen.md -> 01_Ubuntu/03_18.04/10_ssh/01_ssh-keygen.md
-01_Ubuntu/03_18.04/10_Startup_Disk_Creator/01_create_bootable_usb_disk.md -> 01_Ubuntu/03_18.04/11_Startup_Disk_Creator/01_create_bootable_usb_disk.md
-01_Ubuntu/03_18.04/11_updates/01_AutomaticSecurityUpdates.md -> 01_Ubuntu/03_18.04/12_updates/01_AutomaticSecurityUpdates.md
-01_Ubuntu/03_18.04/12_vim/03_ETC/01_vimrc_key_mapping.md -> 01_Ubuntu/03_18.04/13_vim/03_ETC/01_vimrc_key_mapping.md
-01_Ubuntu/03_18.04/13_vnc/01_vnc_activate.md -> 01_Ubuntu/03_18.04/14_vnc/01_vnc_activate.md
+01_Ubuntu/03_18.04/08_NVIDIA/01_install_nvidia_driver_cuda.md -> 01_Ubuntu/03_18.04/08_NVIDIA/02_driver_CUDA/01_install_nvidia_driver_cuda.md
+01_Ubuntu/03_18.04/08_NVIDIA/90.png -> 01_Ubuntu/03_18.04/08_NVIDIA/02_driver_CUDA/90.png
+01_Ubuntu/03_18.04/08_NVIDIA/91.png -> 01_Ubuntu/03_18.04/08_NVIDIA/02_driver_CUDA/91.png
+01_Ubuntu/03_18.04/08_NVIDIA/92.png -> 01_Ubuntu/03_18.04/08_NVIDIA/02_driver_CUDA/92.png
+01_Ubuntu/03_18.04/08_NVIDIA/93.png -> 01_Ubuntu/03_18.04/08_NVIDIA/02_driver_CUDA/93.png
+01_Ubuntu/03_18.04/08_NVIDIA/94.png -> 01_Ubuntu/03_18.04/08_NVIDIA/02_driver_CUDA/94.png
+01_Ubuntu/03_18.04/08_NVIDIA/95.png -> 01_Ubuntu/03_18.04/08_NVIDIA/02_driver_CUDA/95.png
