@@ -50,8 +50,7 @@
 ║░║░║░║░╠═2 for statement  
 ║░║░║░║░║░╠═1 [iterate by argument](01_Ubuntu/02_16/07_bash/04_loop/02_for_statement/01_for_loop_on_argument.md)  
 ║░║░║░║░║░╠═2 [iterate by list](01_Ubuntu/02_16/07_bash/04_loop/02_for_statement/02_for_loop_on_list.md)  
-║░║░║░║░║░╠═3 [iterate by num++](01_Ubuntu/02_16/07_bash/04_loop/02_for_statement/03_for_loop_on_num++.md)  
-║░║░║░║░║░╚═4 [iterate by file](01_Ubuntu/02_16/07_bash/04_loop/02_for_statement/04_for_loop_on_read_file.md)  
+║░║░║░║░║░╚═3 [iterate by file](01_Ubuntu/02_16/07_bash/04_loop/02_for_statement/03_for_loop_on_read_file.md)  
 ║░║░║░║░╚═3 [while statement](01_Ubuntu/02_16/07_bash/04_loop/03_while_statement/01_While_Statement.md)  
 ║░║░║░╠═5 if statement : [Tutorial Link](https://ryanstutorials.net/bash-scripting-tutorial/bash-if-statements.php)  
 ║░║░║░║░╠═1 [condition argument count check](01_Ubuntu/02_16/07_bash/05_if_statement/01_if_condition_argument_count_check.md)  
@@ -301,33 +300,35 @@
 ║░░░║░╠═1 error : [dpkg was interrupted](01_Ubuntu/03_18.04/03_apt-get/01_error/01_apt-get_error_dpkg_was_interrupted.md)  
 ║░░░║░╚═2 install  
 ║░░░║░░░╚═1 [libreoffice](01_Ubuntu/03_18.04/03_apt-get/02_install/01_apt-get_install_libreoffice.md)  
-║░░░╠═4 brew  
-║░░░║░╠═1 [install brew : on Ubuntu18](01_Ubuntu/03_18.04/04_brew/01_install_brew/01_install_brew_and_configure.md)  
+║░░░╠═4 bash  
+║░░░║░╚═1 Loop Statement [for statement : for loop on num++](01_Ubuntu/03_18.04/04_bash/01_Loop_Statement/01_for_statement/01_for_loop_on_num++.md)  
+║░░░╠═5 brew  
+║░░░║░╠═1 [install brew : on Ubuntu18](01_Ubuntu/03_18.04/05_brew/01_install_brew/01_install_brew_and_configure.md)  
 ║░░░║░╚═2 brew install package  
-║░░░║░░░╚═1 brew install [git](01_Ubuntu/03_18.04/04_brew/02_install_package/01_brew_install_git.md) [vim](01_Ubuntu/03_18.04/04_brew/02_install_package/02_brew_install_vim.md)  
-║░░░╠═5 desktop  
-║░░░║░╠═1 [guide Ubuntu18 partition for directory](01_Ubuntu/03_18.04/05_desktop/01_guide_ubuntu18_partition_for_directory.md)  
-║░░░║░╠═2 [install Ubuntu18 desktop ref](01_Ubuntu/03_18.04/05_desktop/02_install_ubuntu18_desktop.md)  
-║░░░║░╠═3 [Ubuntu18 hardware](01_Ubuntu/03_18.04/05_desktop/03_install_ubuntu18_hardware.md)  
-║░░░║░╠═4 [partition and HDD structure](01_Ubuntu/03_18.04/05_desktop/04_install_ubuntu18_partition.md)  
-║░░░║░╚═5 [partition for dual boot](01_Ubuntu/03_18.04/05_desktop/05_install_ubuntu18_with_dual_windows10.md)  
-║░░░╠═6 GIMP  
-║░░░║░╠═1 install GIMP [by snap](01_Ubuntu/03_18.04/06_GIMP/01_install_GIMP/01_install_Gimp.md)  
+║░░░║░░░╚═1 brew install [git](01_Ubuntu/03_18.04/05_brew/02_install_package/01_brew_install_git.md) [vim](01_Ubuntu/03_18.04/05_brew/02_install_package/02_brew_install_vim.md)  
+║░░░╠═6 desktop  
+║░░░║░╠═1 [guide Ubuntu18 partition for directory](01_Ubuntu/03_18.04/06_desktop/01_guide_ubuntu18_partition_for_directory.md)  
+║░░░║░╠═2 [install Ubuntu18 desktop ref](01_Ubuntu/03_18.04/06_desktop/02_install_ubuntu18_desktop.md)  
+║░░░║░╠═3 [Ubuntu18 hardware](01_Ubuntu/03_18.04/06_desktop/03_install_ubuntu18_hardware.md)  
+║░░░║░╠═4 [partition and HDD structure](01_Ubuntu/03_18.04/06_desktop/04_install_ubuntu18_partition.md)  
+║░░░║░╚═5 [partition for dual boot](01_Ubuntu/03_18.04/06_desktop/05_install_ubuntu18_with_dual_windows10.md)  
+║░░░╠═7 GIMP  
+║░░░║░╠═1 install GIMP [by snap](01_Ubuntu/03_18.04/07_GIMP/01_install_GIMP/01_install_Gimp.md)  
 ║░░░║░╚═2 use GIMP  
-║░░░║░░░╠═1 [add box on PNG image file](01_Ubuntu/03_18.04/06_GIMP/02_use_GIMP/01_add_box_on_png.md)  
-║░░░║░░░╚═2 [Export As PNG image file](01_Ubuntu/03_18.04/06_GIMP/02_use_GIMP/02_export_as_png.md)  
-║░░░╠═7 GNOME [Mouse Right Click to create Empty Document](01_Ubuntu/03_18.04/07_GNOME/01_add_right_click_menu_by_Template.md)  
-║░░░╠═8 IDE IntelliJ : [munual install](01_Ubuntu/03_18.04/08_IDE/01_IntelliJ/01_standalone_installation_of_IntelliJ.md)  
-║░░░╠═9 Kubeflow : [install](01_Ubuntu/03_18.04/09_Kubeflow/01_install_Kubeflow.md)  
-║░░░╠═10 NVIDIA  
-║░░░║░╠═1 [install nvidia container toolkit](01_Ubuntu/03_18.04/10_NVIDIA/01_container-toolkit/01_install_nvidia-container-toolkit.md)  
-║░░░║░╚═2 [install nvidia driver and CUDA](01_Ubuntu/03_18.04/10_NVIDIA/02_driver_CUDA/01_install_nvidia_driver_cuda.md)  
-║░░░╠═11 [settings : enable korean](01_Ubuntu/03_18.04/11_Settings/01_Region_Language/01_Enable_Korean_Input.md)  
-║░░░╠═12 [ssh : ssh-keygen](01_Ubuntu/03_18.04/12_ssh/01_ssh-keygen.md)  
-║░░░╠═13 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/03_18.04/13_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
-║░░░╠═14 [update : automatic security update](01_Ubuntu/03_18.04/14_updates/01_AutomaticSecurityUpdates.md)  
-║░░░╠═15 [vimrc : non-recurcive normal mode key mapping](01_Ubuntu/03_18.04/15_vim/03_ETC/01_vimrc_key_mapping.md)  
-║░░░╚═16 [vnc : activate](01_Ubuntu/03_18.04/16_vnc/01_vnc_activate.md)  
+║░░░║░░░╠═1 [add box on PNG image file](01_Ubuntu/03_18.04/07_GIMP/02_use_GIMP/01_add_box_on_png.md)  
+║░░░║░░░╚═2 [Export As PNG image file](01_Ubuntu/03_18.04/07_GIMP/02_use_GIMP/02_export_as_png.md)  
+║░░░╠═8 GNOME [Mouse Right Click to create Empty Document](01_Ubuntu/03_18.04/08_GNOME/01_add_right_click_menu_by_Template.md)  
+║░░░╠═9 IDE IntelliJ : [munual install](01_Ubuntu/03_18.04/09_IDE/01_IntelliJ/01_standalone_installation_of_IntelliJ.md)  
+║░░░╠═10 Kubeflow : [install](01_Ubuntu/03_18.04/10_Kubeflow/01_install_Kubeflow.md)  
+║░░░╠═11 NVIDIA  
+║░░░║░╠═1 [install nvidia container toolkit](01_Ubuntu/03_18.04/11_NVIDIA/01_container-toolkit/01_install_nvidia-container-toolkit.md)  
+║░░░║░╚═2 [install nvidia driver and CUDA](01_Ubuntu/03_18.04/11_NVIDIA/02_driver_CUDA/01_install_nvidia_driver_cuda.md)  
+║░░░╠═12 [settings : enable korean](01_Ubuntu/03_18.04/12_Settings/01_Region_Language/01_Enable_Korean_Input.md)  
+║░░░╠═13 [ssh : ssh-keygen](01_Ubuntu/03_18.04/13_ssh/01_ssh-keygen.md)  
+║░░░╠═14 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/03_18.04/14_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
+║░░░╠═15 [update : automatic security update](01_Ubuntu/03_18.04/15_updates/01_AutomaticSecurityUpdates.md)  
+║░░░╠═16 [vimrc : non-recurcive normal mode key mapping](01_Ubuntu/03_18.04/16_vim/03_ETC/01_vimrc_key_mapping.md)  
+║░░░╚═17 [vnc : activate](01_Ubuntu/03_18.04/17_vnc/01_vnc_activate.md)  
 ╠═2 CentOS  
 ║░╚═1 CentOS 6.9  
 ║░░░╠═1 [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)  
