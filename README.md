@@ -215,8 +215,9 @@
 ║░║░╠═64 [run-level : change](01_Ubuntu/02_16/64_run-level/01_change_run-level.md)  
 ║░║░╠═65 [screen : use](01_Ubuntu/02_16/65_screen/01_use_screen.md)  
 ║░║░╠═66 sdk  
-║░║░║░╠═1 [insall sdk](01_Ubuntu/02_16/66_sdk/01_install_sdk.md)  
-║░║░║░╚═2 [sdk install jdk](01_Ubuntu/02_16/66_sdk/02_sdk_install_jdk.md)  
+║░║░║░╠═1 [insall sdk : Software Development Kit Manager](01_Ubuntu/02_16/66_sdk/01_install_sdk.md)  
+║░║░║░╠═2 [sdk install jdk](01_Ubuntu/02_16/66_sdk/02_sdk_install_jdk.md)  
+║░║░║░╚═3 [update sdk](01_Ubuntu/02_16/66_sdk/03_update_sdk.md)  
 ║░║░╠═67 sed  
 ║░║░║░╠═1 [remove \^M in text file](01_Ubuntu/02_16/67_sed/01_sed_remove_^M.md)  
 ║░║░║░╠═2 [replace every 3rd comma to semicolon](01_Ubuntu/02_16/67_sed/02_sed_replace_every_3rd_comma_to_semicolon.md)  
