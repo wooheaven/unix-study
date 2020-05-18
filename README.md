@@ -217,6 +217,7 @@
 ║░║░╠═63 [ruby, rbenv, ruby-build : install and configure](01_Ubuntu/02_16/63_ruby/01_install_configure_ruby.md)  
 ║░║░╠═64 [run-level : change](01_Ubuntu/02_16/64_run-level/01_change_run-level.md)  
 ║░║░╠═65 [screen : use](01_Ubuntu/02_16/65_screen/01_use_screen.md)  
+<<<<<<< HEAD
 ║░║░╠═66 sed  
 ║░║░║░╠═1 [remove \^M in text file](01_Ubuntu/02_16/66_sed/01_sed_remove_^M.md)  
 ║░║░║░╠═2 [replace every 3rd comma to semicolon](01_Ubuntu/02_16/66_sed/02_sed_replace_every_3rd_comma_to_semicolon.md)  
@@ -260,6 +261,56 @@
 ║░║░╠═82 [userdel](01_Ubuntu/02_16/82_userdel/01_userdel_hadoop.md)  
 ║░║░╠═83 [usermod : add User to Group](01_Ubuntu/02_16/83_usermod/01_add_USER_to_GROUP.md)  
 ║░║░╠═84 vim  
+=======
+║░║░╠═66 sdk  
+║░║░║░╠═1 [insall sdk : Software Development Kit Manager](01_Ubuntu/02_16/66_sdk/01_install_sdk.md)  
+║░║░║░╠═2 [sdk install JDK](01_Ubuntu/02_16/66_sdk/02_sdk_install_jdk.md)  
+║░║░║░╠═3 [sdk uninstall JDK](01_Ubuntu/02_16/66_sdk/03_sdk_uninstall_jdk.md)  
+║░║░║░╚═4 [update sdk](01_Ubuntu/02_16/66_sdk/04_update_sdk.md)  
+║░║░╠═67 sed  
+║░║░║░╠═1 [remove \^M in text file](01_Ubuntu/02_16/67_sed/01_sed_remove_^M.md)  
+║░║░║░╠═2 [replace every 3rd comma to semicolon](01_Ubuntu/02_16/67_sed/02_sed_replace_every_3rd_comma_to_semicolon.md)  
+║░║░║░╠═3 [space regular expression](01_Ubuntu/02_16/67_sed/03_sed_space_regular_expression.md)  
+║░║░║░╚═4 [replace last string](01_Ubuntu/02_16/67_sed/04_sed_replace_last_string.md)  
+║░║░╠═68 snap  
+║░║░║░╠═1 [snap : install anbox](01_Ubuntu/02_16/68_snap/01_snap_install_anbox.md)  
+║░║░║░╠═2 [snap : install intellij](01_Ubuntu/02_16/68_snap/02_snap_install_intellij.md)  
+║░║░║░╠═3 [snap : example install list refresh remove](01_Ubuntu/02_16/68_snap/03_snap_install_list_changes_refresh_remove.md)  
+║░║░║░╠═4 [snap : install node](01_Ubuntu/02_16/68_snap/04_snap_install_node.md)  
+║░║░║░╠═5 [snap : install and refresh pycharm](01_Ubuntu/02_16/68_snap/05_snap_install_refresh_pycharm.md)  
+║░║░║░╠═6 [snap : install scrcpy](01_Ubuntu/02_16/68_snap/06_snap_install_scrcpy.md)  
+║░║░║░╠═7 [snap : install slack](01_Ubuntu/02_16/68_snap/07_snap_install_slack.md)  
+║░║░║░╠═8 [snap : install sublime-text](01_Ubuntu/02_16/68_snap/08_snap_install_sublime-text.md)  
+║░║░║░╚═9 [snap : install visualstudiocode](01_Ubuntu/02_16/68_snap/09_snap_install_visualstudiocode.md)  
+║░║░╠═69 sort  
+║░║░║░╠═1 [by key as string or number, substring or subnumber](01_Ubuntu/02_16/69_sort/01_sort_by_key_as_string_number_substring_subnumber.md)  
+║░║░║░╚═2 [--ignore-case : Upper/Lower case](01_Ubuntu/02_16/69_sort/02_sort_ignore-case.md)  
+║░║░╠═70 ssh  
+║░║░║░╠═1 [install](01_Ubuntu/02_16/70_ssh/01_install_ssh.md)  
+║░║░║░╠═2 [ssh-key : ssh login without passowrd](01_Ubuntu/02_16/70_ssh/02_ssh-keygen_and_add_publicKey_to_server.md)  
+║░║░║░╠═3 [enable root login](01_Ubuntu/02_16/70_ssh/03_enable_ssh_root_login.md)  
+║░║░║░╠═4 [pssh install : parallel-ssh](01_Ubuntu/02_16/70_ssh/04_install_pssh.md)  
+║░║░║░╚═5 [file rsymc by pssh : rsync and md5sum a file on cluster by pssh](01_Ubuntu/02_16/70_ssh/05_rsync_file_by_pssh.md)  
+║░║░╠═71 [StartUp Applications : add program](01_Ubuntu/02_16/71_Startup_Applications/01_add_programs.md)  
+║░║░╠═72 [Steam : Install on Ubuntu16](01_Ubuntu/02_16/72_Steam/01_install_Steam_on_ubuntu16.md)  
+║░║░╠═73 [Install Sublime Text 2](01_Ubuntu/02_16/73_sublime_text_2/01_install_sublime_text2.md)  
+║░║░╠═74 [substring : remove from beginning or back + long or short](01_Ubuntu/02_16/74_substring/01_substring_remove.md)  
+║░║░╠═75 [tac : read from bottom to top](01_Ubuntu/02_16/75_tac/01_tac.md)  
+║░║░╠═76 tar  
+║░║░║░╠═1 [uncompress : tgz](01_Ubuntu/02_16/76_tar/01_uncompress_tgz.md)  
+║░║░║░╚═2 [compress : folder](01_Ubuntu/02_16/76_tar/02_compress_folder_by_tar.md)  
+║░║░╠═77 [tmux : install, configure, use](01_Ubuntu/02_16/77_tmux/01_tmux.md)  
+║░║░╠═78 [touch : accessed modified timestamp](01_Ubuntu/02_16/78_touch/01_modify_timestamp.md)  
+║░║░╠═79 [tr : replace string](01_Ubuntu/02_16/79_tr/01_tr_replace_string.md)  
+║░║░╠═80 [tzdata : time zone](01_Ubuntu/02_16/80_tzdata/01_timeZone.md)  
+║░║░╠═81 [unicode : box char](01_Ubuntu/02_16/81_unicode/01_box_char.md)  
+║░║░╠═82 update-alternatives  
+║░║░║░╠═1 [--install : java, javac](01_Ubuntu/02_16/82_update-alternatives/01_install_java_and_javac.md)  
+║░║░║░╚═2 [--install : vi, vim](01_Ubuntu/02_16/82_update-alternatives/02_install_vim_and_vi.md)  
+║░║░╠═83 [userdel](01_Ubuntu/02_16/83_userdel/01_userdel_hadoop.md)  
+║░║░╠═84 [usermod : add User to Group](01_Ubuntu/02_16/84_usermod/01_add_USER_to_GROUP.md)  
+║░║░╠═85 vim  
+>>>>>>> df89d4063c81154d016ae59b33be6c681b833f58
 ║░║░║░╠═1 Cmd-Mode  
 ║░║░║░║░╠═1 [Move Cursor](01_Ubuntu/02_16/84_vim/01_Cmd-Mode/01_Move_Cursor.md)  
 ║░║░║░║░╠═2 [Switch Line Up and Down](01_Ubuntu/02_16/84_vim/01_Cmd-Mode/02_Switch_Line_Up_and_Down.md)  
