@@ -6,4 +6,6 @@ $ vi ~/.bashrc
 # JDK8
 JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64/
 PATH=$PATH:$JAVA_HOME/bin
+
+$ ll /usr/lib/jvm/
 ```

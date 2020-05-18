@@ -156,7 +156,10 @@
 ║░║░║░╠═3 [oracle JDK8 : install by apt](01_Ubuntu/02_16/38_Java/03_install_oracle_jdk8_by_apt.md)  
 ║░║░║░╠═4 [oracle JDK8 : install by manually](01_Ubuntu/02_16/38_Java/04_install_oracle_jdk8_by_manually.md)  
 ║░║░║░╚═5 [ubuntu open JDK8 : install by apt](01_Ubuntu/02_16/38_Java/05_install_ubuntu_open_jdk8_by_apt.md)  
-║░║░╠═39 [jenv : Java environment manager. Can't handle same version of Java with other Distribution. Please use sdk](01_Ubuntu/02_16/39_jenv/01_install_and_use_jenv.md)  
+║░║░╠═39 jenv : sdk is better than jenv  
+║░║░║░╠═1 [jenv : install by brew](01_Ubuntu/02_16/39_jenv/01_install_jenv_by_brew.md)  
+║░║░║░╠═2 [jenv : add and set jdk](01_Ubuntu/02_16/39_jenv/02_add_jdk_and_set_jdk_to_jenv.md)  
+║░║░║░╚═3 [jenv : remove jdk to jenv and uninstall jenv by brew](01_Ubuntu/02_16/39_jenv/03_remove_jdk_to_jenv_and_uninstall_jenv_by_brew.md)  
 ║░║░╠═40 [join : merge by 1st column with two files](01_Ubuntu/02_16/40_join/01_join.md)  
 ║░║░╠═41 [Keyboard : korean](01_Ubuntu/02_16/41_Keyboad/01_ubuntu16_keyboard_korean.md)  
 ║░║░╠═42 [Libre Office : remove](01_Ubuntu/02_16/42_LibreOffice/01_remove_LibreOffice.md)   
@@ -217,7 +220,8 @@
 ║░║░╠═66 sdk  
 ║░║░║░╠═1 [insall sdk : Software Development Kit Manager](01_Ubuntu/02_16/66_sdk/01_install_sdk.md)  
 ║░║░║░╠═2 [sdk install JDK](01_Ubuntu/02_16/66_sdk/02_sdk_install_jdk.md)  
-║░║░║░╚═3 [update sdk](01_Ubuntu/02_16/66_sdk/03_update_sdk.md)  
+║░║░║░╠═3 [sdk uninstall JDK](01_Ubuntu/02_16/66_sdk/03_sdk_uninstall_jdk.md)  
+║░║░║░╚═4 [update sdk](01_Ubuntu/02_16/66_sdk/04_update_sdk.md)  
 ║░║░╠═67 sed  
 ║░║░║░╠═1 [remove \^M in text file](01_Ubuntu/02_16/67_sed/01_sed_remove_^M.md)  
 ║░║░║░╠═2 [replace every 3rd comma to semicolon](01_Ubuntu/02_16/67_sed/02_sed_replace_every_3rd_comma_to_semicolon.md)  
