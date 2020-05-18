@@ -1,10 +1,3 @@
-# install jenv by brew
-```{bash}
-$ brew install jenv
-$ echo 'eval "$(jenv init -)"' >> ~/.bashrc
-$ exec $SHELL -l
-```
-
 # add java to jenv
 ```{bash}
 $ jenv add /usr/lib/jvm/java-8-oracle
