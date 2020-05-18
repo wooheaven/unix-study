@@ -1,7 +1,5 @@
-01_Ubuntu/03_18.04/12_Settings/01_Region_Language/01_Enable_Korean_Input.md -> 01_Ubuntu/03_18.04/13_Settings/01_Region_Language/01_Enable_Korean_Input.md
-01_Ubuntu/03_18.04/12_Settings/01_Region_Language/01_Enable_Korean_Input.png -> 01_Ubuntu/03_18.04/13_Settings/01_Region_Language/01_Enable_Korean_Input.png
-01_Ubuntu/03_18.04/13_ssh/01_ssh-keygen.md -> 01_Ubuntu/03_18.04/14_ssh/01_ssh-keygen.md
-01_Ubuntu/03_18.04/14_Startup_Disk_Creator/01_create_bootable_usb_disk.md -> 01_Ubuntu/03_18.04/15_Startup_Disk_Creator/01_create_bootable_usb_disk.md
-01_Ubuntu/03_18.04/15_updates/01_AutomaticSecurityUpdates.md -> 01_Ubuntu/03_18.04/16_updates/01_AutomaticSecurityUpdates.md
-01_Ubuntu/03_18.04/16_vim/03_ETC/01_vimrc_key_mapping.md -> 01_Ubuntu/03_18.04/17_vim/03_ETC/01_vimrc_key_mapping.md
-01_Ubuntu/03_18.04/17_vnc/01_vnc_activate.md -> 01_Ubuntu/03_18.04/18_vnc/01_vnc_activate.md
+01_Ubuntu/02_16/06_awk/07_awk_max_min.md -> 01_Ubuntu/02_16/06_awk/02_awk_max_min.md
+01_Ubuntu/02_16/06_awk/02_awk_rows_to_column.md -> 01_Ubuntu/02_16/06_awk/04_awk_rows_to_column.md
+01_Ubuntu/02_16/06_awk/04_awk_use_external_argument.md -> 01_Ubuntu/02_16/06_awk/05_awk_use_external_argument.md
+01_Ubuntu/02_16/06_awk/06_awk_substr.md -> 01_Ubuntu/02_16/06_awk/07_awk_use_substr.md
+01_Ubuntu/02_16/06_awk/05_awk_use_variable.md -> 01_Ubuntu/02_16/06_awk/08_awk_use_variable.md

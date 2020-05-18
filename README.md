@@ -34,12 +34,13 @@
 ║░║░╠═5 [Arduino : install](01_Ubuntu/02_16/05_Arduino/01_install_arduino_ide.md)  
 ║░║░╠═6 awk  
 ║░║░║░╠═1 [column to rows](01_Ubuntu/02_16/06_awk/01_awk_column_to_rows.md)  
-║░║░║░╠═2 [rows to column](01_Ubuntu/02_16/06_awk/02_awk_rows_to_column.md)  
+║░║░║░╠═2 [max min](01_Ubuntu/02_16/06_awk/02_awk_max_min.md)  
 ║░║░║░╠═3 [remove blank line](01_Ubuntu/02_16/06_awk/03_awk_remove_blank_line.md)  
-║░║░║░╠═4 [use external argument](01_Ubuntu/02_16/06_awk/04_awk_use_external_argument.md)  
-║░║░║░╠═5 [use variable in awk](01_Ubuntu/02_16/06_awk/05_awk_use_variable.md)  
-║░║░║░╠═6 [substr](01_Ubuntu/02_16/06_awk/06_awk_substr.md)  
-║░║░║░╚═7 [max min](01_Ubuntu/02_16/06_awk/07_awk_max_min.md)  
+║░║░║░╠═4 [rows to column](01_Ubuntu/02_16/06_awk/04_awk_rows_to_column.md)  
+║░║░║░╠═5 [use external argument](01_Ubuntu/02_16/06_awk/05_awk_use_external_argument.md)  
+║░║░║░╠═6 [length](01_Ubuntu/02_16/06_awk/06_awk_use_length.md)  
+║░║░║░╠═7 [substr](01_Ubuntu/02_16/06_awk/07_awk_use_substr.md)  
+║░║░║░╚═8 [use variable in awk](01_Ubuntu/02_16/06_awk/08_awk_use_variable.md)  
 ║░║░╠═7 bash  
 ║░║░║░╠═1 [bash prombt](01_Ubuntu/02_16/07_bash/01_bashrc_PS1_bash_prombt.md)  
 ║░║░║░╠═2 [check current shell](01_Ubuntu/02_16/07_bash/02_check_current_shell.md)  
