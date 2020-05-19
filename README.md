@@ -143,11 +143,8 @@
 ║░║░╠═36 IntelliJ  
 ║░║░║░╚═1 [IBus Config](01_Ubuntu/02_16/36_IntelliJ/01_IBus_Config_for_IntelliJ.md)  
 ║░║░╠═37 Java  
-║░║░║░╠═1 [amazon corretto open JDK8 : install by manually](01_Ubuntu/02_16/37_Java/01_install_amazon_corretto_open_jdk8_by_manual.md)  
-║░║░║░╠═2 [oracle JDK7 : install by manually](01_Ubuntu/02_16/37_Java/02_install_oracle_jdk7_by_manually.md)  
-║░║░║░╠═3 [oracle JDK8 : install by apt](01_Ubuntu/02_16/37_Java/03_install_oracle_jdk8_by_apt.md)  
-║░║░║░╠═4 [oracle JDK8 : install by manually](01_Ubuntu/02_16/37_Java/04_install_oracle_jdk8_by_manually.md)  
-║░║░║░╚═5 [ubuntu open JDK8 : install by apt](01_Ubuntu/02_16/37_Java/05_install_ubuntu_open_jdk8_by_apt.md)  
+║░║░║░╠═1 [install JDK by manually](01_Ubuntu/02_16/37_Java/01_install_jdk_by_manually.md)  
+║░║░║░╚═2 [install JDK by apt](01_Ubuntu/02_16/37_Java/02_install_ubuntu_open_jdk8_by_apt.md)  
 ║░║░╠═38 jenv : sdk is better than jenv  
 ║░║░║░╠═1 [jenv : install by brew](01_Ubuntu/02_16/38_jenv/01_install_jenv_by_brew.md)  
 ║░║░║░╠═2 [jenv : add and set jdk](01_Ubuntu/02_16/38_jenv/02_add_jdk_and_set_jdk_to_jenv.md)  
