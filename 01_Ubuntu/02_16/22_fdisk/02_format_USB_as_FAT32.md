@@ -1,9 +1,5 @@
-[ref url 1](https://www.redips.net/linux/create-fat32-usb-drive/)
-
-[ref url 2](http://jrpickeral.com/?tag=w95-fat32-lba)
-
-
-```{bash}
+# check mount and umount
+```
 $ ls -la /dev/disk/by-id/
 total 0
 drwxr-xr-x 2 root root 400 11월 14 08:44 .
@@ -38,6 +34,11 @@ tmpfs          tmpfs     4.2G     0  4.2G   0% /sys/fs/cgroup
 tmpfs          tmpfs     826M   58k  826M   1% /run/user/1000
 /dev/sdc1      vfat      4.1G  4.1k  4.1G   1% /media/rwoo/BB56-59BA
 
+$ lsblk
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sdc      8:16   1   4.1G  0 disk 
+└─sdc1   8:17   1   4.1G  0 part /media/rwoo/BB56-59BA
+
 $ sudo umount /dev/sdc1
 
 $ df -HT
@@ -50,6 +51,14 @@ tmpfs          tmpfs     5.3M  4.1k  5.3M   1% /run/lock
 tmpfs          tmpfs     4.2G     0  4.2G   0% /sys/fs/cgroup
 tmpfs          tmpfs     826M   58k  826M   1% /run/user/1000
 
+$ lsblk
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sdc      8:16   1   4.1G  0 disk 
+└─sdc1   8:17   1   4.1G  0 part 
+```
+
+# partitioning by fdisk
+```
 $ sudo fdisk /dev/sdc
 Command (m for help): p
 Disk /dev/sdc: 3.8 GiB, 4051697664 bytes, 7913472 sectors
@@ -145,24 +154,16 @@ Device     Boot Start     End Sectors  Size Id Type
 
 Command (m for help): w
 The partition table has been altered.
-Calling ioctl() to re-read partition table.
-Re-reading the partition table failed.: Device or resource busy
+```
 
-$ sudo partprobe -s
-/dev/sda: msdos partitions 1 2 <5 6> 3
-/dev/sdb: msdos partitions 1
-/dev/sdc: msdos partitions 1
-
-$ sudo partx -s -v /dev/sdc
-partition: none, disk: /dev/sdc, lower: 0, upper: 0
-/dev/sdc: partition table type 'dos' detected
-NR START     END SECTORS SIZE NAME UUID
- 1  2048 7913471 7911424 3.8G      c3072e18-01
-
+# format as FAT32 file-system
+```
 $ sudo mkfs -t vfat -n 'USB-DISK' -I /dev/sdc1
 mkfs.fat 3.0.28 (2015-05-16)
+```
 
 # Eject and re-insert USB
+```
 $ df -HT
 Filesystem     Type      Size  Used Avail Use% Mounted on
 udev           devtmpfs  4.2G     0  4.2G   0% /dev
