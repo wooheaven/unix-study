@@ -298,35 +298,37 @@
 ║░░░║░╠═1 [install brew : on Ubuntu18](01_Ubuntu/03_18.04/06_brew/01_install_brew/01_install_brew_and_configure.md)  
 ║░░░║░╚═2 brew install package  
 ║░░░║░░░╚═1 brew install [git](01_Ubuntu/03_18.04/06_brew/02_install_package/01_brew_install_git.md) [vim](01_Ubuntu/03_18.04/06_brew/02_install_package/02_brew_install_vim.md)  
-║░░░╠═7 desktop  
-║░░░║░╠═1 [guide Ubuntu18 partition for directory](01_Ubuntu/03_18.04/07_desktop/01_guide_ubuntu18_partition_for_directory.md)  
-║░░░║░╠═2 [install Ubuntu18 desktop ref](01_Ubuntu/03_18.04/07_desktop/02_install_ubuntu18_desktop.md)  
-║░░░║░╠═3 [Ubuntu18 hardware](01_Ubuntu/03_18.04/07_desktop/03_install_ubuntu18_hardware.md)  
-║░░░║░╠═4 [partition and HDD structure](01_Ubuntu/03_18.04/07_desktop/04_install_ubuntu18_partition.md)  
-║░░░║░╚═5 [partition for dual boot](01_Ubuntu/03_18.04/07_desktop/05_install_ubuntu18_with_dual_windows10.md)  
-║░░░╠═8 GIMP  
-║░░░║░╠═1 install GIMP [by snap](01_Ubuntu/03_18.04/08_GIMP/01_install_GIMP/01_install_Gimp.md)  
+║░░░╠═7 clipit  
+║░░░║░╚═1 [install clipit by apt-get : clip board app](01_Ubuntu/03_18.04/07_clipit/01_install_clipit_by_apt-get.md)  
+║░░░╠═8 desktop  
+║░░░║░╠═1 [guide Ubuntu18 partition for directory](01_Ubuntu/03_18.04/08_desktop/01_guide_ubuntu18_partition_for_directory.md)  
+║░░░║░╠═2 [install Ubuntu18 desktop ref](01_Ubuntu/03_18.04/08_desktop/02_install_ubuntu18_desktop.md)  
+║░░░║░╠═3 [Ubuntu18 hardware](01_Ubuntu/03_18.04/08_desktop/03_install_ubuntu18_hardware.md)  
+║░░░║░╠═4 [partition and HDD structure](01_Ubuntu/03_18.04/08_desktop/04_install_ubuntu18_partition.md)  
+║░░░║░╚═5 [partition for dual boot](01_Ubuntu/03_18.04/08_desktop/05_install_ubuntu18_with_dual_windows10.md)  
+║░░░╠═9 GIMP  
+║░░░║░╠═1 install GIMP [by snap](01_Ubuntu/03_18.04/09_GIMP/01_install_GIMP/01_install_Gimp.md)  
 ║░░░║░╚═2 use GIMP  
-║░░░║░░░╠═1 [add box on PNG image file](01_Ubuntu/03_18.04/08_GIMP/02_use_GIMP/01_add_box_on_png.md)  
-║░░░║░░░╚═2 [Export As PNG image file](01_Ubuntu/03_18.04/08_GIMP/02_use_GIMP/02_export_as_png.md)  
-║░░░╠═9 GNOME [Mouse Right Click to create Empty Document](01_Ubuntu/03_18.04/09_GNOME/01_add_right_click_menu_by_Template.md)  
-║░░░╠═10 Kubeflow : [install](01_Ubuntu/03_18.04/10_Kubeflow/01_install_Kubeflow.md)  
-║░░░╠═11 NVIDIA  
-║░░░║░╠═1 [install nvidia container toolkit](01_Ubuntu/03_18.04/11_NVIDIA/01_container-toolkit/01_install_nvidia-container-toolkit.md)  
-║░░░║░╚═2 [install nvidia driver and CUDA](01_Ubuntu/03_18.04/11_NVIDIA/02_driver_CUDA/01_install_nvidia_driver_cuda.md)  
-║░░░╠═12 sdk  
-║░░░║░╠═1 [insall sdk : Software Development Kit Manager](01_Ubuntu/03_18.04/12_sdk/01_install_sdk.md)  
-║░░░║░╠═2 [sdk install JDK](01_Ubuntu/03_18.04/12_sdk/02_sdk_install_jdk.md)  
-║░░░║░╠═3 [sdk uninstall JDK](01_Ubuntu/03_18.04/12_sdk/03_sdk_uninstall_jdk.md)  
-║░░░║░╚═4 [update sdk](01_Ubuntu/03_18.04/12_sdk/04_update_sdk.md)  
-║░░░╠═13 [settings : enable korean](01_Ubuntu/03_18.04/13_Settings/01_Region_Language/01_Enable_Korean_Input.md)  
-║░░░╠═14 ssh  
-║░░░║░╠═1 [install](01_Ubuntu/03_18.04/14_ssh/01_install_ssh.md)  
-║░░░║░╚═2 [ssh-key : ssh login without passowrd](01_Ubuntu/03_18.04/14_ssh/02_ssh-keygen_and_add_publicKey_to_server.md)  
-║░░░╠═15 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/03_18.04/15_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
-║░░░╠═16 [update : automatic security update](01_Ubuntu/03_18.04/16_updates/01_AutomaticSecurityUpdates.md)  
-║░░░╠═17 [vimrc : non-recurcive normal mode key mapping](01_Ubuntu/03_18.04/17_vim/03_ETC/01_vimrc_key_mapping.md)  
-║░░░╚═18 [vnc : activate](01_Ubuntu/03_18.04/18_vnc/01_vnc_activate.md)  
+║░░░║░░░╠═1 [add box on PNG image file](01_Ubuntu/03_18.04/09_GIMP/02_use_GIMP/01_add_box_on_png.md)  
+║░░░║░░░╚═2 [Export As PNG image file](01_Ubuntu/03_18.04/09_GIMP/02_use_GIMP/02_export_as_png.md)  
+║░░░╠═10 GNOME [Mouse Right Click to create Empty Document](01_Ubuntu/03_18.04/10_GNOME/01_add_right_click_menu_by_Template.md)  
+║░░░╠═11 Kubeflow : [install](01_Ubuntu/03_18.04/11_Kubeflow/01_install_Kubeflow.md)  
+║░░░╠═12 NVIDIA  
+║░░░║░╠═1 [install nvidia container toolkit](01_Ubuntu/03_18.04/12_NVIDIA/01_container-toolkit/01_install_nvidia-container-toolkit.md)  
+║░░░║░╚═2 [install nvidia driver and CUDA](01_Ubuntu/03_18.04/12_NVIDIA/02_driver_CUDA/01_install_nvidia_driver_cuda.md)  
+║░░░╠═13 sdk  
+║░░░║░╠═1 [insall sdk : Software Development Kit Manager](01_Ubuntu/03_18.04/13_sdk/01_install_sdk.md)  
+║░░░║░╠═2 [sdk install JDK](01_Ubuntu/03_18.04/13_sdk/02_sdk_install_jdk.md)  
+║░░░║░╠═3 [sdk uninstall JDK](01_Ubuntu/03_18.04/13_sdk/03_sdk_uninstall_jdk.md)  
+║░░░║░╚═4 [update sdk](01_Ubuntu/03_18.04/13_sdk/04_update_sdk.md)  
+║░░░╠═14 [settings : enable korean](01_Ubuntu/03_18.04/14_Settings/01_Region_Language/01_Enable_Korean_Input.md)  
+║░░░╠═15 ssh  
+║░░░║░╠═1 [install](01_Ubuntu/03_18.04/15_ssh/01_install_ssh.md)  
+║░░░║░╚═2 [ssh-key : ssh login without passowrd](01_Ubuntu/03_18.04/15_ssh/02_ssh-keygen_and_add_publicKey_to_server.md)  
+║░░░╠═16 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/03_18.04/16_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
+║░░░╠═17 [update : automatic security update](01_Ubuntu/03_18.04/17_updates/01_AutomaticSecurityUpdates.md)  
+║░░░╠═18 [vimrc : non-recurcive normal mode key mapping](01_Ubuntu/03_18.04/18_vim/03_ETC/01_vimrc_key_mapping.md)  
+║░░░╚═19 [vnc : activate](01_Ubuntu/03_18.04/19_vnc/01_vnc_activate.md)  
 ╠═2 CentOS  
 ║░╚═1 CentOS 6.9  
 ║░░░╠═1 [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)  
