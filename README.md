@@ -327,7 +327,9 @@
 ║░░░║░╚═2 [ssh-key : ssh login without passowrd](01_Ubuntu/03_18.04/15_ssh/02_ssh-keygen_and_add_publicKey_to_server.md)  
 ║░░░╠═16 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/03_18.04/16_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
 ║░░░╠═17 [update : automatic security update](01_Ubuntu/03_18.04/17_updates/01_AutomaticSecurityUpdates.md)  
-║░░░╠═18 [vimrc : non-recurcive normal mode key mapping](01_Ubuntu/03_18.04/18_vim/03_ETC/01_vimrc_key_mapping.md)  
+║░░░╠═18 vim  
+║░░░║░╠═1 [Mapping between vim key and keyboard](01_Ubuntu/03_18.04/18_vim/03_ETC/01_vimrc_key_mapping.md)  
+║░░░║░╚═2 [Enable BackSpace on INSERT mode](01_Ubuntu/03_18.04/18_vim/03_ETC/02_Enable_BackSpace_on_INSERT_mode.md)  
 ║░░░╚═19 [vnc : activate](01_Ubuntu/03_18.04/19_vnc/01_vnc_activate.md)  
 ╠═2 CentOS  
 ║░╚═1 CentOS 6.9  
