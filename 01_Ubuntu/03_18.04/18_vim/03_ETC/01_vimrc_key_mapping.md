@@ -1,11 +1,14 @@
 # non-recursive nomal mode key mapping on vimrc
 ```
 $ cat ~/.vimrc
-".GitLab.Commit.Message."$
-nnoremap.@c.<Esc>:5,5s/;.On.branch./#/<Enter>o```<Esc>:10,$s/;\t//<Enter><Esc>:$,$s/;/```/<Enter><Esc>
+" git commit
+let @c=':5,5s/;.On.branch./#/6Go```:9,$s/;\t//Go```'
+
+" back space works on --INSERT--
+set backspace=indent,eol,start
 ```
 
-# vim key and keyboard
+# Mapping between [vim key] and [keyboard]
 ```
 <BS>		Backspace
 <Tab>		Tab
