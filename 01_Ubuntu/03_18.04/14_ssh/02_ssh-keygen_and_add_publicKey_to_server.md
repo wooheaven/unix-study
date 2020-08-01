@@ -56,3 +56,21 @@ sudo service ssh restart
 ```{bash}
 ssh user@host
 ```
+
+# Check ssh-key on GitHub
+```
+$ ssh -T git@github.com
+Hi wooheaven! You've successfully authenticated, but GitHub does not provide shell access.
+```
+
+# Check ssh-key on GitLab
+```
+$ ssh -T git@github.com
+Welcome to GitLab, @wooheaven!
+```
+
+# Check ssh-key on local hosting GitLab
+```
+$ ssh -T -p 122 git@localhost
+Welcome to GitLab, @woo!
+```
