@@ -82,10 +82,9 @@
 ║░║░╠═23 find  
 ║░║░║░╠═1 [find file and sed CRLF to LF](01_Ubuntu/02_16/23_find/01_find_and_sed_move_CRLF_to_LF.md)  
 ║░║░║░╠═2 [find file and sed TAB to 4SPACES](01_Ubuntu/02_16/23_find/02_find_and_sed_move_TAB_to_4SPACES.md)  
-║░║░║░╠═3 [find exclude](01_Ubuntu/02_16/23_find/03_find_exclude.md)  
-║░║░║░╠═4 [find with basename](01_Ubuntu/02_16/23_find/04_find_with_basename.md)  
-║░║░║░╠═5 [find with size](01_Ubuntu/02_16/23_find/05_find_with_fileSize.md)  
-║░║░║░╚═6 [find with maxdepth](01_Ubuntu/02_16/23_find/06_find_with_maxdepth.md)  
+║░║░║░╠═3 [find with basename](01_Ubuntu/02_16/23_find/04_find_with_basename.md)  
+║░║░║░╠═4 [find with size](01_Ubuntu/02_16/23_find/05_find_with_fileSize.md)  
+║░║░║░╚═5 [find with maxdepth](01_Ubuntu/02_16/23_find/06_find_with_maxdepth.md)  
 ║░║░╠═24 firefox  
 ║░║░║░╠═1 [downgrade and upgrade](01_Ubuntu/02_16/24_firefox/01_firefox_downgrade_57_to_45.md)  
 ║░║░║░╠═2 [font change](01_Ubuntu/02_16/24_firefox/02_font.md)  
@@ -306,31 +305,34 @@
 ║░░░║░╠═3 [Ubuntu18 hardware](01_Ubuntu/03_18.04/08_desktop/03_install_ubuntu18_hardware.md)  
 ║░░░║░╠═4 [partition and HDD structure](01_Ubuntu/03_18.04/08_desktop/04_install_ubuntu18_partition.md)  
 ║░░░║░╚═5 [partition for dual boot](01_Ubuntu/03_18.04/08_desktop/05_install_ubuntu18_with_dual_windows10.md)  
-║░░░╠═9 GIMP  
-║░░░║░╠═1 install GIMP [by snap](01_Ubuntu/03_18.04/09_GIMP/01_install_GIMP/01_install_Gimp.md)  
+║░░░╠═9 find  
+║░░░║░╠═1 [find with exclude a file or folder](01_Ubuntu/03_18.04/09_find/01_find_exclude_a_file_or_folder.md)  
+║░░░║░╚═2 [find with exclude a Permission Denied folder](01_Ubuntu/03_18.04/09_find/02_find_exclude_Permission_Denied_folder.md)  
+║░░░╠═10 GIMP  
+║░░░║░╠═1 install GIMP [by snap](01_Ubuntu/03_18.04/10_GIMP/01_install_GIMP/01_install_Gimp.md)  
 ║░░░║░╚═2 use GIMP  
-║░░░║░░░╠═1 [add box on PNG image file](01_Ubuntu/03_18.04/09_GIMP/02_use_GIMP/01_add_box_on_png.md)  
-║░░░║░░░╚═2 [Export As PNG image file](01_Ubuntu/03_18.04/09_GIMP/02_use_GIMP/02_export_as_png.md)  
-║░░░╠═10 GNOME [Mouse Right Click to create Empty Document](01_Ubuntu/03_18.04/10_GNOME/01_add_right_click_menu_by_Template.md)  
-║░░░╠═11 Kubeflow : [install](01_Ubuntu/03_18.04/11_Kubeflow/01_install_Kubeflow.md)  
-║░░░╠═12 NVIDIA  
-║░░░║░╠═1 [install nvidia container toolkit](01_Ubuntu/03_18.04/12_NVIDIA/01_container-toolkit/01_install_nvidia-container-toolkit.md)  
-║░░░║░╚═2 [install nvidia driver and CUDA](01_Ubuntu/03_18.04/12_NVIDIA/02_driver_CUDA/01_install_nvidia_driver_cuda.md)  
-║░░░╠═13 sdk  
-║░░░║░╠═1 [insall sdk : Software Development Kit Manager](01_Ubuntu/03_18.04/13_sdk/01_install_sdk.md)  
-║░░░║░╠═2 [sdk install JDK](01_Ubuntu/03_18.04/13_sdk/02_sdk_install_jdk.md)  
-║░░░║░╠═3 [sdk uninstall JDK](01_Ubuntu/03_18.04/13_sdk/03_sdk_uninstall_jdk.md)  
-║░░░║░╚═4 [update sdk](01_Ubuntu/03_18.04/13_sdk/04_update_sdk.md)  
-║░░░╠═14 [settings : enable korean](01_Ubuntu/03_18.04/14_Settings/01_Region_Language/01_Enable_Korean_Input.md)  
-║░░░╠═15 ssh  
-║░░░║░╠═1 [install](01_Ubuntu/03_18.04/15_ssh/01_install_ssh.md)  
-║░░░║░╚═2 [ssh-key : ssh login without passowrd](01_Ubuntu/03_18.04/15_ssh/02_ssh-keygen_and_add_publicKey_to_server.md)  
-║░░░╠═16 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/03_18.04/16_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
-║░░░╠═17 [update : automatic security update](01_Ubuntu/03_18.04/17_updates/01_AutomaticSecurityUpdates.md)  
-║░░░╠═18 vim  
-║░░░║░╠═1 [Mapping between vim key and keyboard](01_Ubuntu/03_18.04/18_vim/03_ETC/01_vimrc_key_mapping.md)  
-║░░░║░╚═2 [Enable BackSpace on INSERT mode](01_Ubuntu/03_18.04/18_vim/03_ETC/02_Enable_BackSpace_on_INSERT_mode.md)  
-║░░░╚═19 [vnc : activate](01_Ubuntu/03_18.04/19_vnc/01_vnc_activate.md)  
+║░░░║░░░╠═1 [add box on PNG image file](01_Ubuntu/03_18.04/10_GIMP/02_use_GIMP/01_add_box_on_png.md)  
+║░░░║░░░╚═2 [Export As PNG image file](01_Ubuntu/03_18.04/10_GIMP/02_use_GIMP/02_export_as_png.md)  
+║░░░╠═11 GNOME [Mouse Right Click to create Empty Document](01_Ubuntu/03_18.04/11_GNOME/01_add_right_click_menu_by_Template.md)  
+║░░░╠═12 Kubeflow : [install](01_Ubuntu/03_18.04/12_Kubeflow/01_install_Kubeflow.md)  
+║░░░╠═13 NVIDIA  
+║░░░║░╠═1 [install nvidia container toolkit](01_Ubuntu/03_18.04/13_NVIDIA/01_container-toolkit/01_install_nvidia-container-toolkit.md)  
+║░░░║░╚═2 [install nvidia driver and CUDA](01_Ubuntu/03_18.04/13_NVIDIA/02_driver_CUDA/01_install_nvidia_driver_cuda.md)  
+║░░░╠═14 sdk  
+║░░░║░╠═1 [insall sdk : Software Development Kit Manager](01_Ubuntu/03_18.04/14_sdk/01_install_sdk.md)  
+║░░░║░╠═2 [sdk install JDK](01_Ubuntu/03_18.04/14_sdk/02_sdk_install_jdk.md)  
+║░░░║░╠═3 [sdk uninstall JDK](01_Ubuntu/03_18.04/14_sdk/03_sdk_uninstall_jdk.md)  
+║░░░║░╚═4 [update sdk](01_Ubuntu/03_18.04/14_sdk/04_update_sdk.md)  
+║░░░╠═15 [settings : enable korean](01_Ubuntu/03_18.04/15_Settings/01_Region_Language/01_Enable_Korean_Input.md)  
+║░░░╠═16 ssh  
+║░░░║░╠═1 [install](01_Ubuntu/03_18.04/16_ssh/01_install_ssh.md)  
+║░░░║░╚═2 [ssh-key : ssh login without passowrd](01_Ubuntu/03_18.04/16_ssh/02_ssh-keygen_and_add_publicKey_to_server.md)  
+║░░░╠═17 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/03_18.04/17_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
+║░░░╠═18 [update : automatic security update](01_Ubuntu/03_18.04/18_updates/01_AutomaticSecurityUpdates.md)  
+║░░░╠═19 vim  
+║░░░║░╠═1 [Mapping between vim key and keyboard](01_Ubuntu/03_18.04/19_vim/03_ETC/01_vimrc_key_mapping.md)  
+║░░░║░╚═2 [Enable BackSpace on INSERT mode](01_Ubuntu/03_18.04/19_vim/03_ETC/02_Enable_BackSpace_on_INSERT_mode.md)  
+║░░░╚═20 [vnc : activate](01_Ubuntu/03_18.04/20_vnc/01_vnc_activate.md)  
 ╠═2 CentOS  
 ║░╚═1 CentOS 6.9  
 ║░░░╠═1 [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)  
