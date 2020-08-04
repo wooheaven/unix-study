@@ -225,8 +225,7 @@
 ║░║░║░╠═2 CmdLine-Mode  
 ║░║░║░║░╠═1 [Move Line](01_Ubuntu/02_16/81_vim/03_CmdLine-Mode/01_Move_Line_Up_and_Down.md)  
 ║░║░║░║░╠═2 [save as other file](01_Ubuntu/02_16/81_vim/03_CmdLine-Mode/02_vim_save_as_other_File.md)  
-║░║░║░║░╠═3 [CRLF to LF](01_Ubuntu/02_16/81_vim/03_CmdLine-Mode/03_vim_CRLF_to_LF.md)  
-║░║░║░║░╚═4 [Repeat latest command on CmdLine-Mode](01_Ubuntu/02_16/81_vim/03_CmdLine-Mode/04_Repeat_Latest.md)  
+║░║░║░║░╚═3 [Repeat latest command on CmdLine-Mode](01_Ubuntu/02_16/81_vim/03_CmdLine-Mode/03_Repeat_Latest.md)  
 ║░║░║░╚═3 ETC  
 ║░║░║░░░╠═1 [vim diff](01_Ubuntu/02_16/81_vim/04_ETC/01_vim_diff.md)  
 ║░║░║░░░╠═2 [vim diff refresh](01_Ubuntu/02_16/81_vim/04_ETC/02_vim_diff_refresh.md)  
@@ -330,8 +329,12 @@
 ║░░░╠═17 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/03_18.04/17_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
 ║░░░╠═18 [update : automatic security update](01_Ubuntu/03_18.04/18_updates/01_AutomaticSecurityUpdates.md)  
 ║░░░╠═19 vim  
-║░░░║░╠═1 [Mapping between vim key and keyboard](01_Ubuntu/03_18.04/19_vim/03_ETC/01_vimrc_key_mapping.md)  
-║░░░║░╚═2 [Enable BackSpace on INSERT mode](01_Ubuntu/03_18.04/19_vim/03_ETC/02_Enable_BackSpace_on_INSERT_mode.md)  
+║░░░║░╠═1 CmdLine Mode  
+║░░░║░║░╠═1 [CRLF to LF](01_Ubuntu/03_18.04/19_vim/01_CmdLine_Mode/01_vim_CRLF_to_LF.md)  
+║░░░║░║░╚═2 [CmdLine Mode Regular Expression](01_Ubuntu/03_18.04/19_vim/01_CmdLine_Mode/02_vim_CmdLine_Mode_Regular_Expression.md)  
+║░░░║░╚═2 ETC  
+║░░░║░░░╠═1 [Mapping between vim key and keyboard](01_Ubuntu/03_18.04/19_vim/02_ETC/01_vimrc_key_mapping.md)  
+║░░░║░░░╚═2 [Enable BackSpace on INSERT mode](01_Ubuntu/03_18.04/19_vim/02_ETC/02_Enable_BackSpace_on_INSERT_mode.md)  
 ║░░░╚═20 [vnc : activate](01_Ubuntu/03_18.04/20_vnc/01_vnc_activate.md)  
 ╠═2 CentOS  
 ║░╚═1 CentOS 6.9  
