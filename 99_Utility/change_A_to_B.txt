@@ -1,3 +1,2 @@
-01_Ubuntu/03_18.04/19_vim/02_CmdLine_Mode/01_vim_CRLF_to_LF.md -> 01_Ubuntu/03_18.04/19_vim/01_CmdLine_Mode/01_vim_CRLF_to_LF.md
-01_Ubuntu/03_18.04/19_vim/03_ETC/01_vimrc_key_mapping.md -> 01_Ubuntu/03_18.04/19_vim/02_ETC/01_vimrc_key_mapping.md
-01_Ubuntu/03_18.04/19_vim/03_ETC/02_Enable_BackSpace_on_INSERT_mode.md -> 01_Ubuntu/03_18.04/19_vim/02_ETC/02_Enable_BackSpace_on_INSERT_mode.md
+01_Ubuntu/03_18.04/15_sed/02_command_option.md -> 01_Ubuntu/03_18.04/15_sed/02_command_option/01_command_option_d_p_q.md
+01_Ubuntu/03_18.04/15_sed/03_command_option_s.md -> 01_Ubuntu/03_18.04/15_sed/02_command_option/02_command_option_s.md
