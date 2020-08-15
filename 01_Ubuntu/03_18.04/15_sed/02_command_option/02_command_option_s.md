@@ -1,4 +1,5 @@
-```bash
+# command option s : replace string to newString
+```
 $ cat input.txt
 1,
 2,

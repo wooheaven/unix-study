@@ -180,8 +180,7 @@
 ║░║░╠═63 sed  
 ║░║░║░╠═1 [remove \^M in text file](01_Ubuntu/02_16/63_sed/01_sed_remove_^M.md)  
 ║░║░║░╠═2 [replace every 3rd comma to semicolon](01_Ubuntu/02_16/63_sed/02_sed_replace_every_3rd_comma_to_semicolon.md)  
-║░║░║░╠═3 [space regular expression](01_Ubuntu/02_16/63_sed/03_sed_space_regular_expression.md)  
-║░║░║░╚═4 [replace last string](01_Ubuntu/02_16/63_sed/04_sed_replace_last_string.md)  
+║░║░║░╚═3 [space regular expression](01_Ubuntu/02_16/63_sed/03_sed_space_regular_expression.md)  
 ║░║░╠═64 snap  
 ║░║░║░╠═1 [snap : install anbox](01_Ubuntu/02_16/64_snap/01_snap_install_anbox.md)  
 ║░║░║░╠═2 [snap : install intellij](01_Ubuntu/02_16/64_snap/02_snap_install_intellij.md)  
@@ -322,20 +321,25 @@
 ║░░░║░╠═2 [sdk install JDK](01_Ubuntu/03_18.04/14_sdk/02_sdk_install_jdk.md)  
 ║░░░║░╠═3 [sdk uninstall JDK](01_Ubuntu/03_18.04/14_sdk/03_sdk_uninstall_jdk.md)  
 ║░░░║░╚═4 [update sdk](01_Ubuntu/03_18.04/14_sdk/04_update_sdk.md)  
-║░░░╠═15 [settings : enable korean](01_Ubuntu/03_18.04/15_Settings/01_Region_Language/01_Enable_Korean_Input.md)  
-║░░░╠═16 ssh  
-║░░░║░╠═1 [install](01_Ubuntu/03_18.04/16_ssh/01_install_ssh.md)  
-║░░░║░╚═2 [ssh-key : ssh login without passowrd](01_Ubuntu/03_18.04/16_ssh/02_ssh-keygen_and_add_publicKey_to_server.md)  
-║░░░╠═17 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/03_18.04/17_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
-║░░░╠═18 [update : automatic security update](01_Ubuntu/03_18.04/18_updates/01_AutomaticSecurityUpdates.md)  
-║░░░╠═19 vim  
+║░░░╠═15 sed  
+║░░░║░╠═1 command line option [-n no-autoprint](01_Ubuntu/03_18.04/15_sed/01_command_line_option.md)  
+║░░░║░╚═2 command option  
+║░░░║░░░╠═1 [d delete, p print, q exit](01_Ubuntu/03_18.04/15_sed/02_command_option/01_command_option_d_p_q.md)  
+║░░░║░░░╚═2 [s replace string to newString](01_Ubuntu/03_18.04/15_sed/02_command_option/02_command_option_s.md)  
+║░░░╠═16 [settings : enable korean](01_Ubuntu/03_18.04/16_Settings/01_Region_Language/01_Enable_Korean_Input.md)  
+║░░░╠═17 ssh  
+║░░░║░╠═1 [install](01_Ubuntu/03_18.04/17_ssh/01_install_ssh.md)  
+║░░░║░╚═2 [ssh-key : ssh login without passowrd](01_Ubuntu/03_18.04/17_ssh/02_ssh-keygen_and_add_publicKey_to_server.md)  
+║░░░╠═18 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/03_18.04/18_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
+║░░░╠═19 [update : automatic security update](01_Ubuntu/03_18.04/19_updates/01_AutomaticSecurityUpdates.md)  
+║░░░╠═20 vim  
 ║░░░║░╠═1 CmdLine Mode  
-║░░░║░║░╠═1 [CRLF to LF](01_Ubuntu/03_18.04/19_vim/01_CmdLine_Mode/01_vim_CRLF_to_LF.md)  
-║░░░║░║░╚═2 [CmdLine Mode Regular Expression](01_Ubuntu/03_18.04/19_vim/01_CmdLine_Mode/02_vim_CmdLine_Mode_Regular_Expression.md)  
+║░░░║░║░╠═1 [CRLF to LF](01_Ubuntu/03_18.04/20_vim/01_CmdLine_Mode/01_vim_CRLF_to_LF.md)  
+║░░░║░║░╚═2 [CmdLine Mode Regular Expression](01_Ubuntu/03_18.04/20_vim/01_CmdLine_Mode/02_vim_CmdLine_Mode_Regular_Expression.md)  
 ║░░░║░╚═2 ETC  
-║░░░║░░░╠═1 [Mapping between vim key and keyboard](01_Ubuntu/03_18.04/19_vim/02_ETC/01_vimrc_key_mapping.md)  
-║░░░║░░░╚═2 [Enable BackSpace on INSERT mode](01_Ubuntu/03_18.04/19_vim/02_ETC/02_Enable_BackSpace_on_INSERT_mode.md)  
-║░░░╚═20 [vnc : activate](01_Ubuntu/03_18.04/20_vnc/01_vnc_activate.md)  
+║░░░║░░░╠═1 [Mapping between vim key and keyboard](01_Ubuntu/03_18.04/20_vim/02_ETC/01_vimrc_key_mapping.md)  
+║░░░║░░░╚═2 [Enable BackSpace on INSERT mode](01_Ubuntu/03_18.04/20_vim/02_ETC/02_Enable_BackSpace_on_INSERT_mode.md)  
+║░░░╚═21 [vnc : activate](01_Ubuntu/03_18.04/21_vnc/01_vnc_activate.md)  
 ╠═2 CentOS  
 ║░╚═1 CentOS 6.9  
 ║░░░╠═1 [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)  
