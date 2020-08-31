@@ -311,7 +311,9 @@
 ║░░░║░╚═2 use GIMP  
 ║░░░║░░░╠═1 [add box on PNG image file](01_Ubuntu/03_18.04/10_GIMP/02_use_GIMP/01_add_box_on_png.md)  
 ║░░░║░░░╚═2 [Export As PNG image file](01_Ubuntu/03_18.04/10_GIMP/02_use_GIMP/02_export_as_png.md)  
-║░░░╠═11 GNOME [Mouse Right Click to create Empty Document](01_Ubuntu/03_18.04/11_GNOME/01_add_right_click_menu_by_Template.md)  
+║░░░╠═11 GNOME  
+║░░░║░░░╠═1 [Mouse Right Click to create Empty Document](01_Ubuntu/03_18.04/11_GNOME/01_right_click_empty_file_by_Template.md)  
+║░░░║░░░╚═2 [Mouse Right Click to open terminal](01_Ubuntu/03_18.04/11_GNOME/02_open_terminal_on_mouse_right_click.md)  
 ║░░░╠═12 Kubeflow : [install](01_Ubuntu/03_18.04/12_Kubeflow/01_install_Kubeflow.md)  
 ║░░░╠═13 NVIDIA  
 ║░░░║░╠═1 [install nvidia container toolkit](01_Ubuntu/03_18.04/13_NVIDIA/01_container-toolkit/01_install_nvidia-container-toolkit.md)  
