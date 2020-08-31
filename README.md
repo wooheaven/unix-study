@@ -322,10 +322,12 @@
 ║░░░║░╠═3 [sdk uninstall JDK](01_Ubuntu/03_18.04/14_sdk/03_sdk_uninstall_jdk.md)  
 ║░░░║░╚═4 [update sdk](01_Ubuntu/03_18.04/14_sdk/04_update_sdk.md)  
 ║░░░╠═15 sed  
-║░░░║░╠═1 command line option [-n no-autoprint](01_Ubuntu/03_18.04/15_sed/01_command_line_option.md)  
+║░░░║░╠═1 command line option [-n : no-autoprint](01_Ubuntu/03_18.04/15_sed/01_command_line_option.md)  
 ║░░░║░╚═2 command option  
-║░░░║░░░╠═1 [d delete, p print, q exit](01_Ubuntu/03_18.04/15_sed/02_command_option/01_command_option_d_p_q.md)  
-║░░░║░░░╚═2 [s replace string to newString](01_Ubuntu/03_18.04/15_sed/02_command_option/02_command_option_s.md)  
+║░░░║░░░╠═1 [d : delete](01_Ubuntu/03_18.04/15_sed/02_command_option/01_command_option_d.md)  
+║░░░║░░░╠═2 [p : print](01_Ubuntu/03_18.04/15_sed/02_command_option/02_command_option_p.md)  
+║░░░║░░░╠═3 [q : exit](01_Ubuntu/03_18.04/15_sed/02_command_option/03_command_option_q.md)  
+║░░░║░░░╚═4 [s : replace string to newString](01_Ubuntu/03_18.04/15_sed/02_command_option/04_command_option_s.md)  
 ║░░░╠═16 [settings : enable korean](01_Ubuntu/03_18.04/16_Settings/01_Region_Language/01_Enable_Korean_Input.md)  
 ║░░░╠═17 ssh  
 ║░░░║░╠═1 [install](01_Ubuntu/03_18.04/17_ssh/01_install_ssh.md)  
