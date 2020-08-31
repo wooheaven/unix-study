@@ -1,2 +1,1 @@
-01_Ubuntu/03_18.04/15_sed/02_command_option/02_command_option_q.md -> 01_Ubuntu/03_18.04/15_sed/02_command_option/03_command_option_q.md
-01_Ubuntu/03_18.04/15_sed/02_command_option/03_command_option_s.md -> 01_Ubuntu/03_18.04/15_sed/02_command_option/04_command_option_s.md
+01_Ubuntu/03_18.04/11_GNOME/01_add_right_click_menu_by_Template.md -> 01_Ubuntu/03_18.04/11_GNOME/01_right_click_empty_file_by_Template.md
