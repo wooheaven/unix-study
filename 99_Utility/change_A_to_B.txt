@@ -1,1 +1,4 @@
-01_Ubuntu/03_18.04/11_GNOME/01_add_right_click_menu_by_Template.md -> 01_Ubuntu/03_18.04/11_GNOME/01_right_click_empty_file_by_Template.md
+01_Ubuntu/02_16/86_xwininfo/01_use_xwininfo.md -> 01_Ubuntu/02_16/85_xwininfo/01_use_xwininfo.md
+01_Ubuntu/02_16/87_xz/01_xz_compress.md -> 01_Ubuntu/02_16/86_xz/01_xz_compress.md
+01_Ubuntu/02_16/87_xz/02_xz_decompress.md -> 01_Ubuntu/02_16/86_xz/02_xz_decompress.md
+01_Ubuntu/02_16/88_zip/01_zip_directory.md -> 01_Ubuntu/02_16/87_zip/01_zip_directory.md
