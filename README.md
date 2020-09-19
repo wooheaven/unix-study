@@ -242,12 +242,11 @@
 ║░║░╠═82 [vpn : vpn gate client on terminal](01_Ubuntu/02_16/82_vpn/01_vpn_gate_client_on_terminal.md)    
 ║░║░╠═83 [Window : resize shortcut](01_Ubuntu/02_16/83_window/01_resize_window.md)  
 ║░║░╠═84 [x2go : install](01_Ubuntu/02_16/84_x2go/01_install_x2go_server_on_ubuntu16.md)  
-║░║░╠═85 [xclip : install and use](01_Ubuntu/02_16/85_xclip/01_install_and_use_xclip.md)  
-║░║░╠═86 [xwininfo : get window size](01_Ubuntu/02_16/86_xwininfo/01_use_xwininfo.md)  
-║░║░╠═87 xz  
-║░║░║░╠═85.1 [xz : compress file](01_Ubuntu/02_16/87_xz/01_xz_compress.md)  
-║░║░║░╚═85.2 [xz : decompress file](01_Ubuntu/02_16/87_xz/02_xz_decompress.md)  
-║░║░╚═88 [zip : compress and uncompress directory](01_Ubuntu/02_16/88_zip/01_zip_directory.md)  
+║░║░╠═85 [xwininfo : get window size](01_Ubuntu/02_16/85_xwininfo/01_use_xwininfo.md)  
+║░║░╠═86 xz  
+║░║░║░╠═85.1 [xz : compress file](01_Ubuntu/02_16/86_xz/01_xz_compress.md)  
+║░║░║░╚═85.2 [xz : decompress file](01_Ubuntu/02_16/86_xz/02_xz_decompress.md)  
+║░║░╚═87 [zip : compress and uncompress directory](01_Ubuntu/02_16/87_zip/01_zip_directory.md)  
 ║░╚═3 ubuntu18.04  
 ║░░░╠═1 [7z : install and unzip a file.zip with password](01_Ubuntu/03_18.04/01_7z/01_unzip_file_with_password_by_7zip.md)  
 ║░░░╠═2 apt  
