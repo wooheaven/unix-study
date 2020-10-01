@@ -251,7 +251,8 @@
 ║░░░╠═3 apt-get  
 ║░░░║░╠═1 error : [dpkg was interrupted](01_Ubuntu/02_18.04/03_apt-get/01_error/01_apt-get_error_dpkg_was_interrupted.md)  
 ║░░░║░╚═2 install  
-║░░░║░░░╚═1 [libreoffice](01_Ubuntu/02_18.04/03_apt-get/02_install/01_apt-get_install_libreoffice.md)  
+║░░░║░░░╠═1 [libreoffice](01_Ubuntu/02_18.04/03_apt-get/02_install/01_apt-get_install_libreoffice.md)  
+║░░░║░░░╚═2 [vino : screen sharing](01_Ubuntu/02_18.04/03_apt-get/02_install/02_apt-get_install_vino.md)  
 ║░░░╠═4 awk  
 ║░░░║░╠═1 [column to rows](01_Ubuntu/02_18.04/04_awk/01_awk_column_to_rows.md)  
 ║░░░║░╠═2 [max min](01_Ubuntu/02_18.04/04_awk/02_awk_max_min.md)  
