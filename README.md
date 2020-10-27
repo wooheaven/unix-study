@@ -180,14 +180,12 @@
 ║░║░║░╚═3 [space regular expression](01_Ubuntu/01_16/62_sed/03_sed_space_regular_expression.md)  
 ║░║░╠═63 snap  
 ║░║░║░╠═1 [snap : install anbox](01_Ubuntu/01_16/63_snap/01_snap_install_anbox.md)  
-║░║░║░╠═2 [snap : install intellij](01_Ubuntu/01_16/63_snap/02_snap_install_intellij.md)  
-║░║░║░╠═3 [snap : example install list refresh remove](01_Ubuntu/01_16/63_snap/03_snap_install_list_changes_refresh_remove.md)  
-║░║░║░╠═4 [snap : install node](01_Ubuntu/01_16/63_snap/04_snap_install_node.md)  
-║░║░║░╠═5 [snap : install and refresh pycharm](01_Ubuntu/01_16/63_snap/05_snap_install_refresh_pycharm.md)  
-║░║░║░╠═6 [snap : install scrcpy](01_Ubuntu/01_16/63_snap/06_snap_install_scrcpy.md)  
-║░║░║░╠═7 [snap : install slack](01_Ubuntu/01_16/63_snap/07_snap_install_slack.md)  
-║░║░║░╠═8 [snap : install sublime-text](01_Ubuntu/01_16/63_snap/08_snap_install_sublime-text.md)  
-║░║░║░╚═9 [snap : install visualstudiocode](01_Ubuntu/01_16/63_snap/09_snap_install_visualstudiocode.md)  
+║░║░║░╠═3 [snap : example install list refresh remove](01_Ubuntu/01_16/63_snap/02_snap_install_list_changes_refresh_remove.md)  
+║░║░║░╠═4 [snap : install node](01_Ubuntu/01_16/63_snap/03_snap_install_node.md)  
+║░║░║░╠═6 [snap : install scrcpy](01_Ubuntu/01_16/63_snap/04_snap_install_scrcpy.md)  
+║░║░║░╠═7 [snap : install slack](01_Ubuntu/01_16/63_snap/05_snap_install_slack.md)  
+║░║░║░╠═8 [snap : install sublime-text](01_Ubuntu/01_16/63_snap/06_snap_install_sublime-text.md)  
+║░║░║░╚═9 [snap : install visualstudiocode](01_Ubuntu/01_16/63_snap/07_snap_install_visualstudiocode.md)  
 ║░║░╠═64 sort  
 ║░║░║░╠═1 [by key as string or number, substring or subnumber](01_Ubuntu/01_16/64_sort/01_sort_by_key_as_string_number_substring_subnumber.md)  
 ║░║░║░╚═2 [--ignore-case : Upper/Lower case](01_Ubuntu/01_16/64_sort/02_sort_ignore-case.md)  
@@ -304,10 +302,8 @@
 ║░░░║░╠═1 [find with exclude a file or folder](01_Ubuntu/02_18.04/09_find/01_find_exclude_a_file_or_folder.md)  
 ║░░░║░╚═2 [find with exclude a Permission Denied folder](01_Ubuntu/02_18.04/09_find/02_find_exclude_Permission_Denied_folder.md)  
 ║░░░╠═10 GIMP  
-║░░░║░╠═1 install GIMP [by snap](01_Ubuntu/02_18.04/10_GIMP/01_install_GIMP/01_install_Gimp.md)  
-║░░░║░╚═2 use GIMP  
-║░░░║░░░╠═1 [add box on PNG image file](01_Ubuntu/02_18.04/10_GIMP/02_use_GIMP/01_add_box_on_png.md)  
-║░░░║░░░╚═2 [Export As PNG image file](01_Ubuntu/02_18.04/10_GIMP/02_use_GIMP/02_export_as_png.md)  
+║░░░║░╠═1 [add box on PNG image file](01_Ubuntu/02_18.04/10_GIMP/01_add_box_on_png.md)  
+║░░░║░╚═2 [Export As PNG image file](01_Ubuntu/02_18.04/10_GIMP/02_export_as_png.md)  
 ║░░░╠═11 GNOME  
 ║░░░║░░░╠═1 [Mouse Right Click to create Empty Document](01_Ubuntu/02_18.04/11_GNOME/01_right_click_empty_file_by_Template.md)  
 ║░░░║░░░╚═2 [Mouse Right Click to open terminal](01_Ubuntu/02_18.04/11_GNOME/02_open_terminal_on_mouse_right_click.md)  
@@ -328,19 +324,24 @@
 ║░░░║░░░╠═3 [q : exit](01_Ubuntu/02_18.04/15_sed/02_command_option/03_command_option_q.md)  
 ║░░░║░░░╚═4 [s : replace string to newString](01_Ubuntu/02_18.04/15_sed/02_command_option/04_command_option_s.md)  
 ║░░░╠═16 [settings : enable korean](01_Ubuntu/02_18.04/16_Settings/01_Region_Language/01_Enable_Korean_Input.md)  
-║░░░╠═17 ssh  
-║░░░║░╠═1 [install](01_Ubuntu/02_18.04/17_ssh/01_install_ssh.md)  
-║░░░║░╚═2 [ssh-key : ssh login without passowrd](01_Ubuntu/02_18.04/17_ssh/02_ssh-keygen_and_add_publicKey_to_server.md)  
-║░░░╠═18 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/02_18.04/18_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
-║░░░╠═19 [update : automatic security update](01_Ubuntu/02_18.04/19_updates/01_AutomaticSecurityUpdates.md)  
-║░░░╠═20 vim  
+║░░░╠═17 snap  
+║░░░║░╠═1 [snap : install GIMP](01_Ubuntu/02_18.04/17_snap/01_install_Gimp.md)  
+║░░░║░╠═2 [snap : install docker](01_Ubuntu/02_18.04/17_snap/02_snap_install_docker.md)  
+║░░░║░╠═3 [snap : install intellij](01_Ubuntu/02_18.04/17_snap/03_snap_install_intellij.md)  
+║░░░║░╚═4 [snap : install and refresh pycharm](01_Ubuntu/02_18.04/17_snap/04_snap_install_refresh_pycharm.md)  
+║░░░╠═18 ssh  
+║░░░║░╠═1 [install](01_Ubuntu/02_18.04/18_ssh/01_install_ssh.md)  
+║░░░║░╚═2 [ssh-key : ssh login without passowrd](01_Ubuntu/02_18.04/18_ssh/02_ssh-keygen_and_add_publicKey_to_server.md)  
+║░░░╠═19 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/02_18.04/19_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
+║░░░╠═20 [update : automatic security update](01_Ubuntu/02_18.04/20_updates/01_AutomaticSecurityUpdates.md)  
+║░░░╠═21 vim  
 ║░░░║░╠═1 CmdLine Mode  
-║░░░║░║░╠═1 [CRLF to LF](01_Ubuntu/02_18.04/20_vim/01_CmdLine_Mode/01_vim_CRLF_to_LF.md)  
-║░░░║░║░╚═2 [CmdLine Mode Regular Expression](01_Ubuntu/02_18.04/20_vim/01_CmdLine_Mode/02_vim_CmdLine_Mode_Regular_Expression.md)  
+║░░░║░║░╠═1 [CRLF to LF](01_Ubuntu/02_18.04/21_vim/01_CmdLine_Mode/01_vim_CRLF_to_LF.md)  
+║░░░║░║░╚═2 [CmdLine Mode Regular Expression](01_Ubuntu/02_18.04/21_vim/01_CmdLine_Mode/02_vim_CmdLine_Mode_Regular_Expression.md)  
 ║░░░║░╚═2 ETC  
-║░░░║░░░╠═1 [Mapping between vim key and keyboard](01_Ubuntu/02_18.04/20_vim/02_ETC/01_vimrc_key_mapping.md)  
-║░░░║░░░╚═2 [Enable BackSpace on INSERT mode](01_Ubuntu/02_18.04/20_vim/02_ETC/02_Enable_BackSpace_on_INSERT_mode.md)  
-║░░░╚═21 [vnc : activate](01_Ubuntu/02_18.04/21_vnc/01_vnc_activate.md)  
+║░░░║░░░╠═1 [Mapping between vim key and keyboard](01_Ubuntu/02_18.04/21_vim/02_ETC/01_vimrc_key_mapping.md)  
+║░░░║░░░╚═2 [Enable BackSpace on INSERT mode](01_Ubuntu/02_18.04/21_vim/02_ETC/02_Enable_BackSpace_on_INSERT_mode.md)  
+║░░░╚═22 [vnc : activate](01_Ubuntu/02_18.04/22_vnc/01_vnc_activate.md)  
 ╠═2 CentOS  
 ║░╚═1 CentOS 6.9  
 ║░░░╠═1 [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)  
