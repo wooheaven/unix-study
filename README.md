@@ -325,10 +325,11 @@
 ║░░░║░░░╚═4 [s : replace string to newString](01_Ubuntu/02_18.04/15_sed/02_command_option/04_command_option_s.md)  
 ║░░░╠═16 [settings : enable korean](01_Ubuntu/02_18.04/16_Settings/01_Region_Language/01_Enable_Korean_Input.md)  
 ║░░░╠═17 snap  
-║░░░║░╠═1 [snap : install GIMP](01_Ubuntu/02_18.04/17_snap/01_install_Gimp.md)  
-║░░░║░╠═2 [snap : install docker](01_Ubuntu/02_18.04/17_snap/02_snap_install_docker.md)  
+║░░░║░╠═1 [snap : install docker](01_Ubuntu/02_18.04/17_snap/01_snap_install_docker.md)  
+║░░░║░╠═2 [snap : install GIMP](01_Ubuntu/02_18.04/17_snap/02_snap_install_gimp.md)  
 ║░░░║░╠═3 [snap : install intellij](01_Ubuntu/02_18.04/17_snap/03_snap_install_intellij.md)  
-║░░░║░╚═4 [snap : install and refresh pycharm](01_Ubuntu/02_18.04/17_snap/04_snap_install_refresh_pycharm.md)  
+║░░░║░╠═4 [snap : install and refresh pycharm](01_Ubuntu/02_18.04/17_snap/04_snap_install_refresh_pycharm.md)  
+║░░░║░╚═5 [snap : install remmina](01_Ubuntu/02_18.04/17_snap/05_snap_install_remmina.md)  
 ║░░░╠═18 ssh  
 ║░░░║░╠═1 [install](01_Ubuntu/02_18.04/18_ssh/01_install_ssh.md)  
 ║░░░║░╚═2 [ssh-key : ssh login without passowrd](01_Ubuntu/02_18.04/18_ssh/02_ssh-keygen_and_add_publicKey_to_server.md)  
