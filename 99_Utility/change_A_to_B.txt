@@ -1,7 +1,2 @@
-01_Ubuntu/02_18.04/10_GIMP/01_use_GIMP/01_add_box_on_png.md -> 01_Ubuntu/02_18.04/10_GIMP/01_add_box_on_png.md
-01_Ubuntu/02_18.04/10_GIMP/01_use_GIMP/02_export_as_png.md -> 01_Ubuntu/02_18.04/10_GIMP/02_export_as_png.md
-01_Ubuntu/02_18.04/10_GIMP/01_use_GIMP/91.png -> 01_Ubuntu/02_18.04/10_GIMP/91.png
-01_Ubuntu/02_18.04/10_GIMP/01_use_GIMP/92.png -> 01_Ubuntu/02_18.04/10_GIMP/92.png
-01_Ubuntu/02_18.04/10_GIMP/01_use_GIMP/93.png -> 01_Ubuntu/02_18.04/10_GIMP/93.png
-01_Ubuntu/02_18.04/10_GIMP/01_use_GIMP/94.png -> 01_Ubuntu/02_18.04/10_GIMP/94.png
-01_Ubuntu/02_18.04/10_GIMP/01_use_GIMP/95.png -> 01_Ubuntu/02_18.04/10_GIMP/95.png
+01_Ubuntu/02_18.04/17_snap/02_snap_install_docker.md -> 01_Ubuntu/02_18.04/17_snap/01_snap_install_docker.md
+01_Ubuntu/02_18.04/17_snap/01_install_Gimp.md -> 01_Ubuntu/02_18.04/17_snap/02_snap_install_gimp.md
