@@ -1,1 +1,2 @@
-01_Ubuntu/01_16/87_zip/01_zip_directory.md -> 01_Ubuntu/02_18.04/25_zip/01_zip_directory.md
+01_Ubuntu/01_16/65_ssh/02_install_pssh.md -> 01_Ubuntu/01_16/65_ssh/01_install_pssh.md
+01_Ubuntu/01_16/65_ssh/03_rsync_file_by_pssh.md -> 01_Ubuntu/01_16/65_ssh/02_rsync_file_by_pssh.md

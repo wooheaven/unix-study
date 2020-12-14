@@ -7,4 +7,6 @@ $ grep "^PermitRootLogin" /etc/ssh/sshd_config
 PermitRootLogin yes
 
 $ sudo systemctl restart sshd
+or
+$ sudo service ssh restart
 ```
