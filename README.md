@@ -190,9 +190,8 @@
 ║░║░║░╠═1 [by key as string or number, substring or subnumber](01_Ubuntu/01_16/64_sort/01_sort_by_key_as_string_number_substring_subnumber.md)  
 ║░║░║░╚═2 [--ignore-case : Upper/Lower case](01_Ubuntu/01_16/64_sort/02_sort_ignore-case.md)  
 ║░║░╠═65 ssh  
-║░║░║░╠═1 [enable root login](01_Ubuntu/01_16/65_ssh/01_enable_ssh_root_login.md)  
-║░║░║░╠═2 [pssh install : parallel-ssh](01_Ubuntu/01_16/65_ssh/02_install_pssh.md)  
-║░║░║░╚═3 [file rsymc by pssh : rsync and md5sum a file on cluster by pssh](01_Ubuntu/01_16/65_ssh/03_rsync_file_by_pssh.md)  
+║░║░║░╠═1 [pssh install : parallel-ssh](01_Ubuntu/01_16/65_ssh/01_install_pssh.md)  
+║░║░║░╚═2 [file rsymc by pssh : rsync and md5sum a file on cluster by pssh](01_Ubuntu/01_16/65_ssh/02_rsync_file_by_pssh.md)  
 ║░║░╠═66 [StartUp Applications : add program](01_Ubuntu/01_16/66_Startup_Applications/01_add_programs.md)  
 ║░║░╠═67 [Steam : Install on Ubuntu16](01_Ubuntu/01_16/67_Steam/01_install_Steam_on_ubuntu16.md)  
 ║░║░╠═68 [Install Sublime Text 2](01_Ubuntu/01_16/68_sublime_text_2/01_install_sublime_text2.md)  
@@ -334,8 +333,9 @@
 ║░░░║░╠═4 [snap : install and refresh pycharm](01_Ubuntu/02_18.04/19_snap/04_snap_install_refresh_pycharm.md)  
 ║░░░║░╚═5 [snap : install remmina](01_Ubuntu/02_18.04/19_snap/05_snap_install_remmina.md)  
 ║░░░╠═20 ssh  
-║░░░║░╠═1 [install](01_Ubuntu/02_18.04/20_ssh/01_install_ssh.md)  
-║░░░║░╚═2 [ssh-key : ssh login without passowrd](01_Ubuntu/02_18.04/20_ssh/02_ssh-keygen_and_add_publicKey_to_server.md)  
+║░░░║░╠═1 [enable root login](01_Ubuntu/02_18.04/20_ssh/01_enable_ssh_root_login.md)  
+║░░░║░╠═2 [install and enable user login](01_Ubuntu/02_18.04/20_ssh/02_install_ssh.md)  
+║░░░║░╚═3 [ssh-key : ssh login without passowrd](01_Ubuntu/02_18.04/20_ssh/03_ssh-keygen_and_add_publicKey_to_server.md)  
 ║░░░╠═21 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/02_18.04/21_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
 ║░░░╠═22 [update : automatic security update](01_Ubuntu/02_18.04/22_updates/01_AutomaticSecurityUpdates.md)  
 ║░░░╠═23 vim  
