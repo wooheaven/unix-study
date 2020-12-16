@@ -253,13 +253,14 @@
 ║░░░║░░░╚═2 [vino : screen sharing](01_Ubuntu/02_18.04/04_apt-get/02_install/02_apt-get_install_vino.md)  
 ║░░░╠═5 awk  
 ║░░░║░╠═1 [column to rows](01_Ubuntu/02_18.04/05_awk/01_awk_column_to_rows.md)  
-║░░░║░╠═2 [max min](01_Ubuntu/02_18.04/05_awk/02_awk_max_min.md)  
-║░░░║░╠═3 [remove blank line](01_Ubuntu/02_18.04/05_awk/03_awk_remove_blank_line.md)  
-║░░░║░╠═4 [rows to column](01_Ubuntu/02_18.04/05_awk/04_awk_rows_to_column.md)  
-║░░░║░╠═5 [use external argument](01_Ubuntu/02_18.04/05_awk/05_awk_use_external_argument.md)  
-║░░░║░╠═6 [length](01_Ubuntu/02_18.04/05_awk/06_awk_use_length.md)  
-║░░░║░╠═7 [substr](01_Ubuntu/02_18.04/05_awk/07_awk_use_substr.md)  
-║░░░║░╚═8 [use variable in awk](01_Ubuntu/02_18.04/05_awk/08_awk_use_variable.md)  
+║░░░║░╠═2 [if else](01_Ubuntu/02_18.04/05_awk/02_awk_if_else.md)  
+║░░░║░╠═3 [max min](01_Ubuntu/02_18.04/05_awk/03_awk_max_min.md)  
+║░░░║░╠═4 [remove blank line](01_Ubuntu/02_18.04/05_awk/04_awk_remove_blank_line.md)  
+║░░░║░╠═5 [rows to column](01_Ubuntu/02_18.04/05_awk/05_awk_rows_to_column.md)  
+║░░░║░╠═6 [use external argument](01_Ubuntu/02_18.04/05_awk/06_awk_use_external_argument.md)  
+║░░░║░╠═7 [length](01_Ubuntu/02_18.04/05_awk/07_awk_use_length.md)  
+║░░░║░╠═8 [substr](01_Ubuntu/02_18.04/05_awk/08_awk_use_substr.md)  
+║░░░║░╚═9 [use variable in awk](01_Ubuntu/02_18.04/05_awk/09_awk_use_variable.md)  
 ║░░░╠═6 bash  
 ║░░░║░╠═1 [current shell : check](01_Ubuntu/02_18.04/06_bash/01_current_shell/01_check_current_shell.md)  
 ║░░░║░╠═2 loop statement  
