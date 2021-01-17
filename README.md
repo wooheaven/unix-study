@@ -332,7 +332,8 @@
 ║░░░║░╠═2 [snap : install GIMP](01_Ubuntu/02_18.04/19_snap/02_snap_install_gimp.md)  
 ║░░░║░╠═3 [snap : install intellij](01_Ubuntu/02_18.04/19_snap/03_snap_install_intellij.md)  
 ║░░░║░╠═4 [snap : install and refresh pycharm](01_Ubuntu/02_18.04/19_snap/04_snap_install_refresh_pycharm.md)  
-║░░░║░╚═5 [snap : install remmina](01_Ubuntu/02_18.04/19_snap/05_snap_install_remmina.md)  
+║░░░║░╠═5 [snap : install remmina](01_Ubuntu/02_18.04/19_snap/05_snap_install_remmina.md)  
+║░░░║░╚═6 [snap : install vscode](01_Ubuntu/02_18.04/19_snap/06_snap_install_vscode.md)  
 ║░░░╠═20 ssh  
 ║░░░║░╠═1 [enable root login](01_Ubuntu/02_18.04/20_ssh/01_enable_ssh_root_login.md)  
 ║░░░║░╠═2 [install and enable user login](01_Ubuntu/02_18.04/20_ssh/02_install_ssh.md)  
