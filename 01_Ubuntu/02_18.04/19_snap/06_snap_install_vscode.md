@@ -1,0 +1,3 @@
+```
+sudo snap install code --classic
+```
