@@ -290,7 +290,7 @@
 ║░░░╠═7 brew  
 ║░░░║░╠═1 [install brew : on Ubuntu18](01_Ubuntu/02_18.04/07_brew/01_install_brew/01_install_brew_and_configure.md)  
 ║░░░║░╚═2 brew install package  
-║░░░║░░░╚═1 brew install [git](01_Ubuntu/02_18.04/07_brew/02_install_package/01_brew_install_git.md) [vim](01_Ubuntu/02_18.04/07_brew/02_install_package/02_brew_install_vim.md)  
+║░░░║░░░╚═1 brew install [gcc](01_Ubuntu/02_18.04/07_brew/02_install_package/01_brew_install_gcc.md) [git](01_Ubuntu/02_18.04/07_brew/02_install_package/02_brew_install_git.md) [vim](01_Ubuntu/02_18.04/07_brew/02_install_package/03_brew_install_vim.md)  
 ║░░░╠═8 clipit  
 ║░░░║░╚═1 [install clipit by apt-get : clip board app](01_Ubuntu/02_18.04/08_clipit/01_install_clipit_by_apt-get.md)  
 ║░░░╠═9 desktop  

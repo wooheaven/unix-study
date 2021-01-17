@@ -1,1 +1,2 @@
-01_Ubuntu/02_18.04/23_vim/01_CmdLine_Mode/02_vim_CmdLine_Mode_Regular_Expression.md -> 01_Ubuntu/02_18.04/23_vim/01_CmdLine_Mode/02_vim_Regular_Expression.md
+01_Ubuntu/02_18.04/07_brew/02_install_package/01_brew_install_git.md -> 01_Ubuntu/02_18.04/07_brew/02_install_package/02_brew_install_git.md
+01_Ubuntu/02_18.04/07_brew/02_install_package/02_brew_install_vim.md -> 01_Ubuntu/02_18.04/07_brew/02_install_package/03_brew_install_vim.md
