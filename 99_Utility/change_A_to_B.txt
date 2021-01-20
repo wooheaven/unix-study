@@ -1,2 +1,4 @@
-01_Ubuntu/02_18.04/07_brew/02_install_package/01_brew_install_git.md -> 01_Ubuntu/02_18.04/07_brew/02_install_package/02_brew_install_git.md
-01_Ubuntu/02_18.04/07_brew/02_install_package/02_brew_install_vim.md -> 01_Ubuntu/02_18.04/07_brew/02_install_package/03_brew_install_vim.md
+01_Ubuntu/01_16/80_vim/04_ETC/07_vimrc_append_save_macro.md -> 01_Ubuntu/01_16/80_vim/04_ETC/06_vimrc_append_save_macro.md
+01_Ubuntu/01_16/80_vim/04_ETC/08_vimrc_color_jellybeans.md -> 01_Ubuntu/01_16/80_vim/04_ETC/07_vimrc_color_jellybeans.md
+01_Ubuntu/01_16/80_vim/04_ETC/09_vimrc_encoding_korean.md -> 01_Ubuntu/01_16/80_vim/04_ETC/08_vimrc_encoding_korean.md
+01_Ubuntu/01_16/80_vim/04_ETC/10_vimrc_tab_option.md -> 01_Ubuntu/01_16/80_vim/04_ETC/09_vimrc_tab_option.md
