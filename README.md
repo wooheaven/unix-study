@@ -307,51 +307,52 @@
 ║░░░╠═12 GNOME  
 ║░░░║░░░╠═1 [Mouse Right Click to create Empty Document](01_Ubuntu/02_18.04/12_GNOME/01_right_click_empty_file_by_Template.md)  
 ║░░░║░░░╚═2 [Mouse Right Click to open terminal](01_Ubuntu/02_18.04/12_GNOME/02_open_terminal_on_mouse_right_click.md)  
-║░░░╠═13 Kubeflow : [install](01_Ubuntu/02_18.04/13_Kubeflow/01_install_Kubeflow.md)  
-║░░░╠═14 NVIDIA  
-║░░░║░╠═1 [install nvidia container toolkit](01_Ubuntu/02_18.04/14_NVIDIA/01_container-toolkit/01_install_nvidia-container-toolkit.md)  
-║░░░║░╚═2 [install nvidia driver and CUDA](01_Ubuntu/02_18.04/14_NVIDIA/02_driver_CUDA/01_install_nvidia_driver_cuda.md)  
-║░░░╠═15 Pycharm  
-║░░░║░╚═1 [shortcut : move cursor to previous position](01_Ubuntu/02_18.04/15_Pycharm/01_shortcut_move_cursor_to_previous_position.md)  
-║░░░╠═16 sdk  
-║░░░║░╠═1 [insall sdk : Software Development Kit Manager](01_Ubuntu/02_18.04/16_sdk/01_install_sdk.md)  
-║░░░║░╠═2 [sdk install JDK](01_Ubuntu/02_18.04/16_sdk/02_sdk_install_jdk.md)  
-║░░░║░╠═3 [sdk uninstall JDK](01_Ubuntu/02_18.04/16_sdk/03_sdk_uninstall_jdk.md)  
-║░░░║░╚═4 [update sdk](01_Ubuntu/02_18.04/16_sdk/04_update_sdk.md)  
-║░░░╠═17 sed  
-║░░░║░╠═1 command line option [-n : no-autoprint](01_Ubuntu/02_18.04/17_sed/01_command_line_option.md)  
+║░░░╠═13 Kernel : [kernel boot error](01_Ubuntu/02_18.04/13_kernel/01_kernel_boot_error.md)  
+║░░░╠═14 Kubeflow : [install](01_Ubuntu/02_18.04/14_Kubeflow/01_install_Kubeflow.md)  
+║░░░╠═15 NVIDIA  
+║░░░║░╠═1 [install nvidia container toolkit](01_Ubuntu/02_18.04/15_NVIDIA/01_container-toolkit/01_install_nvidia-container-toolkit.md)  
+║░░░║░╚═2 [install nvidia driver and CUDA](01_Ubuntu/02_18.04/15_NVIDIA/02_driver_CUDA/01_install_nvidia_driver_cuda.md)  
+║░░░╠═16 Pycharm  
+║░░░║░╚═1 [shortcut : move cursor to previous position](01_Ubuntu/02_18.04/16_Pycharm/01_shortcut_move_cursor_to_previous_position.md)  
+║░░░╠═17 sdk  
+║░░░║░╠═1 [insall sdk : Software Development Kit Manager](01_Ubuntu/02_18.04/17_sdk/01_install_sdk.md)  
+║░░░║░╠═2 [sdk install JDK](01_Ubuntu/02_18.04/17_sdk/02_sdk_install_jdk.md)  
+║░░░║░╠═3 [sdk uninstall JDK](01_Ubuntu/02_18.04/17_sdk/03_sdk_uninstall_jdk.md)  
+║░░░║░╚═4 [update sdk](01_Ubuntu/02_18.04/17_sdk/04_update_sdk.md)  
+║░░░╠═18 sed  
+║░░░║░╠═1 command line option [-n : no-autoprint](01_Ubuntu/02_18.04/18_sed/01_command_line_option.md)  
 ║░░░║░╚═2 command option  
-║░░░║░░░╠═1 [d : delete](01_Ubuntu/02_18.04/17_sed/02_command_option/01_command_option_d.md)  
-║░░░║░░░╠═2 [p : print](01_Ubuntu/02_18.04/17_sed/02_command_option/02_command_option_p.md)  
-║░░░║░░░╠═3 [q : exit](01_Ubuntu/02_18.04/17_sed/02_command_option/03_command_option_q.md)  
-║░░░║░░░╚═4 [s : replace string to newString](01_Ubuntu/02_18.04/17_sed/02_command_option/04_command_option_s.md)  
-║░░░╠═18 [settings : enable korean](01_Ubuntu/02_18.04/18_Settings/01_Region_Language/01_Enable_Korean_Input.md)  
-║░░░╠═19 snap  
-║░░░║░╠═1 [snap : install docker](01_Ubuntu/02_18.04/19_snap/01_snap_install_docker.md)  
-║░░░║░╠═2 [snap : install GIMP](01_Ubuntu/02_18.04/19_snap/02_snap_install_gimp.md)  
-║░░░║░╠═3 [snap : install intellij](01_Ubuntu/02_18.04/19_snap/03_snap_install_intellij.md)  
-║░░░║░╠═4 [snap : install and refresh pycharm](01_Ubuntu/02_18.04/19_snap/04_snap_install_refresh_pycharm.md)  
-║░░░║░╠═5 [snap : install remmina](01_Ubuntu/02_18.04/19_snap/05_snap_install_remmina.md)  
-║░░░║░╚═6 [snap : install vscode](01_Ubuntu/02_18.04/19_snap/06_snap_install_vscode.md)  
-║░░░╠═20 ssh  
-║░░░║░╠═1 [enable root login](01_Ubuntu/02_18.04/20_ssh/01_enable_ssh_root_login.md)  
-║░░░║░╠═2 [install and enable user login](01_Ubuntu/02_18.04/20_ssh/02_install_ssh.md)  
-║░░░║░╚═3 [ssh-key : ssh login without passowrd](01_Ubuntu/02_18.04/20_ssh/03_ssh-keygen_and_add_publicKey_to_server.md)  
-║░░░╠═21 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/02_18.04/21_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
-║░░░╠═22 [update : automatic security update](01_Ubuntu/02_18.04/22_updates/01_AutomaticSecurityUpdates.md)  
-║░░░╠═23 vim  
+║░░░║░░░╠═1 [d : delete](01_Ubuntu/02_18.04/18_sed/02_command_option/01_command_option_d.md)  
+║░░░║░░░╠═2 [p : print](01_Ubuntu/02_18.04/18_sed/02_command_option/02_command_option_p.md)  
+║░░░║░░░╠═3 [q : exit](01_Ubuntu/02_18.04/18_sed/02_command_option/03_command_option_q.md)  
+║░░░║░░░╚═4 [s : replace string to newString](01_Ubuntu/02_18.04/18_sed/02_command_option/04_command_option_s.md)  
+║░░░╠═19 [settings : enable korean](01_Ubuntu/02_18.04/19_Settings/01_Region_Language/01_Enable_Korean_Input.md)  
+║░░░╠═20 snap  
+║░░░║░╠═1 [snap : install docker](01_Ubuntu/02_18.04/20_snap/01_snap_install_docker.md)  
+║░░░║░╠═2 [snap : install GIMP](01_Ubuntu/02_18.04/20_snap/02_snap_install_gimp.md)  
+║░░░║░╠═3 [snap : install intellij](01_Ubuntu/02_18.04/20_snap/03_snap_install_intellij.md)  
+║░░░║░╠═4 [snap : install and refresh pycharm](01_Ubuntu/02_18.04/20_snap/04_snap_install_refresh_pycharm.md)  
+║░░░║░╠═5 [snap : install remmina](01_Ubuntu/02_18.04/20_snap/05_snap_install_remmina.md)  
+║░░░║░╚═6 [snap : install vscode](01_Ubuntu/02_18.04/20_snap/06_snap_install_vscode.md)  
+║░░░╠═21 ssh  
+║░░░║░╠═1 [enable root login](01_Ubuntu/02_18.04/21_ssh/01_enable_ssh_root_login.md)  
+║░░░║░╠═2 [install and enable user login](01_Ubuntu/02_18.04/21_ssh/02_install_ssh.md)  
+║░░░║░╚═3 [ssh-key : ssh login without passowrd](01_Ubuntu/02_18.04/21_ssh/03_ssh-keygen_and_add_publicKey_to_server.md)  
+║░░░╠═22 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/02_18.04/22_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
+║░░░╠═23 [update : automatic security update](01_Ubuntu/02_18.04/23_updates/01_AutomaticSecurityUpdates.md)  
+║░░░╠═24 vim  
 ║░░░║░╠═1 CmdLine Mode  
-║░░░║░║░╠═1 [CRLF to LF](01_Ubuntu/02_18.04/23_vim/01_CmdLine_Mode/01_vim_CRLF_to_LF.md)  
-║░░░║░║░╠═2 [Regular Expression](01_Ubuntu/02_18.04/23_vim/01_CmdLine_Mode/02_vim_Regular_Expression.md)  
-║░░░║░║░╚═3 [Macro on Register : List up and Clear](01_Ubuntu/02_18.04/23_vim/01_CmdLine_Mode/03_list_up_and_clear_macro_on_register.md)  
+║░░░║░║░╠═1 [CRLF to LF](01_Ubuntu/02_18.04/24_vim/01_CmdLine_Mode/01_vim_CRLF_to_LF.md)  
+║░░░║░║░╠═2 [Regular Expression](01_Ubuntu/02_18.04/24_vim/01_CmdLine_Mode/02_vim_Regular_Expression.md)  
+║░░░║░║░╚═3 [Macro on Register : List up and Clear](01_Ubuntu/02_18.04/24_vim/01_CmdLine_Mode/03_list_up_and_clear_macro_on_register.md)  
 ║░░░║░╠═2 ETC  
-║░░░║░║░╠═1 [Enable BackSpace on INSERT mode](01_Ubuntu/02_18.04/23_vim/02_ETC/01_Enable_BackSpace_on_INSERT_mode.md)  
-║░░░║░║░╠═2 [cat ~/.vimrc](01_Ubuntu/02_18.04/23_vim/02_ETC/02_vimrc.md)  
-║░░░║░║░╚═3 [Mapping between vim key and keyboard](01_Ubuntu/02_18.04/23_vim/02_ETC/03_vimrc_key_mapping.md)  
+║░░░║░║░╠═1 [Enable BackSpace on INSERT mode](01_Ubuntu/02_18.04/24_vim/02_ETC/01_Enable_BackSpace_on_INSERT_mode.md)  
+║░░░║░║░╠═2 [cat ~/.vimrc](01_Ubuntu/02_18.04/24_vim/02_ETC/02_vimrc.md)  
+║░░░║░║░╚═3 [Mapping between vim key and keyboard](01_Ubuntu/02_18.04/24_vim/02_ETC/03_vimrc_key_mapping.md)  
 ║░░░║░╚═3 Visual Mode  
-║░░░║░░░╚═1 [Characters to lowercase to uppercase](01_Ubuntu/02_18.04/23_vim/03_Visual_Mode/01_to_lowercase_to_uppercase.md)  
-║░░░╠═24 [vnc : activate](01_Ubuntu/02_18.04/24_vnc/01_vnc_activate.md)  
-║░░░╚═25 [zip : compress and uncompress directory](01_Ubuntu/02_18.04/25_zip/01_zip_directory.md)  
+║░░░║░░░╚═1 [Characters to lowercase to uppercase](01_Ubuntu/02_18.04/24_vim/03_Visual_Mode/01_to_lowercase_to_uppercase.md)  
+║░░░╠═25 [vnc : activate](01_Ubuntu/02_18.04/25_vnc/01_vnc_activate.md)  
+║░░░╚═26 [zip : compress and uncompress directory](01_Ubuntu/02_18.04/26_zip/01_zip_directory.md)  
 ╠═2 CentOS  
 ║░╚═1 CentOS 6.9  
 ║░░░╠═1 [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)  
