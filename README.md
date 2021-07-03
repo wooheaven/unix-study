@@ -209,9 +209,8 @@
 ║░║░║░║░╠═2 [Switch Line Up and Down](01_Ubuntu/01_16/78_vim/01_Cmd-Mode/02_Switch_Line_Up_and_Down.md)  
 ║░║░║░║░╚═3 [Repeat lastest command on Cmd-Mode](01_Ubuntu/01_16/78_vim/01_Cmd-Mode/03_Repeat_Lastest.md)  
 ║░║░║░╠═2 CmdLine-Mode  
-║░║░║░║░╠═1 [Move Line](01_Ubuntu/01_16/78_vim/03_CmdLine-Mode/01_Move_Line_Up_and_Down.md)  
-║░║░║░║░╠═2 [save as other file](01_Ubuntu/01_16/78_vim/03_CmdLine-Mode/02_vim_save_as_other_File.md)  
-║░║░║░║░╚═3 [Repeat latest command on CmdLine-Mode](01_Ubuntu/01_16/78_vim/03_CmdLine-Mode/03_Repeat_Latest.md)  
+║░║░║░║░╠═1 [Repeat latest command on CmdLine-Mode](01_Ubuntu/01_16/78_vim/03_CmdLine-Mode/01_Repeat_Latest.md)  
+║░║░║░║░╚═2 [save as other file](01_Ubuntu/01_16/78_vim/03_CmdLine-Mode/02_vim_save_as_other_File.md)  
 ║░║░║░╚═3 ETC  
 ║░║░║░░░╠═1 [vim diff](01_Ubuntu/01_16/78_vim/04_ETC/01_vim_diff.md)  
 ║░║░║░░░╠═2 [vim diff refresh](01_Ubuntu/01_16/78_vim/04_ETC/02_vim_diff_refresh.md)  
@@ -341,15 +340,18 @@
 ║░░░╠═27 [update : automatic security update](01_Ubuntu/02_18.04/27_updates/01_AutomaticSecurityUpdates.md)  
 ║░░░╠═28 vim  
 ║░░░║░╠═1 CmdLine Mode  
-║░░░║░║░╠═1 [CRLF to LF](01_Ubuntu/02_18.04/28_vim/01_CmdLine_Mode/01_vim_CRLF_to_LF.md)  
-║░░░║░║░╠═2 [Regular Expression](01_Ubuntu/02_18.04/28_vim/01_CmdLine_Mode/02_vim_Regular_Expression.md)  
-║░░░║░║░╚═3 [Macro on Register : List up and Clear](01_Ubuntu/02_18.04/28_vim/01_CmdLine_Mode/03_list_up_and_clear_macro_on_register.md)  
+║░░░║░║░╠═1 [Move Line](01_Ubuntu/02_18.04/28_vim/01_CmdLine_Mode/01_Move_Line_Up_and_Down.md)  
+║░░░║░║░╠═2 [Join Lines](01_Ubuntu/02_18.04/28_vim/01_CmdLine_Mode/02_join_lines.md)  
+║░░░║░║░╠═3 [Macro on Register : List up and Clear](01_Ubuntu/02_18.04/28_vim/01_CmdLine_Mode/03_list_up_and_clear_macro_on_register.md)  
+║░░░║░║░╠═4 [CRLF to LF](01_Ubuntu/02_18.04/28_vim/01_CmdLine_Mode/04_vim_CRLF_to_LF.md)  
+║░░░║░║░╚═5 [Regular Expression](01_Ubuntu/02_18.04/28_vim/01_CmdLine_Mode/05_vim_Regular_Expression.md)  
 ║░░░║░╠═2 ETC  
 ║░░░║░║░╠═1 [Enable BackSpace on INSERT mode](01_Ubuntu/02_18.04/28_vim/02_ETC/01_Enable_BackSpace_on_INSERT_mode.md)  
 ║░░░║░║░╠═2 [cat ~/.vimrc](01_Ubuntu/02_18.04/28_vim/02_ETC/02_vimrc.md)  
 ║░░░║░║░╚═3 [Mapping between vim key and keyboard](01_Ubuntu/02_18.04/28_vim/02_ETC/03_vimrc_key_mapping.md)  
 ║░░░║░╚═3 Visual Mode  
-║░░░║░░░╚═1 [Characters to lowercase to uppercase](01_Ubuntu/02_18.04/28_vim/03_Visual_Mode/01_to_lowercase_to_uppercase.md)  
+║░░░║░░░╠═1 [Join Lines](01_Ubuntu/02_18.04/28_vim/03_Visual_Mode/01_join_lines.md)  
+║░░░║░░░╚═2 [Characters to lowercase to uppercase](01_Ubuntu/02_18.04/28_vim/03_Visual_Mode/02_to_lowercase_to_uppercase.md)  
 ║░░░╠═29 [vnc : activate](01_Ubuntu/02_18.04/29_vnc/01_vnc_activate.md)  
 ║░░░╚═30 [zip : compress and uncompress directory](01_Ubuntu/02_18.04/30_zip/01_zip_directory.md)  
 ╠═2 CentOS  
