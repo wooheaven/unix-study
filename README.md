@@ -107,40 +107,37 @@
 ║░║░╠═32 Image  
 ║░║░║░╚═1 [convert : resize width, height](01_Ubuntu/01_16/32_Image/01_resize_jpg.md)  
 ║░║░╠═33 [Install : with UEFI mode](01_Ubuntu/01_16/33_Install/01_Install_Ubuntu_with_UEFI_mode.md)   
-║░║░╠═34 Java  
-║░║░║░╠═1 [install JDK by manually](01_Ubuntu/01_16/34_Java/01_install_jdk_by_manually.md)  
-║░║░║░╚═2 [install JDK by apt](01_Ubuntu/01_16/34_Java/02_install_ubuntu_open_jdk8_by_apt.md)  
-║░║░╠═35 [join : merge by 1st column with two files](01_Ubuntu/01_16/35_join/01_join.md)  
-║░║░╠═36 [Libre Office : remove](01_Ubuntu/01_16/36_LibreOffice/01_remove_LibreOffice.md)   
-║░║░╠═37 [lid switch : handle lid switch on as lock](01_Ubuntu/01_16/37_lid_switch_of_notebook/01_handle_lid_switch.md)  
-║░║░╠═38 linux-firmware: [intel cpu warnings](01_Ubuntu/01_16/38_linux_firmware/01_intel_cpu_warning.md)  
-║░║░╠═39 LVM : [format and mount attached device](01_Ubuntu/01_16/39_LVM/01_LVM_on_attached_device.md)  
-║░║░╠═40 [memory : cat /proc/meminfo](01_Ubuntu/01_16/40_memory/01_memory_info.md)  
-║░║░╠═41 mkfs  
+║░║░╠═34 [join : merge by 1st column with two files](01_Ubuntu/01_16/35_join/01_join.md)  
+║░║░╠═35 [Libre Office : remove](01_Ubuntu/01_16/36_LibreOffice/01_remove_LibreOffice.md)   
+║░║░╠═36 [lid switch : handle lid switch on as lock](01_Ubuntu/01_16/37_lid_switch_of_notebook/01_handle_lid_switch.md)  
+║░║░╠═37 linux-firmware: [intel cpu warnings](01_Ubuntu/01_16/38_linux_firmware/01_intel_cpu_warning.md)  
+║░║░╠═38 LVM : [format and mount attached device](01_Ubuntu/01_16/39_LVM/01_LVM_on_attached_device.md)  
+║░║░╠═39 [memory : cat /proc/meminfo](01_Ubuntu/01_16/40_memory/01_memory_info.md)  
+║░║░╠═40 mkfs  
 ║░║░║░╠═1 mkfs.exfat : [make filesystem exfat](01_Ubuntu/01_16/41_mkfs/01_mkfs.exfat_device.md)  
 ║░║░║░╠═2 mkfs.ext4 : [make filesystem ext4](01_Ubuntu/01_16/41_mkfs/02_mkfs.ext4_device.md)  
 ║░║░║░╚═3 mkfs.xfs : [make filesystem xfs](01_Ubuntu/01_16/41_mkfs/03_mkfs.xfs_device.md)  
-║░║░╠═42 mount  
+║░║░╠═41 mount  
 ║░║░║░╠═1 [remount /home to other disk](01_Ubuntu/01_16/42_mount/01_remount_home_to_other_disk.md)  
 ║░║░║░╚═2 [remount /var to other disk](01_Ubuntu/01_16/42_mount/02_remount_var_to_other_disk.md)  
-║░║░╠═43 [mpstat : monitoring CPU's processors](01_Ubuntu/01_16/43_mpstat/01_mpstat.md)  
-║░║░╠═44 network  
+║░║░╠═42 [mpstat : monitoring CPU's processors](01_Ubuntu/01_16/43_mpstat/01_mpstat.md)  
+║░║░╠═43 network  
 ║░║░║░╠═1 [static](01_Ubuntu/01_16/44_network/01_static/01_configure_static.md)  
 ║░║░║░╠═2 [dhcp](01_Ubuntu/01_16/44_network/01_static/01_configure_static.md)  
 ║░║░║░╚═3 [hostname : 127.0.1.1 why use this](01_Ubuntu/01_16/44_network/03_hostname/01_127.0.1.1.md)  
-║░║░╠═45 [nmap : port check](01_Ubuntu/01_16/45_nmap/01_install_use_nmap.md)  
-║░║░╠═46 [nohup : use](01_Ubuntu/01_16/46_nohup/01_use_nohup.md)  
-║░║░╠═47 NVIDIA driver, CUDA, cuDNN, Tensorflow, Keras  
+║░║░╠═44 [nmap : port check](01_Ubuntu/01_16/45_nmap/01_install_use_nmap.md)  
+║░║░╠═45 [nohup : use](01_Ubuntu/01_16/46_nohup/01_use_nohup.md)  
+║░║░╠═46 NVIDIA driver, CUDA, cuDNN, Tensorflow, Keras  
 ║░║░║░╠═1 [nvidia driver410 cuda9 cudnn7.4 to keras](01_Ubuntu/01_16/47_nvidia/01_install_nvidia_driver410_cuda9_cudnn7.4_to_keras.md)  
 ║░║░║░╚═2 [nvidia driver418 cuda10 cudnn7.4 to keras](01_Ubuntu/01_16/47_nvidia/02_install_nvidia_driver418_cuda10_cudnn7.4_to_keras.md)  
-║░║░╠═48 [opencv : build and install opencv 3.4.0](01_Ubuntu/01_16/48_OpenCV/01_Build_OpenCV_3.4_with_opencv_contrib.md)  
-║░║░╠═49 [opera : save stream video as file](01_Ubuntu/01_16/49_Opera/01_save_stream_video_as_file.md)  
-║░║░╠═50 [p4v p4merge : install](01_Ubuntu/01_16/50_p4v_p4merge/01_install_p4v_p4merge.md)  
-║░║░╠═51 parted  
+║░║░╠═47 [opencv : build and install opencv 3.4.0](01_Ubuntu/01_16/48_OpenCV/01_Build_OpenCV_3.4_with_opencv_contrib.md)  
+║░║░╠═48 [opera : save stream video as file](01_Ubuntu/01_16/49_Opera/01_save_stream_video_as_file.md)  
+║░║░╠═49 [p4v p4merge : install](01_Ubuntu/01_16/50_p4v_p4merge/01_install_p4v_p4merge.md)  
+║░║░╠═50 parted  
 ║░║░║░╠═1 [parted list : check model of attached disks](01_Ubuntu/01_16/51_parted/01_parted_list.md)  
 ║░║░║░╚═2 [swap partition : remove and create swap partition](01_Ubuntu/01_16/51_parted/02_parted_swap_partition.md)  
-║░║░╠═52 [passwd : root passwd update](01_Ubuntu/01_16/52_passwd/01_root_passwd.md)  
-║░║░╠═53 pdf  
+║░║░╠═51 [passwd : root passwd update](01_Ubuntu/01_16/52_passwd/01_root_passwd.md)  
+║░║░╠═52 pdf  
 ║░║░║░╠═1 [Excel to PDF](01_Ubuntu/01_16/53_pdf/01_Excel_to_PDF.md)  
 ║░║░║░╠═2 ghostscript  
 ║░║░║░║░╠═1 log  
@@ -155,23 +152,23 @@
 ║░║░║░╠═3 [LaTex : GitLab Link](https://gitlab.com/wooheaven/latex-study)  
 ║░║░║░╠═4 [PDF to png : 2p of pdf -> png](01_Ubuntu/01_16/53_pdf/04_PDF_to_png.md)  
 ║░║░║░╚═5 [Word to PDF](01_Ubuntu/01_16/53_pdf/05_Word_to_PDF.md)  
-║░║░╠═54 Python  
+║░║░╠═53 Python  
 ║░║░║░╠═1 [configure python 2.7, 3.5 env](01_Ubuntu/01_16/54_Python/01_configure_python_2.7_3.5_env.md)  
 ║░║░║░╠═2 [ImportError : after pip3 install --upgrade pip](01_Ubuntu/01_16/54_Python/02_ImportError.md)  
 ║░║░║░╚═3 [numpy pandas : as system package with python3.5.2](01_Ubuntu/01_16/54_Python/03_install_numpy_pandas_as_system_package.md)  
-║░║░╠═55 [realpath : get real path of link file](01_Ubuntu/01_16/55_realpath/01_realpath.md)  
-║░║░╠═56 rsync  
+║░║░╠═54 [realpath : get real path of link file](01_Ubuntu/01_16/55_realpath/01_realpath.md)  
+║░║░╠═55 rsync  
 ║░║░║░╠═1 [option -avh : folder to folder](01_Ubuntu/01_16/56_rsync/01_rsync_-avh_folder_to_folder.md)  
 ║░║░║░╠═2 [option -aqxP : /var to other folder](01_Ubuntu/01_16/56_rsync/02_rsync_-aqxP_var_to_other.md)  
 ║░║░║░╚═3 [option --remove-source-files : folder to folder](01_Ubuntu/01_16/56_rsync/03_rsync_--remove-source-files_folder_to_folder.md)  
-║░║░╠═57 [ruby, rbenv, ruby-build : install and configure](01_Ubuntu/01_16/57_ruby/01_install_configure_ruby.md)  
-║░║░╠═58 [run-level : change](01_Ubuntu/01_16/58_run-level/01_change_run-level.md)  
-║░║░╠═59 [screen : use](01_Ubuntu/01_16/59_screen/01_use_screen.md)  
-║░║░╠═60 sed  
+║░║░╠═56 [ruby, rbenv, ruby-build : install and configure](01_Ubuntu/01_16/57_ruby/01_install_configure_ruby.md)  
+║░║░╠═57 [run-level : change](01_Ubuntu/01_16/58_run-level/01_change_run-level.md)  
+║░║░╠═58 [screen : use](01_Ubuntu/01_16/59_screen/01_use_screen.md)  
+║░║░╠═59 sed  
 ║░║░║░╠═1 [remove \^M in text file](01_Ubuntu/01_16/60_sed/01_sed_remove_^M.md)  
 ║░║░║░╠═2 [replace every 3rd comma to semicolon](01_Ubuntu/01_16/60_sed/02_sed_replace_every_3rd_comma_to_semicolon.md)  
 ║░║░║░╚═3 [space regular expression](01_Ubuntu/01_16/60_sed/03_sed_space_regular_expression.md)  
-║░║░╠═61 snap  
+║░║░╠═60 snap  
 ║░║░║░╠═1 [snap : install anbox](01_Ubuntu/01_16/61_snap/01_snap_install_anbox.md)  
 ║░║░║░╠═3 [snap : example install list refresh remove](01_Ubuntu/01_16/61_snap/02_snap_install_list_changes_refresh_remove.md)  
 ║░║░║░╠═4 [snap : install node](01_Ubuntu/01_16/61_snap/03_snap_install_node.md)  
@@ -179,31 +176,31 @@
 ║░║░║░╠═7 [snap : install slack](01_Ubuntu/01_16/61_snap/05_snap_install_slack.md)  
 ║░║░║░╠═8 [snap : install sublime-text](01_Ubuntu/01_16/61_snap/06_snap_install_sublime-text.md)  
 ║░║░║░╚═9 [snap : install visualstudiocode](01_Ubuntu/01_16/61_snap/07_snap_install_visualstudiocode.md)  
-║░║░╠═62 sort  
+║░║░╠═61 sort  
 ║░║░║░╠═1 [by key as string or number, substring or subnumber](01_Ubuntu/01_16/62_sort/01_sort_by_key_as_string_number_substring_subnumber.md)  
 ║░║░║░╚═2 [--ignore-case : Upper/Lower case](01_Ubuntu/01_16/62_sort/02_sort_ignore-case.md)  
-║░║░╠═63 ssh  
+║░║░╠═62 ssh  
 ║░║░║░╠═1 [pssh install : parallel-ssh](01_Ubuntu/01_16/63_ssh/01_install_pssh.md)  
 ║░║░║░╚═2 [file rsymc by pssh : rsync and md5sum a file on cluster by pssh](01_Ubuntu/01_16/63_ssh/02_rsync_file_by_pssh.md)  
-║░║░╠═64 [StartUp Applications : add program](01_Ubuntu/01_16/64_Startup_Applications/01_add_programs.md)  
-║░║░╠═65 [Steam : Install on Ubuntu16](01_Ubuntu/01_16/65_Steam/01_install_Steam_on_ubuntu16.md)  
-║░║░╠═66 [Install Sublime Text 2](01_Ubuntu/01_16/66_sublime_text_2/01_install_sublime_text2.md)  
-║░║░╠═67 [substring : remove from beginning or back + long or short](01_Ubuntu/01_16/67_substring/01_substring_remove.md)  
-║░║░╠═68 [tac : read from bottom to top](01_Ubuntu/01_16/68_tac/01_tac.md)  
-║░║░╠═69 tar  
+║░║░╠═63 [StartUp Applications : add program](01_Ubuntu/01_16/64_Startup_Applications/01_add_programs.md)  
+║░║░╠═64 [Steam : Install on Ubuntu16](01_Ubuntu/01_16/65_Steam/01_install_Steam_on_ubuntu16.md)  
+║░║░╠═65 [Install Sublime Text 2](01_Ubuntu/01_16/66_sublime_text_2/01_install_sublime_text2.md)  
+║░║░╠═66 [substring : remove from beginning or back + long or short](01_Ubuntu/01_16/67_substring/01_substring_remove.md)  
+║░║░╠═67 [tac : read from bottom to top](01_Ubuntu/01_16/68_tac/01_tac.md)  
+║░║░╠═68 tar  
 ║░║░║░╠═1 [uncompress : tgz](01_Ubuntu/01_16/69_tar/01_uncompress_tgz.md)  
 ║░║░║░╚═2 [compress : folder](01_Ubuntu/01_16/69_tar/02_compress_folder_by_tar.md)  
-║░║░╠═70 [tmux : install, configure, use](01_Ubuntu/01_16/70_tmux/01_tmux.md)  
-║░║░╠═71 [touch : accessed modified timestamp](01_Ubuntu/01_16/71_touch/01_modify_timestamp.md)  
-║░║░╠═72 [tr : replace string](01_Ubuntu/01_16/72_tr/01_tr_replace_string.md)  
-║░║░╠═73 [tzdata : time zone](01_Ubuntu/01_16/73_tzdata/01_timeZone.md)  
-║░║░╠═74 [unicode : box char](01_Ubuntu/01_16/74_unicode/01_box_char.md)  
-║░║░╠═75 update-alternatives  
+║░║░╠═69 [tmux : install, configure, use](01_Ubuntu/01_16/70_tmux/01_tmux.md)  
+║░║░╠═70 [touch : accessed modified timestamp](01_Ubuntu/01_16/71_touch/01_modify_timestamp.md)  
+║░║░╠═71 [tr : replace string](01_Ubuntu/01_16/72_tr/01_tr_replace_string.md)  
+║░║░╠═72 [tzdata : time zone](01_Ubuntu/01_16/73_tzdata/01_timeZone.md)  
+║░║░╠═73 [unicode : box char](01_Ubuntu/01_16/74_unicode/01_box_char.md)  
+║░║░╠═74 update-alternatives  
 ║░║░║░╠═1 [--install : java, javac](01_Ubuntu/01_16/75_update-alternatives/01_install_java_and_javac.md)  
 ║░║░║░╚═2 [--install : vi, vim](01_Ubuntu/01_16/75_update-alternatives/02_install_vim_and_vi.md)  
-║░║░╠═76 [userdel](01_Ubuntu/01_16/76_userdel/01_userdel_hadoop.md)  
-║░║░╠═77 [usermod : add User to Group](01_Ubuntu/01_16/77_usermod/01_add_USER_to_GROUP.md)  
-║░║░╠═78 vim  
+║░║░╠═75 [userdel](01_Ubuntu/01_16/76_userdel/01_userdel_hadoop.md)  
+║░║░╠═76 [usermod : add User to Group](01_Ubuntu/01_16/77_usermod/01_add_USER_to_GROUP.md)  
+║░║░╠═77 vim  
 ║░║░║░╠═1 Cmd-Mode  
 ║░║░║░║░╠═1 [Move Cursor](01_Ubuntu/01_16/78_vim/01_Cmd-Mode/01_Move_Cursor.md)  
 ║░║░║░║░╠═2 [Switch Line Up and Down](01_Ubuntu/01_16/78_vim/01_Cmd-Mode/02_Switch_Line_Up_and_Down.md)  
@@ -221,16 +218,16 @@
 ║░║░║░░░╠═7 [vim colorscheme jellybeans](01_Ubuntu/01_16/78_vim/04_ETC/07_vimrc_color_jellybeans.md)  
 ║░║░║░░░╠═8 [vimrc encoding UTF8 (Korean)](01_Ubuntu/01_16/78_vim/04_ETC/08_vimrc_encoding_korean.md)  
 ║░║░║░░░╚═9 [vim tab option](01_Ubuntu/01_16/78_vim/04_ETC/09_vimrc_tab_option.md)   
-║░║░╠═79 vncserver, vnc4server  
+║░║░╠═78 vncserver, vnc4server  
 ║░║░║░╠═1 [vnc4server : remote control ubuntu](01_Ubuntu/01_16/79_vnc4server/01_install_config_vnc4server.md)  
 ║░║░║░╚═2 [vncserver : remote access sharing](01_Ubuntu/01_16/79_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md)  
-║░║░╠═80 [vpn : vpn gate client on terminal](01_Ubuntu/01_16/80_vpn/01_vpn_gate_client_on_terminal.md)    
-║░║░╠═81 [Window : resize shortcut](01_Ubuntu/01_16/81_window/01_resize_window.md)  
-║░║░╠═82 [x2go : install](01_Ubuntu/01_16/82_x2go/01_install_x2go_server_on_ubuntu16.md)  
-║░║░╠═83 [xwininfo : get window size](01_Ubuntu/01_16/83_xwininfo/01_use_xwininfo.md)  
-║░║░╚═84 xz  
-║░║░░░╠═85.1 [xz : compress file](01_Ubuntu/01_16/84_xz/01_xz_compress.md)  
-║░║░░░╚═85.2 [xz : decompress file](01_Ubuntu/01_16/84_xz/02_xz_decompress.md)  
+║░║░╠═79 [vpn : vpn gate client on terminal](01_Ubuntu/01_16/80_vpn/01_vpn_gate_client_on_terminal.md)    
+║░║░╠═80 [Window : resize shortcut](01_Ubuntu/01_16/81_window/01_resize_window.md)  
+║░║░╠═81 [x2go : install](01_Ubuntu/01_16/82_x2go/01_install_x2go_server_on_ubuntu16.md)  
+║░║░╠═82 [xwininfo : get window size](01_Ubuntu/01_16/83_xwininfo/01_use_xwininfo.md)  
+║░║░╚═83 xz  
+║░║░░░╠═1 [xz : compress file](01_Ubuntu/01_16/84_xz/01_xz_compress.md)  
+║░║░░░╚═2 [xz : decompress file](01_Ubuntu/01_16/84_xz/02_xz_decompress.md)  
 ║░╚═2 ubuntu18.04  
 ║░░░╠═1 [7z : install and unzip a file.zip with password](01_Ubuntu/02_18.04/01_7z/01_unzip_file_with_password_by_7zip.md)  
 ║░░░╠═2 alias  
