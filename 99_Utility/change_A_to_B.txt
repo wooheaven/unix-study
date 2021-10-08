@@ -1,1 +1,13 @@
-01_Ubuntu/01_16/78_vim/03_CmdLine-Mode/03_Repeat_Latest.md -> 01_Ubuntu/01_16/78_vim/03_CmdLine-Mode/01_Repeat_Latest.md
+01_Ubuntu/02_18.04/27_updates/01_AutomaticSecurityUpdates.md -> 01_Ubuntu/02_18.04/26_updates/01_AutomaticSecurityUpdates.md
+01_Ubuntu/02_18.04/28_vim/01_CmdLine_Mode/01_Move_Line_Up_and_Down.md -> 01_Ubuntu/02_18.04/27_vim/01_CmdLine_Mode/01_Move_Line_Up_and_Down.md
+01_Ubuntu/02_18.04/28_vim/01_CmdLine_Mode/02_join_lines.md -> 01_Ubuntu/02_18.04/27_vim/01_CmdLine_Mode/02_join_lines.md
+01_Ubuntu/02_18.04/28_vim/01_CmdLine_Mode/03_list_up_and_clear_macro_on_register.md -> 01_Ubuntu/02_18.04/27_vim/01_CmdLine_Mode/03_list_up_and_clear_macro_on_register.md
+01_Ubuntu/02_18.04/28_vim/01_CmdLine_Mode/04_vim_CRLF_to_LF.md -> 01_Ubuntu/02_18.04/27_vim/01_CmdLine_Mode/04_vim_CRLF_to_LF.md
+01_Ubuntu/02_18.04/28_vim/01_CmdLine_Mode/05_vim_Regular_Expression.md -> 01_Ubuntu/02_18.04/27_vim/01_CmdLine_Mode/05_vim_Regular_Expression.md
+01_Ubuntu/02_18.04/28_vim/02_ETC/01_Enable_BackSpace_on_INSERT_mode.md -> 01_Ubuntu/02_18.04/27_vim/02_ETC/01_Enable_BackSpace_on_INSERT_mode.md
+01_Ubuntu/02_18.04/28_vim/02_ETC/02_vimrc.md -> 01_Ubuntu/02_18.04/27_vim/02_ETC/02_vimrc.md
+01_Ubuntu/02_18.04/28_vim/02_ETC/03_vimrc_key_mapping.md -> 01_Ubuntu/02_18.04/27_vim/02_ETC/03_vimrc_key_mapping.md
+01_Ubuntu/02_18.04/28_vim/03_Visual_Mode/01_join_lines.md -> 01_Ubuntu/02_18.04/27_vim/03_Visual_Mode/01_join_lines.md
+01_Ubuntu/02_18.04/28_vim/03_Visual_Mode/02_to_lowercase_to_uppercase.md -> 01_Ubuntu/02_18.04/27_vim/03_Visual_Mode/02_to_lowercase_to_uppercase.md
+01_Ubuntu/02_18.04/29_vnc/01_vnc_activate.md -> 01_Ubuntu/02_18.04/28_vnc/01_vnc_activate.md
+01_Ubuntu/02_18.04/30_zip/01_zip_directory.md -> 01_Ubuntu/02_18.04/29_zip/01_zip_directory.md
