@@ -228,129 +228,131 @@
 ║░║░╚═83 xz  
 ║░║░░░╠═1 [xz : compress file](01_Ubuntu/01_16/84_xz/01_xz_compress.md)  
 ║░║░░░╚═2 [xz : decompress file](01_Ubuntu/01_16/84_xz/02_xz_decompress.md)  
-║░╚═2 ubuntu18.04  
-║░░░╠═1 [7z : install and unzip a file.zip with password](01_Ubuntu/02_18.04/01_7z/01_unzip_file_with_password_by_7zip.md)  
-║░░░╠═2 alias  
-║░░░║░╚═1 [lf : find and echo path of all files](01_Ubuntu/02_18.04/02_alias/01_alias_lf.md)  
-║░░░╠═3 apt  
-║░░░║░╚═1 [apt repository : add remove change](01_Ubuntu/02_18.04/03_apt/01_apt_add_remove_change_repository.md)  
-║░░░╠═4 apt-get  
-║░░░║░╠═1 error : [dpkg was interrupted](01_Ubuntu/02_18.04/04_apt-get/01_error/01_apt-get_error_dpkg_was_interrupted.md)  
-║░░░║░╚═2 install  
-║░░░║░░░╠═1 [libreoffice](01_Ubuntu/02_18.04/04_apt-get/02_install/01_apt-get_install_libreoffice.md)  
-║░░░║░░░╚═2 [vino : screen sharing](01_Ubuntu/02_18.04/04_apt-get/02_install/02_apt-get_install_vino.md)  
-║░░░╠═5 awk  
-║░░░║░╠═1 [column to rows](01_Ubuntu/02_18.04/05_awk/01_awk_column_to_rows.md)  
-║░░░║░╠═2 [if else](01_Ubuntu/02_18.04/05_awk/02_awk_if_else.md)  
-║░░░║░╠═3 [max min](01_Ubuntu/02_18.04/05_awk/03_awk_max_min.md)  
-║░░░║░╠═4 [remove blank line](01_Ubuntu/02_18.04/05_awk/04_awk_remove_blank_line.md)  
-║░░░║░╠═5 [rows to column](01_Ubuntu/02_18.04/05_awk/05_awk_rows_to_column.md)  
-║░░░║░╠═6 [use external argument](01_Ubuntu/02_18.04/05_awk/06_awk_use_external_argument.md)  
-║░░░║░╠═7 [length](01_Ubuntu/02_18.04/05_awk/07_awk_use_length.md)  
-║░░░║░╠═8 [substr](01_Ubuntu/02_18.04/05_awk/08_awk_use_substr.md)  
-║░░░║░╚═9 [use variable in awk](01_Ubuntu/02_18.04/05_awk/09_awk_use_variable.md)  
-║░░░╠═6 bash  
-║░░░║░╠═1 [current shell : check](01_Ubuntu/02_18.04/06_bash/01_current_shell/01_check_current_shell.md)  
-║░░░║░╠═2 loop statement  
-║░░░║░║░╠═1 [break : for loop statement](01_Ubuntu/02_18.04/06_bash/02_loop_statement/01_break/01_break_of_loop_statement.md)  
-║░░░║░║░╠═2 for statement  
-║░░░║░║░║░╠═1 [iterate by argument](01_Ubuntu/02_18.04/06_bash/02_loop_statement/02_for_statement/01_for_loop_on_argument.md)  
-║░░░║░║░║░╠═2 [iterate by list](01_Ubuntu/02_18.04/06_bash/02_loop_statement/02_for_statement/02_for_loop_on_list.md)  
-║░░░║░║░║░╠═3 [iterate by num++](01_Ubuntu/02_18.04/06_bash/02_loop_statement/02_for_statement/03_for_loop_on_num++.md)  
-║░░░║░║░║░╚═4 [iterate by file](01_Ubuntu/02_18.04/06_bash/02_loop_statement/02_for_statement/04_for_loop_on_read_file.md)  
-║░░░║░║░╠═3 if statement : [Tutorial Link](https://ryanstutorials.net/bash-scripting-tutorial/bash-if-statements.php)  
-║░░░║░║░║░╠═1 [condition argument count check](01_Ubuntu/02_18.04/06_bash/02_loop_statement/03_if_statement/01_if_condition_argument_count_check.md)  
-║░░░║░║░║░╠═2 [condition argument existence check](01_Ubuntu/02_18.04/06_bash/02_loop_statement/03_if_statement/02_if_condition_argument_existence_check.md)   
-║░░░║░║░║░╠═3 [condition check file exist](01_Ubuntu/02_18.04/06_bash/02_loop_statement/03_if_statement/03_if_condition_check_file_exist.md)  
-║░░░║░║░║░╚═4 [condition check file exist and not empty](01_Ubuntu/02_18.04/06_bash/02_loop_statement/03_if_statement/04_if_condition_check_file_exist_and_not_empty.md)  
-║░░░║░║░╚═4 [while statement](01_Ubuntu/02_18.04/06_bash/02_loop_statement/04_while_statement/01_While_Statement.md)  
-║░░░║░╠═3 variable  
-║░░░║░║░╠═1 number  
-║░░░║░║░║░╠═1 [convert string to number of variable](01_Ubuntu/02_18.04/06_bash/03_variable/01_number/01_convert_string_to_number_of_variable.md)  
-║░░░║░║░║░╚═2 [Multiplication](01_Ubuntu/02_18.04/06_bash/03_variable/01_number/02_Multiplication_on_Bash.md)  
-║░░░║░║░╚═2 string  
-║░░░║░║░░░╠═1 [assign command result string to variable](01_Ubuntu/02_18.04/06_bash/03_variable/02_string/01_assign_command_result_string_to_variable.md)  
-║░░░║░║░░░╠═2 [assign file path string to variable](01_Ubuntu/02_18.04/06_bash/03_variable/02_string/02_assign_file_path_string_to_variable.md)  
-║░░░║░║░░░╠═3 [convert number to string of variable](01_Ubuntu/02_18.04/06_bash/03_variable/02_string/03_convert_number_to_string_of_variable.md)  
-║░░░║░║░░░╠═4 [remove backwards short matched substring of string](01_Ubuntu/02_18.04/06_bash/03_variable/02_string/04_remove_backwards_short_matched_substring_of_string.md)  
-║░░░║░║░░░╚═5 [substring with position and length of string](01_Ubuntu/02_18.04/06_bash/03_variable/02_string/05_substring_with_position_and_length_of_string.md)  
-║░░░║░╚═4 [redirect : print to null](01_Ubuntu/02_18.04/06_bash/04_redirect/01_print_to_null_by_redirect.md)  
-║░░░╠═7 brew  
-║░░░║░╠═1 [install brew : on Ubuntu18](01_Ubuntu/02_18.04/07_brew/01_install_brew/01_install_brew_and_configure.md)  
-║░░░║░╚═2 brew install package  
-║░░░║░░░╚═1 brew install [gcc](01_Ubuntu/02_18.04/07_brew/02_install_package/01_brew_install_gcc.md) [git](01_Ubuntu/02_18.04/07_brew/02_install_package/02_brew_install_git.md) [vim](01_Ubuntu/02_18.04/07_brew/02_install_package/03_brew_install_vim.md) [python](01_Ubuntu/02_18.04/07_brew/02_install_package/03_brew_install_python.md)  
-║░░░╠═8 clipit  
-║░░░║░╚═1 [install clipit by apt-get : clip board app](01_Ubuntu/02_18.04/08_clipit/01_install_clipit_by_apt-get.md)  
-║░░░╠═9 desktop  
-║░░░║░╠═1 [guide Ubuntu18 partition for directory](01_Ubuntu/02_18.04/09_desktop/01_guide_ubuntu18_partition_for_directory.md)  
-║░░░║░╠═2 [install Ubuntu18 desktop ref](01_Ubuntu/02_18.04/09_desktop/02_install_ubuntu18_desktop.md)  
-║░░░║░╠═3 [Ubuntu18 hardware](01_Ubuntu/02_18.04/09_desktop/03_install_ubuntu18_hardware.md)  
-║░░░║░╠═4 [partition and HDD structure](01_Ubuntu/02_18.04/09_desktop/04_install_ubuntu18_partition.md)  
-║░░░║░╚═5 [partition for dual boot](01_Ubuntu/02_18.04/09_desktop/05_install_ubuntu18_with_dual_windows10.md)  
-║░░░╠═10 dpkg  
-║░░░║░╠═1 [install and remove package](01_Ubuntu/02_18.04/10_dpkg/01_dpkg_install_remove_package.md)  
-║░░░║░╚═2 [list](01_Ubuntu/02_18.04/10_dpkg/02_dpkg_list.md)  
-║░░░╠═11 find  
-║░░░║░╠═1 [find with exclude a file or folder](01_Ubuntu/02_18.04/11_find/01_find_exclude_a_file_or_folder.md)  
-║░░░║░╚═2 [find with exclude a Permission Denied folder](01_Ubuntu/02_18.04/11_find/02_find_exclude_Permission_Denied_folder.md)  
-║░░░╠═12 GIMP  
-║░░░║░╠═1 [add box on PNG image file](01_Ubuntu/02_18.04/12_GIMP/01_add_box_on_png.md)  
-║░░░║░╚═2 [Export As PNG image file](01_Ubuntu/02_18.04/12_GIMP/02_export_as_png.md)  
-║░░░╠═13 GNOME  
-║░░░║░░░╠═1 [Mouse Right Click to create Empty Document](01_Ubuntu/02_18.04/13_GNOME/01_right_click_empty_file_by_Template.md)  
-║░░░║░░░╚═2 [Mouse Right Click to open terminal](01_Ubuntu/02_18.04/13_GNOME/02_open_terminal_on_mouse_right_click.md)  
-║░░░╠═14 Kernel : [kernel boot error](01_Ubuntu/02_18.04/14_kernel/01_kernel_boot_error.md)  
-║░░░╠═15 Kubeflow : [install](01_Ubuntu/02_18.04/15_Kubeflow/01_install_Kubeflow.md)  
-║░░░╠═16 [ntp : time sync](01_Ubuntu/02_18.04/16_ntp/01_install_and_use_ntp.md)  
-║░░░╠═17 NVIDIA  
-║░░░║░╠═1 [install nvidia container toolkit](01_Ubuntu/02_18.04/17_NVIDIA/01_container-toolkit/01_install_nvidia-container-toolkit.md)  
-║░░░║░╚═2 [install nvidia driver and CUDA](01_Ubuntu/02_18.04/17_NVIDIA/02_driver_CUDA/01_install_nvidia_driver_cuda.md)  
-║░░░╠═18 [ps : process](01_Ubuntu/02_18.04/18_ps/01_ps_option_format.md)  
-║░░░╠═19 Pycharm  
-║░░░║░╚═1 [shortcut : move cursor to previous position](01_Ubuntu/02_18.04/19_Pycharm/01_shortcut_move_cursor_to_previous_position.md)  
-║░░░╠═20 sdk  
-║░░░║░╠═1 [insall sdk : Software Development Kit Manager](01_Ubuntu/02_18.04/20_sdk/01_install_sdk.md)  
-║░░░║░╠═2 [sdk install JDK](01_Ubuntu/02_18.04/20_sdk/02_sdk_install_jdk.md)  
-║░░░║░╠═3 [sdk uninstall JDK](01_Ubuntu/02_18.04/20_sdk/03_sdk_uninstall_jdk.md)  
-║░░░║░╚═4 [update sdk](01_Ubuntu/02_18.04/20_sdk/04_update_sdk.md)  
-║░░░╠═21 sed  
-║░░░║░╠═1 command line option [-n : no-autoprint](01_Ubuntu/02_18.04/21_sed/01_command_line_option.md)  
-║░░░║░╚═2 command option  
-║░░░║░░░╠═1 [d : delete](01_Ubuntu/02_18.04/21_sed/02_command_option/01_command_option_d.md)  
-║░░░║░░░╠═2 [p : print](01_Ubuntu/02_18.04/21_sed/02_command_option/02_command_option_p.md)  
-║░░░║░░░╠═3 [q : exit](01_Ubuntu/02_18.04/21_sed/02_command_option/03_command_option_q.md)  
-║░░░║░░░╚═4 [s : replace string to newString](01_Ubuntu/02_18.04/21_sed/02_command_option/04_command_option_s.md)  
-║░░░╠═22 [settings : enable korean](01_Ubuntu/02_18.04/22_Settings/01_Region_Language/01_Enable_Korean_Input.md)  
-║░░░╠═23 snap  
-║░░░║░╠═1 [snap : install docker](01_Ubuntu/02_18.04/23_snap/01_snap_install_docker.md)  
-║░░░║░╠═2 [snap : install GIMP](01_Ubuntu/02_18.04/23_snap/02_snap_install_gimp.md)  
-║░░░║░╠═3 [snap : install intellij](01_Ubuntu/02_18.04/23_snap/03_snap_install_intellij.md)  
-║░░░║░╠═4 [snap : install and refresh pycharm](01_Ubuntu/02_18.04/23_snap/04_snap_install_refresh_pycharm.md)  
-║░░░║░╠═5 [snap : install remmina](01_Ubuntu/02_18.04/23_snap/05_snap_install_remmina.md)  
-║░░░║░╚═6 [snap : install vscode](01_Ubuntu/02_18.04/23_snap/06_snap_install_vscode.md)  
-║░░░╠═24 ssh  
-║░░░║░╠═1 [enable root login](01_Ubuntu/02_18.04/24_ssh/01_enable_ssh_root_login.md)  
-║░░░║░╠═2 [install and enable user login](01_Ubuntu/02_18.04/24_ssh/02_install_ssh.md)  
-║░░░║░╚═3 [ssh-key : ssh login without passowrd](01_Ubuntu/02_18.04/24_ssh/03_ssh-keygen_and_add_publicKey_to_server.md)  
-║░░░╠═25 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/02_18.04/25_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
-║░░░╠═26 [synergy : keyboard and mouse share between OS](01_Ubuntu/02_18.04/26_synergy/01_install_configure_synergy.md)  
-║░░░╠═27 [update : automatic security update](01_Ubuntu/02_18.04/27_updates/01_AutomaticSecurityUpdates.md)  
-║░░░╠═28 vim  
-║░░░║░╠═1 CmdLine Mode  
-║░░░║░║░╠═1 [Move Line](01_Ubuntu/02_18.04/28_vim/01_CmdLine_Mode/01_Move_Line_Up_and_Down.md)  
-║░░░║░║░╠═2 [Join Lines](01_Ubuntu/02_18.04/28_vim/01_CmdLine_Mode/02_join_lines.md)  
-║░░░║░║░╠═3 [Macro on Register : List up and Clear](01_Ubuntu/02_18.04/28_vim/01_CmdLine_Mode/03_list_up_and_clear_macro_on_register.md)  
-║░░░║░║░╠═4 [CRLF to LF](01_Ubuntu/02_18.04/28_vim/01_CmdLine_Mode/04_vim_CRLF_to_LF.md)  
-║░░░║░║░╚═5 [Regular Expression](01_Ubuntu/02_18.04/28_vim/01_CmdLine_Mode/05_vim_Regular_Expression.md)  
-║░░░║░╠═2 ETC  
-║░░░║░║░╠═1 [Enable BackSpace on INSERT mode](01_Ubuntu/02_18.04/28_vim/02_ETC/01_Enable_BackSpace_on_INSERT_mode.md)  
-║░░░║░║░╠═2 [cat ~/.vimrc](01_Ubuntu/02_18.04/28_vim/02_ETC/02_vimrc.md)  
-║░░░║░║░╚═3 [Mapping between vim key and keyboard](01_Ubuntu/02_18.04/28_vim/02_ETC/03_vimrc_key_mapping.md)  
-║░░░║░╚═3 Visual Mode  
-║░░░║░░░╠═1 [Join Lines](01_Ubuntu/02_18.04/28_vim/03_Visual_Mode/01_join_lines.md)  
-║░░░║░░░╚═2 [Characters to lowercase to uppercase](01_Ubuntu/02_18.04/28_vim/03_Visual_Mode/02_to_lowercase_to_uppercase.md)  
-║░░░╠═29 [vnc : activate](01_Ubuntu/02_18.04/29_vnc/01_vnc_activate.md)  
-║░░░╚═30 [zip : compress and uncompress directory](01_Ubuntu/02_18.04/30_zip/01_zip_directory.md)  
+║░╠═2 ubuntu18.04  
+║░║░╠═1 [7z : install and unzip a file.zip with password](01_Ubuntu/02_18.04/01_7z/01_unzip_file_with_password_by_7zip.md)  
+║░║░╠═2 alias  
+║░║░║░╚═1 [lf : find and echo path of all files](01_Ubuntu/02_18.04/02_alias/01_alias_lf.md)  
+║░║░╠═3 apt  
+║░║░║░╚═1 [apt repository : add remove change](01_Ubuntu/02_18.04/03_apt/01_apt_add_remove_change_repository.md)  
+║░║░╠═4 apt-get  
+║░║░║░╠═1 error : [dpkg was interrupted](01_Ubuntu/02_18.04/04_apt-get/01_error/01_apt-get_error_dpkg_was_interrupted.md)  
+║░║░║░╚═2 install  
+║░║░║░░░╠═1 [libreoffice](01_Ubuntu/02_18.04/04_apt-get/02_install/01_apt-get_install_libreoffice.md)  
+║░║░║░░░╚═2 [vino : screen sharing](01_Ubuntu/02_18.04/04_apt-get/02_install/02_apt-get_install_vino.md)  
+║░║░╠═5 awk  
+║░║░║░╠═1 [column to rows](01_Ubuntu/02_18.04/05_awk/01_awk_column_to_rows.md)  
+║░║░║░╠═2 [if else](01_Ubuntu/02_18.04/05_awk/02_awk_if_else.md)  
+║░║░║░╠═3 [max min](01_Ubuntu/02_18.04/05_awk/03_awk_max_min.md)  
+║░║░║░╠═4 [remove blank line](01_Ubuntu/02_18.04/05_awk/04_awk_remove_blank_line.md)  
+║░║░║░╠═5 [rows to column](01_Ubuntu/02_18.04/05_awk/05_awk_rows_to_column.md)  
+║░║░║░╠═6 [use external argument](01_Ubuntu/02_18.04/05_awk/06_awk_use_external_argument.md)  
+║░║░║░╠═7 [length](01_Ubuntu/02_18.04/05_awk/07_awk_use_length.md)  
+║░║░║░╠═8 [substr](01_Ubuntu/02_18.04/05_awk/08_awk_use_substr.md)  
+║░║░║░╚═9 [use variable in awk](01_Ubuntu/02_18.04/05_awk/09_awk_use_variable.md)  
+║░║░╠═6 bash  
+║░║░║░╠═1 [current shell : check](01_Ubuntu/02_18.04/06_bash/01_current_shell/01_check_current_shell.md)  
+║░║░║░╠═2 loop statement  
+║░║░║░║░╠═1 [break : for loop statement](01_Ubuntu/02_18.04/06_bash/02_loop_statement/01_break/01_break_of_loop_statement.md)  
+║░║░║░║░╠═2 for statement  
+║░║░║░║░║░╠═1 [iterate by argument](01_Ubuntu/02_18.04/06_bash/02_loop_statement/02_for_statement/01_for_loop_on_argument.md)  
+║░║░║░║░║░╠═2 [iterate by list](01_Ubuntu/02_18.04/06_bash/02_loop_statement/02_for_statement/02_for_loop_on_list.md)  
+║░║░║░║░║░╠═3 [iterate by num++](01_Ubuntu/02_18.04/06_bash/02_loop_statement/02_for_statement/03_for_loop_on_num++.md)  
+║░║░║░║░║░╚═4 [iterate by file](01_Ubuntu/02_18.04/06_bash/02_loop_statement/02_for_statement/04_for_loop_on_read_file.md)  
+║░║░║░║░╠═3 if statement : [Tutorial Link](https://ryanstutorials.net/bash-scripting-tutorial/bash-if-statements.php)  
+║░║░║░║░║░╠═1 [condition argument count check](01_Ubuntu/02_18.04/06_bash/02_loop_statement/03_if_statement/01_if_condition_argument_count_check.md)  
+║░║░║░║░║░╠═2 [condition argument existence check](01_Ubuntu/02_18.04/06_bash/02_loop_statement/03_if_statement/02_if_condition_argument_existence_check.md)   
+║░║░║░║░║░╠═3 [condition check file exist](01_Ubuntu/02_18.04/06_bash/02_loop_statement/03_if_statement/03_if_condition_check_file_exist.md)  
+║░║░║░║░║░╚═4 [condition check file exist and not empty](01_Ubuntu/02_18.04/06_bash/02_loop_statement/03_if_statement/04_if_condition_check_file_exist_and_not_empty.md)  
+║░║░║░║░╚═4 [while statement](01_Ubuntu/02_18.04/06_bash/02_loop_statement/04_while_statement/01_While_Statement.md)  
+║░║░║░╠═3 variable  
+║░║░║░║░╠═1 number  
+║░║░║░║░║░╠═1 [convert string to number of variable](01_Ubuntu/02_18.04/06_bash/03_variable/01_number/01_convert_string_to_number_of_variable.md)  
+║░║░║░║░║░╚═2 [Multiplication](01_Ubuntu/02_18.04/06_bash/03_variable/01_number/02_Multiplication_on_Bash.md)  
+║░║░║░║░╚═2 string  
+║░║░║░║░░░╠═1 [assign command result string to variable](01_Ubuntu/02_18.04/06_bash/03_variable/02_string/01_assign_command_result_string_to_variable.md)  
+║░║░║░║░░░╠═2 [assign file path string to variable](01_Ubuntu/02_18.04/06_bash/03_variable/02_string/02_assign_file_path_string_to_variable.md)  
+║░║░║░║░░░╠═3 [convert number to string of variable](01_Ubuntu/02_18.04/06_bash/03_variable/02_string/03_convert_number_to_string_of_variable.md)  
+║░║░║░║░░░╠═4 [remove backwards short matched substring of string](01_Ubuntu/02_18.04/06_bash/03_variable/02_string/04_remove_backwards_short_matched_substring_of_string.md)  
+║░║░║░║░░░╚═5 [substring with position and length of string](01_Ubuntu/02_18.04/06_bash/03_variable/02_string/05_substring_with_position_and_length_of_string.md)  
+║░║░║░╚═4 [redirect : print to null](01_Ubuntu/02_18.04/06_bash/04_redirect/01_print_to_null_by_redirect.md)  
+║░║░╠═7 brew  
+║░║░║░╠═1 [install brew : on Ubuntu18](01_Ubuntu/02_18.04/07_brew/01_install_brew/01_install_brew_and_configure.md)  
+║░║░║░╚═2 brew install package  
+║░║░║░░░╚═1 brew install [gcc](01_Ubuntu/02_18.04/07_brew/02_install_package/01_brew_install_gcc.md) [git](01_Ubuntu/02_18.04/07_brew/02_install_package/02_brew_install_git.md) [vim](01_Ubuntu/02_18.04/07_brew/02_install_package/03_brew_install_vim.md) [python](01_Ubuntu/02_18.04/07_brew/02_install_package/03_brew_install_python.md)  
+║░║░╠═8 clipit  
+║░║░║░╚═1 [install clipit by apt-get : clip board app](01_Ubuntu/02_18.04/08_clipit/01_install_clipit_by_apt-get.md)  
+║░║░╠═9 desktop  
+║░║░║░╠═1 [guide Ubuntu18 partition for directory](01_Ubuntu/02_18.04/09_desktop/01_guide_ubuntu18_partition_for_directory.md)  
+║░║░║░╠═2 [install Ubuntu18 desktop ref](01_Ubuntu/02_18.04/09_desktop/02_install_ubuntu18_desktop.md)  
+║░║░║░╠═3 [Ubuntu18 hardware](01_Ubuntu/02_18.04/09_desktop/03_install_ubuntu18_hardware.md)  
+║░║░║░╠═4 [partition and HDD structure](01_Ubuntu/02_18.04/09_desktop/04_install_ubuntu18_partition.md)  
+║░║░║░╚═5 [partition for dual boot](01_Ubuntu/02_18.04/09_desktop/05_install_ubuntu18_with_dual_windows10.md)  
+║░║░╠═10 dpkg  
+║░║░║░╠═1 [install and remove package](01_Ubuntu/02_18.04/10_dpkg/01_dpkg_install_remove_package.md)  
+║░║░║░╚═2 [list](01_Ubuntu/02_18.04/10_dpkg/02_dpkg_list.md)  
+║░║░╠═11 find  
+║░║░║░╠═1 [find with exclude a file or folder](01_Ubuntu/02_18.04/11_find/01_find_exclude_a_file_or_folder.md)  
+║░║░║░╚═2 [find with exclude a Permission Denied folder](01_Ubuntu/02_18.04/11_find/02_find_exclude_Permission_Denied_folder.md)  
+║░║░╠═12 GIMP  
+║░║░║░╠═1 [add box on PNG image file](01_Ubuntu/02_18.04/12_GIMP/01_add_box_on_png.md)  
+║░║░║░╚═2 [Export As PNG image file](01_Ubuntu/02_18.04/12_GIMP/02_export_as_png.md)  
+║░║░╠═13 GNOME  
+║░║░║░░░╠═1 [Mouse Right Click to create Empty Document](01_Ubuntu/02_18.04/13_GNOME/01_right_click_empty_file_by_Template.md)  
+║░║░║░░░╚═2 [Mouse Right Click to open terminal](01_Ubuntu/02_18.04/13_GNOME/02_open_terminal_on_mouse_right_click.md)  
+║░║░╠═14 Kernel : [kernel boot error](01_Ubuntu/02_18.04/14_kernel/01_kernel_boot_error.md)  
+║░║░╠═15 Kubeflow : [install](01_Ubuntu/02_18.04/15_Kubeflow/01_install_Kubeflow.md)  
+║░║░╠═16 [ntp : time sync](01_Ubuntu/02_18.04/16_ntp/01_install_and_use_ntp.md)  
+║░║░╠═17 NVIDIA  
+║░║░║░╠═1 [install nvidia container toolkit](01_Ubuntu/02_18.04/17_NVIDIA/01_container-toolkit/01_install_nvidia-container-toolkit.md)  
+║░║░║░╚═2 [install nvidia driver and CUDA](01_Ubuntu/02_18.04/17_NVIDIA/02_driver_CUDA/01_install_nvidia_driver_cuda.md)  
+║░║░╠═18 [ps : process](01_Ubuntu/02_18.04/18_ps/01_ps_option_format.md)  
+║░║░╠═19 Pycharm  
+║░║░║░╚═1 [shortcut : move cursor to previous position](01_Ubuntu/02_18.04/19_Pycharm/01_shortcut_move_cursor_to_previous_position.md)  
+║░║░╠═20 sdk  
+║░║░║░╠═1 [insall sdk : Software Development Kit Manager](01_Ubuntu/02_18.04/20_sdk/01_install_sdk.md)  
+║░║░║░╠═2 [sdk install JDK](01_Ubuntu/02_18.04/20_sdk/02_sdk_install_jdk.md)  
+║░║░║░╠═3 [sdk uninstall JDK](01_Ubuntu/02_18.04/20_sdk/03_sdk_uninstall_jdk.md)  
+║░║░║░╚═4 [update sdk](01_Ubuntu/02_18.04/20_sdk/04_update_sdk.md)  
+║░║░╠═21 sed  
+║░║░║░╠═1 command line option [-n : no-autoprint](01_Ubuntu/02_18.04/21_sed/01_command_line_option.md)  
+║░║░║░╚═2 command option  
+║░║░║░░░╠═1 [d : delete](01_Ubuntu/02_18.04/21_sed/02_command_option/01_command_option_d.md)  
+║░║░║░░░╠═2 [p : print](01_Ubuntu/02_18.04/21_sed/02_command_option/02_command_option_p.md)  
+║░║░║░░░╠═3 [q : exit](01_Ubuntu/02_18.04/21_sed/02_command_option/03_command_option_q.md)  
+║░║░║░░░╚═4 [s : replace string to newString](01_Ubuntu/02_18.04/21_sed/02_command_option/04_command_option_s.md)  
+║░║░╠═22 [settings : enable korean](01_Ubuntu/02_18.04/22_Settings/01_Region_Language/01_Enable_Korean_Input.md)  
+║░║░╠═23 snap  
+║░║░║░╠═1 [snap : install docker](01_Ubuntu/02_18.04/23_snap/01_snap_install_docker.md)  
+║░║░║░╠═2 [snap : install GIMP](01_Ubuntu/02_18.04/23_snap/02_snap_install_gimp.md)  
+║░║░║░╠═3 [snap : install intellij](01_Ubuntu/02_18.04/23_snap/03_snap_install_intellij.md)  
+║░║░║░╠═4 [snap : install and refresh pycharm](01_Ubuntu/02_18.04/23_snap/04_snap_install_refresh_pycharm.md)  
+║░║░║░╠═5 [snap : install remmina](01_Ubuntu/02_18.04/23_snap/05_snap_install_remmina.md)  
+║░║░║░╚═6 [snap : install vscode](01_Ubuntu/02_18.04/23_snap/06_snap_install_vscode.md)  
+║░║░╠═24 ssh  
+║░║░║░╠═1 [enable root login](01_Ubuntu/02_18.04/24_ssh/01_enable_ssh_root_login.md)  
+║░║░║░╠═2 [install and enable user login](01_Ubuntu/02_18.04/24_ssh/02_install_ssh.md)  
+║░║░║░╚═3 [ssh-key : ssh login without passowrd](01_Ubuntu/02_18.04/24_ssh/03_ssh-keygen_and_add_publicKey_to_server.md)  
+║░║░╠═25 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/02_18.04/25_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
+║░║░╠═26 [update : automatic security update](01_Ubuntu/02_18.04/26_updates/01_AutomaticSecurityUpdates.md)  
+║░║░╠═27 vim  
+║░║░║░╠═1 CmdLine Mode  
+║░║░║░║░╠═1 [Move Line](01_Ubuntu/02_18.04/27_vim/01_CmdLine_Mode/01_Move_Line_Up_and_Down.md)  
+║░║░║░║░╠═2 [Join Lines](01_Ubuntu/02_18.04/27_vim/01_CmdLine_Mode/02_join_lines.md)  
+║░║░║░║░╠═3 [Macro on Register : List up and Clear](01_Ubuntu/02_18.04/27_vim/01_CmdLine_Mode/03_list_up_and_clear_macro_on_register.md)  
+║░║░║░║░╠═4 [CRLF to LF](01_Ubuntu/02_18.04/27_vim/01_CmdLine_Mode/04_vim_CRLF_to_LF.md)  
+║░║░║░║░╚═5 [Regular Expression](01_Ubuntu/02_18.04/27_vim/01_CmdLine_Mode/05_vim_Regular_Expression.md)  
+║░║░║░╠═2 ETC  
+║░║░║░║░╠═1 [Enable BackSpace on INSERT mode](01_Ubuntu/02_18.04/27_vim/02_ETC/01_Enable_BackSpace_on_INSERT_mode.md)  
+║░║░║░║░╠═2 [cat ~/.vimrc](01_Ubuntu/02_18.04/27_vim/02_ETC/02_vimrc.md)  
+║░║░║░║░╚═3 [Mapping between vim key and keyboard](01_Ubuntu/02_18.04/27_vim/02_ETC/03_vimrc_key_mapping.md)  
+║░║░║░╚═3 Visual Mode  
+║░║░║░░░╠═1 [Join Lines](01_Ubuntu/02_18.04/27_vim/03_Visual_Mode/01_join_lines.md)  
+║░║░║░░░╚═2 [Characters to lowercase to uppercase](01_Ubuntu/02_18.04/27_vim/03_Visual_Mode/02_to_lowercase_to_uppercase.md)  
+║░║░╠═28 [vnc : activate](01_Ubuntu/02_18.04/28_vnc/01_vnc_activate.md)  
+║░║░╚═29 [zip : compress and uncompress directory](01_Ubuntu/02_18.04/29_zip/01_zip_directory.md)  
+║░╚═3 ubuntu20.04  
+║░░░╚═1 snap  
+║░░░░░╚═1 [snap install barrier](01_Ubuntu/03_20.04/01_snap/01_snap_install_barrier.md)  
 ╠═2 CentOS  
 ║░╚═1 CentOS 6.9  
 ║░░░╠═1 [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)  
