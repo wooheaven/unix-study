@@ -183,50 +183,49 @@
 ║░║░║░╚═2 [file rsymc by pssh : rsync and md5sum a file on cluster by pssh](01_Ubuntu/01_16/62_ssh/02_rsync_file_by_pssh.md)  
 ║░║░╠═63 [StartUp Applications : add program](01_Ubuntu/01_16/63_Startup_Applications/01_add_programs.md)  
 ║░║░╠═64 [Steam : Install on Ubuntu16](01_Ubuntu/01_16/64_Steam/01_install_Steam_on_ubuntu16.md)  
-║░║░╠═65 [Install Sublime Text 2](01_Ubuntu/01_16/65_sublime_text_2/01_install_sublime_text2.md)  
-║░║░╠═66 [substring : remove from beginning or back + long or short](01_Ubuntu/01_16/66_substring/01_substring_remove.md)  
-║░║░╠═67 [tac : read from bottom to top](01_Ubuntu/01_16/67_tac/01_tac.md)  
-║░║░╠═68 tar  
-║░║░║░╠═1 [uncompress : tgz](01_Ubuntu/01_16/68_tar/01_uncompress_tgz.md)  
-║░║░║░╚═2 [compress : folder](01_Ubuntu/01_16/68_tar/02_compress_folder_by_tar.md)  
-║░║░╠═69 [tmux : install, configure, use](01_Ubuntu/01_16/69_tmux/01_tmux.md)  
-║░║░╠═70 [touch : accessed modified timestamp](01_Ubuntu/01_16/70_touch/01_modify_timestamp.md)  
-║░║░╠═71 [tr : replace string](01_Ubuntu/01_16/71_tr/01_tr_replace_string.md)  
-║░║░╠═72 [tzdata : time zone](01_Ubuntu/01_16/72_tzdata/01_timeZone.md)  
-║░║░╠═73 [unicode : box char](01_Ubuntu/01_16/73_unicode/01_box_char.md)  
-║░║░╠═74 update-alternatives  
-║░║░║░╠═1 [--install : java, javac](01_Ubuntu/01_16/74_update-alternatives/01_install_java_and_javac.md)  
-║░║░║░╚═2 [--install : vi, vim](01_Ubuntu/01_16/74_update-alternatives/02_install_vim_and_vi.md)  
-║░║░╠═75 [userdel](01_Ubuntu/01_16/75_userdel/01_userdel_hadoop.md)  
-║░║░╠═76 [usermod : add User to Group](01_Ubuntu/01_16/76_usermod/01_add_USER_to_GROUP.md)  
-║░║░╠═77 vim  
+║░║░╠═65 [substring : remove from beginning or back + long or short](01_Ubuntu/01_16/65_substring/01_substring_remove.md)  
+║░║░╠═66 [tac : read from bottom to top](01_Ubuntu/01_16/66_tac/01_tac.md)  
+║░║░╠═67 tar  
+║░║░║░╠═1 [uncompress : tgz](01_Ubuntu/01_16/67_tar/01_uncompress_tgz.md)  
+║░║░║░╚═2 [compress : folder](01_Ubuntu/01_16/67_tar/02_compress_folder_by_tar.md)  
+║░║░╠═68 [tmux : install, configure, use](01_Ubuntu/01_16/68_tmux/01_tmux.md)  
+║░║░╠═69 [touch : accessed modified timestamp](01_Ubuntu/01_16/69_touch/01_modify_timestamp.md)  
+║░║░╠═70 [tr : replace string](01_Ubuntu/01_16/70_tr/01_tr_replace_string.md)  
+║░║░╠═71 [tzdata : time zone](01_Ubuntu/01_16/71_tzdata/01_timeZone.md)  
+║░║░╠═72 [unicode : box char](01_Ubuntu/01_16/72_unicode/01_box_char.md)  
+║░║░╠═73 update-alternatives  
+║░║░║░╠═1 [--install : java, javac](01_Ubuntu/01_16/73_update-alternatives/01_install_java_and_javac.md)  
+║░║░║░╚═2 [--install : vi, vim](01_Ubuntu/01_16/73_update-alternatives/02_install_vim_and_vi.md)  
+║░║░╠═74 [userdel](01_Ubuntu/01_16/74_userdel/01_userdel_hadoop.md)  
+║░║░╠═75 [usermod : add User to Group](01_Ubuntu/01_16/75_usermod/01_add_USER_to_GROUP.md)  
+║░║░╠═76 vim  
 ║░║░║░╠═1 Cmd-Mode  
-║░║░║░║░╠═1 [Move Cursor](01_Ubuntu/01_16/77_vim/01_Cmd-Mode/01_Move_Cursor.md)  
-║░║░║░║░╠═2 [Switch Line Up and Down](01_Ubuntu/01_16/77_vim/01_Cmd-Mode/02_Switch_Line_Up_and_Down.md)  
-║░║░║░║░╚═3 [Repeat lastest command on Cmd-Mode](01_Ubuntu/01_16/77_vim/01_Cmd-Mode/03_Repeat_Lastest.md)  
+║░║░║░║░╠═1 [Move Cursor](01_Ubuntu/01_16/76_vim/01_Cmd-Mode/01_Move_Cursor.md)  
+║░║░║░║░╠═2 [Switch Line Up and Down](01_Ubuntu/01_16/76_vim/01_Cmd-Mode/02_Switch_Line_Up_and_Down.md)  
+║░║░║░║░╚═3 [Repeat lastest command on Cmd-Mode](01_Ubuntu/01_16/76_vim/01_Cmd-Mode/03_Repeat_Lastest.md)  
 ║░║░║░╠═2 CmdLine-Mode  
-║░║░║░║░╠═1 [Repeat latest command on CmdLine-Mode](01_Ubuntu/01_16/77_vim/03_CmdLine-Mode/01_Repeat_Latest.md)  
-║░║░║░║░╚═2 [save as other file](01_Ubuntu/01_16/77_vim/03_CmdLine-Mode/02_vim_save_as_other_File.md)  
+║░║░║░║░╠═1 [Repeat latest command on CmdLine-Mode](01_Ubuntu/01_16/76_vim/03_CmdLine-Mode/01_Repeat_Latest.md)  
+║░║░║░║░╚═2 [save as other file](01_Ubuntu/01_16/76_vim/03_CmdLine-Mode/02_vim_save_as_other_File.md)  
 ║░║░║░╚═3 ETC  
-║░║░║░░░╠═1 [vim diff](01_Ubuntu/01_16/77_vim/04_ETC/01_vim_diff.md)  
-║░║░║░░░╠═2 [vim diff refresh](01_Ubuntu/01_16/77_vim/04_ETC/02_vim_diff_refresh.md)  
-║░║░║░░░╠═3 [vim install use nerdtree](01_Ubuntu/01_16/77_vim/04_ETC/03_vim_install_nerdtree_by_vundle.md)  
-║░║░║░░░╠═4 [vim install vundle](01_Ubuntu/01_16/77_vim/04_ETC/04_vim_install_use_vundle.md)  
-║░║░║░░░╠═5 [vim split](01_Ubuntu/01_16/77_vim/04_ETC/05_vim_split.md)  
-║░║░║░░░╠═6 [vimrc macro](01_Ubuntu/01_16/77_vim/04_ETC/06_vimrc_append_save_macro.md)  
-║░║░║░░░╠═7 [vim colorscheme jellybeans](01_Ubuntu/01_16/77_vim/04_ETC/07_vimrc_color_jellybeans.md)  
-║░║░║░░░╠═8 [vimrc encoding UTF8 (Korean)](01_Ubuntu/01_16/77_vim/04_ETC/08_vimrc_encoding_korean.md)  
-║░║░║░░░╚═9 [vim tab option](01_Ubuntu/01_16/77_vim/04_ETC/09_vimrc_tab_option.md)   
-║░║░╠═78 vncserver, vnc4server  
-║░║░║░╠═1 [vnc4server : remote control ubuntu](01_Ubuntu/01_16/78_vnc4server/01_install_config_vnc4server.md)  
-║░║░║░╚═2 [vncserver : remote access sharing](01_Ubuntu/01_16/78_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md)  
-║░║░╠═79 [vpn : vpn gate client on terminal](01_Ubuntu/01_16/79_vpn/01_vpn_gate_client_on_terminal.md)    
-║░║░╠═80 [Window : resize shortcut](01_Ubuntu/01_16/80_window/01_resize_window.md)  
-║░║░╠═81 [x2go : install](01_Ubuntu/01_16/81_x2go/01_install_x2go_server_on_ubuntu16.md)  
-║░║░╠═82 [xwininfo : get window size](01_Ubuntu/01_16/82_xwininfo/01_use_xwininfo.md)  
-║░║░╚═83 xz  
-║░║░░░╠═1 [xz : compress file](01_Ubuntu/01_16/83_xz/01_xz_compress.md)  
-║░║░░░╚═2 [xz : decompress file](01_Ubuntu/01_16/83_xz/02_xz_decompress.md)  
+║░║░║░░░╠═1 [vim diff](01_Ubuntu/01_16/76_vim/04_ETC/01_vim_diff.md)  
+║░║░║░░░╠═2 [vim diff refresh](01_Ubuntu/01_16/76_vim/04_ETC/02_vim_diff_refresh.md)  
+║░║░║░░░╠═3 [vim install use nerdtree](01_Ubuntu/01_16/76_vim/04_ETC/03_vim_install_nerdtree_by_vundle.md)  
+║░║░║░░░╠═4 [vim install vundle](01_Ubuntu/01_16/76_vim/04_ETC/04_vim_install_use_vundle.md)  
+║░║░║░░░╠═5 [vim split](01_Ubuntu/01_16/76_vim/04_ETC/05_vim_split.md)  
+║░║░║░░░╠═6 [vimrc macro](01_Ubuntu/01_16/76_vim/04_ETC/06_vimrc_append_save_macro.md)  
+║░║░║░░░╠═7 [vim colorscheme jellybeans](01_Ubuntu/01_16/76_vim/04_ETC/07_vimrc_color_jellybeans.md)  
+║░║░║░░░╠═8 [vimrc encoding UTF8 (Korean)](01_Ubuntu/01_16/76_vim/04_ETC/08_vimrc_encoding_korean.md)  
+║░║░║░░░╚═9 [vim tab option](01_Ubuntu/01_16/76_vim/04_ETC/09_vimrc_tab_option.md)   
+║░║░╠═77 vncserver, vnc4server  
+║░║░║░╠═1 [vnc4server : remote control ubuntu](01_Ubuntu/01_16/77_vnc4server/01_install_config_vnc4server.md)  
+║░║░║░╚═2 [vncserver : remote access sharing](01_Ubuntu/01_16/77_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md)  
+║░║░╠═78 [vpn : vpn gate client on terminal](01_Ubuntu/01_16/78_vpn/01_vpn_gate_client_on_terminal.md)    
+║░║░╠═79 [Window : resize shortcut](01_Ubuntu/01_16/79_window/01_resize_window.md)  
+║░║░╠═80 [x2go : install](01_Ubuntu/01_16/80_x2go/01_install_x2go_server_on_ubuntu16.md)  
+║░║░╠═81 [xwininfo : get window size](01_Ubuntu/01_16/81_xwininfo/01_use_xwininfo.md)  
+║░║░╚═82 xz  
+║░║░░░╠═1 [xz : compress file](01_Ubuntu/01_16/82_xz/01_xz_compress.md)  
+║░║░░░╚═2 [xz : decompress file](01_Ubuntu/01_16/82_xz/02_xz_decompress.md)  
 ║░╠═2 ubuntu18.04  
 ║░║░╠═1 [7z : install and unzip a file.zip with password](01_Ubuntu/02_18.04/01_7z/01_unzip_file_with_password_by_7zip.md)  
 ║░║░╠═2 alias  
@@ -351,7 +350,8 @@
 ║░║░╚═29 [zip : compress and uncompress directory](01_Ubuntu/02_18.04/29_zip/01_zip_directory.md)  
 ║░╚═3 ubuntu20.04  
 ║░░░╠═1 Desktop  
-║░░░║░╚═1 [Display Manager : Change to lightdm from gdm3](01_Ubuntu/03_20.04/01_desktop/01_display_manager.md)  
+║░░░║░╠═1 [Display Manager : Change to lightdm from gdm3](01_Ubuntu/03_20.04/01_desktop/01_display_manager.md)  
+║░░░║░╚═2 [Install Desktop on UEFI and Legacy BIOS system](01_Ubuntu/03_20.04/01_desktop/02_install_desktop.md)  
 ║░░░╚═2 snap  
 ║░░░░░╚═1 [snap install barrier](01_Ubuntu/03_20.04/02_snap/01_snap_install_barrier.md)  
 ╠═2 CentOS  
