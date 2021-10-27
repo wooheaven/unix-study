@@ -212,10 +212,9 @@
 ║░║░║░░░╠═3 [vim install use nerdtree](01_Ubuntu/01_16/76_vim/04_ETC/03_vim_install_nerdtree_by_vundle.md)  
 ║░║░║░░░╠═4 [vim install vundle](01_Ubuntu/01_16/76_vim/04_ETC/04_vim_install_use_vundle.md)  
 ║░║░║░░░╠═5 [vim split](01_Ubuntu/01_16/76_vim/04_ETC/05_vim_split.md)  
-║░║░║░░░╠═6 [vimrc macro](01_Ubuntu/01_16/76_vim/04_ETC/06_vimrc_append_save_macro.md)  
-║░║░║░░░╠═7 [vim colorscheme jellybeans](01_Ubuntu/01_16/76_vim/04_ETC/07_vimrc_color_jellybeans.md)  
-║░║░║░░░╠═8 [vimrc encoding UTF8 (Korean)](01_Ubuntu/01_16/76_vim/04_ETC/08_vimrc_encoding_korean.md)  
-║░║░║░░░╚═9 [vim tab option](01_Ubuntu/01_16/76_vim/04_ETC/09_vimrc_tab_option.md)   
+║░║░║░░░╠═6 [vim colorscheme jellybeans](01_Ubuntu/01_16/76_vim/04_ETC/06_vimrc_color_jellybeans.md)  
+║░║░║░░░╠═7 [vimrc encoding UTF8 (Korean)](01_Ubuntu/01_16/76_vim/04_ETC/07_vimrc_encoding_korean.md)  
+║░║░║░░░╚═8 [vim tab option](01_Ubuntu/01_16/76_vim/04_ETC/08_vimrc_tab_option.md)   
 ║░║░╠═77 vncserver, vnc4server  
 ║░║░║░╠═1 [vnc4server : remote control ubuntu](01_Ubuntu/01_16/77_vnc4server/01_install_config_vnc4server.md)  
 ║░║░║░╚═2 [vncserver : remote access sharing](01_Ubuntu/01_16/77_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md)  
@@ -341,8 +340,7 @@
 ║░║░║░║░╚═5 [Regular Expression](01_Ubuntu/02_18.04/27_vim/01_CmdLine_Mode/05_vim_Regular_Expression.md)  
 ║░║░║░╠═2 ETC  
 ║░║░║░║░╠═1 [Enable BackSpace on INSERT mode](01_Ubuntu/02_18.04/27_vim/02_ETC/01_Enable_BackSpace_on_INSERT_mode.md)  
-║░║░║░║░╠═2 [cat ~/.vimrc](01_Ubuntu/02_18.04/27_vim/02_ETC/02_vimrc.md)  
-║░║░║░║░╚═3 [Mapping between vim key and keyboard](01_Ubuntu/02_18.04/27_vim/02_ETC/03_vimrc_key_mapping.md)  
+║░║░║░║░╚═2 [Mapping between vim key and keyboard](01_Ubuntu/02_18.04/27_vim/02_ETC/02_vimrc_key_mapping.md)  
 ║░║░║░╚═3 Visual Mode  
 ║░║░║░░░╠═1 [Join Lines](01_Ubuntu/02_18.04/27_vim/03_Visual_Mode/01_join_lines.md)  
 ║░║░║░░░╚═2 [Characters to lowercase to uppercase](01_Ubuntu/02_18.04/27_vim/03_Visual_Mode/02_to_lowercase_to_uppercase.md)  
@@ -352,8 +350,12 @@
 ║░░░╠═1 Desktop  
 ║░░░║░╠═1 [Display Manager : Change to lightdm from gdm3](01_Ubuntu/03_20.04/01_desktop/01_display_manager.md)  
 ║░░░║░╚═2 [Install Desktop on UEFI and Legacy BIOS system](01_Ubuntu/03_20.04/01_desktop/02_install_desktop.md)  
-║░░░╚═2 snap  
-║░░░░░╚═1 [snap install barrier](01_Ubuntu/03_20.04/02_snap/01_snap_install_barrier.md)  
+║░░░╠═2 snap  
+║░░░║░╚═1 [snap install barrier](01_Ubuntu/03_20.04/02_snap/01_snap_install_barrier.md)  
+║░░░╚═3 vim  
+║░░░░░╚═1 ETC  
+║░░░░░░░╠═1 [cat ~/.vimrc](01_Ubuntu/03_20.04/03_vim/01_ETC/01_cat_vimrc.md)  
+║░░░░░░░╚═2 [vimrc macro](01_Ubuntu/03_20.04/03_vim/01_ETC/02_vimrc_append_save_macro.md)  
 ╠═2 CentOS  
 ║░╚═1 CentOS 6.9  
 ║░░░╠═1 [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)  
