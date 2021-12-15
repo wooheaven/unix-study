@@ -35,9 +35,7 @@
 ║░║░║░╠═2 brew uninstall package  
 ║░║░║░║░╚═1 [brew uninstall scala2.11](01_Ubuntu/01_16/06_brew/02_uninstall_package/01_brew_uninstall_scala@2.11.md)   
 ║░║░║░╚═3 brew upgrade package  
-║░║░║░░░╠═1 [brew upgrade packages : python file](01_Ubuntu/01_16/06_brew/03_upgrade_package/01_brew_upgrade.py)   
-║░║░║░░░╠═2 [brew upgrade maven : configure after upgrade](01_Ubuntu/01_16/06_brew/03_upgrade_package/02_brew_upgrade_maven.md)  
-║░║░║░░░╚═3 [brew upgrade python : configure after upgrade](01_Ubuntu/01_16/06_brew/03_upgrade_package/03_brew_upgrade_python.md)  
+║░║░║░░░╚═1 [brew upgrade packages : python file](01_Ubuntu/01_16/06_brew/03_upgrade_package/01_brew_upgrade.py)   
 ║░║░╠═7 chrome  
 ║░║░║░╠═1 [install, configure, remove](01_Ubuntu/01_16/07_chrome/01_chrome/01_install_configure_remove_chrome.md)  
 ║░║░║░╚═2 [chrome remote desktop : install and configure](01_Ubuntu/01_16/07_chrome/02_chrome_remote_desktop/01_install_chrome_remote_desktop.md)  
@@ -274,8 +272,12 @@
 ║░║░║░╚═4 [redirect : print to null](01_Ubuntu/02_18.04/06_bash/04_redirect/01_print_to_null_by_redirect.md)  
 ║░║░╠═7 brew  
 ║░║░║░╠═1 [install brew : on Ubuntu18](01_Ubuntu/02_18.04/07_brew/01_install_brew/01_install_brew_and_configure.md)  
-║░║░║░╚═2 brew install package  
-║░║░║░░░╚═1 brew install [gcc](01_Ubuntu/02_18.04/07_brew/02_install_package/01_brew_install_gcc.md) [git](01_Ubuntu/02_18.04/07_brew/02_install_package/02_brew_install_git.md) [vim](01_Ubuntu/02_18.04/07_brew/02_install_package/03_brew_install_vim.md) [python](01_Ubuntu/02_18.04/07_brew/02_install_package/03_brew_install_python.md)  
+║░║░║░╠═2 brew install package  
+║░║░║░║░╚═1 brew install [gcc](01_Ubuntu/02_18.04/07_brew/02_install_package/01_brew_install_gcc.md) [git](01_Ubuntu/02_18.04/07_brew/02_install_package/02_brew_install_git.md) [vim](01_Ubuntu/02_18.04/07_brew/02_install_package/03_brew_install_vim.md) [python](01_Ubuntu/02_18.04/07_brew/02_install_package/03_brew_install_python.md)  
+║░║░║░╚═3 brew upgrade package  
+║░║░║░░░╠═1 [brew upgrade git : check link file after upgrade](01_Ubuntu/02_18.04/07_brew/03_upgrade_package/01_brew_upgrade_git.md)  
+║░║░║░░░╠═2 [brew upgrade maven : configure after upgrade](01_Ubuntu/02_18.04/07_brew/03_upgrade_package/02_brew_upgrade_maven.md)  
+║░║░║░░░╚═3 [brew upgrade python : configure after upgrade](01_Ubuntu/02_18.04/07_brew/03_upgrade_package/03_brew_upgrade_python.md)  
 ║░║░╠═8 clipit  
 ║░║░║░╚═1 [install clipit by apt-get : clip board app](01_Ubuntu/02_18.04/08_clipit/01_install_clipit_by_apt-get.md)  
 ║░║░╠═9 desktop  
