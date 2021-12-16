@@ -342,7 +342,8 @@
 ║░║░║░║░╚═5 [Regular Expression](01_Ubuntu/02_18.04/27_vim/01_CmdLine_Mode/05_vim_Regular_Expression.md)  
 ║░║░║░╠═2 ETC  
 ║░║░║░║░╠═1 [Enable BackSpace on INSERT mode](01_Ubuntu/02_18.04/27_vim/02_ETC/01_Enable_BackSpace_on_INSERT_mode.md)  
-║░║░║░║░╚═2 [Mapping between vim key and keyboard](01_Ubuntu/02_18.04/27_vim/02_ETC/02_vimrc_key_mapping.md)  
+║░║░║░║░╠═2 [install vim-plug](01_Ubuntu/02_18.04/27_vim/02_ETC/02_install_vim-plug.md)  
+║░║░║░║░╚═3 [Mapping between vim key and keyboard](01_Ubuntu/02_18.04/27_vim/02_ETC/03_vimrc_key_mapping.md)  
 ║░║░║░╚═3 Visual Mode  
 ║░║░║░░░╠═1 [Join Lines](01_Ubuntu/02_18.04/27_vim/03_Visual_Mode/01_join_lines.md)  
 ║░║░║░░░╚═2 [Characters to lowercase to uppercase](01_Ubuntu/02_18.04/27_vim/03_Visual_Mode/02_to_lowercase_to_uppercase.md)  
