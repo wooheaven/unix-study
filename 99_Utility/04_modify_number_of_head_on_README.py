@@ -18,6 +18,9 @@ class Rename():
         elif cwd.endswith('-Study'):
             readme_path = glob.glob(cwd + '/README.md')
             print(readme_path)
+        elif cwd.endswith('-study'):
+            readme_path = glob.glob(cwd + '/README.md')
+            print(readme_path)
         else:
             raise NameError("Can't find README.md")
 

@@ -207,12 +207,11 @@
 ║░║░║░╚═3 ETC  
 ║░║░║░░░╠═1 [vim diff](01_Ubuntu/01_16/76_vim/04_ETC/01_vim_diff.md)  
 ║░║░║░░░╠═2 [vim diff refresh](01_Ubuntu/01_16/76_vim/04_ETC/02_vim_diff_refresh.md)  
-║░║░║░░░╠═3 [vim install use nerdtree](01_Ubuntu/01_16/76_vim/04_ETC/03_vim_install_nerdtree_by_vundle.md)  
-║░║░║░░░╠═4 [vim install vundle](01_Ubuntu/01_16/76_vim/04_ETC/04_vim_install_use_vundle.md)  
-║░║░║░░░╠═5 [vim split](01_Ubuntu/01_16/76_vim/04_ETC/05_vim_split.md)  
-║░║░║░░░╠═6 [vim colorscheme jellybeans](01_Ubuntu/01_16/76_vim/04_ETC/06_vimrc_color_jellybeans.md)  
-║░║░║░░░╠═7 [vimrc encoding UTF8 (Korean)](01_Ubuntu/01_16/76_vim/04_ETC/07_vimrc_encoding_korean.md)  
-║░║░║░░░╚═8 [vim tab option](01_Ubuntu/01_16/76_vim/04_ETC/08_vimrc_tab_option.md)   
+║░║░║░░░╠═3 [vim install vundle](01_Ubuntu/01_16/76_vim/04_ETC/03_vim_install_use_vundle.md)  
+║░║░║░░░╠═4 [vim split](01_Ubuntu/01_16/76_vim/04_ETC/04_vim_split.md)  
+║░║░║░░░╠═5 [vim colorscheme jellybeans](01_Ubuntu/01_16/76_vim/04_ETC/05_vimrc_color_jellybeans.md)  
+║░║░║░░░╠═6 [vimrc encoding UTF8 (Korean)](01_Ubuntu/01_16/76_vim/04_ETC/06_vimrc_encoding_korean.md)  
+║░║░║░░░╚═7 [vim tab option](01_Ubuntu/01_16/76_vim/04_ETC/07_vimrc_tab_option.md)   
 ║░║░╠═77 vncserver, vnc4server  
 ║░║░║░╠═1 [vnc4server : remote control ubuntu](01_Ubuntu/01_16/77_vnc4server/01_install_config_vnc4server.md)  
 ║░║░║░╚═2 [vncserver : remote access sharing](01_Ubuntu/01_16/77_vnc4server/02_configure_vncserver_on_ubuntu16_desktop.md)  
@@ -343,7 +342,8 @@
 ║░║░║░╠═2 ETC  
 ║░║░║░║░╠═1 [Enable BackSpace on INSERT mode](01_Ubuntu/02_18.04/27_vim/02_ETC/01_Enable_BackSpace_on_INSERT_mode.md)  
 ║░║░║░║░╠═2 [install vim-plug](01_Ubuntu/02_18.04/27_vim/02_ETC/02_install_vim-plug.md)  
-║░║░║░║░╚═3 [Mapping between vim key and keyboard](01_Ubuntu/02_18.04/27_vim/02_ETC/03_vimrc_key_mapping.md)  
+║░║░║░║░╠═3 [install nerdtree](01_Ubuntu/02_18.04/27_vim/02_ETC/03_vim_install_nerdtree_by_vim-plug.md)  
+║░║░║░║░╚═4 [Mapping between vim key and keyboard](01_Ubuntu/02_18.04/27_vim/02_ETC/04_vimrc_key_mapping.md)  
 ║░║░║░╚═3 Visual Mode  
 ║░║░║░░░╠═1 [Join Lines](01_Ubuntu/02_18.04/27_vim/03_Visual_Mode/01_join_lines.md)  
 ║░║░║░░░╚═2 [Characters to lowercase to uppercase](01_Ubuntu/02_18.04/27_vim/03_Visual_Mode/02_to_lowercase_to_uppercase.md)  
