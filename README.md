@@ -167,12 +167,11 @@
 ║░║░║░╠═2 [replace every 3rd comma to semicolon](01_Ubuntu/01_16/59_sed/02_sed_replace_every_3rd_comma_to_semicolon.md)  
 ║░║░║░╚═3 [space regular expression](01_Ubuntu/01_16/59_sed/03_sed_space_regular_expression.md)  
 ║░║░╠═60 snap  
-║░║░║░╠═1 [snap : example install list refresh remove](01_Ubuntu/01_16/60_snap/01_snap_install_list_changes_refresh_remove.md)  
-║░║░║░╠═2 [snap : install node](01_Ubuntu/01_16/60_snap/02_snap_install_node.md)  
-║░║░║░╠═3 [snap : install scrcpy](01_Ubuntu/01_16/60_snap/03_snap_install_scrcpy.md)  
-║░║░║░╠═4 [snap : install slack](01_Ubuntu/01_16/60_snap/04_snap_install_slack.md)  
-║░║░║░╠═5 [snap : install sublime-text](01_Ubuntu/01_16/60_snap/05_snap_install_sublime-text.md)  
-║░║░║░╚═6 [snap : install visualstudiocode](01_Ubuntu/01_16/60_snap/06_snap_install_visualstudiocode.md)  
+║░║░║░╠═1 [snap : install node](01_Ubuntu/01_16/60_snap/01_snap_install_node.md)  
+║░║░║░╠═2 [snap : install scrcpy](01_Ubuntu/01_16/60_snap/02_snap_install_scrcpy.md)  
+║░║░║░╠═3 [snap : install slack](01_Ubuntu/01_16/60_snap/03_snap_install_slack.md)  
+║░║░║░╠═4 [snap : install sublime-text](01_Ubuntu/01_16/60_snap/04_snap_install_sublime-text.md)  
+║░║░║░╚═5 [snap : install visualstudiocode](01_Ubuntu/01_16/60_snap/05_snap_install_visualstudiocode.md)  
 ║░║░╠═61 sort  
 ║░║░║░╠═1 [by key as string or number, substring or subnumber](01_Ubuntu/01_16/61_sort/01_sort_by_key_as_string_number_substring_subnumber.md)  
 ║░║░║░╚═2 [--ignore-case : Upper/Lower case](01_Ubuntu/01_16/61_sort/02_sort_ignore-case.md)  

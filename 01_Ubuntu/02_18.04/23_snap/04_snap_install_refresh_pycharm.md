@@ -8,7 +8,10 @@ sudo snap list
 ```{bash}
 sudo snap list
 sudo snap find pycharm-community
-sudo snap refresh pycharm-community --classic
+# for pycharm-community only
+$ sudo snap refresh pycharm-community --classic
+# for all packages
+$ sudo snap refresh --list 
 sudo snap list
 ```
 
