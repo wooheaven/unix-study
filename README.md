@@ -227,9 +227,11 @@
 ║░║░║░╚═1 [apt repository : add remove change](01_Ubuntu/02_18.04/03_apt/01_apt_add_remove_change_repository.md)  
 ║░║░╠═4 apt-get  
 ║░║░║░╠═1 error : [dpkg was interrupted](01_Ubuntu/02_18.04/04_apt-get/01_error/01_apt-get_error_dpkg_was_interrupted.md)  
-║░║░║░╚═2 install  
-║░║░║░░░╠═1 [libreoffice](01_Ubuntu/02_18.04/04_apt-get/02_install/01_apt-get_install_libreoffice.md)  
-║░║░║░░░╚═2 [vino : screen sharing](01_Ubuntu/02_18.04/04_apt-get/02_install/02_apt-get_install_vino.md)  
+║░║░║░╠═2 install  
+║░║░║░║░╠═1 [libreoffice](01_Ubuntu/02_18.04/04_apt-get/02_install/01_apt-get_install_libreoffice.md)  
+║░║░║░║░╚═2 [vino : screen sharing](01_Ubuntu/02_18.04/04_apt-get/02_install/02_apt-get_install_vino.md)  
+║░║░║░╚═3 upgrade  
+║░║░║░░░╚═1 [chrome](01_Ubuntu/02_18.04/04_apt-get/03_upgrade/01_apt-get_upgrade_chrome.md)  
 ║░║░╠═5 awk  
 ║░║░║░╠═1 [column to rows](01_Ubuntu/02_18.04/05_awk/01_awk_column_to_rows.md)  
 ║░║░║░╠═2 [if else](01_Ubuntu/02_18.04/05_awk/02_awk_if_else.md)  
