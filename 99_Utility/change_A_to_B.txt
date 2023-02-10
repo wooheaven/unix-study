@@ -1,5 +1,1 @@
-01_Ubuntu/01_16/60_snap/02_snap_install_node.md -> 01_Ubuntu/01_16/60_snap/01_snap_install_node.md
-01_Ubuntu/01_16/60_snap/03_snap_install_scrcpy.md -> 01_Ubuntu/01_16/60_snap/02_snap_install_scrcpy.md
-01_Ubuntu/01_16/60_snap/04_snap_install_slack.md -> 01_Ubuntu/01_16/60_snap/03_snap_install_slack.md
-01_Ubuntu/01_16/60_snap/05_snap_install_sublime-text.md -> 01_Ubuntu/01_16/60_snap/04_snap_install_sublime-text.md
-01_Ubuntu/01_16/60_snap/06_snap_install_visualstudiocode.md -> 01_Ubuntu/01_16/60_snap/05_snap_install_visualstudiocode.md
+01_Ubuntu/02_18.04/29_zip/01_zip_directory.md -> 01_Ubuntu/02_18.04/30_zip/01_zip_directory.md
