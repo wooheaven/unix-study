@@ -170,8 +170,7 @@
 ║░║░║░╠═1 [snap : install node](01_Ubuntu/01_16/60_snap/01_snap_install_node.md)  
 ║░║░║░╠═2 [snap : install scrcpy](01_Ubuntu/01_16/60_snap/02_snap_install_scrcpy.md)  
 ║░║░║░╠═3 [snap : install slack](01_Ubuntu/01_16/60_snap/03_snap_install_slack.md)  
-║░║░║░╠═4 [snap : install sublime-text](01_Ubuntu/01_16/60_snap/04_snap_install_sublime-text.md)  
-║░║░║░╚═5 [snap : install visualstudiocode](01_Ubuntu/01_16/60_snap/05_snap_install_visualstudiocode.md)  
+║░║░║░╚═4 [snap : install sublime-text](01_Ubuntu/01_16/60_snap/04_snap_install_sublime-text.md)  
 ║░║░╠═61 sort  
 ║░║░║░╠═1 [by key as string or number, substring or subnumber](01_Ubuntu/01_16/61_sort/01_sort_by_key_as_string_number_substring_subnumber.md)  
 ║░║░║░╚═2 [--ignore-case : Upper/Lower case](01_Ubuntu/01_16/61_sort/02_sort_ignore-case.md)  
