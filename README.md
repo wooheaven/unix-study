@@ -348,7 +348,10 @@
 ║░║░║░░░╠═1 [Join Lines](01_Ubuntu/02_18.04/27_vim/03_Visual_Mode/01_join_lines.md)  
 ║░║░║░░░╚═2 [Characters to lowercase to uppercase](01_Ubuntu/02_18.04/27_vim/03_Visual_Mode/02_to_lowercase_to_uppercase.md)  
 ║░║░╠═28 [vnc : activate](01_Ubuntu/02_18.04/28_vnc/01_vnc_activate.md)  
-║░║░╚═29 [zip : compress and uncompress directory](01_Ubuntu/02_18.04/29_zip/01_zip_directory.md)  
+║░║░╠═29 xargs  
+║░║░║░╠═1 [xargs -n 2](01_Ubuntu/02_18.04/29_xargs/01_xargs_option_n.md)  
+║░║░║░╚═2 [xargs -r](01_Ubuntu/02_18.04/29_xargs/02_xargs_option_r.md)  
+║░║░╚═30 [zip : compress and uncompress directory](01_Ubuntu/02_18.04/30_zip/01_zip_directory.md)  
 ║░╚═3 ubuntu20.04  
 ║░░░╠═1 Desktop  
 ║░░░║░╠═1 [Display Manager : Change to lightdm from gdm3](01_Ubuntu/03_20.04/01_desktop/01_display_manager.md)  
