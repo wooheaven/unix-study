@@ -1,1 +1,7 @@
-01_Ubuntu/02_18.04/29_zip/01_zip_directory.md -> 01_Ubuntu/02_18.04/30_zip/01_zip_directory.md
+01_Ubuntu/02_18.04/05_awk/03_awk_max_min.md -> 01_Ubuntu/02_18.04/05_awk/04_awk_max_min.md
+01_Ubuntu/02_18.04/05_awk/04_awk_remove_blank_line.md -> 01_Ubuntu/02_18.04/05_awk/05_awk_remove_blank_line.md
+01_Ubuntu/02_18.04/05_awk/05_awk_rows_to_column.md -> 01_Ubuntu/02_18.04/05_awk/06_awk_rows_to_column.md
+01_Ubuntu/02_18.04/05_awk/06_awk_use_external_argument.md -> 01_Ubuntu/02_18.04/05_awk/07_awk_use_external_argument.md
+01_Ubuntu/02_18.04/05_awk/07_awk_use_length.md -> 01_Ubuntu/02_18.04/05_awk/08_awk_use_length.md
+01_Ubuntu/02_18.04/05_awk/08_awk_use_substr.md -> 01_Ubuntu/02_18.04/05_awk/09_awk_use_substr.md
+01_Ubuntu/02_18.04/05_awk/09_awk_use_variable.md -> 01_Ubuntu/02_18.04/05_awk/10_awk_use_variable.md
