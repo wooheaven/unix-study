@@ -167,10 +167,8 @@
 ║░║░║░╠═2 [replace every 3rd comma to semicolon](01_Ubuntu/01_16/59_sed/02_sed_replace_every_3rd_comma_to_semicolon.md)  
 ║░║░║░╚═3 [space regular expression](01_Ubuntu/01_16/59_sed/03_sed_space_regular_expression.md)  
 ║░║░╠═60 snap  
-║░║░║░╠═1 [snap : install node](01_Ubuntu/01_16/60_snap/01_snap_install_node.md)  
-║░║░║░╠═2 [snap : install scrcpy](01_Ubuntu/01_16/60_snap/02_snap_install_scrcpy.md)  
-║░║░║░╠═3 [snap : install slack](01_Ubuntu/01_16/60_snap/03_snap_install_slack.md)  
-║░║░║░╚═4 [snap : install sublime-text](01_Ubuntu/01_16/60_snap/04_snap_install_sublime-text.md)  
+║░║░║░╠═1 [snap : install slack](01_Ubuntu/01_16/60_snap/01_snap_install_slack.md)  
+║░║░║░╚═2 [snap : install sublime-text](01_Ubuntu/01_16/60_snap/02_snap_install_sublime-text.md)  
 ║░║░╠═61 sort  
 ║░║░║░╠═1 [by key as string or number, substring or subnumber](01_Ubuntu/01_16/61_sort/01_sort_by_key_as_string_number_substring_subnumber.md)  
 ║░║░║░╚═2 [--ignore-case : Upper/Lower case](01_Ubuntu/01_16/61_sort/02_sort_ignore-case.md)  
@@ -324,7 +322,8 @@
 ║░║░║░╠═3 [snap : install intellij](01_Ubuntu/02_18.04/23_snap/03_snap_install_intellij.md)  
 ║░║░║░╠═4 [snap : install and refresh pycharm](01_Ubuntu/02_18.04/23_snap/04_snap_install_refresh_pycharm.md)  
 ║░║░║░╠═5 [snap : install remmina](01_Ubuntu/02_18.04/23_snap/05_snap_install_remmina.md)  
-║░║░║░╚═6 [snap : install vscode](01_Ubuntu/02_18.04/23_snap/06_snap_install_vscode.md)  
+║░║░║░╠═6 [snap : install vscode](01_Ubuntu/02_18.04/23_snap/06_snap_install_vscode.md)  
+║░║░║░╚═7 [snap : list --all](01_Ubuntu/02_18.04/23_snap/07_snap_list_all.md)  
 ║░║░╠═24 ssh  
 ║░║░║░╠═1 [enable root login](01_Ubuntu/02_18.04/24_ssh/01_enable_ssh_root_login.md)  
 ║░║░║░╠═2 [install and enable user login](01_Ubuntu/02_18.04/24_ssh/02_install_ssh.md)  
