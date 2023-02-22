@@ -323,7 +323,8 @@
 ║░║░║░╠═4 [snap : install and refresh pycharm](01_Ubuntu/02_18.04/23_snap/04_snap_install_refresh_pycharm.md)  
 ║░║░║░╠═5 [snap : install remmina](01_Ubuntu/02_18.04/23_snap/05_snap_install_remmina.md)  
 ║░║░║░╠═6 [snap : install vscode](01_Ubuntu/02_18.04/23_snap/06_snap_install_vscode.md)  
-║░║░║░╚═7 [snap : list --all](01_Ubuntu/02_18.04/23_snap/07_snap_list_all.md)  
+║░║░║░╠═7 [snap : list --all](01_Ubuntu/02_18.04/23_snap/07_snap_list_all.md)  
+║░║░║░╚═8 [snap : remove --revision](01_Ubuntu/02_18.04/23_snap/08_snap_remove_revision.md)  
 ║░║░╠═24 ssh  
 ║░║░║░╠═1 [enable root login](01_Ubuntu/02_18.04/24_ssh/01_enable_ssh_root_login.md)  
 ║░║░║░╠═2 [install and enable user login](01_Ubuntu/02_18.04/24_ssh/02_install_ssh.md)  
