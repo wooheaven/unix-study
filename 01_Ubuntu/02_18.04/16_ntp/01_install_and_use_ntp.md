@@ -9,6 +9,12 @@ http://www.pool.ntp.org/ko/zone/kr
 
 $ sudo vi /etc/ntp.conf
 ...
+server ntp.ewha.net iburst
+server ntp1.epidc.co.kr iburst
+server time.bora.net iburst
+server time.wonkwang.ac.kr iburst
+server time.korserve.net iburst
+server noc6-3.koren21.net iburst
 
 $ sudo service ntp stop
 $ sudo service ntp start
