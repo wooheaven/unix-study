@@ -364,18 +364,20 @@
 ║░░░░░░░╠═1 [cat ~/.vimrc](01_Ubuntu/03_20.04/03_vim/01_ETC/01_cat_vimrc.md)  
 ║░░░░░░░╚═2 [vimrc macro](01_Ubuntu/03_20.04/03_vim/01_ETC/02_vimrc_append_save_macro.md)  
 ╠═2 CentOS  
-║░╚═1 CentOS 6.9  
-║░░░╠═1 [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)  
-║░░░╠═2 [git : install git(version 2.x) by yum](02_CentOS/01_6.9/02_git/01_yum_install_git.md)  
-║░░░╠═3 network  
-║░░░║░╠═1 [static](02_CentOS/01_6.9/03_network/01_static.md)  
-║░░░║░╚═2 [dhcp](02_CentOS/01_6.9/03_network/02_dhcp.md)  
-║░░░╠═4 sar  
-║░░░║░╠═1 [install and configure sar](02_CentOS/01_6.9/04_sar/01_install_configure_sar.md)  
-║░░░║░╠═2 [sar cpu](02_CentOS/01_6.9/04_sar/02_sar_cpu.md)  
-║░░░║░╠═3 [sar memory](02_CentOS/01_6.9/04_sar/03_sar_memory.md)  
-║░░░║░╚═4 [sar start end](02_CentOS/01_6.9/04_sar/04_sar_start_end.md)  
-║░░░╚═5 [sed : replace string /t to tab character](02_CentOS/01_6.9/05_sed/01_sed_string_replace.md)  
+║░╠═1 CentOS 6.9  
+║░║░╠═1 [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)  
+║░║░╠═2 [git : install git(version 2.x) by yum](02_CentOS/01_6.9/02_git/01_yum_install_git.md)  
+║░║░╠═3 network  
+║░║░║░╠═1 [static](02_CentOS/01_6.9/03_network/01_static.md)  
+║░║░║░╚═2 [dhcp](02_CentOS/01_6.9/03_network/02_dhcp.md)  
+║░║░╠═4 sar  
+║░║░║░╠═1 [install and configure sar](02_CentOS/01_6.9/04_sar/01_install_configure_sar.md)  
+║░║░║░╠═2 [sar cpu](02_CentOS/01_6.9/04_sar/02_sar_cpu.md)  
+║░║░║░╠═3 [sar memory](02_CentOS/01_6.9/04_sar/03_sar_memory.md)  
+║░║░║░╚═4 [sar start end](02_CentOS/01_6.9/04_sar/04_sar_start_end.md)  
+║░║░╚═5 [sed : replace string /t to tab character](02_CentOS/01_6.9/05_sed/01_sed_string_replace.md)  
+║░╚═2 CentOS 7.9.2009  
+║░░░╚═1 [ssh : install and configure](02_CentOS/02_7.9.2009/01_ssh/01_install_ssh.md)  
 ╠═3 Mac  
 ║░╚═1 Sierra, Mojave  
 ║░░░╠═1 [Battery : Charge Status](03_Mac/01_Battery/01_Charge_Status.md)  
