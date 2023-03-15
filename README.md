@@ -165,8 +165,7 @@
 ║░║░║░╠═2 [replace every 3rd comma to semicolon](01_Ubuntu/01_16/59_sed/02_sed_replace_every_3rd_comma_to_semicolon.md)  
 ║░║░║░╚═3 [space regular expression](01_Ubuntu/01_16/59_sed/03_sed_space_regular_expression.md)  
 ║░║░╠═60 snap  
-║░║░║░╠═1 [snap : install slack](01_Ubuntu/01_16/60_snap/01_snap_install_slack.md)  
-║░║░║░╚═2 [snap : install sublime-text](01_Ubuntu/01_16/60_snap/02_snap_install_sublime-text.md)  
+║░║░║░╚═1 [snap : install slack](01_Ubuntu/01_16/60_snap/01_snap_install_slack.md)  
 ║░║░╠═61 sort  
 ║░║░║░╠═1 [by key as string or number, substring or subnumber](01_Ubuntu/01_16/61_sort/01_sort_by_key_as_string_number_substring_subnumber.md)  
 ║░║░║░╚═2 [--ignore-case : Upper/Lower case](01_Ubuntu/01_16/61_sort/02_sort_ignore-case.md)  
@@ -320,11 +319,10 @@
 ║░║░║░╠═1 [snap : install docker](01_Ubuntu/02_18.04/24_snap/01_snap_install_docker.md)  
 ║░║░║░╠═2 [snap : install GIMP](01_Ubuntu/02_18.04/24_snap/02_snap_install_gimp.md)  
 ║░║░║░╠═3 [snap : install intellij](01_Ubuntu/02_18.04/24_snap/03_snap_install_intellij.md)  
-║░║░║░╠═4 [snap : install and refresh pycharm](01_Ubuntu/02_18.04/24_snap/04_snap_install_refresh_pycharm.md)  
-║░║░║░╠═5 [snap : install remmina](01_Ubuntu/02_18.04/24_snap/05_snap_install_remmina.md)  
-║░║░║░╠═6 [snap : install vscode](01_Ubuntu/02_18.04/24_snap/06_snap_install_vscode.md)  
-║░║░║░╠═7 [snap : list --all](01_Ubuntu/02_18.04/24_snap/07_snap_list_all.md)  
-║░║░║░╚═8 [snap : remove --revision](01_Ubuntu/02_18.04/24_snap/08_snap_remove_revision.md)  
+║░║░║░╠═4 [snap : install remmina](01_Ubuntu/02_18.04/24_snap/04_snap_install_remmina.md)  
+║░║░║░╠═5 [snap : install vscode](01_Ubuntu/02_18.04/24_snap/05_snap_install_vscode.md)  
+║░║░║░╠═6 [snap : list --all](01_Ubuntu/02_18.04/24_snap/06_snap_list_all.md)  
+║░║░║░╚═7 [snap : remove --revision](01_Ubuntu/02_18.04/24_snap/07_snap_remove_revision.md)  
 ║░║░╠═25 ssh  
 ║░║░║░╠═1 [enable root login](01_Ubuntu/02_18.04/25_ssh/01_enable_ssh_root_login.md)  
 ║░║░║░╠═2 [install and enable user login](01_Ubuntu/02_18.04/25_ssh/02_install_ssh.md)  
@@ -358,7 +356,9 @@
 ║░░░║░╠═1 [Display Manager : Change to lightdm from gdm3](01_Ubuntu/03_20.04/01_desktop/01_display_manager.md)  
 ║░░░║░╚═2 [Install Desktop on UEFI and Legacy BIOS system](01_Ubuntu/03_20.04/01_desktop/02_install_desktop.md)  
 ║░░░╠═2 snap  
-║░░░║░╚═1 [snap install barrier](01_Ubuntu/03_20.04/02_snap/01_snap_install_barrier.md)  
+║░░░║░╠═1 [snap install barrier](01_Ubuntu/03_20.04/02_snap/01_snap_install_barrier.md)  
+║░░░║░╠═2 [snap install sublime-text](01_Ubuntu/03_20.04/02_snap/02_snap_install_sublime-text.md)  
+║░░░║░╚═3 [snap refresh packages](01_Ubuntu/03_20.04/02_snap/03_snap_refresh_packages.md)  
 ║░░░╚═3 vim  
 ║░░░░░╚═1 ETC  
 ║░░░░░░░╠═1 [cat ~/.vimrc](01_Ubuntu/03_20.04/03_vim/01_ETC/01_cat_vimrc.md)  
