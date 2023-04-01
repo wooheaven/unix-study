@@ -1,5 +1,7 @@
-01_Ubuntu/02_18.04/24_snap/05_snap_install_remmina.md -> 01_Ubuntu/02_18.04/24_snap/04_snap_install_remmina.md
-01_Ubuntu/02_18.04/24_snap/06_snap_install_vscode.md -> 01_Ubuntu/02_18.04/24_snap/05_snap_install_vscode.md
-01_Ubuntu/02_18.04/24_snap/07_snap_list_all.md -> 01_Ubuntu/02_18.04/24_snap/06_snap_list_all.md
-01_Ubuntu/02_18.04/24_snap/08_snap_remove_revision.md -> 01_Ubuntu/02_18.04/24_snap/07_snap_remove_revision.md
-01_Ubuntu/02_18.04/24_snap/04_snap_install_refresh_pycharm.md -> 01_Ubuntu/03_20.04/02_snap/03_snap_install_refresh_packages.md
+01_Ubuntu/03_20.04/01_desktop/01_display_manager.md -> 01_Ubuntu/03_20.04/02_desktop/01_display_manager.md
+01_Ubuntu/03_20.04/01_desktop/02_install_desktop.md -> 01_Ubuntu/03_20.04/02_desktop/02_install_desktop.md
+01_Ubuntu/03_20.04/02_snap/01_snap_install_barrier.md -> 01_Ubuntu/03_20.04/03_snap/01_snap_install_barrier.md
+01_Ubuntu/03_20.04/02_snap/02_snap_install_sublime-text.md -> 01_Ubuntu/03_20.04/03_snap/02_snap_install_sublime-text.md
+01_Ubuntu/03_20.04/02_snap/03_snap_refresh_packages.md -> 01_Ubuntu/03_20.04/03_snap/03_snap_refresh_packages.md
+01_Ubuntu/03_20.04/03_vim/01_ETC/01_cat_vimrc.md -> 01_Ubuntu/03_20.04/04_vim/01_ETC/01_cat_vimrc.md
+01_Ubuntu/03_20.04/03_vim/01_ETC/02_vimrc_append_save_macro.md -> 01_Ubuntu/03_20.04/04_vim/01_ETC/02_vimrc_append_save_macro.md
