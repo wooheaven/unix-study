@@ -352,17 +352,19 @@
 ║░║░║░╚═2 [xargs -r](01_Ubuntu/02_18.04/30_xargs/02_xargs_option_r.md)  
 ║░║░╚═31 [zip : compress and uncompress directory](01_Ubuntu/02_18.04/31_zip/01_zip_directory.md)  
 ║░╚═3 ubuntu20.04  
-║░░░╠═1 Desktop  
-║░░░║░╠═1 [Display Manager : Change to lightdm from gdm3](01_Ubuntu/03_20.04/01_desktop/01_display_manager.md)  
-║░░░║░╚═2 [Install Desktop on UEFI and Legacy BIOS system](01_Ubuntu/03_20.04/01_desktop/02_install_desktop.md)  
-║░░░╠═2 snap  
-║░░░║░╠═1 [snap install barrier](01_Ubuntu/03_20.04/02_snap/01_snap_install_barrier.md)  
-║░░░║░╠═2 [snap install sublime-text](01_Ubuntu/03_20.04/02_snap/02_snap_install_sublime-text.md)  
-║░░░║░╚═3 [snap refresh packages](01_Ubuntu/03_20.04/02_snap/03_snap_refresh_packages.md)  
-║░░░╚═3 vim  
+║░░░╠═1 awk  
+║░░░║░╚═1 [change field delimiter](01_Ubuntu/03_20.04/01_awk/01_awk_field_delimiter_change.md)  
+║░░░╠═2 Desktop  
+║░░░║░╠═1 [Display Manager : Change to lightdm from gdm3](01_Ubuntu/03_20.04/02_desktop/01_display_manager.md)  
+║░░░║░╚═2 [Install Desktop on UEFI and Legacy BIOS system](01_Ubuntu/03_20.04/02_desktop/02_install_desktop.md)  
+║░░░╠═3 snap  
+║░░░║░╠═1 [snap install barrier](01_Ubuntu/03_20.04/03_snap/01_snap_install_barrier.md)  
+║░░░║░╠═2 [snap install sublime-text](01_Ubuntu/03_20.04/03_snap/02_snap_install_sublime-text.md)  
+║░░░║░╚═3 [snap refresh packages](01_Ubuntu/03_20.04/03_snap/03_snap_refresh_packages.md)  
+║░░░╚═4 vim  
 ║░░░░░╚═1 ETC  
-║░░░░░░░╠═1 [cat ~/.vimrc](01_Ubuntu/03_20.04/03_vim/01_ETC/01_cat_vimrc.md)  
-║░░░░░░░╚═2 [vimrc macro](01_Ubuntu/03_20.04/03_vim/01_ETC/02_vimrc_append_save_macro.md)  
+║░░░░░░░╠═1 [cat ~/.vimrc](01_Ubuntu/03_20.04/04_vim/01_ETC/01_cat_vimrc.md)  
+║░░░░░░░╚═2 [vimrc macro](01_Ubuntu/03_20.04/04_vim/01_ETC/02_vimrc_append_save_macro.md)  
 ╠═2 CentOS  
 ║░╠═1 CentOS 6.9  
 ║░║░╠═1 [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)  
