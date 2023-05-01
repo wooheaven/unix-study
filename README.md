@@ -347,10 +347,9 @@
 ║░║░║░░░╠═1 [Join Lines](01_Ubuntu/02_18.04/28_vim/03_Visual_Mode/01_join_lines.md)  
 ║░║░║░░░╚═2 [Characters to lowercase to uppercase](01_Ubuntu/02_18.04/28_vim/03_Visual_Mode/02_to_lowercase_to_uppercase.md)  
 ║░║░╠═29 [vnc : activate](01_Ubuntu/02_18.04/29_vnc/01_vnc_activate.md)  
-║░║░╠═30 xargs  
-║░║░║░╠═1 [xargs -n 2](01_Ubuntu/02_18.04/30_xargs/01_xargs_option_n.md)  
-║░║░║░╚═2 [xargs -r](01_Ubuntu/02_18.04/30_xargs/02_xargs_option_r.md)  
-║░║░╚═31 [zip : compress and uncompress directory](01_Ubuntu/02_18.04/31_zip/01_zip_directory.md)  
+║░║░╚═30 xargs  
+║░║░░░╠═1 [xargs -n 2](01_Ubuntu/02_18.04/30_xargs/01_xargs_option_n.md)  
+║░║░░░╚═2 [xargs -r](01_Ubuntu/02_18.04/30_xargs/02_xargs_option_r.md)  
 ║░╚═3 ubuntu20.04  
 ║░░░╠═1 awk  
 ║░░░║░╚═1 [change field delimiter](01_Ubuntu/03_20.04/01_awk/01_awk_field_delimiter_change.md)  
@@ -363,10 +362,11 @@
 ║░░░║░╠═1 [snap install barrier](01_Ubuntu/03_20.04/04_snap/01_snap_install_barrier.md)  
 ║░░░║░╠═2 [snap install sublime-text](01_Ubuntu/03_20.04/04_snap/02_snap_install_sublime-text.md)  
 ║░░░║░╚═3 [snap refresh packages](01_Ubuntu/03_20.04/04_snap/03_snap_refresh_packages.md)  
-║░░░╚═5 vim  
-║░░░░░╚═1 ETC  
-║░░░░░░░╠═1 [cat ~/.vimrc](01_Ubuntu/03_20.04/05_vim/01_ETC/01_cat_vimrc.md)  
-║░░░░░░░╚═2 [vimrc macro](01_Ubuntu/03_20.04/05_vim/01_ETC/02_vimrc_append_save_macro.md)  
+║░░░╠═5 vim  
+║░░░║░╚═1 ETC  
+║░░░║░░░╠═1 [cat ~/.vimrc](01_Ubuntu/03_20.04/05_vim/01_ETC/01_cat_vimrc.md)  
+║░░░║░░░╚═2 [vimrc macro](01_Ubuntu/03_20.04/05_vim/01_ETC/02_vimrc_append_save_macro.md)  
+║░░░╚═6 [zip : compress and uncompress directory](01_Ubuntu/03_20.04/06_zip/01_zip_directory.md)  
 ╠═2 CentOS  
 ║░╠═1 CentOS 6.9  
 ║░║░╠═1 [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)  
