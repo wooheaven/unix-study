@@ -357,14 +357,16 @@
 ║░░░╠═2 Desktop  
 ║░░░║░╠═1 [Display Manager : Change to lightdm from gdm3](01_Ubuntu/03_20.04/02_desktop/01_display_manager.md)  
 ║░░░║░╚═2 [Install Desktop on UEFI and Legacy BIOS system](01_Ubuntu/03_20.04/02_desktop/02_install_desktop.md)  
-║░░░╠═3 snap  
-║░░░║░╠═1 [snap install barrier](01_Ubuntu/03_20.04/03_snap/01_snap_install_barrier.md)  
-║░░░║░╠═2 [snap install sublime-text](01_Ubuntu/03_20.04/03_snap/02_snap_install_sublime-text.md)  
-║░░░║░╚═3 [snap refresh packages](01_Ubuntu/03_20.04/03_snap/03_snap_refresh_packages.md)  
-║░░░╚═4 vim  
+║░░░╠═3 Disks  
+║░░░║░╚═1 [format usb as NTFS](01_Ubuntu/03_20.04/03_disk_utility/01_format_usb_as_NTFS.md)  
+║░░░╠═4 snap  
+║░░░║░╠═1 [snap install barrier](01_Ubuntu/03_20.04/04_snap/01_snap_install_barrier.md)  
+║░░░║░╠═2 [snap install sublime-text](01_Ubuntu/03_20.04/04_snap/02_snap_install_sublime-text.md)  
+║░░░║░╚═3 [snap refresh packages](01_Ubuntu/03_20.04/04_snap/03_snap_refresh_packages.md)  
+║░░░╚═5 vim  
 ║░░░░░╚═1 ETC  
-║░░░░░░░╠═1 [cat ~/.vimrc](01_Ubuntu/03_20.04/04_vim/01_ETC/01_cat_vimrc.md)  
-║░░░░░░░╚═2 [vimrc macro](01_Ubuntu/03_20.04/04_vim/01_ETC/02_vimrc_append_save_macro.md)  
+║░░░░░░░╠═1 [cat ~/.vimrc](01_Ubuntu/03_20.04/05_vim/01_ETC/01_cat_vimrc.md)  
+║░░░░░░░╚═2 [vimrc macro](01_Ubuntu/03_20.04/05_vim/01_ETC/02_vimrc_append_save_macro.md)  
 ╠═2 CentOS  
 ║░╠═1 CentOS 6.9  
 ║░║░╠═1 [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)  
