@@ -1,1 +1,3 @@
-01_Ubuntu/02_18.04/31_zip/01_zip_directory.md -> 01_Ubuntu/03_20.04/06_zip/01_zip_directory.md
+01_Ubuntu/02_18.04/30_xargs/01_xargs_option_n.md -> 01_Ubuntu/03_20.04/06_xargs/01_xargs_option_n.md
+01_Ubuntu/02_18.04/30_xargs/02_xargs_option_r.md -> 01_Ubuntu/03_20.04/06_xargs/02_xargs_option_r.md
+01_Ubuntu/03_20.04/06_zip/01_zip_directory.md -> 01_Ubuntu/03_20.04/07_zip/01_zip_directory.md
