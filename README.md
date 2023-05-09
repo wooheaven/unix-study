@@ -348,25 +348,27 @@
 ║░║░║░░░╚═2 [Characters to lowercase to uppercase](01_Ubuntu/02_18.04/28_vim/03_Visual_Mode/02_to_lowercase_to_uppercase.md)  
 ║░║░╚═29 [vnc : activate](01_Ubuntu/02_18.04/29_vnc/01_vnc_activate.md)  
 ║░╚═3 ubuntu20.04  
-║░░░╠═1 awk  
-║░░░║░╚═1 [change field delimiter](01_Ubuntu/03_20.04/01_awk/01_awk_field_delimiter_change.md)  
-║░░░╠═2 Desktop  
-║░░░║░╠═1 [Display Manager : Change to lightdm from gdm3](01_Ubuntu/03_20.04/02_desktop/01_display_manager.md)  
-║░░░║░╚═2 [Install Desktop on UEFI and Legacy BIOS system](01_Ubuntu/03_20.04/02_desktop/02_install_desktop.md)  
-║░░░╠═3 Disks  
-║░░░║░╚═1 [format usb as NTFS](01_Ubuntu/03_20.04/03_disk_utility/01_format_usb_as_NTFS.md)  
-║░░░╠═4 snap  
-║░░░║░╠═1 [snap install barrier](01_Ubuntu/03_20.04/04_snap/01_snap_install_barrier.md)  
-║░░░║░╠═2 [snap install sublime-text](01_Ubuntu/03_20.04/04_snap/02_snap_install_sublime-text.md)  
-║░░░║░╚═3 [snap refresh packages](01_Ubuntu/03_20.04/04_snap/03_snap_refresh_packages.md)  
-║░░░╠═5 vim  
+║░░░╠═1 apt-get  
+║░░░║░╚═1 purge [remmina](01_Ubuntu/03_20.04/01_apt-get/01_apt-get_purge_remmina.md)  
+║░░░╠═2 awk  
+║░░░║░╚═1 [change field delimiter](01_Ubuntu/03_20.04/02_awk/01_awk_field_delimiter_change.md)  
+║░░░╠═3 Desktop  
+║░░░║░╠═1 [Display Manager : Change to lightdm from gdm3](01_Ubuntu/03_20.04/03_desktop/01_display_manager.md)  
+║░░░║░╚═2 [Install Desktop on UEFI and Legacy BIOS system](01_Ubuntu/03_20.04/03_desktop/02_install_desktop.md)  
+║░░░╠═4 Disks  
+║░░░║░╚═1 [format usb as NTFS](01_Ubuntu/03_20.04/04_disk_utility/01_format_usb_as_NTFS.md)  
+║░░░╠═5 snap  
+║░░░║░╠═1 [snap install barrier](01_Ubuntu/03_20.04/05_snap/01_snap_install_barrier.md)  
+║░░░║░╠═2 [snap install sublime-text](01_Ubuntu/03_20.04/05_snap/02_snap_install_sublime-text.md)  
+║░░░║░╚═3 [snap refresh packages](01_Ubuntu/03_20.04/05_snap/03_snap_refresh_packages.md)  
+║░░░╠═6 vim  
 ║░░░║░╚═1 ETC  
-║░░░║░░░╠═1 [cat ~/.vimrc](01_Ubuntu/03_20.04/05_vim/01_ETC/01_cat_vimrc.md)  
-║░░░║░░░╚═2 [vimrc macro](01_Ubuntu/03_20.04/05_vim/01_ETC/02_vimrc_append_save_macro.md)  
-║░░░╠═6 xargs  
-║░░░║░╠═1 [xargs -n 2](01_Ubuntu/03_20.04/06_xargs/01_xargs_option_n.md)  
-║░░░║░╚═2 [xargs -r](01_Ubuntu/03_20.04/06_xargs/02_xargs_option_r.md)  
-║░░░╚═7 [zip : compress and uncompress directory](01_Ubuntu/03_20.04/07_zip/01_zip_directory.md)  
+║░░░║░░░╠═1 [cat ~/.vimrc](01_Ubuntu/03_20.04/06_vim/01_ETC/01_cat_vimrc.md)  
+║░░░║░░░╚═2 [vimrc macro](01_Ubuntu/03_20.04/06_vim/01_ETC/02_vimrc_append_save_macro.md)  
+║░░░╠═7 xargs  
+║░░░║░╠═1 [xargs -n 2](01_Ubuntu/03_20.04/07_xargs/01_xargs_option_n.md)  
+║░░░║░╚═2 [xargs -r](01_Ubuntu/03_20.04/07_xargs/02_xargs_option_r.md)  
+║░░░╚═8 [zip : compress and uncompress directory](01_Ubuntu/03_20.04/08_zip/01_zip_directory.md)  
 ╠═2 CentOS  
 ║░╠═1 CentOS 6.9  
 ║░║░╠═1 [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)  
