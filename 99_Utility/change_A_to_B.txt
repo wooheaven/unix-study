@@ -1,3 +1,12 @@
-01_Ubuntu/02_18.04/30_xargs/01_xargs_option_n.md -> 01_Ubuntu/03_20.04/06_xargs/01_xargs_option_n.md
-01_Ubuntu/02_18.04/30_xargs/02_xargs_option_r.md -> 01_Ubuntu/03_20.04/06_xargs/02_xargs_option_r.md
-01_Ubuntu/03_20.04/06_zip/01_zip_directory.md -> 01_Ubuntu/03_20.04/07_zip/01_zip_directory.md
+01_Ubuntu/03_20.04/01_awk/01_awk_field_delimiter_change.md -> 01_Ubuntu/03_20.04/02_awk/01_awk_field_delimiter_change.md
+01_Ubuntu/03_20.04/02_desktop/01_display_manager.md -> 01_Ubuntu/03_20.04/03_desktop/01_display_manager.md
+01_Ubuntu/03_20.04/02_desktop/02_install_desktop.md -> 01_Ubuntu/03_20.04/03_desktop/02_install_desktop.md
+01_Ubuntu/03_20.04/03_disk_utility/01_format_usb_as_NTFS.md -> 01_Ubuntu/03_20.04/04_disk_utility/01_format_usb_as_NTFS.md
+01_Ubuntu/03_20.04/04_snap/01_snap_install_barrier.md -> 01_Ubuntu/03_20.04/05_snap/01_snap_install_barrier.md
+01_Ubuntu/03_20.04/04_snap/02_snap_install_sublime-text.md -> 01_Ubuntu/03_20.04/05_snap/02_snap_install_sublime-text.md
+01_Ubuntu/03_20.04/04_snap/03_snap_refresh_packages.md -> 01_Ubuntu/03_20.04/05_snap/03_snap_refresh_packages.md
+01_Ubuntu/03_20.04/05_vim/01_ETC/01_cat_vimrc.md -> 01_Ubuntu/03_20.04/06_vim/01_ETC/01_cat_vimrc.md
+01_Ubuntu/03_20.04/05_vim/01_ETC/02_vimrc_append_save_macro.md -> 01_Ubuntu/03_20.04/06_vim/01_ETC/02_vimrc_append_save_macro.md
+01_Ubuntu/03_20.04/06_xargs/01_xargs_option_n.md -> 01_Ubuntu/03_20.04/07_xargs/01_xargs_option_n.md
+01_Ubuntu/03_20.04/06_xargs/02_xargs_option_r.md -> 01_Ubuntu/03_20.04/07_xargs/02_xargs_option_r.md
+01_Ubuntu/03_20.04/07_zip/01_zip_directory.md -> 01_Ubuntu/03_20.04/08_zip/01_zip_directory.md
