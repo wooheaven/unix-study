@@ -316,13 +316,12 @@
 ║░║░║░░░╚═4 [s : replace string to newString](01_Ubuntu/02_18.04/22_sed/02_command_option/04_command_option_s.md)  
 ║░║░╠═23 [settings : enable korean](01_Ubuntu/02_18.04/23_Settings/01_Region_Language/01_Enable_Korean_Input.md)  
 ║░║░╠═24 snap  
-║░║░║░╠═1 [snap : install docker](01_Ubuntu/02_18.04/24_snap/01_snap_install_docker.md)  
-║░║░║░╠═2 [snap : install GIMP](01_Ubuntu/02_18.04/24_snap/02_snap_install_gimp.md)  
-║░║░║░╠═3 [snap : install intellij](01_Ubuntu/02_18.04/24_snap/03_snap_install_intellij.md)  
-║░║░║░╠═4 [snap : install remmina](01_Ubuntu/02_18.04/24_snap/04_snap_install_remmina.md)  
-║░║░║░╠═5 [snap : install vscode](01_Ubuntu/02_18.04/24_snap/05_snap_install_vscode.md)  
-║░║░║░╠═6 [snap : list --all](01_Ubuntu/02_18.04/24_snap/06_snap_list_all.md)  
-║░║░║░╚═7 [snap : remove --revision](01_Ubuntu/02_18.04/24_snap/07_snap_remove_revision.md)  
+║░║░║░╠═1 snap install [docker](01_Ubuntu/02_18.04/24_snap/01_snap_install_docker.md)  
+║░║░║░╠═2 snap install [GIMP](01_Ubuntu/02_18.04/24_snap/02_snap_install_gimp.md)  
+║░║░║░╠═3 snap install [intellij](01_Ubuntu/02_18.04/24_snap/03_snap_install_intellij.md)  
+║░║░║░╠═4 snap install [vscode](01_Ubuntu/02_18.04/24_snap/04_snap_install_vscode.md)  
+║░║░║░╠═5 snap [list --all](01_Ubuntu/02_18.04/24_snap/05_snap_list_all.md)  
+║░║░║░╚═6 snap [remove --revision](01_Ubuntu/02_18.04/24_snap/06_snap_remove_revision.md)  
 ║░║░╠═25 ssh  
 ║░║░║░╠═1 [enable root login](01_Ubuntu/02_18.04/25_ssh/01_enable_ssh_root_login.md)  
 ║░║░║░╠═2 [install and enable user login](01_Ubuntu/02_18.04/25_ssh/02_install_ssh.md)  
@@ -360,9 +359,10 @@
 ║░░░╠═5 Disks  
 ║░░░║░╚═1 [format usb as NTFS](01_Ubuntu/03_20.04/05_disk_utility/01_format_usb_as_NTFS.md)  
 ║░░░╠═6 snap  
-║░░░║░╠═1 [snap install barrier](01_Ubuntu/03_20.04/06_snap/01_snap_install_barrier.md)  
-║░░░║░╠═2 [snap install sublime-text](01_Ubuntu/03_20.04/06_snap/02_snap_install_sublime-text.md)  
-║░░░║░╚═3 [snap refresh packages](01_Ubuntu/03_20.04/06_snap/03_snap_refresh_packages.md)  
+║░░░║░╠═1 snap install [barrier](01_Ubuntu/03_20.04/06_snap/01_snap_install_barrier.md)  
+║░░░║░╠═2 snap install [remmina](01_Ubuntu/03_20.04/06_snap/02_snap_install_remmina.md)  
+║░░░║░╠═3 snap install [sublime-text](01_Ubuntu/03_20.04/06_snap/03_snap_install_sublime-text.md)  
+║░░░║░╚═4 snap refresh [package](01_Ubuntu/03_20.04/06_snap/04_snap_refresh_packages.md)  
 ║░░░╠═7 vim  
 ║░░░║░╚═1 ETC  
 ║░░░║░░░╠═1 [cat ~/.vimrc](01_Ubuntu/03_20.04/07_vim/01_ETC/01_cat_vimrc.md)  

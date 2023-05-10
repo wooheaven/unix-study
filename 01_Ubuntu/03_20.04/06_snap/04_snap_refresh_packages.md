@@ -12,8 +12,8 @@ $ sudo snap list --all | awk '/disabled/{print $1" --revision "$3}' | xargs -rn3
 intellij-idea-community (revision 409) removed
 ```
 
-# refresh packages
+# refresh package
 ```{bash}
-$ sudo snap refresh --list
-All snaps up to date.
+$ sudo snap refresh intellij-idea-community
+...
 ```
