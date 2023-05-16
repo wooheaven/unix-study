@@ -269,8 +269,7 @@
 ║░║░║░║░╚═1 brew install [gcc](01_Ubuntu/02_18.04/07_brew/02_install_package/01_brew_install_gcc.md) [git](01_Ubuntu/02_18.04/07_brew/02_install_package/02_brew_install_git.md) [vim](01_Ubuntu/02_18.04/07_brew/02_install_package/03_brew_install_vim.md) [python](01_Ubuntu/02_18.04/07_brew/02_install_package/03_brew_install_python.md)  
 ║░║░║░╠═3 brew upgrade package  
 ║░║░║░║░╠═1 brew upgrade [git : check link file after upgrade](01_Ubuntu/02_18.04/07_brew/03_upgrade_package/01_brew_upgrade_git.md)  
-║░║░║░║░╠═2 brew upgrade [maven : configure after upgrade](01_Ubuntu/02_18.04/07_brew/03_upgrade_package/02_brew_upgrade_maven.md)  
-║░║░║░║░╚═3 brew upgrade [python : configure after upgrade](01_Ubuntu/02_18.04/07_brew/03_upgrade_package/03_brew_upgrade_python.md)  
+║░║░║░║░╚═2 brew upgrade [python : configure after upgrade](01_Ubuntu/02_18.04/07_brew/03_upgrade_package/02_brew_upgrade_python.md)  
 ║░║░║░╚═4 brew upgrade [packages : with shell scripts](01_Ubuntu/02_18.04/07_brew/04_upgrade_packages/)  
 ║░║░╠═8 clipit  
 ║░║░║░╚═1 [install clipit by apt-get : clip board app](01_Ubuntu/02_18.04/08_clipit/01_install_clipit_by_apt-get.md)  
