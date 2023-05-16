@@ -1,6 +1,1 @@
-01_Ubuntu/02_18.04/24_snap/05_snap_install_vscode.md -> 01_Ubuntu/02_18.04/24_snap/04_snap_install_vscode.md
-01_Ubuntu/02_18.04/24_snap/06_snap_list_all.md -> 01_Ubuntu/02_18.04/24_snap/05_snap_list_all.md
-01_Ubuntu/02_18.04/24_snap/07_snap_remove_revision.md -> 01_Ubuntu/02_18.04/24_snap/06_snap_remove_revision.md
-01_Ubuntu/02_18.04/24_snap/04_snap_install_remmina.md -> 01_Ubuntu/03_20.04/06_snap/02_snap_install_remmina.md
-01_Ubuntu/03_20.04/06_snap/02_snap_install_sublime-text.md -> 01_Ubuntu/03_20.04/06_snap/03_snap_install_sublime-text.md
-01_Ubuntu/03_20.04/06_snap/03_snap_refresh_packages.md -> 01_Ubuntu/03_20.04/06_snap/04_snap_refresh_packages.md
+01_Ubuntu/02_18.04/07_brew/03_upgrade_package/03_brew_upgrade_python.md -> 01_Ubuntu/02_18.04/07_brew/03_upgrade_package/02_brew_upgrade_python.md
