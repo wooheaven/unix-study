@@ -365,10 +365,9 @@
 ║░░░║░╚═1 ETC  
 ║░░░║░░░╠═1 [cat ~/.vimrc](01_Ubuntu/03_20.04/07_vim/01_ETC/01_cat_vimrc.md)  
 ║░░░║░░░╚═2 [vimrc macro](01_Ubuntu/03_20.04/07_vim/01_ETC/02_vimrc_append_save_macro.md)  
-║░░░╠═8 xargs  
-║░░░║░╠═1 [xargs -n 2](01_Ubuntu/03_20.04/08_xargs/01_xargs_option_n.md)  
-║░░░║░╚═2 [xargs -r](01_Ubuntu/03_20.04/08_xargs/02_xargs_option_r.md)  
-║░░░╚═9 [zip : compress and uncompress directory](01_Ubuntu/03_20.04/09_zip/01_zip_directory.md)  
+║░░░╚═8 xargs  
+║░░░░░╠═1 [xargs -n 2](01_Ubuntu/03_20.04/08_xargs/01_xargs_option_n.md)  
+║░░░░░╚═2 [xargs -r](01_Ubuntu/03_20.04/08_xargs/02_xargs_option_r.md)  
 ╠═2 CentOS  
 ║░╠═1 CentOS 6.9  
 ║░║░╠═1 [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)  
