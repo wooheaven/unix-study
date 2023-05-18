@@ -342,8 +342,7 @@
 ║░║░░░║░╠═5 [install vim-plug](01_Ubuntu/02_18.04/28_vim/02_ETC/05_install_vim-plug.md)  
 ║░║░░░║░╚═6 [Mapping between vim key and keyboard](01_Ubuntu/02_18.04/28_vim/02_ETC/06_vimrc_key_mapping.md)  
 ║░║░░░╚═3 Visual Mode  
-║░║░░░░░╠═1 [Join Lines](01_Ubuntu/02_18.04/28_vim/03_Visual_Mode/01_join_lines.md)  
-║░║░░░░░╚═2 [Characters to lowercase to uppercase](01_Ubuntu/02_18.04/28_vim/03_Visual_Mode/02_to_lowercase_to_uppercase.md)  
+║░║░░░░░╚═1 [Join Lines](01_Ubuntu/02_18.04/28_vim/03_Visual_Mode/01_join_lines.md)  
 ║░╚═3 ubuntu20.04  
 ║░░░╠═1 apt  
 ║░░░║░╚═1 apt [autoremove](01_Ubuntu/03_20.04/01_apt/01_apt_autoremove.md)  
