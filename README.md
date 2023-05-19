@@ -334,15 +334,13 @@
 ║░║░░░║░╠═3 [Macro on Register : List up and Clear](01_Ubuntu/02_18.04/28_vim/01_CmdLine_Mode/03_list_up_and_clear_macro_on_register.md)  
 ║░║░░░║░╠═4 [CRLF to LF](01_Ubuntu/02_18.04/28_vim/01_CmdLine_Mode/04_vim_CRLF_to_LF.md)  
 ║░║░░░║░╚═5 [Regular Expression](01_Ubuntu/02_18.04/28_vim/01_CmdLine_Mode/05_vim_Regular_Expression.md)  
-║░║░░░╠═2 ETC  
-║░║░░░║░╠═1 [Enable BackSpace on INSERT mode](01_Ubuntu/02_18.04/28_vim/02_ETC/01_Enable_BackSpace_on_INSERT_mode.md)  
-║░║░░░║░╠═2 [install jellybeans](01_Ubuntu/02_18.04/28_vim/02_ETC/02_install_jellybeans.md)  
-║░║░░░║░╠═3 [install nerdtree](01_Ubuntu/02_18.04/28_vim/02_ETC/03_install_nerdtree.md)  
-║░║░░░║░╠═4 [install vim-airline](01_Ubuntu/02_18.04/28_vim/02_ETC/04_install_vim-airline.md)  
-║░║░░░║░╠═5 [install vim-plug](01_Ubuntu/02_18.04/28_vim/02_ETC/05_install_vim-plug.md)  
-║░║░░░║░╚═6 [Mapping between vim key and keyboard](01_Ubuntu/02_18.04/28_vim/02_ETC/06_vimrc_key_mapping.md)  
-║░║░░░╚═3 Visual Mode  
-║░║░░░░░╚═1 [Join Lines](01_Ubuntu/02_18.04/28_vim/03_Visual_Mode/01_join_lines.md)  
+║░║░░░╚═2 ETC  
+║░║░░░░░╠═1 [Enable BackSpace on INSERT mode](01_Ubuntu/02_18.04/28_vim/02_ETC/01_Enable_BackSpace_on_INSERT_mode.md)  
+║░║░░░░░╠═2 [install jellybeans](01_Ubuntu/02_18.04/28_vim/02_ETC/02_install_jellybeans.md)  
+║░║░░░░░╠═3 [install nerdtree](01_Ubuntu/02_18.04/28_vim/02_ETC/03_install_nerdtree.md)  
+║░║░░░░░╠═4 [install vim-airline](01_Ubuntu/02_18.04/28_vim/02_ETC/04_install_vim-airline.md)  
+║░║░░░░░╠═5 [install vim-plug](01_Ubuntu/02_18.04/28_vim/02_ETC/05_install_vim-plug.md)  
+║░║░░░░░╚═6 [Mapping between vim key and keyboard](01_Ubuntu/02_18.04/28_vim/02_ETC/06_vimrc_key_mapping.md)  
 ║░╚═3 ubuntu20.04  
 ║░░░╠═1 apt  
 ║░░░║░╚═1 apt [autoremove](01_Ubuntu/03_20.04/01_apt/01_apt_autoremove.md)  
