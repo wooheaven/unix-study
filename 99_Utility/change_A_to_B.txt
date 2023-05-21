@@ -1,1 +1,4 @@
-01_Ubuntu/02_18.04/07_brew/03_upgrade_package/03_brew_upgrade_python.md -> 01_Ubuntu/02_18.04/07_brew/03_upgrade_package/02_brew_upgrade_python.md
+01_Ubuntu/02_18.04/28_vim/02_ETC/02_install_jellybeans.md -> 01_Ubuntu/02_18.04/28_vim/02_ETC/01_install_jellybeans.md
+01_Ubuntu/02_18.04/28_vim/02_ETC/03_install_nerdtree.md -> 01_Ubuntu/02_18.04/28_vim/02_ETC/02_install_nerdtree.md
+01_Ubuntu/02_18.04/28_vim/02_ETC/04_install_vim-airline.md -> 01_Ubuntu/02_18.04/28_vim/02_ETC/03_install_vim-airline.md
+01_Ubuntu/02_18.04/28_vim/02_ETC/05_install_vim-plug.md -> 01_Ubuntu/02_18.04/28_vim/02_ETC/04_install_vim-plug.md
