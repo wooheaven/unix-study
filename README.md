@@ -328,14 +328,12 @@
 ║░║░╠═26 [Startup Disk Creator : Ubuntu 18 server ISO file to USB](01_Ubuntu/02_18.04/26_Startup_Disk_Creator/01_create_bootable_usb_disk.md)  
 ║░║░╠═27 [update : automatic security update](01_Ubuntu/02_18.04/27_updates/01_AutomaticSecurityUpdates.md)  
 ║░║░╚═28 vim  
-║░║░░░╠═1 CmdLine Mode  
-║░║░░░║░╠═1 [Move Line](01_Ubuntu/02_18.04/28_vim/01_CmdLine_Mode/01_Move_Line_Up_and_Down.md)  
-║░║░░░║░╠═2 [Join Lines](01_Ubuntu/02_18.04/28_vim/01_CmdLine_Mode/02_join_lines.md)  
-║░║░░░║░╠═3 [Macro on Register : List up and Clear](01_Ubuntu/02_18.04/28_vim/01_CmdLine_Mode/03_list_up_and_clear_macro_on_register.md)  
-║░║░░░║░╠═4 [CRLF to LF](01_Ubuntu/02_18.04/28_vim/01_CmdLine_Mode/04_vim_CRLF_to_LF.md)  
-║░║░░░║░╚═5 [Regular Expression](01_Ubuntu/02_18.04/28_vim/01_CmdLine_Mode/05_vim_Regular_Expression.md)  
-║░║░░░╚═2 ETC  
-║░║░░░░░╚═1 [install jellybeans](01_Ubuntu/02_18.04/28_vim/02_ETC/01_install_jellybeans.md)  
+║░║░░░╚═1 CmdLine Mode  
+║░║░░░░░╠═1 [Move Line](01_Ubuntu/02_18.04/28_vim/01_CmdLine_Mode/01_Move_Line_Up_and_Down.md)  
+║░║░░░░░╠═2 [Join Lines](01_Ubuntu/02_18.04/28_vim/01_CmdLine_Mode/02_join_lines.md)  
+║░║░░░░░╠═3 [Macro on Register : List up and Clear](01_Ubuntu/02_18.04/28_vim/01_CmdLine_Mode/03_list_up_and_clear_macro_on_register.md)  
+║░║░░░░░╠═4 [CRLF to LF](01_Ubuntu/02_18.04/28_vim/01_CmdLine_Mode/04_vim_CRLF_to_LF.md)  
+║░║░░░░░╚═5 [Regular Expression](01_Ubuntu/02_18.04/28_vim/01_CmdLine_Mode/05_vim_Regular_Expression.md)  
 ║░╚═3 ubuntu20.04  
 ║░░░╠═1 apt  
 ║░░░║░╚═1 apt [autoremove](01_Ubuntu/03_20.04/01_apt/01_apt_autoremove.md)  
