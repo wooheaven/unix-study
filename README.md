@@ -353,8 +353,7 @@
 ║░░░║░╚═4 snap refresh [package](01_Ubuntu/03_20.04/06_snap/04_snap_refresh_packages.md)  
 ║░░░╠═7 vim  
 ║░░░║░╚═1 ETC  
-║░░░║░░░╠═1 [cat ~/.vimrc](01_Ubuntu/03_20.04/07_vim/01_ETC/01_cat_vimrc.md)  
-║░░░║░░░╚═2 [vimrc macro](01_Ubuntu/03_20.04/07_vim/01_ETC/02_vimrc_append_save_macro.md)  
+║░░░║░░░╚═1 [cat ~/.vimrc](01_Ubuntu/03_20.04/07_vim/01_ETC/01_cat_vimrc.md)  
 ║░░░╚═8 xargs  
 ║░░░░░╠═1 [xargs -n 2](01_Ubuntu/03_20.04/08_xargs/01_xargs_option_n.md)  
 ║░░░░░╚═2 [xargs -r](01_Ubuntu/03_20.04/08_xargs/02_xargs_option_r.md)  
