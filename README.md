@@ -266,7 +266,7 @@
 ║░║░╠═7 brew  
 ║░║░║░╠═1 [install brew : on Ubuntu18](01_Ubuntu/02_18.04/07_brew/01_install_brew/01_install_brew_and_configure.md)  
 ║░║░║░╠═2 brew install package  
-║░║░║░║░╚═1 brew install [gcc](01_Ubuntu/02_18.04/07_brew/02_install_package/01_brew_install_gcc.md) [git](01_Ubuntu/02_18.04/07_brew/02_install_package/02_brew_install_git.md) [vim](01_Ubuntu/02_18.04/07_brew/02_install_package/03_brew_install_vim.md) [python](01_Ubuntu/02_18.04/07_brew/02_install_package/03_brew_install_python.md)  
+║░║░║░║░╚═1 brew install [gcc](01_Ubuntu/02_18.04/07_brew/02_install_package/01_brew_install_gcc.md) [git](01_Ubuntu/02_18.04/07_brew/02_install_package/02_brew_install_git.md) [python](01_Ubuntu/02_18.04/07_brew/02_install_package/03_brew_install_python.md) [vim](01_Ubuntu/02_18.04/07_brew/02_install_package/04_brew_install_vim.md)  
 ║░║░║░╠═3 brew upgrade package  
 ║░║░║░║░╠═1 brew upgrade [git : check link file after upgrade](01_Ubuntu/02_18.04/07_brew/03_upgrade_package/01_brew_upgrade_git.md)  
 ║░║░║░║░╚═2 brew upgrade [python : configure after upgrade](01_Ubuntu/02_18.04/07_brew/03_upgrade_package/02_brew_upgrade_python.md)  
