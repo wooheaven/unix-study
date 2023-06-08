@@ -351,12 +351,9 @@
 ║░░░║░╠═2 snap install [remmina](01_Ubuntu/03_20.04/06_snap/02_snap_install_remmina.md)  
 ║░░░║░╠═3 snap install [sublime-text](01_Ubuntu/03_20.04/06_snap/03_snap_install_sublime-text.md)  
 ║░░░║░╚═4 snap refresh [package](01_Ubuntu/03_20.04/06_snap/04_snap_refresh_packages.md)  
-║░░░╠═7 vim  
-║░░░║░╚═1 ETC  
-║░░░║░░░╚═1 [cat ~/.vimrc](01_Ubuntu/03_20.04/07_vim/01_ETC/01_cat_vimrc.md)  
-║░░░╚═8 xargs  
-║░░░░░╠═1 [xargs -n 2](01_Ubuntu/03_20.04/08_xargs/01_xargs_option_n.md)  
-║░░░░░╚═2 [xargs -r](01_Ubuntu/03_20.04/08_xargs/02_xargs_option_r.md)  
+║░░░╚═7 xargs  
+║░░░░░╠═1 [xargs -n 2](01_Ubuntu/03_20.04/07_xargs/01_xargs_option_n.md)  
+║░░░░░╚═2 [xargs -r](01_Ubuntu/03_20.04/07_xargs/02_xargs_option_r.md)  
 ╠═2 CentOS  
 ║░╠═1 CentOS 6.9  
 ║░║░╠═1 [docker : install](02_CentOS/01_6.9/01_docker/01_install_docker.md)  
